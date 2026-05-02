@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>UGCC Liturgical Calendar API</title>
+<style>
+body { font-family: Georgia, serif; max-width: 700px; margin: 40px auto; padding: 0 20px; color: #1e1812; background: #f4efe4; line-height: 1.7; }
+h1 { color: #1a3c6e; font-size: 24px; }
+h2 { color: #a07418; font-size: 18px; margin-top: 32px; }
+code { background: #e8e0d0; padding: 2px 6px; border-radius: 3px; font-size: 14px; }
+pre { background: #1e1812; color: #e8dfc8; padding: 16px; border-radius: 8px; overflow-x: auto; font-size: 13px; }
+a { color: #1a3c6e; }
+.endpoint { margin: 8px 0; }
+</style>
+</head>
+<body>
+<h1>☦ UGCC Liturgical Calendar API</h1>
+<p>Static JSON API serving the Ukrainian Greek-Catholic Church liturgical calendar for 2026. Gregorian (New) calendar.</p>
+
+<h2>Endpoints</h2>
+
+<div class="endpoint"><strong>Full year calendar:</strong><br>
+<code><a href="api/2026/calendar.json">GET /api/2026/calendar.json</a></code></div>
+
+<div class="endpoint"><strong>Month calendar:</strong><br>
+<code><a href="api/2026/05/calendar.json">GET /api/2026/{MM}/calendar.json</a></code></div>
+
+<div class="endpoint"><strong>Individual day (full data + services):</strong><br>
+<code><a href="api/2026/05/01.json">GET /api/2026/{MM}/{DD}.json</a></code></div>
+
+<h2>Data per day</h2>
+<ul>
+<li>Date, day of week, liturgical tone</li>
+<li>Fasting level and liturgical season</li>
+<li>Feast rank (Great Feast / Feast / Polyeleos / Commemoration / Ordinary)</li>
+<li>Saint commemorations (Ukrainian + English)</li>
+<li>Troparion and kontakion</li>
+<li>Rubrics (ustav — service composition instructions)</li>
+<li>Full service texts: Vespers, Matins, Compline/Hours (Jan–May 2026)</li>
+</ul>
+
+<h2>Coverage</h2>
+<ul>
+<li>Calendar metadata: 365/365 days</li>
+<li>Full service texts: 151/365 days (Jan–May; Jun–Dec as published)</li>
+<li>English saint names: 365/365 days</li>
+<li>Troparion/kontakion: 147/365 days</li>
+</ul>
+
+<h2>Sources & Attribution</h2>
+<ul>
+<li><a href="https://prayer-service.pp.ua">prayer-service.pp.ua</a> — Ukrainian liturgical texts and calendar</li>
+<li><a href="https://liturgy.royaldoors.net">Royal Doors</a> — English translations (with permission)</li>
+</ul>
+
+<p><em>Part of the <a href="https://byzantinedoors.com">Byzantine Doors</a> project.</em></p>
+</body>
+</html>
