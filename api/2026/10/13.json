@@ -121,5 +121,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Jacob,  / always intercede for us who honor you."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Кол.",
+      "book_en": "Colossians",
+      "pericope": 249,
+      "reference": "1, 1-2",
+      "display": "Colossians 1, 1-2"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 34,
+      "reference": "8, 1-3",
+      "display": "Luke 8, 1-3"
+    }
+  }
 }

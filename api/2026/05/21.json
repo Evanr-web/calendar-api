@@ -103,5 +103,21 @@
         "text": "We have no other help, we have no other hope but you, O Lady.  /  Help us, for in you do we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 48,
+      "reference": "25, 13-19",
+      "display": "Acts 25, 13-19"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 55,
+      "reference": "16, 23-33",
+      "display": "John 16, 23-33"
+    }
+  }
 }

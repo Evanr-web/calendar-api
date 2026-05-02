@@ -126,5 +126,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 215,
+      "reference": "6,11-18",
+      "display": "Galatians 6,11-18"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 82,
+      "reference": "16, 15-18; 17, 1-4",
+      "display": "Luke 16, 15-18; 17, 1-4"
+    }
+  }
 }

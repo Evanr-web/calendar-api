@@ -90,5 +90,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 36,
+      "reference": "15, 5-34",
+      "display": "Acts 15, 5-34"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 37,
+      "reference": "10, 17-28",
+      "display": "John 10, 17-28"
+    }
+  }
 }

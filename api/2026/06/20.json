@@ -131,5 +131,21 @@
         "text": "Steadfast protectress of Christians,  /  most constant advocate before the Creator, /  do not despise the voices of us who have sinned,  /  but in thy goodness come speedily to help us, who cry to thee in faith: /  \"Hasten to intercede for us, O Theotokos,  / and speedily make supplication, for always thou dost protect those who honor thee.\""
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 92,
+      "reference": "6, 11-17",
+      "display": "Romans 6, 11-17"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 26,
+      "reference": "8, 14-23",
+      "display": "Matthew 8, 14-23"
+    }
+  }
 }

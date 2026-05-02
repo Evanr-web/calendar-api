@@ -131,5 +131,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theodore;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 334,
+      "reference": "13, 7-16",
+      "display": "Hebrews 13, 7-16"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 11,
+      "reference": "5, 14-19",
+      "display": "Matthew 5, 14-19"
+    }
+  }
 }

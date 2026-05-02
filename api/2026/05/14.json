@@ -153,5 +153,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 1,
+      "reference": "1, 1-12",
+      "display": "Acts 1, 1-12"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 114,
+      "reference": "24, 36-53",
+      "display": "Luke 24, 36-53"
+    }
+  }
 }

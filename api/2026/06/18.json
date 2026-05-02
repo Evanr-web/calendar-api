@@ -77,5 +77,21 @@
         "text": "Today the Virgin appears before her Son,  / stretching out her hands toward Him;  / the Holy Prince Andrew \r\nrejoices,  / and the land of Russia celebrates with him, /  for the Theotokos prays unceasingly to God for us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 106,
+      "reference": "11, 13-24",
+      "display": "Romans 11, 13-24"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 43,
+      "reference": "11, 27-30",
+      "display": "Matthew 11, 27-30"
+    }
+  }
 }

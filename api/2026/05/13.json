@@ -172,5 +172,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 41,
+      "reference": "18, 22-28",
+      "display": "Acts 18, 22-28"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 43,
+      "reference": "12, 36-47",
+      "display": "John 12, 36-47"
+    }
+  }
 }

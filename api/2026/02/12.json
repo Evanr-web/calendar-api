@@ -160,5 +160,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Юда",
+      "book_en": "Jude",
+      "pericope": 78,
+      "reference": "1, 11-25",
+      "display": "Jude 1, 11-25"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 110,
+      "reference": "23, 1-34",
+      "display": "Luke 23, 1-34"
+    }
+  }
 }

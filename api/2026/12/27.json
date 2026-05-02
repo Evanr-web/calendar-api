@@ -126,5 +126,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 200,
+      "reference": "1, 11-19",
+      "display": "Galatians 1, 11-19"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 4,
+      "reference": "2, 13-23",
+      "display": "Matthew 2, 13-23"
+    }
+  }
 }

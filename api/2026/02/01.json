@@ -135,5 +135,21 @@
         "text": "(Podoben: “Seeking the Highest...”) Having divinely armed yourself with purity of soul and firmly grasping unceasing prayer as a\r\nspear,  /  you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Seririol: /  \r\n“Always intercede for those who honor you.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 135,
+      "reference": "6, 12-20",
+      "display": "1 Corinthians 6, 12-20"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 79,
+      "reference": "15, 11-32",
+      "display": "Luke 15, 11-32"
+    }
+  }
 }

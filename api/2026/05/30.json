@@ -74,5 +74,21 @@
         "text": "(Podoben: “As first-fruits...”)\r\nAs a faithful servant of God, you were inflamed with zeal for the Church of Christ, /  holding the reins of the Emperor Valens, /  you prophetically foretold His death in a fire because of his closure of the churches. /  Therefore, always pray for us who honor you, O Venerable Father Isaac."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 79,
+      "reference": "1, 7-12",
+      "display": "Romans 1, 7-12"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 15,
+      "reference": "5, 42-48",
+      "display": "Matthew 5, 42-48"
+    }
+  }
 }

@@ -109,5 +109,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 6,
+      "reference": "2, 38-43",
+      "display": "Acts 2, 38-43"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 8,
+      "reference": "3, 1-15",
+      "display": "John 3, 1-15"
+    }
+  }
 }

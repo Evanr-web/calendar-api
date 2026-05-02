@@ -131,5 +131,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 111,
+      "reference": "13, 1-10",
+      "display": "Romans 13, 1-10"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 47,
+      "reference": "12, 30-37",
+      "display": "Matthew 12, 30-37"
+    }
+  }
 }

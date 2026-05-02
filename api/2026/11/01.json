@@ -115,5 +115,21 @@
         "text": "(Podoben: “You appeared today...”)\r\nAs an undefiled virgin,  / you overcame the most cunning Enemy by the power of Christ,  / O all-praiseworthy Virgin Martyr, Helen."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 220,
+      "reference": "2, 4-10",
+      "display": "Ephesians 2, 4-10"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 38,
+      "reference": "8, 26-39",
+      "display": "Luke 8, 26-39"
+    }
+  }
 }

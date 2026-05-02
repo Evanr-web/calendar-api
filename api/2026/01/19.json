@@ -163,5 +163,21 @@
         "text": "By words of theology you unraveled the complex webs of the orators, / glorious Gregory, / and adorned the Church with the robe of Orthodoxy woven from on high. / Wearing it, she cries out with us, her children: / “Rejoice, O Father, supreme mind of theology.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Пт.",
+      "book_en": "1 Peter",
+      "pericope": 59,
+      "reference": "2, 21-3, 9",
+      "display": "1 Peter 2, 21-3, 9"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 54,
+      "reference": "12, 13-17",
+      "display": "Mark 12, 13-17"
+    }
+  }
 }

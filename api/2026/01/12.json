@@ -132,5 +132,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Як.",
+      "book_en": "James",
+      "pericope": 53,
+      "reference": "2, 14-26",
+      "display": "James 2, 14-26"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 48,
+      "reference": "10, 46-52",
+      "display": "Mark 10, 46-52"
+    }
+  }
 }

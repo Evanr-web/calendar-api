@@ -122,5 +122,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 171,
+      "reference": "2, 4-15",
+      "display": "2 Corinthians 2, 4-15"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 94,
+      "reference": "23, 13-22",
+      "display": "Matthew 23, 13-22"
+    }
+  }
 }

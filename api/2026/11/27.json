@@ -147,5 +147,21 @@
         "text": "We celebrate the appearance of your revered Icon of the Sign, O Theotokos, whereby you have granted your people a wondrous victory over the enemies of your city. Therefore, we cry to you with faith: “Rejoice, O Virgin, the boast of Christians.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 290,
+      "reference": "1, 1-2. 8-18",
+      "display": "2 Timothy 1, 1-2. 8-18"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 95,
+      "reference": "19, 12-28",
+      "display": "Luke 19, 12-28"
+    }
+  }
 }

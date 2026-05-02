@@ -145,5 +145,21 @@
         "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Olympia and Euphrosynē, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 39,
+      "reference": "17, 1-15",
+      "display": "Acts 17, 1-15"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 40,
+      "reference": "11, 47-57",
+      "display": "John 11, 47-57"
+    }
+  }
 }

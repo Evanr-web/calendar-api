@@ -122,5 +122,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 308,
+      "reference": "3, 5-11",
+      "display": "Hebrews 3, 5-11"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 102,
+      "reference": "20, 27-44",
+      "display": "Luke 20, 27-44"
+    }
+  }
 }

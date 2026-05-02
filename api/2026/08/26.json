@@ -108,5 +108,21 @@
         "text": "Desiring heavenly beauty, you diligently forsook earthly bodily pleasures,  / while living the angelic life in the unacquisitive2 world,  / and after death, Blessed Pelagia, Paraskeva, and Maria /  pray unceasingly to Christ God for all of us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 197,
+      "reference": "13, 3-13",
+      "display": "2 Corinthians 13, 3-13"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 18,
+      "reference": "4, 35-41",
+      "display": "Mark 4, 35-41"
+    }
+  }
 }

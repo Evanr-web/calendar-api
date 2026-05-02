@@ -84,5 +84,21 @@
         "text": "By your struggles you have contested,1 and you brought your soul as a pure and unblemished sacrifice to God,2 /  after your repose you are diligent for us before God in prayer;  / therefore, turning to you with faith, we cry out:  / “Rejoice, O Venerable Father Sylvester.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 22,
+      "reference": "9, 20-31",
+      "display": "Acts 9, 20-31"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 52,
+      "reference": "15, 17-16, 2",
+      "display": "John 15, 17-16, 2"
+    }
+  }
 }

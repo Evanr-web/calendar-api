@@ -143,5 +143,21 @@
         "text": "Finding delight in abstinence,   / you subdued the desires of the flesh.   / Revealed as one nurtured in the Faith,   / you blossomed like the Tree of Life in Paradise,  /  O Venerable Father William."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 81,
+      "reference": "1, 28-2, 9",
+      "display": "Romans 1, 28-2, 9"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 13,
+      "reference": "5, 27-32",
+      "display": "Matthew 5, 27-32"
+    }
+  }
 }

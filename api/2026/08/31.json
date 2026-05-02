@@ -95,5 +95,21 @@
         "text": "(Podoben: “Having received the grace of healing...”)\r\nHaving discarded a bed for rest, for the sake of your love for God, O Mother Eanswythe, /  and illuminating your spirit with fasting,  / you completely vanquished your enemies;  / and by your intercessions you destroyed the evil schemes of our adversaries."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 202,
+      "reference": "2, 11-16",
+      "display": "Galatians 2, 11-16"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 21,
+      "reference": "5, 24-34",
+      "display": "Mark 5, 24-34"
+    }
+  }
 }

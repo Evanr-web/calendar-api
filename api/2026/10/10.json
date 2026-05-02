@@ -118,5 +118,21 @@
         "text": "Let us praise the intercessors and protectors of our Monastery (city),  / the sacred and Venerable Martyrs, twenty-six in number,  / who overthrew the Latin error, endured immolation and were crowned; /  therefore,we cry aloud: “Rejoice, O Venerable sufferers.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 168,
+      "reference": "1, 8-11",
+      "display": "2 Corinthians 1, 8-11"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 20,
+      "reference": "5, 27-32",
+      "display": "Luke 5, 27-32"
+    }
+  }
 }

@@ -102,5 +102,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 29,
+      "reference": "12, 1-11",
+      "display": "Acts 12, 1-11"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 31,
+      "reference": "8, 31-42",
+      "display": "John 8, 31-42"
+    }
+  }
 }

@@ -100,5 +100,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Сол.",
+      "book_en": "1 Thessalonians",
+      "pericope": 268,
+      "reference": "3, 9-13",
+      "display": "1 Thessalonians 3, 9-13"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 60,
+      "reference": "11, 34-41",
+      "display": "Luke 11, 34-41"
+    }
+  }
 }

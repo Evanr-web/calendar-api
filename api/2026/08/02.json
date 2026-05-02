@@ -92,5 +92,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  / and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Mother Photeine:  /  “Always intercede for those who honor you.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 131,
+      "reference": "4, 9-16",
+      "display": "1 Corinthians 4, 9-16"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 72,
+      "reference": "17, 14-23",
+      "display": "Matthew 17, 14-23"
+    }
+  }
 }

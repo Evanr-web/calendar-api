@@ -129,5 +129,21 @@
         "text": "(Podoben: “You were lifted up…”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one, you abolished the sacrifices of idolatry and showed yourself as a protector of your flock.  / Therefore, we cry fervently to you:  /  “By your intercessions, deliver us from all misfortunes,  / O Gabriel our Father.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Кол.",
+      "book_en": "Colossians",
+      "pericope": 257,
+      "reference": "3, 4-11",
+      "display": "Colossians 3, 4-11"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 76,
+      "reference": "14, 16-24",
+      "display": "Luke 14, 16-24"
+    }
+  }
 }

@@ -139,5 +139,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 306,
+      "reference": "2:11-18",
+      "display": "Hebrews 2:11-18"
+    },
+    "gospel": {
+      "book_uk": "Йо.",
+      "book_en": "Йо",
+      "pericope": 9,
+      "reference": "3:13-17",
+      "display": "Йо 3:13-17"
+    }
+  }
 }

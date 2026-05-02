@@ -62,5 +62,21 @@
         "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 316,
+      "reference": "7, 7-17",
+      "display": "Hebrews 7, 7-17"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 7,
+      "reference": "2, 22-40",
+      "display": "Luke 2, 22-40"
+    }
+  }
 }

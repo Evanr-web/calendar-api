@@ -94,5 +94,21 @@
         "text": "As a second Elijah, O Father, you brought down rain from the heavens,  /  for he brought down fire and astonished the king,   / but you pleased your people and instituted a festival.  /  Great Novgorod takes pride in you, having your relics in itself,   / preserving it unshaken by enemies, so that we may cry out to you:   / “Rejoice, Venerable Barlaam, our Father.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 112,
+      "reference": "13, 11-14, 4",
+      "display": "Romans 13, 11-14, 4"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 1,
+      "reference": "1, 1-25; 57-68; 76; 80",
+      "display": "Luke 1, 1-25; 57-68; 76; 80"
+    }
+  }
 }

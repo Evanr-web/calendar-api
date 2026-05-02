@@ -147,5 +147,21 @@
         "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Dositheus, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 183,
+      "reference": "7, 1-10",
+      "display": "2 Corinthians 7, 1-10"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 5,
+      "reference": "1, 29-35",
+      "display": "Mark 1, 29-35"
+    }
+  }
 }

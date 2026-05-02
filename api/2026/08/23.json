@@ -94,5 +94,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 166,
+      "reference": "16, 13-24",
+      "display": "1 Corinthians 16, 13-24"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 87,
+      "reference": "21, 33-42",
+      "display": "Matthew 21, 33-42"
+    }
+  }
 }

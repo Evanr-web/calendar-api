@@ -106,5 +106,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Cedd, divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity, /  as you stand before God with the Angels,  / pray unceasingly for all of us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 42,
+      "reference": "19, 1-8; Єв",
+      "display": "Acts 19, 1-8; Єв"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 3,
+      "reference": "1, 29-34",
+      "display": "John 1, 29-34"
+    }
+  }
 }

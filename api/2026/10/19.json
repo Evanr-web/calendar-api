@@ -97,5 +97,21 @@
         "text": "Boldly revealing a great victory and burning with heavenly love, / you disdained the corruptible king and rejected all earthly pleasures; / taking up your abode on Mount Kozjak, / you ascended from it to the King of kings in heaven. / O Prochorus, ceaselessly intercede for us all!"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Кол.",
+      "book_en": "Colossians",
+      "pericope": 255,
+      "reference": "2, 13-20",
+      "display": "Colossians 2, 13-20"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 43,
+      "reference": "9, 18-22",
+      "display": "Luke 9, 18-22"
+    }
+  }
 }

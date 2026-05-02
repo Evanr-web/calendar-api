@@ -103,5 +103,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Як.",
+      "book_en": "James",
+      "pericope": 50,
+      "reference": "1, 1-18",
+      "display": "James 1, 1-18"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 44,
+      "reference": "10, 11-16",
+      "display": "Mark 10, 11-16"
+    }
+  }
 }

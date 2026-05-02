@@ -127,5 +127,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Як.",
+      "book_en": "James",
+      "pericope": 57,
+      "reference": "5, 10-20",
+      "display": "James 5, 10-20"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 14,
+      "reference": "4, 22-30",
+      "display": "Luke 4, 22-30"
+    }
+  }
 }

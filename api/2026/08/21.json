@@ -152,5 +152,21 @@
         "text": "You were filled with heavenly meekness, silence, and unearthly joy, /  young and unseen until now, O virgin of Diveyevo, our venerable Mother Martha;  / you were tonsured into the Great Schema by Saint Seraphim,  / therefore you dwell with the wise virgins1 in heaven,  / and with the Angels, you always stand before the Ruler of All."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 192,
+      "reference": "11, 5-21",
+      "display": "2 Corinthians 11, 5-21"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 15,
+      "reference": "4, 1-9",
+      "display": "Mark 4, 1-9"
+    }
+  }
 }

@@ -100,5 +100,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 203,
+      "reference": "2, 16-20",
+      "display": "Galatians 2, 16-20"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 35,
+      "reference": "8, 5-15",
+      "display": "Luke 8, 5-15"
+    }
+  }
 }

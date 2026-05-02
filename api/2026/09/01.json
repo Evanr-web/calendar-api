@@ -118,5 +118,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Тим.",
+      "book_en": "1 Timothy",
+      "pericope": 282,
+      "reference": "2, 1-7",
+      "display": "1 Timothy 2, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 13,
+      "reference": "4, 16-22",
+      "display": "Luke 4, 16-22"
+    }
+  }
 }

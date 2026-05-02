@@ -100,5 +100,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 94,
+      "reference": "7, 1-13",
+      "display": "Romans 7, 1-13"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 34,
+      "reference": "9, 36-10, 8",
+      "display": "Matthew 9, 36-10, 8"
+    }
+  }
 }

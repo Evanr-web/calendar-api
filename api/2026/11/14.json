@@ -91,5 +91,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 199,
+      "reference": "1, 3-10",
+      "display": "Galatians 1, 3-10"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 46,
+      "reference": "9, 37-43, а відтак Ап",
+      "display": "Luke 9, 37-43, а відтак Ап"
+    }
+  }
 }

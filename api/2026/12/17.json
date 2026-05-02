@@ -103,5 +103,21 @@
         "text": "In this world you lived like angels / and by your lives fulfilled the Gospel. / You laid down your souls for faith and country, / in death you showed yourselves to be stronger than your tormentors, / therefore we celebrate your memory, / O holy venerable martyrs Paisius and Avakum."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 326,
+      "reference": "10, 35-11,7",
+      "display": "Hebrews 10, 35-11,7"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 39,
+      "reference": "9, 10-16",
+      "display": "Mark 9, 10-16"
+    }
+  }
 }

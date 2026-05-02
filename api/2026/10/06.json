@@ -77,5 +77,21 @@
         "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Macarius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Флп",
+      "pericope": 242,
+      "reference": "",
+      "display": "Флп"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 27,
+      "reference": "",
+      "display": "Luke"
+    }
+  }
 }

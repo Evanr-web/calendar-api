@@ -126,5 +126,21 @@
         "text": "As a devoted man of God, you proclaimed His mysteries, / and as a seer of the Trinity, you shed your blessings on the Occident. / By your prayers and entreaties, O adornment of Tours and glory of all the Church, / preserve us, O Saint Martin, and save all who praise your memory."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Сол.",
+      "book_en": "2 Thessalonians",
+      "pericope": 275,
+      "reference": "2, 1-12",
+      "display": "2 Thessalonians 2, 1-12"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 69,
+      "reference": "12, 48-59",
+      "display": "Luke 12, 48-59"
+    }
+  }
 }

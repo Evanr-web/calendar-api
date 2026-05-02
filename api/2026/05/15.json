@@ -135,5 +135,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 42,
+      "reference": "19, 1-8",
+      "display": "Acts 19, 1-8"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 47,
+      "reference": "14, 1-11",
+      "display": "John 14, 1-11"
+    }
+  }
 }

@@ -108,5 +108,21 @@
         "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Ignatius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 244,
+      "reference": "3, 1-8",
+      "display": "Philippians 3, 1-8"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 31,
+      "reference": "7, 17-30",
+      "display": "Luke 7, 17-30"
+    }
+  }
 }

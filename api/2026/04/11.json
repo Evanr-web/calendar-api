@@ -122,5 +122,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 8,
+      "reference": "3, 11-16",
+      "display": "Acts 3, 11-16"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 11,
+      "reference": "3, 22-33",
+      "display": "John 3, 22-33"
+    }
+  }
 }

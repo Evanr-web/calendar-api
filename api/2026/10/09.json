@@ -130,5 +130,21 @@
         "text": "Do not entrust me to human protection, Most Holy Sovereign Lady, /  but accept the prayers of your servant,  / for I am fettered by sorrow, and I cannot endure the arrows fired by demons;  / I have no shelter and there is nowhere to run. /  I am wretched and my enemies are on every side, and I have no consolation except you, /  O Sovereign Lady of the world, the hope and protection of the faithful.  / Do not despise my prayers,  / but do that which is beneficial for me."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 245,
+      "reference": "3, 8-19",
+      "display": "Philippians 3, 8-19"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 32,
+      "reference": "7, 31-35",
+      "display": "Luke 7, 31-35"
+    }
+  }
 }

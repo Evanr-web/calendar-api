@@ -114,5 +114,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 329,
+      "reference": "11, 24-26; 32-12, 2",
+      "display": "Hebrews 11, 24-26; 32-12, 2"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 5,
+      "reference": "1, 43-51",
+      "display": "John 1, 43-51"
+    }
+  }
 }

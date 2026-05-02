@@ -115,5 +115,21 @@
         "text": "Living an angelic life on earth,  / you made yourself an image and model for your disciples. Through prayers, long fasts and vigils,  /  you were accounted worthy of dwelling in the land of the meek, O Saint Daniel honored by God,  / the adornment of hesychasts and praise of monks."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 327,
+      "reference": "11, 8",
+      "display": "Hebrews 11, 8"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 41,
+      "reference": "9, 33-41",
+      "display": "Mark 9, 33-41"
+    }
+  }
 }

@@ -80,5 +80,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Cyprian,  / always intercede for us who honor you."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 236,
+      "reference": "1, 8-14",
+      "display": "Philippians 1, 8-14"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 18,
+      "reference": "5, 12-16",
+      "display": "Luke 5, 12-16"
+    }
+  }
 }

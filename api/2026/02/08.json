@@ -111,5 +111,21 @@
         "text": "Healed by Christ's Hierarch Nicholas, and blessed by him to serve God and people,  / you took up the cross of foolishness with love and bore it until the end, O Holy Blessed Liubov,  / do not forsake us who venerate your holy memory,  / as you stand with the Saints before the Throne of the Most Holy Trinity, /  praying for the well-being of your land and for the salvation of our souls."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 140,
+      "reference": "8, 8-9, 2",
+      "display": "1 Corinthians 8, 8-9, 2"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 106,
+      "reference": "25, 31-46",
+      "display": "Matthew 25, 31-46"
+    }
+  }
 }

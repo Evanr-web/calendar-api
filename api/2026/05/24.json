@@ -105,5 +105,21 @@
         "text": "Finding delight in abstinence, you subdued the desires of the flesh.  / Revealed as one nurtured in the Faith,  / you blossomed like the Tree of Life in Paradise,  / O Holy Father Vincent."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 3,
+      "reference": "2, 1-11",
+      "display": "Acts 2, 1-11"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 27,
+      "reference": "7, 37-52; 8, 12",
+      "display": "John 7, 37-52; 8, 12"
+    }
+  }
 }

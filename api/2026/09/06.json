@@ -115,5 +115,21 @@
         "text": "Your Martyrdom, O Father Maxim, /  enlightened and encouraged our people in the Orthodox Faith. /  Giving up your own life to Christ God, /  you endured torments and suffered imprisonment.  / Pray for us and for your land before Christ our God."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 175,
+      "reference": "4, 1-6",
+      "display": "2 Corinthians 4, 1-6"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 92,
+      "reference": "22, 35-46",
+      "display": "Matthew 22, 35-46"
+    }
+  }
 }

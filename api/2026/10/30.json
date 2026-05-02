@@ -143,5 +143,21 @@
         "text": "O Merciful Mother, do not reject our tears and lamentations,  /  but in your compassion, /   accept the petitions of your people who pray before your Icon, /   strengthen their faith, fill them with humility of heart,  /  and help them to bear the cross of earthly life, /   because whatever you wish, you are able to do."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Сол.",
+      "book_en": "1 Thessalonians",
+      "pericope": 266,
+      "reference": "2, 14-19",
+      "display": "1 Thessalonians 2, 14-19"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 58,
+      "reference": "11, 23-26",
+      "display": "Luke 11, 23-26"
+    }
+  }
 }

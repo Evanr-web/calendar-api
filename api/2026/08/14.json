@@ -96,5 +96,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 334,
+      "reference": "13, 7-16",
+      "display": "Hebrews 13, 7-16"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 9,
+      "reference": "2, 18-22",
+      "display": "Mark 2, 18-22"
+    }
+  }
 }

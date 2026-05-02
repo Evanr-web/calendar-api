@@ -138,5 +138,21 @@
         "text": "Let us fittingly extol the all-praised Anthony with hymns as a devout and experienced faster,  / as an honorable and voluntary martyr, /  and as one who led an eremitic life in the desert, /  for he has trampled the serpent underfoot."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Ів.",
+      "book_en": "1 John",
+      "pericope": 73,
+      "reference": "3, 21-4, 6",
+      "display": "1 John 3, 21-4, 6"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 65,
+      "reference": "14, 43-15, 1",
+      "display": "Mark 14, 43-15, 1"
+    }
+  }
 }

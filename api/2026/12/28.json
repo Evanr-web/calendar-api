@@ -101,5 +101,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Пт.",
+      "book_en": "1 Peter",
+      "pericope": 59,
+      "reference": "2, 21-3.9",
+      "display": "1 Peter 2, 21-3.9"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 48,
+      "reference": "10, 46-52",
+      "display": "Mark 10, 46-52"
+    }
+  }
 }

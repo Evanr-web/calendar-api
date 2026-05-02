@@ -75,5 +75,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Ananias;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 297,
+      "reference": "3, 16-4, 4",
+      "display": "2 Timothy 3, 16-4, 4"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 98,
+      "reference": "19, 45-48",
+      "display": "Luke 19, 45-48"
+    }
+  }
 }

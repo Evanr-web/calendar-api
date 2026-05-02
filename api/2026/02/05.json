@@ -106,5 +106,21 @@
         "text": "We have no other help, we have no other hope, but you, O Lady. / Help us, for in you we hope, / and of you we boast, for we are your servants. / Let us not be put to shame."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Ів.",
+      "book_en": "1 John",
+      "pericope": 74,
+      "reference": "4, 20-5, 21",
+      "display": "1 John 4, 20-5, 21"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 66,
+      "reference": "15, 1-15",
+      "display": "Mark 15, 1-15"
+    }
+  }
 }

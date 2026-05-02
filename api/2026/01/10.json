@@ -139,5 +139,21 @@
         "text": "Holy hierarch Theophan, namesake of Theophany, /  you enlightened many people by your teachings. /  Now that you stand before the throne of the Holy Trinity  /  together with the angels,  /  pray without ceasing for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 233,
+      "reference": "6, 10-17",
+      "display": "Ephesians 6, 10-17"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 7,
+      "reference": "4, 1-11",
+      "display": "Matthew 4, 1-11"
+    }
+  }
 }

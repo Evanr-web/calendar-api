@@ -117,5 +117,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 230,
+      "reference": "5, 20-26",
+      "display": "Ephesians 5, 20-26"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 11,
+      "reference": "3, 23-4, 1",
+      "display": "Luke 3, 23-4, 1"
+    }
+  }
 }

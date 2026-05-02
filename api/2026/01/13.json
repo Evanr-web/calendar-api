@@ -144,5 +144,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Jeremiah, divine thunder, spiritual trumpet,  / planter of faith, and pruner of heresies, great favorite of the Trinity,  / as you stand before God with the Angels,  / pray unceasingly for all of us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Як.",
+      "book_en": "James",
+      "pericope": 54,
+      "reference": "3, 1-10",
+      "display": "James 3, 1-10"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 50,
+      "reference": "11, 11-23",
+      "display": "Mark 11, 11-23"
+    }
+  }
 }

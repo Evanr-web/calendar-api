@@ -105,5 +105,21 @@
         "text": "As a sign from your holy Icon,  / you granted a marvelous victory over the enemies of your city;  / therefore, we cry out to you: \"Rejoice, O Virgin, the boast of Christians.\""
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 147,
+      "reference": "10, 28-11, 7",
+      "display": "1 Corinthians 10, 28-11, 7"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 69,
+      "reference": "16, 24-28",
+      "display": "Matthew 16, 24-28"
+    }
+  }
 }

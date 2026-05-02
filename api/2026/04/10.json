@@ -101,5 +101,21 @@
         "text": "(Podoben: “You appeared today...”)\r\nGathering together today in the city of Athens,   /  all you true sons of Greece,  /  let us celebrate Patriarch Gregory joyously, with divine songs."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 7,
+      "reference": "3, 1-8",
+      "display": "Acts 3, 1-8"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 7,
+      "reference": "2, 12-22",
+      "display": "John 2, 12-22"
+    }
+  }
 }

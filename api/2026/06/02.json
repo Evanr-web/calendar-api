@@ -97,5 +97,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Erasmus, pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 86,
+      "reference": "4, 4-12",
+      "display": "Romans 4, 4-12"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 22,
+      "reference": "7, 15-21",
+      "display": "Matthew 7, 15-21"
+    }
+  }
 }

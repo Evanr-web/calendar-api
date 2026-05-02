@@ -102,5 +102,21 @@
         "text": "(Podoben: “Seeking the Highest...”)\r\nHaving divinely armed thyself with the purity of thy soul  / and firmly grasping unceasing prayer as a\r\nspear,  / thou, our Father Anthimus, have slain the armies of the demons.  / Therefore, pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 210,
+      "reference": "4, 22-31",
+      "display": "Galatians 4, 22-31"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 36,
+      "reference": "8, 16-21",
+      "display": "Luke 8, 16-21"
+    }
+  }
 }

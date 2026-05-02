@@ -127,5 +127,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Pancratius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 40,
+      "reference": "17, 19-28",
+      "display": "Acts 17, 19-28"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 42,
+      "reference": "12, 19-36",
+      "display": "John 12, 19-36"
+    }
+  }
 }

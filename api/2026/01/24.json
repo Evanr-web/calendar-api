@@ -168,5 +168,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Macarius, pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 293,
+      "reference": "2, 11-19",
+      "display": "2 Timothy 2, 11-19"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 88,
+      "reference": "18, 2-8",
+      "display": "Luke 18, 2-8"
+    }
+  }
 }

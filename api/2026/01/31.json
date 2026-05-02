@@ -104,5 +104,21 @@
         "text": "(Podoben: “O Victorious Leader…”)\r\nWe your children sing praises to you, O God-inspired Father,  / as an emulator and equal of the monastic Saints, and as the Savior's most godly healer.  / Filled with the gifts of the Holy Spirit,  / always bestow your abundant grace upon those who cry to you: “Rejoice, Father Arsenios!”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 295,
+      "reference": "3, 1-9",
+      "display": "2 Timothy 3, 1-9"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 103,
+      "reference": "20, 45-21, 4",
+      "display": "Luke 20, 45-21, 4"
+    }
+  }
 }

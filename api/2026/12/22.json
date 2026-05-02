@@ -65,5 +65,21 @@
         "text": "Those in temptations and afflictions hasten to your temple /  and are restored by the grace that dwells in you,  /  for you ever pour forth healings for all the world, /  O Great Martyr Anastasía."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 333,
+      "reference": "12, 25-26",
+      "display": "Hebrews 12, 25-26"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 43,
+      "reference": "10, 2-12",
+      "display": "Mark 10, 2-12"
+    }
+  }
 }

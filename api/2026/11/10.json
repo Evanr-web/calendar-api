@@ -102,5 +102,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Сол.",
+      "book_en": "2 Thessalonians",
+      "pericope": 274,
+      "reference": "1, 10-2, 2",
+      "display": "2 Thessalonians 1, 10-2, 2"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 68,
+      "reference": "12, 42-48",
+      "display": "Luke 12, 42-48"
+    }
+  }
 }

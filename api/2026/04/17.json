@@ -128,5 +128,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 13,
+      "reference": "5, 1-11",
+      "display": "Acts 5, 1-11"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 17,
+      "reference": "5, 30-6, 2",
+      "display": "John 5, 30-6, 2"
+    }
+  }
 }

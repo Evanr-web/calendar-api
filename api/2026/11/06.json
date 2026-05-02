@@ -118,5 +118,21 @@
         "text": "(Podoben: “You have appeared...”)\r\nWe who celebrate the memory of Christ’s Virgin Martyr Manatho now pray with faith for her help,  / that we may be delivered from every affliction, crying out:  / “God, Who willed to glorify her, is with us.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Сол.",
+      "book_en": "1 Thessalonians",
+      "pericope": 272,
+      "reference": "5, 9-13. 24-28",
+      "display": "1 Thessalonians 5, 9-13. 24-28"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 63,
+      "reference": "12, 2-12",
+      "display": "Luke 12, 2-12"
+    }
+  }
 }

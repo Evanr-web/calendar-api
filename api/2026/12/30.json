@@ -141,5 +141,21 @@
         "text": "You appeared as an unfading Light, a bright luminary enlightening all with the purity of your life, O Father Daniel,   / because you were a model and a rule for monastics, a father of orphans, and benefactor of widows.   / Therefore, we your children cry out to you:   / “Rejoice, our joy and crown; rejoice, for you have a special right to address God;   / rejoice, great strengthener of our city.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Пт.",
+      "book_en": "1 Peter",
+      "pericope": 61,
+      "reference": "4, 1-11",
+      "display": "1 Peter 4, 1-11"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 51,
+      "reference": "11, 23-26",
+      "display": "Mark 11, 23-26"
+    }
+  }
 }

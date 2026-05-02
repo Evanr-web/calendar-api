@@ -125,5 +125,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Niketas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 93,
+      "reference": "6, 18-23",
+      "display": "Romans 6, 18-23"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 25,
+      "reference": "8, 5-13",
+      "display": "Matthew 8, 5-13"
+    }
+  }
 }

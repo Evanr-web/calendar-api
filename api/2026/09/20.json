@@ -99,5 +99,21 @@
         "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Hilarion, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 203,
+      "reference": "2, 16-20",
+      "display": "Galatians 2, 16-20"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 37,
+      "reference": "8, 34-9,1",
+      "display": "Mark 8, 34-9,1"
+    }
+  }
 }

@@ -144,5 +144,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Felix, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Єв.",
+      "book_en": "Єв",
+      "pericope": 311,
+      "reference": "4, 14-5, 6",
+      "display": "Єв 4, 14-5, 6"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 37,
+      "reference": "8, 34-9, 1",
+      "display": "Mark 8, 34-9, 1"
+    }
+  }
 }

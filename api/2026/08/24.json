@@ -127,5 +127,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 195,
+      "reference": "12, 10-19",
+      "display": "2 Corinthians 12, 10-19"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 16,
+      "reference": "4, 10-23",
+      "display": "Mark 4, 10-23"
+    }
+  }
 }

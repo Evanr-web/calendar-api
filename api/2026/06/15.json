@@ -172,5 +172,21 @@
         "text": "O Most Pure Sovereign Lady, rich in mercy,  / reverently we cry to you:  / “Do not forget your people,  / who turn to your wonderworking Voronin Icon with faith, crying aloud:  / ‘Rejoice, O blessed Virgin, for by your care, you have not left us as orphans.’”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 102,
+      "reference": "9, 18-33",
+      "display": "Romans 9, 18-33"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 40,
+      "reference": "11, 2-15",
+      "display": "Matthew 11, 2-15"
+    }
+  }
 }

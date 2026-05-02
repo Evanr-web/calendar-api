@@ -150,5 +150,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 223,
+      "reference": "3, 8-21",
+      "display": "Ephesians 3, 8-21"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 51,
+      "reference": "11, 23-26",
+      "display": "Mark 11, 23-26"
+    }
+  }
 }

@@ -114,5 +114,21 @@
         "text": "O ye faithful, having gathered together today, /  let us glorify the blessed couple, the faithful Cyril and the kind Maria, /  for together with their beloved son, the Venerable Sergius,  / they pray to the One God in Trinity,  / to establish our land in Orthodoxy, to save families in the world,  / to protect the young from misfortunes and temptations, to strengthen the aged,  / and that our souls may be saved."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 235,
+      "reference": "1, 1-7",
+      "display": "Philippians 1, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 16,
+      "reference": "4, 37-44",
+      "display": "Luke 4, 37-44"
+    }
+  }
 }

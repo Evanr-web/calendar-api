@@ -104,5 +104,21 @@
         "text": "(Podoben: “Today the Virgin gives birth...”)\r\nYou contested on Mount Amómon, O godly-minded one,  /  and in this you followed the path of martyrdom.  /  Therefore, the Giver of Life has appropriately crowned you with double crowns.1  /  O Hieromartyr Ephraim,  /  we entreat you earnestly to have mercy upon those who honor you."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Тим.",
+      "book_en": "1 Timothy",
+      "pericope": 284,
+      "reference": "3, 14-4, 5",
+      "display": "1 Timothy 3, 14-4, 5"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 5,
+      "reference": "3, 1-11",
+      "display": "Matthew 3, 1-11"
+    }
+  }
 }

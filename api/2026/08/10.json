@@ -65,5 +65,21 @@
         "text": "Your heart burned with divine fire / as the flames of the passions died within you. / God-bearing martyr Laurence, the pillar of those who struggle, / you cried out in the midst of your contest: / “Nothing can separate me from the love of Christ.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 179,
+      "reference": "5, 10-15",
+      "display": "2 Corinthians 5, 10-15"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 2,
+      "reference": "1, 9-15",
+      "display": "Mark 1, 9-15"
+    }
+  }
 }

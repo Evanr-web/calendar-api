@@ -115,5 +115,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 218,
+      "reference": "1, 16-23",
+      "display": "Ephesians 1, 16-23"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 67,
+      "reference": "12, 32-40",
+      "display": "Luke 12, 32-40"
+    }
+  }
 }

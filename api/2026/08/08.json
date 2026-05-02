@@ -150,5 +150,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 123,
+      "reference": "1, 3-9",
+      "display": "1 Corinthians 1, 3-9"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 78,
+      "reference": "19, 3-12",
+      "display": "Matthew 19, 3-12"
+    }
+  }
 }

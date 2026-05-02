@@ -129,5 +129,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou were made manifest by your splendor as a bright star,  / proclaiming Christ to the temporal world, O Martyr Gennádios;  / and by vanquishing the allurement of false gods,  / you granted true light to the faithful, always interceding on behalf of us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 2,
+      "reference": "1, 12-17",
+      "display": "Acts 1, 12-17"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 2,
+      "reference": "1, 18-28",
+      "display": "John 1, 18-28"
+    }
+  }
 }

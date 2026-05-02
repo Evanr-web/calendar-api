@@ -110,5 +110,21 @@
         "text": "In times of hardship, you were like the long-suffering Job and offered yourself to Christ  / as a living and unblemished sacrifice,1 /  turning your flock to repentance,  / suffering much for the sake of Christ;  / O Hierarch Job,  / pray that we too, may thank the Lord for all things and always give glory to God."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 107,
+      "reference": "11, 25-36",
+      "display": "Romans 11, 25-36"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 44,
+      "reference": "12, 1-8",
+      "display": "Matthew 12, 1-8"
+    }
+  }
 }

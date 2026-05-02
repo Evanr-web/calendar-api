@@ -102,5 +102,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 142,
+      "reference": "9, 13-18",
+      "display": "1 Corinthians 9, 13-18"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 65,
+      "reference": "16, 1-6",
+      "display": "Matthew 16, 1-6"
+    }
+  }
 }

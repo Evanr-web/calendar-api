@@ -99,5 +99,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Кол.",
+      "book_en": "Colossians",
+      "pericope": 253,
+      "reference": "2, 1-7",
+      "display": "Colossians 2, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 42,
+      "reference": "9, 12-17",
+      "display": "Luke 9, 12-17"
+    }
+  }
 }

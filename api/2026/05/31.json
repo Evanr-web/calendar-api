@@ -113,5 +113,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 330,
+      "reference": "11, 33-12, 2",
+      "display": "Hebrews 11, 33-12, 2"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 38,
+      "reference": "10, 32-33",
+      "display": "Matthew 10, 32-33"
+    }
+  }
 }

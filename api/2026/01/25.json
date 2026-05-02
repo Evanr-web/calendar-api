@@ -191,5 +191,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Ventranion, divine thunder, spiritual trumpet,  / planter of faith and pruner of heresies, /  great favorite of the Trinity, standing with the Angels before God,  / pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 296,
+      "reference": "3, 10-15",
+      "display": "2 Timothy 3, 10-15"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 89,
+      "reference": "18, 10-14",
+      "display": "Luke 18, 10-14"
+    }
+  }
 }

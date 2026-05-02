@@ -81,5 +81,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Тим.",
+      "book_en": "1 Timothy",
+      "pericope": 278,
+      "reference": "1, 1-7",
+      "display": "1 Timothy 1, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 75,
+      "reference": "14, 12-15",
+      "display": "Luke 14, 12-15"
+    }
+  }
 }

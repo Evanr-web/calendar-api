@@ -144,5 +144,21 @@
         "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Fathers, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Тим.",
+      "book_en": "1 Timothy",
+      "pericope": 283,
+      "reference": "3, 1-13",
+      "display": "1 Timothy 3, 1-13"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 80,
+      "reference": "16, 1-9",
+      "display": "Luke 16, 1-9"
+    }
+  }
 }

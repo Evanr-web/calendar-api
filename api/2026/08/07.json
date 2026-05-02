@@ -213,5 +213,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Nárcissus,   / divine thunder, spiritual trumpet,  /  planter of faith, and pruner of heresies,   / great favorite of the Trinity,   / standing before God with the Angels,   / pray unceasingly for all of us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 177,
+      "reference": "4, 13-18",
+      "display": "2 Corinthians 4, 13-18"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 100,
+      "reference": "24, 27-33",
+      "display": "Matthew 24, 27-33"
+    }
+  }
 }

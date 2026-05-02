@@ -151,5 +151,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 100,
+      "reference": "9, 1-5",
+      "display": "Romans 9, 1-5"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 32,
+      "reference": "9, 18-26",
+      "display": "Matthew 9, 18-26"
+    }
+  }
 }

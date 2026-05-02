@@ -87,5 +87,21 @@
         "text": "Today the Virgin is in the Church, and with the assembly of the Saints, /  invisibly prays to God for us.  / The Angels worship with the Hierarchs, the Apostles rejoice with the Prophets;  / and the Theotokos prays to the Pre-eternal God for our sake."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 193,
+      "reference": "11, 21-12, 9",
+      "display": "2 Corinthians 11, 21-12, 9"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 67,
+      "reference": "16, 13-19",
+      "display": "Matthew 16, 13-19"
+    }
+  }
 }

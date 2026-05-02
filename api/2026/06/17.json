@@ -84,5 +84,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Father Ananias: /  “Always intercede for those who honor you.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 105,
+      "reference": "11, 2-12",
+      "display": "Romans 11, 2-12"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 42,
+      "reference": "11, 20-26",
+      "display": "Matthew 11, 20-26"
+    }
+  }
 }

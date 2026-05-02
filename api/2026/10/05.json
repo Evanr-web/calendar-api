@@ -130,5 +130,21 @@
         "text": "(Podoben: “You have appeared today...”)\r\nYou lived a blameless life,  /  mystically gladdening the entire island of Kίmolos with the light of your virtues, /   O God-inspired Methodίa."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 241,
+      "reference": "2, 12-16",
+      "display": "Philippians 2, 12-16"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 25,
+      "reference": "6, 24-30",
+      "display": "Luke 6, 24-30"
+    }
+  }
 }

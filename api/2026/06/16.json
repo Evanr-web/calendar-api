@@ -96,5 +96,14 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 104,
+      "reference": "10, 11-11, 2",
+      "display": "Romans 10, 11-11, 2"
+    }
+  }
 }

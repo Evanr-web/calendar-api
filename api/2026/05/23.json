@@ -102,5 +102,21 @@
         "text": "Because of the purity of your life, /  the All-Seeing Lord has given His light to your soul,  / in order to explain your teaching to many, O Venerable Leontius."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 51,
+      "reference": "28, 1-31",
+      "display": "Acts 28, 1-31"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 67,
+      "reference": "21, 15-25",
+      "display": "John 21, 15-25"
+    }
+  }
 }

@@ -119,5 +119,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Gelasius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 84,
+      "reference": "3, 19-26",
+      "display": "Romans 3, 19-26"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 20,
+      "reference": "7, 1-8",
+      "display": "Matthew 7, 1-8"
+    }
+  }
 }

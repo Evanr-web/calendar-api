@@ -104,5 +104,21 @@
         "text": "O Venerable Father Barlaam, although your revered relics are kept hidden,  / they pour forth bright rays of miracles and healings /  for all who turn to you with faith and pray zealously to you; /  for you appeared as a true God-pleaser,  / ever interceding for all who lovingly honor your holy memory."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 31,
+      "reference": "12, 25-13, 12",
+      "display": "Acts 12, 25-13, 12"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 33,
+      "reference": "8, 51-59",
+      "display": "John 8, 51-59"
+    }
+  }
 }

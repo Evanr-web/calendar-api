@@ -89,5 +89,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 148,
+      "reference": "11, 8-22",
+      "display": "1 Corinthians 11, 8-22"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 71,
+      "reference": "17, 10-18",
+      "display": "Matthew 17, 10-18"
+    }
+  }
 }

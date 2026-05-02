@@ -99,5 +99,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 45,
+      "reference": "21, 8-14",
+      "display": "Acts 21, 8-14"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 49,
+      "reference": "14, 27-15 7",
+      "display": "John 14, 27-15 7"
+    }
+  }
 }

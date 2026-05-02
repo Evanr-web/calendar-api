@@ -112,5 +112,21 @@
         "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted David, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 120,
+      "reference": "16, 1-16",
+      "display": "Romans 16, 1-16"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 50,
+      "reference": "13, 4-9",
+      "display": "Matthew 13, 4-9"
+    }
+  }
 }

@@ -64,5 +64,21 @@
         "text": "Desiring the angelic life, O venerable one,  / you forsook all earthly things, and came unto Christ;  / by keeping His commandments, you were an unshakable fortress against the attacks of the Enemy.  / Therefore we cry out to you: “Rejoice, Ephraim, most radiant luminary.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Ів.",
+      "book_en": "1 John",
+      "pericope": 73,
+      "reference": "4, 12-19",
+      "display": "1 John 4, 12-19"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 61,
+      "reference": "19, 25-27; 21, 24-25",
+      "display": "John 19, 25-27; 21, 24-25"
+    }
+  }
 }

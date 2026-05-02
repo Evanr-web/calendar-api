@@ -120,5 +120,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Euthymius,  / always intercede for us who honor you."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Пт.",
+      "book_en": "1 Peter",
+      "pericope": 62,
+      "reference": "4, 12-5, 5",
+      "display": "1 Peter 4, 12-5, 5"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 57,
+      "reference": "12, 38-44",
+      "display": "Mark 12, 38-44"
+    }
+  }
 }

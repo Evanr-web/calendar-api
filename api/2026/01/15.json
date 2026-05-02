@@ -119,5 +119,21 @@
         "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mothers Salome and Perozhavra, /  you illumined your souls with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Як.",
+      "book_en": "James",
+      "pericope": 56,
+      "reference": "4, 7-5, 9",
+      "display": "James 4, 7-5, 9"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 52,
+      "reference": "11, 27-33",
+      "display": "Mark 11, 27-33"
+    }
+  }
 }

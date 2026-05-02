@@ -119,5 +119,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Augustine, pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 79,
+      "reference": "1, 1-7",
+      "display": "Romans 1, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 10,
+      "reference": "4, 25-5, 13",
+      "display": "Matthew 4, 25-5, 13"
+    }
+  }
 }

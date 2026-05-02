@@ -91,5 +91,21 @@
         "text": "O chosen lamp of the land of Belgorod, you suffered martyrdom and death for the sake of Christ;  /  since you have received invincible grace, help us with your patronage in the establishment of Orthodoxy,  /  that we may cry out to you with faith: “Rejoice, Hieromartyr Νikόdēmos, Archpastor and zealous intercessor.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Кол.",
+      "book_en": "Colossians",
+      "pericope": 256,
+      "reference": "2, 20-3, 3",
+      "display": "Colossians 2, 20-3, 3"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 44,
+      "reference": "9, 23-27",
+      "display": "Luke 9, 23-27"
+    }
+  }
 }

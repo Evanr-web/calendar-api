@@ -103,5 +103,21 @@
         "text": "(Podoben: “You sought the heights..”)\r\nYou shone forth in your splendor as a bright star,  / proclaiming Christ to this temporal world, O Martyr Polychronίa,  / vanquishing the snares of false gods, /  you revealed the true light to the faithful,  / and you always intercede on behalf of us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 20,
+      "reference": "8, 26-39",
+      "display": "Acts 8, 26-39"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 22,
+      "reference": "6, 40-44",
+      "display": "John 6, 40-44"
+    }
+  }
 }

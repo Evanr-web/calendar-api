@@ -73,5 +73,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 122,
+      "reference": "1, 1-9",
+      "display": "1 Corinthians 1, 1-9"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 52,
+      "reference": "13, 24-30",
+      "display": "Matthew 13, 24-30"
+    }
+  }
 }

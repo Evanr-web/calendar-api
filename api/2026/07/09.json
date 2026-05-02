@@ -91,5 +91,21 @@
         "text": "(Podoben: “O Victorious Leader...”)\r\nAs most sacred initiates of the Trinity, and of equal standing, and communicants with the Monastic Saints,  / O wise Dionysios and Mētrophánēs,  / never cease to quash the schemes of the Enemy against us,  / so that we may cry: “Rejoice, O God-bearers.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 138,
+      "reference": "7, 24-35",
+      "display": "1 Corinthians 7, 24-35"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 61,
+      "reference": "15, 12-21",
+      "display": "Matthew 15, 12-21"
+    }
+  }
 }

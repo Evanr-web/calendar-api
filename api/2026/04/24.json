@@ -178,5 +178,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 21,
+      "reference": "8, 40-9, 19",
+      "display": "Acts 8, 40-9, 19"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 23,
+      "reference": "6, 48-54",
+      "display": "John 6, 48-54"
+    }
+  }
 }

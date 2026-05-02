@@ -155,5 +155,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you\r\nhave slain the armies of the demons.  / Therefore, we beseech you, O Father Brendan:  / “Always intercede for those who honor you.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 43,
+      "reference": "20, 7-12",
+      "display": "Acts 20, 7-12"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 48,
+      "reference": "14, 10-21",
+      "display": "John 14, 10-21"
+    }
+  }
 }

@@ -100,5 +100,14 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 31,
+      "reference": "8, 31-42",
+      "display": "John 8, 31-42"
+    }
+  }
 }

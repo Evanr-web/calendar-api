@@ -185,5 +185,21 @@
         "text": "(Podoben: “The steadfast…”)\r\nAs God You rewarded the steadfast and divinely eloquent preacher of Your Gospel, O Lord;  / for You preferred his labors and illnesses to all the sacrifices and whole-burnt offerings of the Law.3  / By his prayers, preserve us from evils."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Ів.",
+      "book_en": "1 John",
+      "pericope": 72,
+      "reference": "3, 10-20",
+      "display": "1 John 3, 10-20"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 64,
+      "reference": "14, 10-42",
+      "display": "Mark 14, 10-42"
+    }
+  }
 }

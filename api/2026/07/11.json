@@ -125,5 +125,21 @@
         "text": "O Hilarion, Hieromartyr of Christ, you were not afraid of the servants of the coming Antichrist,  /  but confessed Christ courageously and laid down your life for God's Church,  /  O adornment of the New Martyrs of Russia, and boast of Holy Russia, / you are the glory and confirmation of our Church."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 108,
+      "reference": "12, 1-3",
+      "display": "Romans 12, 1-3"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 39,
+      "reference": "10, 37-11, 1",
+      "display": "Matthew 10, 37-11, 1"
+    }
+  }
 }

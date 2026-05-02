@@ -103,5 +103,21 @@
         "text": "Adornment of Agrapha and lamp of Phanarion,  / support of the faithful, and glory of Hierarchs,  / hasten now to intercede for us, O champion.  / Crush the evil machinations of demons, that we may celebrate your contest joyously,  / O praiseworthy Seraphim."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Тит.",
+      "book_en": "Titus",
+      "pericope": 301,
+      "reference": "1, 15-2, 10",
+      "display": "Titus 1, 15-2, 10"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 101,
+      "reference": "20, 19-26",
+      "display": "Luke 20, 19-26"
+    }
+  }
 }

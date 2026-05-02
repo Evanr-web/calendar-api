@@ -152,5 +152,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nFinding your all-revered temple to be a source of healing for our souls,  / we the faithful cry out to you with a loud voice:  / \"O greatly renowned martyr Theotime, /  entreat Christ God unceasingly on behalf of us all.\""
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 46,
+      "reference": "21, 26-32",
+      "display": "Acts 21, 26-32"
+    },
+    "gospel": {
+      "book_uk": "Йо",
+      "book_en": "Йо",
+      "pericope": 53,
+      "reference": "16, 2-13",
+      "display": "Йо 16, 2-13"
+    }
+  }
 }

@@ -117,5 +117,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 5,
+      "reference": "2, 22-36",
+      "display": "Acts 2, 22-36"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 4,
+      "reference": "1, 35-51",
+      "display": "John 1, 35-51"
+    }
+  }
 }

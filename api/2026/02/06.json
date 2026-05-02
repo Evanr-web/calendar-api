@@ -154,5 +154,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Ів.",
+      "book_en": "2 John",
+      "pericope": 75,
+      "reference": "1, 1-13",
+      "display": "2 John 1, 1-13"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 68,
+      "reference": "15, 22, 25, 33-41",
+      "display": "Mark 15, 22, 25, 33-41"
+    }
+  }
 }

@@ -115,5 +115,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Oraiozele,  / entreat Christ God unceasingly on behalf of us all.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 128,
+      "reference": "3, 9-17",
+      "display": "1 Corinthians 3, 9-17"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 59,
+      "reference": "14, 22-34",
+      "display": "Matthew 14, 22-34"
+    }
+  }
 }

@@ -124,5 +124,21 @@
         "text": "(Podoben: “O Victorious Leader…”)\r\nWholeheartedly, let us praise Porphyrios, the most holy temple of the Comforter, and beloved of the Most Pure Theotokos; for he loves and heals all, he guards us and intercedes for us so that we might attain théosis. Therefore, we cry: “Rejoice, O Father Porphyrios.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 299,
+      "reference": "4, 9-22",
+      "display": "2 Timothy 4, 9-22"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 99,
+      "reference": "20, 1-8",
+      "display": "Luke 20, 1-8"
+    }
+  }
 }

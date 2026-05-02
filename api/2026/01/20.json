@@ -135,5 +135,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 335,
+      "reference": "13, 17-21",
+      "display": "Hebrews 13, 17-21"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 55,
+      "reference": "12, 18-27",
+      "display": "Mark 12, 18-27"
+    }
+  }
 }

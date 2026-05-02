@@ -169,5 +169,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Akepsimas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Ів.",
+      "book_en": "1 John",
+      "pericope": 69,
+      "reference": "1, 8-2, 6",
+      "display": "1 John 1, 8-2, 6"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 62,
+      "reference": "13, 31-14, 2",
+      "display": "Mark 13, 31-14, 2"
+    }
+  }
 }

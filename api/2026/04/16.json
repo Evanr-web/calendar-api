@@ -111,5 +111,21 @@
         "text": "Now God’s Angels and all the Saints in Heaven rejoice,  /  beholding your glory, O Most Pure Virgin,  /  and before your Icon, the faithful offer you prayers of thanksgiving  /  for the mercy and compassion you have shown to all of us, especially to our city.  /  As you did of old, O Virgin Theotokos,  /  save us in days to come by your intercession."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 12,
+      "reference": "4, 23-31",
+      "display": "Acts 4, 23-31"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 16,
+      "reference": "5, 24-30",
+      "display": "John 5, 24-30"
+    }
+  }
 }

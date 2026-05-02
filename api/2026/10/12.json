@@ -151,5 +151,21 @@
         "text": "We have neither prayerful hymns, nor words to praise you worthily, /   O Mother of Christ our God, /   for the appearance of your wonderworking Icon in the land of Kaluga. /   We can only cry out to you: /   “Do not withhold your mercy from us,  /  but pour it forth upon all who turn to your Icon, which bestows healing.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 248,
+      "reference": "4, 10-23",
+      "display": "Philippians 4, 10-23"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 33,
+      "reference": "7, 36-50",
+      "display": "Luke 7, 36-50"
+    }
+  }
 }

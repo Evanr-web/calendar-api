@@ -113,5 +113,21 @@
         "text": "By truly loving God, O glorious Stephen, you built holy churches and monasteries; /  you helped the poor\r\nand forgave those who wronged you.  / Because of your deeds, God endowed you with wisdom and the\r\npower to overcome the enemies of your country and of the Christian Faith.  / Therefore, we honor you\r\nand call you Father."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 320,
+      "reference": "9, 1-7",
+      "display": "Hebrews 9, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 54,
+      "reference": "13, 36-43",
+      "display": "Matthew 13, 36-43"
+    }
+  }
 }

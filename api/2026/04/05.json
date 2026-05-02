@@ -168,5 +168,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 1,
+      "reference": "1-8",
+      "display": "Acts 1-8"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 115,
+      "reference": "28, 1-20",
+      "display": "Matthew 28, 1-20"
+    }
+  }
 }

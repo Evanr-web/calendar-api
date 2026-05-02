@@ -53,5 +53,21 @@
         "text": "The most pure Temple of the Savior; / the precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the house of the Lord. / She brings with her the grace of the Spirit, / therefore, the angels of God praise her: / “Truly this woman is the abode of heaven.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 320,
+      "reference": "9, 1-7",
+      "display": "Hebrews 9, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 54,
+      "reference": "10, 38-42; 11, 27-28",
+      "display": "Luke 10, 38-42; 11, 27-28"
+    }
+  }
 }

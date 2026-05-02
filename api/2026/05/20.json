@@ -100,5 +100,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 47,
+      "reference": "23, 1-11",
+      "display": "Acts 23, 1-11"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 54,
+      "reference": "16, 15-23",
+      "display": "John 16, 15-23"
+    }
+  }
 }

@@ -139,5 +139,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": null,
+      "reference": "320.; 9:1-7",
+      "display": "Hebrews 320.; 9:1-7"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 54,
+      "reference": "10:38-42,11:27-28",
+      "display": "Luke 10:38-42,11:27-28"
+    }
+  }
 }

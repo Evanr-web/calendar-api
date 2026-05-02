@@ -81,5 +81,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 154,
+      "reference": "13, 4-14, 5",
+      "display": "1 Corinthians 13, 4-14, 5"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 80,
+      "reference": "20, 1-16",
+      "display": "Matthew 20, 1-16"
+    }
+  }
 }

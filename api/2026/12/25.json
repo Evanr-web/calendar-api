@@ -63,5 +63,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Гал.",
+      "book_en": "Galatians",
+      "pericope": 209,
+      "reference": "4, 4-7",
+      "display": "Galatians 4, 4-7"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 3,
+      "reference": "2, 1-12",
+      "display": "Matthew 2, 1-12"
+    }
+  }
 }

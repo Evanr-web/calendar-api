@@ -121,5 +121,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Angelos;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Тит",
+      "book_en": "Titus",
+      "pericope": 300,
+      "reference": "1, 5-2, 1",
+      "display": "Titus 1, 5-2, 1"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 100,
+      "reference": "20, 9-18",
+      "display": "Luke 20, 9-18"
+    }
+  }
 }

@@ -73,5 +73,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Eleutherius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 172,
+      "reference": "2, 14-3, 3",
+      "display": "2 Corinthians 2, 14-3, 3"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 95,
+      "reference": "23, 23-28",
+      "display": "Matthew 23, 23-28"
+    }
+  }
 }

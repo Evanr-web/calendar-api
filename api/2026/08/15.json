@@ -72,5 +72,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": null,
+      "reference": "240.; 2, 5-11",
+      "display": "Philippians 240.; 2, 5-11"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 54,
+      "reference": "10, 38-42; 11, 27-28",
+      "display": "Luke 10, 38-42; 11, 27-28"
+    }
+  }
 }

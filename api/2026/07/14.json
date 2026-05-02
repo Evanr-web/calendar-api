@@ -96,5 +96,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 144,
+      "reference": "10, 5-12",
+      "display": "1 Corinthians 10, 5-12"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 66,
+      "reference": "16, 6-12",
+      "display": "Matthew 16, 6-12"
+    }
+  }
 }

@@ -86,5 +86,21 @@
         "text": "Having escaped the darkness of the passions, O divinely-wise Sophia,  / and having come to Christ the Unsetting Sun, you put carnal wisdom to death;  / through fasting, abstinence and prayers,  you proved to be an equal of the Angels,  / for while living on earth you drove away unclean spirits from people,  / and bestowed various healings, delivering them from many troubles and evils. /  O Venerable Sophia,  /  pray for the salvation of our souls."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 323,
+      "reference": "10, 1-18",
+      "display": "Hebrews 10, 1-18"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 36,
+      "reference": "8, 30-34",
+      "display": "Mark 8, 30-34"
+    }
+  }
 }

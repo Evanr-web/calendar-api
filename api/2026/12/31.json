@@ -108,5 +108,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Пт.",
+      "book_en": "1 Peter",
+      "pericope": 62,
+      "reference": "4, 12-5. 5",
+      "display": "1 Peter 4, 12-5. 5"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 52,
+      "reference": "11, 23-26",
+      "display": "Mark 11, 23-26"
+    }
+  }
 }

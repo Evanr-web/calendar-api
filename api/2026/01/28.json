@@ -108,5 +108,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Isaac, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Пт.",
+      "book_en": "2 Peter",
+      "pericope": 68,
+      "reference": "3, 1-18",
+      "display": "2 Peter 3, 1-18"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 61,
+      "reference": "13, 24-31",
+      "display": "Mark 13, 24-31"
+    }
+  }
 }

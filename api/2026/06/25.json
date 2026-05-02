@@ -135,5 +135,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Theoleptos, /  divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity, as you stand before God with the Angels, /  pray unceasingly for all of us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 118,
+      "reference": "15, 17-29",
+      "display": "Romans 15, 17-29"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 49,
+      "reference": "12, 46-13, 3",
+      "display": "Matthew 12, 46-13, 3"
+    }
+  }
 }

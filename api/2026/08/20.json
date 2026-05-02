@@ -102,5 +102,21 @@
         "text": "(Podoben: “Seeking the things on high...”)\r\nYou shone forth in your splendor as a bright star,  / proclaiming Christ to this temporal world, O Martyr\r\nTheokhárēs, /  vanquishing the snares of false gods, /  you revealed the true light to the faithful,  / and you\r\nalways intercede on behalf of us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": null,
+      "reference": "; 190; 10, 7-18",
+      "display": "2 Corinthians ; 190; 10, 7-18"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 14,
+      "reference": "3, 28-35",
+      "display": "Mark 3, 28-35"
+    }
+  }
 }

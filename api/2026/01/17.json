@@ -94,5 +94,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 335,
+      "reference": "13, 17-21",
+      "display": "Hebrews 13, 17-21"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 84,
+      "reference": "17, 3-10",
+      "display": "Luke 17, 3-10"
+    }
+  }
 }

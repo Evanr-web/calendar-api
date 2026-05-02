@@ -84,5 +84,21 @@
         "text": "Devoutly let us sing to Saint Anna,  / who is ready to hear us quickly, the helper of all who are in trouble,  / gathering today with love on the day of the recovery of her revered relics.  / Let us sing a song to the One God in Trinity with rejoicing, /  for He has accounted us worthy to behold the most pure treasure of her revered relics, / which were hidden for many years, and then many and various healings took place and were revealed to us.  / By her prayers to God, she delivers us from all the troubles which befall us.  / With joyful souls and triumphant hearts, we sing hymns of thanksgiving saying,  / \"Rejoice, O bulwark of our city.\""
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 152,
+      "reference": "12, 12-26",
+      "display": "1 Corinthians 12, 12-26"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 76,
+      "reference": "18, 18-22; 19, 1-2; 13-15",
+      "display": "Matthew 18, 18-22; 19, 1-2; 13-15"
+    }
+  }
 }

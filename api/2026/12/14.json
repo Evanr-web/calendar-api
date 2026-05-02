@@ -73,5 +73,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 319,
+      "reference": "8, 7-13",
+      "display": "Hebrews 8, 7-13"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 33,
+      "reference": "8, 11-21",
+      "display": "Mark 8, 11-21"
+    }
+  }
 }

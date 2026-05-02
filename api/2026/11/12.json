@@ -97,5 +97,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 311,
+      "reference": "4, 14-5, 10",
+      "display": "Hebrews 4, 14-5, 10"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 36,
+      "reference": "10, 9-16",
+      "display": "John 10, 9-16"
+    }
+  }
 }

@@ -166,5 +166,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 227,
+      "reference": "4, 25-32",
+      "display": "Ephesians 4, 25-32"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 10,
+      "reference": "3, 19-22",
+      "display": "Luke 3, 19-22"
+    }
+  }
 }

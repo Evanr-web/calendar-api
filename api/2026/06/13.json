@@ -137,5 +137,21 @@
         "text": "Devoutly let us all praise the most honorable Paraskevḗ,  / a holy intercessor for the afflicted;  / for she left this perishable life behind and received eternal incorruption.  / Therefore, she has been given the grace of working miracles, by the command of God."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": null,
+      "reference": "240; 2, 5-11; Єв",
+      "display": "Philippians 240; 2, 5-11; Єв"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": null,
+      "reference": "61; 19, 25-27",
+      "display": "John 61; 19, 25-27"
+    }
+  }
 }

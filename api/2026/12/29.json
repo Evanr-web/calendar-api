@@ -116,5 +116,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Пт.",
+      "book_en": "1 Peter",
+      "pericope": 60,
+      "reference": "3, 10-22",
+      "display": "1 Peter 3, 10-22"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 50,
+      "reference": "11, 11-23",
+      "display": "Mark 11, 11-23"
+    }
+  }
 }

@@ -87,5 +87,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Clement, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Тим.",
+      "book_en": "1 Timothy",
+      "pericope": 287,
+      "reference": "5, 22-6, 11",
+      "display": "1 Timothy 5, 22-6, 11"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 90,
+      "reference": "18, 15-17",
+      "display": "Luke 18, 15-17"
+    }
+  }
 }

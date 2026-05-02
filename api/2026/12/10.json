@@ -105,5 +105,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Leontius,  / always intercede for us who honor you."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 315,
+      "reference": "7, 1-6",
+      "display": "Hebrews 7, 1-6"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 107,
+      "reference": "21, 28-33",
+      "display": "Luke 21, 28-33"
+    }
+  }
 }

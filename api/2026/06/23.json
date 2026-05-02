@@ -129,5 +129,21 @@
         "text": "(Podoben: “Having received the grace of healing...”)1\r\nHaving discarded a bed for rest, for the sake of your love for God, O Mother Etheldreda,  /  and illuminating your spirit with fasting,  /  you have completely vanquished your enemies; /   and by your intercessions you destroyed the evil schemes of our adversaries."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 114,
+      "reference": "14, 9-18",
+      "display": "Romans 14, 9-18"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 46,
+      "reference": "12, 14-16",
+      "display": "Matthew 12, 14-16"
+    }
+  }
 }

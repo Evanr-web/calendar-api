@@ -158,5 +158,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 130,
+      "reference": "4, 5-8",
+      "display": "1 Corinthians 4, 5-8"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 55,
+      "reference": "13, 44-54",
+      "display": "Matthew 13, 44-54"
+    }
+  }
 }

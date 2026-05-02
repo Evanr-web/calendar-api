@@ -99,5 +99,21 @@
         "text": "Having moved to the Heavenly abodes with your body,  / you did not leave those living on earth, O Theotokos,  / having granted the opportunity to contemplate and venerate your sacred and wonderworking Icon to all those who love you,  / as a sign of your grace, /  we venerate it by kissing it."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 189,
+      "reference": "9, 12-10, 7",
+      "display": "2 Corinthians 9, 12-10, 7"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 13,
+      "reference": "3, 20-27",
+      "display": "Mark 3, 20-27"
+    }
+  }
 }

@@ -147,5 +147,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 229,
+      "reference": "5, 9-19",
+      "display": "Ephesians 5, 9-19"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 66,
+      "reference": "12, 16-21",
+      "display": "Luke 12, 16-21"
+    }
+  }
 }

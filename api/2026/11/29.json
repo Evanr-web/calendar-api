@@ -111,5 +111,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 233,
+      "reference": "6, 10-17",
+      "display": "Ephesians 6, 10-17"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 71,
+      "reference": "13, 10-17",
+      "display": "Luke 13, 10-17"
+    }
+  }
 }

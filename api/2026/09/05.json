@@ -122,5 +122,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Abdias;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 132,
+      "reference": "4, 17-5, 5",
+      "display": "1 Corinthians 4, 17-5, 5"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 97,
+      "reference": "24, 1-13",
+      "display": "Matthew 24, 1-13"
+    }
+  }
 }

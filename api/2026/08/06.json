@@ -53,5 +53,21 @@
         "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Пт.",
+      "book_en": "2 Peter",
+      "pericope": 65,
+      "reference": "1:10-19",
+      "display": "2 Peter 1:10-19"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 70,
+      "reference": "17:1-9",
+      "display": "Matthew 17:1-9"
+    }
+  }
 }

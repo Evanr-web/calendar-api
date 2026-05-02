@@ -96,5 +96,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Кол.",
+      "book_en": "Colossians",
+      "pericope": 260,
+      "reference": "4, 2-9",
+      "display": "Colossians 4, 2-9"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 48,
+      "reference": "9, 49-56",
+      "display": "Luke 9, 49-56"
+    }
+  }
 }

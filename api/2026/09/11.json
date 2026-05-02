@@ -121,5 +121,21 @@
         "text": "Let us run to the quiet and good refuge,  / and to the speedy helper, ardent and eager to save all. / Let us run to the Virgin’s protection and hasten to repentance; / for the Most Pure Theotokos grants us unfailing mercy as she comes to help all, / delivering her devout and God-fearing servants from great troubles and evils."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 217,
+      "reference": "1, 7-17",
+      "display": "Ephesians 1, 7-17"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 32,
+      "reference": "8, 1-10",
+      "display": "Mark 8, 1-10"
+    }
+  }
 }

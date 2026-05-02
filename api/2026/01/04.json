@@ -148,5 +148,21 @@
         "text": "(Podoben: “You sought the heights…”)\r\nO Hierarch Symeón,  /  divine thunder, spiritual trumpet, planter of faith,  /  and pruner of heresies, great favorite of the Trinity;  / as you stand before God with the Angels, pray unceasingly for all of us."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Тим.",
+      "book_en": "2 Timothy",
+      "pericope": 298,
+      "reference": "4, 5-8",
+      "display": "2 Timothy 4, 5-8"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 1,
+      "reference": "1, 1-8",
+      "display": "Mark 1, 1-8"
+    }
+  }
 }

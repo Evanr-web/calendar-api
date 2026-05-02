@@ -96,5 +96,21 @@
         "text": "Like a bright star, O Father,  / you shone forth in the east, and came west, O blessed one, at the transfer of your relics. /  Now, like the rays of the sun, you radiate healing for those who come to the shrine of your relics.  / Pray to Christ God to save the Orthodox people who pray to you, that all may cry:  / “Rejoice, divinely-wise James.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 50,
+      "reference": "27, 1-44",
+      "display": "Acts 27, 1-44"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 57,
+      "reference": "17, 18-26",
+      "display": "John 17, 18-26"
+    }
+  }
 }

@@ -107,5 +107,21 @@
         "text": "O righteous Admiral Theodore,  /  Supreme Commander of the Russian Fleet,  /  servant of the people of God, /   liberator of the poor and the oppressed,  /  and punisher of the wicked;  /  as our protector, entreat Christ God to grant us great mercy."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Флп.",
+      "book_en": "Philippians",
+      "pericope": 239,
+      "reference": "1, 27-2, 4",
+      "display": "Philippians 1, 27-2, 4"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 24,
+      "reference": "6, 17-23",
+      "display": "Luke 6, 17-23"
+    }
+  }
 }

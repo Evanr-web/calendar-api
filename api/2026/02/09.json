@@ -139,5 +139,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Apollonia,  / entreat Christ God unceasingly on behalf of us all.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "3 Ів.",
+      "book_en": "3 John",
+      "pericope": 76,
+      "reference": "1, 1-15",
+      "display": "3 John 1, 1-15"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 96,
+      "reference": "19, 29-40; 22, 7-39",
+      "display": "Luke 19, 29-40; 22, 7-39"
+    }
+  }
 }

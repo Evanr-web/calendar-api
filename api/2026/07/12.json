@@ -147,5 +147,21 @@
         "text": "(Podoben: “O Victorious Leader...”)\r\nLet us praise the most renowned ascetic of the Holy Mountain, /  and the newly-shining luminary of the Church;  / let us praise him with hymns with all our heart,  / for he guides the faithful toward a life of excellence, filling them with rivers of gifts; /  therefore we cry out: “Rejoice, Father Paϊsios.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 116,
+      "reference": "15, 1-7",
+      "display": "Romans 15, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 33,
+      "reference": "9, 27-35",
+      "display": "Matthew 9, 27-35"
+    }
+  }
 }

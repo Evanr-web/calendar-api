@@ -154,5 +154,21 @@
         "text": "(Podoben: “Seeking the things on high...”)\r\nDesiring the things of Heaven, you took up your abode on high;   / disdaining earthly things, you wove a basket   / whereby you lifted up a multitude of monastics to the heights of dispassion,  /  and offered them as an acceptable gift to Christ our God."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 17,
+      "reference": "6, 8-7, 5",
+      "display": "Acts 6, 8-7, 5"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 13,
+      "reference": "4, 46-54",
+      "display": "John 4, 46-54"
+    }
+  }
 }

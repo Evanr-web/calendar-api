@@ -99,5 +99,21 @@
         "text": "The most glorious Mother of the Almighty  / summons us to sing with the coming of her Icon from Constantinople, /  and inspires us to fight in order to overcome the power of those who oppose God,  / and to praise her in song as the cause of our joy: /  “Rejoice, O Bride who knew not wedlock.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 225,
+      "reference": "4, 14-19",
+      "display": "Ephesians 4, 14-19"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 52,
+      "reference": "11, 27-33",
+      "display": "Mark 11, 27-33"
+    }
+  }
 }

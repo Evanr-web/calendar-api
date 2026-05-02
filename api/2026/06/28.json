@@ -122,5 +122,21 @@
         "text": "Finding delight in abstinence, you subdued the desires of the flesh. /   Revealed as one nurtured in the Faith,  /  you blossomed like the Tree of Life in Paradise, /   O Holy Father Sergius."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 103,
+      "reference": "10, 1-10",
+      "display": "Romans 10, 1-10"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 27,
+      "reference": "8, 28-9, 1",
+      "display": "Matthew 8, 28-9, 1"
+    }
+  }
 }

@@ -110,5 +110,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Passarion, divine thunder, spiritual trumpet,  /   planter of faith and pruner of heresies,  /   great favorite of the Trinity, while standing with the Angels before God,  /   pray unceasingly for us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 180,
+      "reference": "5, 15-21",
+      "display": "2 Corinthians 5, 15-21"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 3,
+      "reference": "1, 16-22",
+      "display": "Mark 1, 16-22"
+    }
+  }
 }

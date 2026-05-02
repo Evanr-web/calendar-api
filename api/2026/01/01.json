@@ -97,5 +97,21 @@
         "text": "(Podoben: “Seeking the highest... ”)\r\nYou were made manifest by your splendor as a bright star,  / proclaiming Christ to the temporal world, O Martyr Telémakhos,  / and by vanquishing the allurement of false gods,  / you granted true light to the faithful, always interceding on behalf of us all."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 318,
+      "reference": "7, 26-8,2",
+      "display": "Hebrews 7, 26-8,2"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": null,
+      "reference": "6; 2, 20-21; 40-52",
+      "display": "Luke 6; 2, 20-21; 40-52"
+    }
+  }
 }

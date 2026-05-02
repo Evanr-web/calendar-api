@@ -124,5 +124,21 @@
         "text": "You fled from the company of men, and lived in stony caves and cliffs.  / You were filled with divine desire and love for your Lord, O Peter, /  from Whom you received a crown. /  Pray unceasingly that our souls may be saved."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 90,
+      "reference": "5, 17-6, 2",
+      "display": "Romans 5, 17-6, 2"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 31,
+      "reference": "9, 14-17",
+      "display": "Matthew 9, 14-17"
+    }
+  }
 }

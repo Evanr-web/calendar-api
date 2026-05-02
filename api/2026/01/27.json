@@ -70,5 +70,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 318,
+      "reference": "7, 26-8, 2",
+      "display": "Hebrews 7, 26-8, 2"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 60,
+      "reference": "13, 14-23",
+      "display": "Mark 13, 14-23"
+    }
+  }
 }

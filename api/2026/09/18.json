@@ -121,5 +121,21 @@
         "text": "Fellow participant in the spiritual mysteries of the Optina Elders, /  and co-inheritor of the land of the Sovereign Lady, /  you blossomed like a prolific tree in the garden of the wilderness  / and, like a good shepherd, you strengthened the flock of Christ.  / Now entreat Christ God to preserve us in Orthodoxy and in piety,  / and to strengthen all who revere you with love."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 226,
+      "reference": "4, 17-25",
+      "display": "Ephesians 4, 17-25"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 53,
+      "reference": "12, 1-12",
+      "display": "Mark 12, 1-12"
+    }
+  }
 }

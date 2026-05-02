@@ -106,5 +106,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Кор.",
+      "book_en": "1 Corinthians",
+      "pericope": 125,
+      "reference": "1, 18-24",
+      "display": "1 Corinthians 1, 18-24"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 60,
+      "reference": "19, 6-11; 13-20; 25-28; 30-35",
+      "display": "John 19, 6-11; 13-20; 25-28; 30-35"
+    }
+  }
 }

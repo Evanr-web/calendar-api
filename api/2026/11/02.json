@@ -73,5 +73,21 @@
         "text": "Steadfast protectress of Christians, / most constant advocate before the Creator,  / do not despise the voices of us who have sinned,  / but in your goodness come speedily to help us, who cry to you in faith:  / “Hasten to intercede for us, O Theotokos, /  and speedily make supplication, for you always protect those who honor you.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "1 Сол.",
+      "book_en": "1 Thessalonians",
+      "pericope": 267,
+      "reference": "2, 20-3, 8",
+      "display": "1 Thessalonians 2, 20-3, 8"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 59,
+      "reference": "11, 29-33",
+      "display": "Luke 11, 29-33"
+    }
+  }
 }

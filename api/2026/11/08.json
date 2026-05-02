@@ -54,5 +54,21 @@
         "text": "Commanders of God’s armies and ministers of the divine glory, / princes of the bodiless angels and guides of mankind, / ask for what is good for us, and for great mercy, / supreme commanders of the Bodiless Hosts."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Еф.",
+      "book_en": "Ephesians",
+      "pericope": 221,
+      "reference": "2, 14-22",
+      "display": "Ephesians 2, 14-22"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 39,
+      "reference": "8, 41-56",
+      "display": "Luke 8, 41-56"
+    }
+  }
 }

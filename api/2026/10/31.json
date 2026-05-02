@@ -114,5 +114,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 185,
+      "reference": "8, 1-5",
+      "display": "2 Corinthians 8, 1-5"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 36,
+      "reference": "8, 16-21",
+      "display": "Luke 8, 16-21"
+    }
+  }
 }

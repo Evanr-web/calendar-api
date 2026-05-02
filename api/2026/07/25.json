@@ -76,5 +76,21 @@
         "text": "You appeared as a second Moses, O Venerable one, for he divided the sea with his staff,  / and you conquered the passions like Amalek,1 passing through the impenetrable wilderness with an untroubled mind.  / There, by your prayers, you worked great miracles, feeding hungry people to satiety.  / Now pray to the Lord to give consolation to all those in sorrow, O ever-memorable Father Makarios,  / and to the region of Galich, and praise and affirmation to all the Russian land."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Рим.",
+      "book_en": "Romans",
+      "pericope": 113,
+      "reference": "14, 6-9",
+      "display": "Romans 14, 6-9"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 64,
+      "reference": "15, 32-39",
+      "display": "Matthew 15, 32-39"
+    }
+  }
 }

@@ -161,5 +161,21 @@
         "text": "You revealed yourself, O Saint, in Myra as a priest,  /  for you fulfilled the Gospel of Christ  /  by giving up your soul for your people,  /  and saving the innocent from death.  /  Therefore you are blessed as one become wise in the grace of God."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "2 Кор.",
+      "book_en": "2 Corinthians",
+      "pericope": 167,
+      "reference": "1, 1-7",
+      "display": "2 Corinthians 1, 1-7"
+    },
+    "gospel": {
+      "book_uk": "Мт.",
+      "book_en": "Matthew",
+      "pericope": 88,
+      "reference": "21, 43-46",
+      "display": "Matthew 21, 43-46"
+    }
+  }
 }

@@ -91,5 +91,21 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Євр.",
+      "book_en": "Hebrews",
+      "pericope": 310,
+      "reference": "4, 1-13",
+      "display": "Hebrews 4, 1-13"
+    },
+    "gospel": {
+      "book_uk": "Лк.",
+      "book_en": "Luke",
+      "pericope": 106,
+      "reference": "21, 12-19",
+      "display": "Luke 21, 12-19"
+    }
+  }
 }

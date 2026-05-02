@@ -195,5 +195,21 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Gregory:  /  “Always intercede for those who honor you. ”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Як.",
+      "book_en": "James",
+      "pericope": 51,
+      "reference": "1, 19-27",
+      "display": "James 1, 19-27"
+    },
+    "gospel": {
+      "book_uk": "Мр.",
+      "book_en": "Mark",
+      "pericope": 45,
+      "reference": "10, 17-27",
+      "display": "Mark 10, 17-27"
+    }
+  }
 }

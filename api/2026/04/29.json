@@ -118,5 +118,21 @@
         "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Endellion, /  you illumined your soul\r\nwith fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs\r\nof our adversaries."
       }
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "book_uk": "Ді.",
+      "book_en": "Acts",
+      "pericope": 34,
+      "reference": "14, 6-18",
+      "display": "Acts 14, 6-18"
+    },
+    "gospel": {
+      "book_uk": "Ів.",
+      "book_en": "John",
+      "pericope": 26,
+      "reference": "7, 14-30",
+      "display": "John 7, 14-30"
+    }
+  }
 }
