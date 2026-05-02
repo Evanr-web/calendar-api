@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-29",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon",
+      "troparion": {
+        "tone": 8,
+        "text": "By Divine command, the Holy Nine Martyrs from various cities were united in a single alliance, and courageously suffered martyrdom for Christ;  / by your patience, the invisible enemy1  was defeated,  / the wicked princes and tormentors were put to shame,  / the spiritual fire of love for God was kindled, and the material fire which tormented you was cooled.  / Therefore, grace has been given unto you by Christ God to heal the plague,  / and we pray that you will save us from it, and from other afflictions, by your protection."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "The steadfast and most radiant Nine Martyrs,  / confessing the three-sunned2 God at His judgment seat they cried out: /  “We offer to You our blood, our souls, and our bodies, as an unblemished sacrifice, O Master.”"
+      }
+    },
+    {
+      "name": "Venerable Memnon the Wonderworker",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Memnon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Diodorus and Rhodopianus—Deacons, at Aphrodisia in Anatolia",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints Diodorus and Rhodopianus."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Basil, Bishop of Zakholmsk in Montenegro, Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you gave yourself completely to the Lord,  / abiding in prayers, contests,1 and fasts, O God-bearing Father,  / you were an example of virtue for your flock,  / so God, seeing your good will, placed you as a shepherd and a most excellent Hierarch of His Church;  / and after your repose, O Hierarch Basil,  / your holy body was preserved incorrupt.  / Therefore, as one having boldness, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From childhood you submitted yourself to the Lord,  / by fasting and vigil you subdued your body, O wise one,  / you were shown to be a precious vessel of the Most Holy Spirit,  / so he made you the shepherd of His Church, which you shepherded well.  / Therefore,  you departed to the Lord Whom you loved.  / We beseech you to remember us who honor your holy memory with faith,  / and we all cry out to you: “Rejoice, most revered Father Basil.”"
+      }
+    },
+    {
+      "name": "Venerable Nectarius of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nectarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs of Lazeti",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Endellion, recluse of Cornwall",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Endellion your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Endellion, /  you illumined your soul\r\nwith fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs\r\nof our adversaries."
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-05-31",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy Pentecost",
+      "troparion": {
+        "tone": 8,
+        "text": "Blessed are You O Christ Our God / You have revealed the fishermen as most wise / by sending down upon them the Holy Spirit / through them You drew the world into Your net / O Lover of Man, Glory to You!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "When the most High came down and confused the tongues, / He divided the nations; / but when he distributed the tongues of fire / He called all to unity. / Therefore, with one voice, we glorify the All-holy Spirit!"
+      }
+    },
+    {
+      "name": "Apostle Hermas of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Hermas, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Hermias at Comana",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Hermias, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Hermias;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Philosophus at Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Philosophus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Philosophus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Philosophos of St. Petersburg",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth, O wondrous Father Philósophos,  /  you loved the wisdom of God,1  and all the days of your life you followed Christ the Chief Shepherd,2  /  Who revealed you to the city of Saint Peter as a good shepherd.  /  After laying down your life for your flock,  /  you arose to suffer at the hands of the wicked  /  with your children Nicholas and Boris;  /  and now we entreat you: “Through your intercessions, do not forsake all those who revere your memory.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Metropolitan Philotheos of Tobolsk, Enlightener of Siberia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Philotheos, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Apollonios (Apollo) of the Egyptian Thebaid",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Apollonios, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -29,5 +29,53 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "You are numbered among the hosts of martyrs / for you were illustrious in mighty contests. / Galaction, together with Episteme your faithful wife and companion in struggle, / unceasingly intercede to the one God for us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Galaction and his wife, Epistemis, at Emesa",
+  "oca_saints": [
+    {
+      "name": "Martyrs Galaction and his wife, Epistemis, at Emesa",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You are numbered among the hosts of martyrs / for you were illustrious in mighty contests. / Galaction, together with Episteme your faithful wife and companion in struggle, / unceasingly intercede to the one God for us all."
+      }
+    },
+    {
+      "name": "Repose of Saint Jonah, Archbishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Jonah, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostles Patrobus, Hermes, Linus, Gaius, and Philologus, of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Patrobus, Hermes, Linus, Gaius, and Philologus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gregory, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, / O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Gregory entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

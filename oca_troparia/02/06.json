@@ -1,0 +1,107 @@
+{
+  "date": "2026-02-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "Hail, Virgin Theotokos, full of grace;  / for from you has shone forth the Sun of Righteousness, Christ our God,  /  giving light to those in darkness. /  Be glad, O righteous Elder; /  for you received in your arms the Redeemer of our souls,  / Who bestows upon us the resurrection."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
+      }
+    },
+    {
+      "name": "Saint Bucolus, Bishop of Smyrna",
+      "troparion": {
+        "tone": 4,
+        "text": "You shone with the rays of virtue / received from him who leaned on the Master’s breast. / Resplendent, God-inspired hierarch, / you led your flock to the pastures of truth. / Entreat Christ our God for those who honor you, father Bucolus."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "He who was beloved of Christ / saw the purity of your life; / he made you a shepherd of the Church / and a radiant lamp of godliness. / Holy father Bucolus, / you truly emulated his virtues."
+      }
+    },
+    {
+      "name": "Saint Photius, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Being of one mind with the Apostles and a teacher of the entire world, O Photios, /  intercede with the Master of all  / that He may grant peace to the world, and to our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nNow let us crown the far-shining star of the Church with garlands of hymns,  / the God-inspired guide of the Orthodox, the divinely-sounded harp of the Spirit,  / and the steadfast adversary of heresy, /  and let us cry to him: “Hail, most honored Photios.”"
+      }
+    },
+    {
+      "name": "Venerable Barsanuphius the Great and John the Prophet",
+      "troparion": {
+        "tone": 1,
+        "text": "Mystical tongues of the Holy Spirit / rational harps of grace / sounding forth sweet hymns of discernment / which soothe and rejoice men’s souls, / you moved them to cast off the yoke of passion / and to trample on Satan’s head. / Therefore, God-like Barsanuphius and wise John, / deliver those who sing to you: / Glory to Him who has given you grace! / Glory to Him who has blessed you! / Glory to Him who has saved many through your holy words of counsel!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyr Dorothy at Caesarea, in Cappadocia, and those with her",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyrs, O Lord, in their contest for You  / have received as a prize the crowns of incorruption and life from You, our immortal God;  / for since they possessed Your strength, they cast down the tyrants /  and wholly destroyed the demons' powerless presumption. /  O Christ God, by their prayers, save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “Seeking the highest...”)\r\nO divine martyrs, you appeared as bright beacons,  / illumining all of creation with the radiance of your miracles;  / do not cease to entreat Christ to deliver us all from our maladies,  / and drive away from us the profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Martyr Julian of Emesa",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Julian, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Julian;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Virgin Martyr Fausta, and Martyrs Evilasius and Maximus, at Cyzicus",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyrs, O Lord, in their contest for You  / have received as a prize the crowns of incorruption and life from You, our immortal God;  / for since they possessed Your strength, they cast down the tyrants /  and wholly destroyed the demons' powerless presumption. /  O Christ God, by their prayers, save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “Seeking the highest...”)\r\nO divine martyrs, you appeared as bright beacons,  / illumining all of creation with the radiance of your miracles;  / do not cease to entreat Christ to deliver us all from our maladies,  / and drive away from us the profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Virgin Martyrs Martha and Mary, and their brother Lycarion, in Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyrs, O Lord, in their contest for You  / have received as a prize the crowns of incorruption and life from You, our immortal God;  / for since they possessed Your strength, they cast down the tyrants /  and wholly destroyed the demons' powerless presumption. /  O Christ God, by their prayers, save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “Seeking the highest...”)\r\nO divine martyrs, you appeared as bright beacons,  / illumining all of creation with the radiance of your miracles;  / do not cease to entreat Christ to deliver us all from our maladies,  / and drive away from us the profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Saint Arsenius of Iqalto, Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arsenius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Amand, Abbot of Maastricht",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Amand, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

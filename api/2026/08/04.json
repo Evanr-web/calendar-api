@@ -30,5 +30,48 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs, O Lord, / through their sufferings have received their incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "Those who renounced the perishing comforts of this world, / preferring the eternal things of Heaven, / were incorrupt after death and rose from the dead / and buried the snares of the devils! / O Faithful, let us then honor them, singing a hymn of praise to Christ!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "7 Holy Youths “Seven Sleepers” of Ephesus",
+  "oca_saints": [
+    {
+      "name": "7 Holy Youths “Seven Sleepers” of Ephesus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received their incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Those who renounced the perishing comforts of this world, / preferring the eternal things of Heaven, / were incorrupt after death and rose from the dead / and buried the snares of the devils! / O Faithful, let us then honor them, singing a hymn of praise to Christ!"
+      }
+    },
+    {
+      "name": "Martyr Eudokia of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Eudokia calls out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Eleutherius of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Eleutherius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

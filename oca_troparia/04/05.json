@@ -1,0 +1,122 @@
+{
+  "date": "2026-04-05",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Entry of Our Lord into Jerusalem (Palm Sunday)",
+      "troparion": {
+        "tone": 4,
+        "text": "When we were buried with You in Baptism, O Christ God, / we were made worthy of eternal life by Your Resurrection! / Now we praise You and sing: / Hosanna in the highest! / Blessed is He that comes in the Name of the Lord!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Sitting on Your throne in heaven, / carried on a foal on earth, O Christ God! / Accept the praise of angels and the songs of children who sing: / Blessed is He that comes to recall Adam!"
+      }
+    },
+    {
+      "name": "Martyrs Agathopodes the Deacon and Theodulus the Reader at Thessalonica",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Agathopodes and Theodulus, and those with them, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As courageous soldiers of Christ, / you scattered the enemy principalities, O blessed martyrs. / Rejoicing in one spirit, you proclaimed together: / “Christ is the crown of athletes.”"
+      }
+    },
+    {
+      "name": "Venerable Publius of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Publius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theonas of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Theonas, pray to Christ God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Simeon of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Simeon, pray to Christ God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Phorbinus of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Phorbinus, pray to Christ God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Mark the Anchorite of Athens",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Mark, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Plato the Confessor of Studion",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Plato, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodora of Thessalonica",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  / and you became a luminary of the world, radiant with miracles, /  O Theodora, our Mother, intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  / and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  / Therefore, we beseech you, O Mother Theodora:   / “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Job, Patriarch of Moscow and All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Job, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Kasperov",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, we Orthodox people celebrate joyously,  / sheltered by your coming, O Mother of God,  / and beholding your Most Pure Icon, we say tenderly:  / “Cover us with your revered veil and deliver us from all evil,  / entreating your Son, Christ God, to save our souls.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin is in the Church, and with the assembly of the Saints, /  invisibly prays to God for us.  / The Angels worship with the Hierarchs, the Apostles rejoice with the Prophets;  / and the Theotokos prays to the Pre-eternal God for our sake."
+      }
+    },
+    {
+      "name": "Martyr Claudius and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Claudius and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Hypomone",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Hypomone calls out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    }
+  ]
+}

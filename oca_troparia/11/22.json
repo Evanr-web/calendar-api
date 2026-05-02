@@ -1,0 +1,110 @@
+{
+  "date": "2026-11-22",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Entry of the Most Holy Mother of God into the Temple",
+      "troparion": {
+        "tone": 4,
+        "text": "Today is the prelude of the good will of God, / of the preaching of the salvation of mankind. / The Virgin appears in the temple of God, / in anticipation proclaiming Christ to all. / Let us rejoice / and sing to her: / \"Rejoice, O Fulfillment of the Creator's dispensation.\""
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The most pure Temple of the Savior; / the precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the house of the Lord. / She brings with her the grace of the Spirit, / therefore, the angels of God praise her: / “Truly this woman is the abode of heaven.”"
+      }
+    },
+    {
+      "name": "Apostles of the Seventy Philemon and Archippus, Martyr Apphia, wife of Philemon and Equal-to-the-Apostles, and Onesimus, disciple of Saint Paul",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Philemon, Archippus, Apphia, and Onesimus, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)Let us praise the Apostles of Christ, / who illumine the ends of the earth like all-radiant stars: / glorious Philemon and dedicated Archippus, / Onesimus, together with Mark and Apollos, and the all-wise Apphia. / Let us cry to them: / “Unceasingly pray for us all!”"
+      }
+    },
+    {
+      "name": "Martyr Michael, Prince of Tver",
+      "troparion": {
+        "tone": 8,
+        "text": "Elevating your mind to God and desiring to live together with the Angels,  / you forsook the perishable glory of the earth, O blessed one.  / You laid down your life for your people, and received a crown for your labors.  / O divinely-wise Michael, pray to Christ God for those who lovingly honor your holy memory."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nSeeking the highest glory, you have tinged God's Church with your blood,  /  and suffered for her, O Saint Michael, gladly accepting an unjust death.   / Therefore, standing with the Angels before Christ God,  /  pray incessantly for all of us."
+      }
+    },
+    {
+      "name": "Virgin Martyr Cecilia and the Holy Martyrs Valerian, Tiburtius and Maximus at Rome",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Your confession of the divine Faith...”) \r\nIn the radiance of your divine way of life,  / you were drawn toward everlasting life, attracting a pair of brothers as well. /  In harmony with them, Cecilia, you struggled and became worthy of divine glory. /  With them, intercede that those who praise you /  may be granted pardon of their transgressions and great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up on the Cross...”) \r\nLet us, the plenitude of the faithful,  / sing hymns to her who was freely espoused to Christ,  / and adorned her heart with virtues befitting God.  / Then, shining like the sun,  / she vanquished the boldness of Almachius in the midst of those who sought her. /  After these things, she was seen by those on earth  / as a divine foundation, strengthening their faith."
+      }
+    },
+    {
+      "name": "Martyr Procopius the Reader at Caesarea, in Palestine",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Procopius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Procopius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Menignus at Parium",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Menignus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Menignus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Agabbas of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Agabbas your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Agabbas, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Kallistos II, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of temperance.  / Therefore, through humility, you attained the heights;  / and through poverty, riches.  /  O Hierarch Kállistos our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights… ”)\r\nO Hierarch Kállistos, divine thunder, spiritual trumpet,  / planter of faith, and pruner of heresies,  / great favorite of the Trinity,  /  as you stand before God with the Angels, pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "New Hieromartyr Alexis (Benemanskii) of Tver",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Alexis, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Hieromartyr Elias (Gromoglasov) of Tver",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Elias, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

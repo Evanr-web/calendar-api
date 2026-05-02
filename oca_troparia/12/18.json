@@ -1,0 +1,79 @@
+{
+  "date": "2026-12-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Sebastian at Rome, and his companions",
+      "troparion": {
+        "tone": 1,
+        "text": "O Sebastian, spurning the assemblies of the wicked, / you gathered the wise martyrs / who with you cast down the enemy; / and standing worthily before the throne of God, / you gladden those who cry to you: / Glory to him who has strengthened you! / Glory to him who has granted you a crown! / Glory to him who through you works healing for all!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Excelling in godly zeal, / you gathered a band of martyrs from which you shone as a star. / The arrows that wounded your body, O Sebastian, / pierced the hearts of the enemy. / Therefore Christ has glorified you!"
+      }
+    },
+    {
+      "name": "Venerable Sebastian, Abbot of Pshekhonye Monastery, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sebastian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Simeon, Wonderworker of Verkhoturye",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simeon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Modestos, Archbishop of Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "O divinely wise Módestos,  /  you lived a holy life, clothed in Hierarchal garments,  /  you rejoice, O most blessed shepherd of Jerusalem.  / Now standing before Christ, you illumine the ends of the earth with miracles,  / be a helper to those who beseech you to pray for all of us, O Father."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You were a venerable Hierarch,  / and by your angelic life, you served Christ in Zion.  / Therefore, we glorify you, O Father Módestos, adornment of Patriarchs."
+      }
+    },
+    {
+      "name": "Saint Florus, Bishop of Amisus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Florus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Michael the Confessor at Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Michael, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Hieromartyr Archbishop Thaddeus of Tver",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Thaddeus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Daniel the Hesychast",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word… ”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  / and you became a luminary of the world, radiant with miracles,  / O Daniel our Father. Intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Living an angelic life on earth,  / you made yourself an image and model for your disciples. Through prayers, long fasts and vigils,  /  you were accounted worthy of dwelling in the land of the meek, O Saint Daniel honored by God,  / the adornment of hesychasts and praise of monks."
+      }
+    }
+  ]
+}

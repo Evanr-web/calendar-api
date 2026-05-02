@@ -30,5 +30,78 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "You were a pillar of patient endurance, / having imitated the forefathers, O Venerable One: / Job in suffering, and Joseph in temptations. / You lived like the Bodiless Ones while yet in the flesh, O Alypius, our Father. / Beseech Christ God that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "The Church glorifies and praises you today, Alypius, / as a perfect example of virtue and the boast of ascetics. / Through your prayers, grant remission of sins to all who venerate your life and your struggles.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Alypius the Stylite of Adrianopolis",
+  "oca_saints": [
+    {
+      "name": "Venerable Alypius the Stylite of Adrianopolis",
+      "troparion": {
+        "tone": 1,
+        "text": "You were a pillar of patient endurance, / having imitated the forefathers, O Venerable One: / Job in suffering, and Joseph in temptations. / You lived like the Bodiless Ones while yet in the flesh, O Alypius, our Father. / Beseech Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The Church glorifies and praises you today, Alypius, / as a perfect example of virtue and the boast of ascetics. / Through your prayers, grant remission of sins to all who venerate your life and your struggles."
+      }
+    },
+    {
+      "name": "Repose of Saint Innocent, first Bishop of Irkutsk",
+      "troparion": {
+        "tone": 3,
+        "text": "Most radiant luminary of the Church, you have enlightened Siberia with the rays of your virtues, /  and by healing a multitude of those who came to your shrine with faith, you have glorified God. /  We entreat you, Hierarch and Father Innocent,  / by your prayers preserve us from all misfortunes and sorrows."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us the faithful lovingly glorify the irreproachable1 shepherd  / and preacher of faith among the peoples of Mongolia, /  the glory and adornment of the flock of Irkutsk, /  for he is the guardian of Siberia and intercessor for our souls."
+      }
+    },
+    {
+      "name": "Venerable James the Solitary of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father James, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Stylianus of Paphlagonia",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith…”)\r\nYou were revealed as a living pillar of abstinence,  / and an unshakable pillar of the Church, O blessed Stylianos.  /  Dedicated to God from your youth,  / you were perceived as a dwelling-place of the Spirit.  / O Venerable Father, entreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “You were lifted up…”)\r\nSanctified from the womb like another Samuel,  / you glorified God by your labors.  / Having become a healer and protector of Christ's babes and sucklings,  / He has glorified you, O Stylianos."
+      }
+    },
+    {
+      "name": "Venerable Nikon “Metanoeite,” the Preacher of Repentance",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Thy confession of the Divine Faith...”)\r\nLakedaimon* rejoices, having the divine coffer of your relics, /  which gush forth a fountain of healings,  / and protect from\r\nafflictions all those who have recourse to you with faith,  / O Venerable Father Nikon, / entreat Christ God that He may grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "(Podoben: “When thou hadst fulfilled Thy dispensation...” - The Kontakion for Ascension)\r\nEmulating the life of the Angels, you regarded worldly pleasures as refuse, /  showing us the path of repentance, O God-bearer and righteous Nikon;  / therefore, now we celebrate your memory,  / for truly you are a fountain of healings."
+      }
+    },
+    {
+      "name": "Saints Athanasios and Theodosios of Cherepovets, disciples of Saint Sergius of Radonezh",
+      "troparion": {
+        "tone": 3,
+        "text": "Let us honor the first two Russian luminaries:  / Athanasios, who was sent by God, and Theodosios, the gift of God. /  For they were the first to shine forth with the angelic life from the mountains of Kiev, /  illuminating all the ends of our land, and showing to many the right path to Heaven;  / and they were the first Fathers for monks, having brought to God the ranks of the saved;  / and now, standing in Heaven before the unwaning Light of God, they pray for our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

@@ -29,5 +29,64 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "You became worthy of your name through your way of life: / through your vigilance in prayer and your constant works of mercy. / Therefore, O Father Gregory, beseech Christ God to enlighten our minds, / that we may not sleep in sin, which leads to death!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "You received the power to perform miracles, / frightening the devils and healing the sick through your wonderworking. / All-wise Father Gregory, / your deeds truly entitle you to be called “Wonderworker”!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Gregory, Wonderworker of Neocaesarea",
+  "oca_saints": [
+    {
+      "name": "Saint Gregory, Wonderworker of Neocaesarea",
+      "troparion": {
+        "tone": 8,
+        "text": "You became worthy of your name through your way of life: / through your vigilance in prayer and your constant works of mercy. / Therefore, O Father Gregory, beseech Christ God to enlighten our minds, / that we may not sleep in sin, which leads to death!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You received the power to perform miracles, / frightening the devils and healing the sick through your wonderworking. / All-wise Father Gregory, / your deeds truly entitle you to be called “Wonderworker”!"
+      }
+    },
+    {
+      "name": "Venerable Nikon, Abbot of Radonezh, disciple of Venerable Sergius",
+      "troparion": {
+        "tone": 1,
+        "text": "You were a zealot of obedience, ever memorable and Venerable Nikon,  / for the beautiful church of the Holy Trinity which you built for the glorification of your Spiritual Father.  / Therefore we, your children, cry out to you with love:  / “Glory to Him Who strengthened you.  / Glory to Him who crowned you.  / Glory to Him Who, through you, works healing for all.”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O Father Nikon,  /  you followed your spiritual Superior and were guided by him in all things,  /  and served Christ in all things;  /  you were the head of the monks and lived together with the Venerable Fathers.   / With them, pray unceasingly to Christ God for all of us."
+      }
+    },
+    {
+      "name": "Venerable Lazarus the Iconographer, of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Lazarus, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Gobron (Michael) and 133 soldiers, of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Gobron and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gennadius of Vatopedi, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gennadius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

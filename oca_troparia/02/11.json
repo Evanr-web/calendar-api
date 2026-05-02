@@ -1,0 +1,58 @@
+{
+  "date": "2026-02-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Blaise, Bishop of Sebaste",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Blaise, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Godly shoot, unfading flower, / most fruitful branch of Christ the Vine, God-bearing Blaise, / fill with joy those who in faith honor your memory / as you unceasingly intercede for us all."
+      }
+    },
+    {
+      "name": "Venerable Demetrios, Wonderworker of Priluki, Vologda",
+      "troparion": {
+        "tone": 1,
+        "text": "You received grace from God, O glorious Dēmḗtrios,  / and you were strengthened by His power; /  you lived according to the Gospel,  / therefore you obtained a reward from Christ for your labors, O most blessed one. /  Pray to Him for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From your youth, O Venerable one, you took up your cross and followed Christ, /  exhausting your flesh by prayers and fasting, by vigils, and by suffering evils.  / Therefore, the All-Seeing Eye, beholding your works, glorified you with miracles  / and taught everyone to cry out to you, “Rejoice, Father Dēmḗtrios, adornment of fasters.”"
+      }
+    },
+    {
+      "name": "Righteous Theodora, wife of Emperor Theophilus the Iconoclast",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “O Coeternal Word...”)\r\nAs a most worthy namesake of the gifts bestowed by God,1  / and a divinely-wrought image of holy wisdom and faith,  / you make the Church shine with godly piety;  / for you demonstrate to all that the Saints in every age have shown honor to the revered icons,  / O Theodora, thou righteous and fair adornment of Orthodox Empresses."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O victorious Leader...”)\r\nWe praise you as the beauty of the Church, /  the fitting dignity of Empresses and their character and diadem, O divinely-crowned Theodora. /  For you saw the Icons restored and the complete overthrow of heresy. /  Therefore, we cry out, “Rejoice, most honorable Sovereign.”"
+      }
+    },
+    {
+      "name": "Saint George, New Martyr of Sofia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr George, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr George;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Gobnata of Ballyvourney",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Gobnata, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

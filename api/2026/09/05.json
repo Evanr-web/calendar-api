@@ -30,5 +30,97 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Robed in the vestments of the priesthood, / according to the Law of God you offered whole-burnt offerings in a sacred manner, wise Zachariah. / You became a luminary and a seer of the mysteries, / bearing within yourself the signs of grace, all-wise one. / Slain by the sword in the temple of God, O prophet of Christ, / intercede together with the Forerunner / that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today the prophet Zachariah, priest of the Most High / and parent of the Forerunner, / has prepared a banquet to his memory to nourish the faithful, / mixing the drink of righteousness. / Therefore we praise him as a divine initiate of the grace of God.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist",
+  "oca_saints": [
+    {
+      "name": "Holy Prophet Zachariah and Righteous Elizabeth, parents of Saint John the Baptist",
+      "troparion": {
+        "tone": 4,
+        "text": "Robed in the vestments of the priesthood, / according to the Law of God you offered whole-burnt offerings in a sacred manner, wise Zachariah. / You became a luminary and a seer of the mysteries, / bearing within yourself the signs of grace, all-wise one. / Slain by the sword in the temple of God, O prophet of Christ, / intercede together with the Forerunner / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the prophet Zachariah, priest of the Most High / and parent of the Forerunner, / has prepared a banquet to his memory to nourish the faithful, / mixing the drink of righteousness. / Therefore we praise him as a divine initiate of the grace of God."
+      }
+    },
+    {
+      "name": "Martyr Athanasius, Abbot of Bretsk",
+      "troparion": {
+        "tone": 2,
+        "text": "Blessed are you, our Father Athanasios, /   for you lived by faith, standing vigilantly for the holy Orthodox Faith, /   always singing the Akathist Hymn to the Most Pure one with humility,  /  ordering everyone not to profane the holy Orthodox Faith, you testified to its truth, suffering even unto death.  /  Honoring your holiness, we cry out to you with boldness: /   \"O Hieromartyr Athanasios our Father, you are our boast and adornment.\""
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "By your life, Athanasios, you were revealed as an ornament of the monastic life and adornment of the martyrs;  /  and as a most radiant sun you shone forth on the Orthodox people.  /  Therefore, Christ has enriched you with the gift of working miracles,  / so that honoring your memory, we may call out to you:  /  \"Remember your flock in your prayers, O Venerable one.\""
+      }
+    },
+    {
+      "name": "Passion-Bearer Gleb (in  Baptism David)",
+      "troparion": {
+        "tone": 5,
+        "text": "O Martyr of the Lord, Prince Gleb, you were glorified because of your faith,  /  you are the speedy helper of those who toil, and the hope of the sick;  /  for you heal the afflictions of those who come to you with faith. /  Therefore, with faith we pray:  /  \"Deliver us, who honor your memory with love, from our misfortune.\""
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today the land is appeased, having drunk your blood,   /  and the temple is sanctified by receiving your body, O Holy Martyr Prince Gleb.  /   For of your own will, you did not resist your passion in any way.   /  From your fragrant relics, you give sanctification to the faithful, and to the world great mercy."
+      }
+    },
+    {
+      "name": "Martyr Tathuil, and his sister, Bebaia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Tathuil and Bebaia, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Sarbelus of Edessa",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Sarbelus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Sarbelus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Juventinus and Maximus the soldiers, at Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Juventinus and Maximus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Urban, Theodore, Medimnus, and 77 companions, at Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Abdias (Abidas) of Persia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Abdias, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Abdias;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

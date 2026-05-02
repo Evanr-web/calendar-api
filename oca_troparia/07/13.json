@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-13",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Synaxis of the Archangel Gabriel",
+      "troparion": {
+        "tone": 4,
+        "text": "Gabriel, commander of the heavenly hosts, / we who are unworthy beseech you, / by your prayers encompass us beneath the wings of your immaterial glory, / and faithfully preserve us who fall down and cry to you: / “Deliver us from all harm, for you are the commander of the powers on high!”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You look upon God’s glory in heaven, / and bring grace from on high to earth, / wise Gabriel, leader of angels, / minister of God’s glory, and divine defender of the world! / Save and preserve those who cry to you: / “Be our defense, so that no one can be against us!”"
+      }
+    },
+    {
+      "name": "Venerable Stephen of Saint Savva Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Stephen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Julian, Bishop of Cenomanis (Le Mans), Gaul",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Julian, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Serapion",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Serapion, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Serapion;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Marcian of Iconium",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Marcian, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Marcian;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Virgin Abbess Sarah of Sketis in Libya",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Sarah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

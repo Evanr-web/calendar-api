@@ -31,5 +31,100 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "(Podoben: “Be quick to anticipate...”)\r\nForsaking an earthly army, O prize-winner, /  you received a heavenly inheritance, after receiving glory from earthly kings,  / O wise one, you endured martyrdom and received an unfading crown.  / Therefore, O Great Martyr Mēnás,  / intercede with Christ God to save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "(Podoben: “As first-fruits of our nature...”)\r\nToday the Church honors and glorifies in songs the godly-minded athletes and Martyrs who strove for piety, /  the prize-winner Mēnás, noble Victor, brave Vincent, and valiant Stephanie,  / and it lovingly cries out and magnifies Christ, the lover of mankind.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Menas of Egypt",
+  "oca_saints": [
+    {
+      "name": "Martyr Menas of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nForsaking an earthly army, O prize-winner, /  you received a heavenly inheritance, after receiving glory from earthly kings,  / O wise one, you endured martyrdom and received an unfading crown.  / Therefore, O Great Martyr Mēnás,  / intercede with Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As first-fruits of our nature...”)\r\nToday the Church honors and glorifies in songs the godly-minded athletes and Martyrs who strove for piety, /  the prize-winner Mēnás, noble Victor, brave Vincent, and valiant Stephanie,  / and it lovingly cries out and magnifies Christ, the lover of mankind."
+      }
+    },
+    {
+      "name": "Martyr Victor at Damascus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Today the church honors those who fought the good fight and died for their faith: / The victorious Menas, the noble Victor and the ascetic Vincent. / The church glorifies their divine struggle and cries out with love: / Glory to You, O Christ, the lover of mankind."
+      }
+    },
+    {
+      "name": "Martyr Vincent of Spain",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Today the church honors those who fought the good fight and died for their faith: / The victorious Menas, the noble Victor and the ascetic Vincent. / The church glorifies their divine struggle and cries out with love: / Glory to You, O Christ, the lover of mankind."
+      }
+    },
+    {
+      "name": "Martyr Stephanida of Damascus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Stephanida, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Stephanida;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Theodore the Confessor, Abbot of the Studion",
+      "troparion": {
+        "tone": 8,
+        "text": "Guide of Orthodoxy, teacher of piety and purity, luminary of the world, /  God-inspired adornment of\r\nmonastics, O most wise Theodore, /  you have enlightened everyone with your teachings, O harp of the Spirit; /  pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYour truly ascetical life equalled that of the Angels,  / you were made radiant by contesting with your foes, /  and you were seen to dwell with the Angels, /  O Theodore blessed by God, pray unceasingly with them to Christ God for all of us."
+      }
+    },
+    {
+      "name": "Venerable Martyrius, Abbot of Zelenets, Pskov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Martyrius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint Stephen of Dečani, Serbia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Stephen, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Martin the Merciful, Bishop of Tours",
+      "troparion": {
+        "tone": 4,
+        "text": "In signs and in miracles you were renowned throughout Gaul. / By grace and adoption you are a light for the world, O Martin, blessed of God. / Almsgiving and compassion filled your life with their splendors, / teaching and wise counsel were your riches and treasures, / which you dispense freely to those who honor you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a devoted man of God, you proclaimed His mysteries, / and as a seer of the Trinity, you shed your blessings on the Occident. / By your prayers and entreaties, O adornment of Tours and glory of all the Church, / preserve us, O Saint Martin, and save all who praise your memory."
+      }
+    }
+  ]
 }

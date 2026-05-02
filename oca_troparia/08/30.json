@@ -1,0 +1,128 @@
+{
+  "date": "2026-08-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Alexander, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: \"Go quickly before us...\")\r\nChrist, the God over all,1  / has appointed you as a venerable shepherd of His Church, O Godly-wise Alexander, /  a light upon the lampstand,2 a faithful steward, /  and the most holy example of a pillar of Orthodoxy. /  Therefore, we keep festival in your memory."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "With your flock, as one who was delivered from the ungodly,  / I bring tokens of victory and thanksgiving to you, O invincible valiant hierarch,  / for you overcame the foolish Arius, and silenced the arrogant philosopher. /  Therefore, I say to you: Rejoice, thrice-happy Father."
+      }
+    },
+    {
+      "name": "Saint John, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the Patriarchs Alexander, John, and Paul."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Set aflame by the love of Christ, O glorious ones, / you took up the yoke of His precious Cross revealing yourselves as followers in His footsteps by your way of life, / and you became partakers of His divine glory, / divinely-wise Alexander, with wonderful John and glorious Paul. / As you stand before His throne, earnestly pray for our souls."
+      }
+    },
+    {
+      "name": "Saint Paul the New, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the Patriarchs Alexander, John, and Paul."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Set aflame by the love of Christ, O glorious ones, / you took up the yoke of His precious Cross revealing yourselves as followers in His footsteps by your way of life, / and you became partakers of His divine glory, / divinely-wise Alexander, with wonderful John and glorious Paul. / As you stand before His throne, earnestly pray for our souls."
+      }
+    },
+    {
+      "name": "Venerable Alexander, Abbot of Svir",
+      "troparion": {
+        "tone": 4,
+        "text": "From your very youth, O divinely wise one, with a spiritual desire,  / you settled in the wilderness, wishing only to follow in the footsteps of Christ. /  Therefore, the ranks of Angels were astonished,  / seeing you struggle in the flesh with the deceit of invisible (enemies).  / You conquered a multitude of passions through abstinence,  / and you have appeared on earth as one similar to the Angels.  / O Venerable Alexander, pray to Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a bright star, you have shone forth now in the Russian lands, O Father,  / having settled in the wilderness, you wished to walk with diligence in the footsteps of Christ;  / and taking up His holy yoke1, the revered Cross, on your shoulder,  / you mortified the waywardness of the flesh through your ascetic struggles.  / Therefore, we pray to you: \"Save your flock, which you have gathered, O wise one,  / so that we may cry out to you: \"Hail, Venerable Father Alexander.\""
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Alexander Nevsky",
+      "troparion": {
+        "tone": 4,
+        "text": "Christ revealed you, O Blessed Alexander / as a new and glorious worker of wonders; / a man and a prince well pleasing to God / and a divine treasure of the Russian Land. / Today we assemble in faith and love / to glorify the Lord by joyously remembering you. / He granted you the grace of healing, / therefore entreat Him to strengthen your suffering spiritual children, / and to save all Orthodox Christians."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "We honor you as a most radiant, spiritual star, / rising up from the east; going down in the west! / As you enriched the Russian people with good works and miracles, / so now enlighten us who remember you in faith, O Blessed Alexander. / Today as we celebrate your falling asleep, we ask you to beseech the Lord / that He may strengthen his suffering servants and save all Orthodox Christians!"
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Saint Daniel, Prince of Moscow",
+      "troparion": {
+        "tone": 3,
+        "text": "You have appeared to our land as a shining star / O faithful prince Daniel! / Your light illumined your city and monastery! / O champion of the Orthodox, / deliverer of captives, / advocate of the poor, / O sovereign of Russia pray to Christ God / to grant us peace and save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Christopher of Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Christopher, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Fantinus of Calabria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Fantinus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Synaxis of the Serbian Hierarchs",
+      "troparion": {
+        "tone": 4,
+        "text": "As the enlighteners of the Serbs, O God-bearing Fathers, / holy patriarchs and great shepherds, / guardians of the Apostolic traditions, / unshakable pillars, and teachers of Orthodoxy: / Beseech Christ, the Master of All, / to grant peace to the world, and to our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Enthroned as hierarchs, and living lives worthy of praise, / in God-pleasing manner you guided your people to knowledge of God: / Because of this you were glorified by Him / through miracles and incorruption, / as befits pupils of the grace of God."
+      }
+    },
+    {
+      "name": "Saint Spyridon, Patriarch of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Spyridon, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Macarius, Patriarch of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Macarius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gabriel I, Patriarch of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gabriel, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gregory the Bishop",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gregory, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

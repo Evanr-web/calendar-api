@@ -1,0 +1,76 @@
+{
+  "date": "2026-04-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great and Holy Saturday",
+      "troparion": {
+        "tone": 2,
+        "text": "The Angel came to the myrrh-bearing women at the tomb and said: / “Myrrh is fitting for the dead, / but Christ has shown Himself a stranger to corruption.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "He who shut in the depths is beheld dead, / wrapped in fine linen and spices. / The Immortal One is laid in a tomb as a mortal man. / The women have come to anoint Him with myrrh, / weeping bitterly and crying: / “This is the most blessed Sabbath / on which Christ has fallen asleep to rise on the third day!”"
+      }
+    },
+    {
+      "name": "Hieromartyr Antipas, Bishop of Pergamum and Disciple of Saint John the Theologian",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Antipas, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today with hymns and praises let us acclaim Antipas, / light of the world and famous hierarch, / champion of truth and teacher of Pergamum. / He intercedes with Christ our God that we may be saved."
+      }
+    },
+    {
+      "name": "Venerable James, Abbot of Zheleznoborov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father James, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Barsanuphius, Bishop of Tver",
+      "troparion": {
+        "tone": 3,
+        "text": "Herald of the path of salvation, true keeper of Apostolic Tradition,  / unshakable pillar, teacher of piety, and expounder of Orthodoxy;  / O hierarch Barsanuphios,  / entreat the Master of all to grant peace to the world, /  and to our souls great mercy."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Processus and Martinian of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Processus and Martinian, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Pharmuthius the Anchorite of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pharmuthius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable John, disciple of Venerable Gregory of Decapolis",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Callinicus of Cernica, Bishop of Rimnicului in Romania",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Callinicus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

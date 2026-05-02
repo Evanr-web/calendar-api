@@ -31,5 +31,78 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "(Podoben: “Awed by the beauty of your virginity...”)\r\nThe ranks of Angels were awed by your life in the flesh,   / how in the body, you went forth toward invisible struggles, O renowned one,   / and smote the hordes of demons with mortal wounds;   / for this reason, Athanasios, Christ rewarded you with abundant gifts.   / Therefore, O Father, pray that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “You sought the heights...”)\r\nTaking the yoke of Christ upon yourself, /  you bore your cross on your shoulders, O Athanasios;  / you became a most virtuous imitator of His sufferings,  / and a sharer of His glory, partaking of endless joy.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples",
+  "oca_saints": [
+    {
+      "name": "Venerable Athanasius, founder of the Great Lavra and Coenobitic Monasticism on Mount Athos, and his six disciples",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Awed by the beauty of your virginity...”)\r\nThe ranks of Angels were awed by your life in the flesh,   / how in the body, you went forth toward invisible struggles, O renowned one,   / and smote the hordes of demons with mortal wounds;   / for this reason, Athanasios, Christ rewarded you with abundant gifts.   / Therefore, O Father, pray that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nTaking the yoke of Christ upon yourself, /  you bore your cross on your shoulders, O Athanasios;  / you became a most virtuous imitator of His sufferings,  / and a sharer of His glory, partaking of endless joy."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Sergius of Radonezh",
+      "troparion": {
+        "tone": 8,
+        "text": "From your youth you received Christ into your soul, O venerable one, / and above all desired to leave behind the turmoil of the world. / You courageously settled in the wilderness, where you raised children in obedience, the fruits of humility. / Thus, as an abode of the Trinity, you enlightened all who approached in faith and granted healing to all. / Our Father Sergius, pray to Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Having risen from the earth today and shining like the sun, / your precious and incorrupt relics are as fragrant flowers, scented with miracles, / granting healing to all the faithful, and making glad your flock which you wisely gathered and tended. / Now as you stand before the throne of the Trinity, entreat God’s help and grace for them and for all Orthodox Christians, / so that we may sing: “Rejoice, divinely-wise Sergius.”"
+      }
+    },
+    {
+      "name": "Martyr Anna at Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Anna, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anna;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Cyrilla of Cyrene in Libya, a widow",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Cyrilla, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Cyrilla;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Lampados  of Irenopolis",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Lampados, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Cyprian of Mount Athos",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Cyprian, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

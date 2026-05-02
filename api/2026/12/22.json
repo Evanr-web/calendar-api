@@ -30,5 +30,40 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Prepare, O Bethlehem, for Eden has been opened to all! /  Adorn yourself, O Ephratha, for the Tree of Life blossoms forth from the Virgin in the cave! /  Her womb is a spiritual paradise planted with the Divine Fruit; / if we eat of it, we shall live forever and not die like Adam. /  Christ is born to raise up again what fell in former times, His image.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today the Virgin comes to the cave / to give birth to the Eternal Word. / Hear the glad tidings and rejoice, O universe! / Glorify with the angels and the shepherds / the Eternal God, who is willing to appear as a little child!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Forefeast of the Nativity of our Lord",
+  "oca_saints": [
+    {
+      "name": "Forefeast of the Nativity of our Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Bethlehem, for Eden has been opened to all! /  Adorn yourself, O Ephratha, for the Tree of Life blossoms forth from the Virgin in the cave! /  Her womb is a spiritual paradise planted with the Divine Fruit; / if we eat of it, we shall live forever and not die like Adam. /  Christ is born to raise up again what fell in former times, His image."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin comes to the cave / to give birth to the Eternal Word. / Hear the glad tidings and rejoice, O universe! / Glorify with the angels and the shepherds / the Eternal God, who is willing to appear as a little child!"
+      }
+    },
+    {
+      "name": "Great Martyr Anastasia the Deliverer from Poisons, her teacher, Martyr Chrysogonos, and many with them",
+      "troparion": {
+        "tone": 5,
+        "text": "As a Martyr you emulated the deeds of the Martyrs  /  to whom you ministered,  /  and, striving valiantly, you overcame the Enemy.  /  You are an abundant and overflowing source of grace  /  for all who come to you, O godly-minded Anastasía."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Those in temptations and afflictions hasten to your temple /  and are restored by the grace that dwells in you,  /  for you ever pour forth healings for all the world, /  O Great Martyr Anastasía."
+      }
+    }
+  ]
 }

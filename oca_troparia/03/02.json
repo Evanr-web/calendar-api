@@ -1,0 +1,93 @@
+{
+  "date": "2026-03-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Theodotus, Bishop of Cyrenia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, even to the shedding of your blood. / Hieromartyr Theodotus, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You denounced the depths of false belief. / With the Orthodox faith you wounded the delusion of idolatry. / As a godly, whole burnt sacrifice, / you refreshed the ends of the earth with your wonders! / O holy hierarch Theodotus, our father, / entreat Christ God to grant us great mercy!"
+      }
+    },
+    {
+      "name": "Saint Arsenius, Bishop of Tver",
+      "troparion": {
+        "tone": 1,
+        "text": "You were enlightened by divine grace from above, O Hierarch, /  and with much patience in this temporal life you performed your ascetical contests. /  Therefore, you pour forth the grace of miracles /  for all those who come with faith to the revered shrine of your relics, most blessed Arsenios.  / Therefore, we cry out to you:  / “Glory to Him Who strengthened you.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, grants healing to all.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You appeared today as a Russian star revealed by God,  / resplendent with miracles, O Hierarch Arsenios.  / Therefore, do not cease praying to Christ God for your flock,  / and preserve your homeland, and your city,  / and the people who with faith glorify the transfer of your revered relics,  / bowing down before them with fear and love.  / May we all cry out to you with a loud voice:  / “Rejoice, godly-wise Hierarch Arsenios, our Father.”"
+      }
+    },
+    {
+      "name": "Virgin Martyr Euthalia of Sicily",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Euthalia, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Euthalia,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Martyr Troadius of Neocaesarea",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Troadius, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Troadius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Agathon of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Agathon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "400 Martyrs slain by the Lombards in Sicily",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Sabbatius of Tver",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sabbatius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Reigning” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "The assembly of Angels serves you reverently,  / and all the Powers of Heaven glorify you with unceasing voices, O Virgin Theotokos; /  ardently we pray to you, O Sovereign Lady:  / “May divine grace be upon your Reigning Icon,  / and may the radiant beam of the glory of your miracles flow from it upon all who entreat you with faith,  / crying out to God: Alleluia.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Chosen from all mankind as Protector of the Christian race,   / you shelter our land with the veil of your blessings;   / we offer hymns of thanksgiving to you, O Sovereign Lady,  /  in honor of the appearance of your revered Reigning Icon to us.   / As the most merciful Protector of all those who come to you with faith,   / deliver us from all our troubles, that we may cry out to you:  /  “Rejoice, O Reigning Mother of God, Protector of the fervent Christian race.”"
+      }
+    },
+    {
+      "name": "Venerable Joachim of Ithaka",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nShining with divine grace, you illumined those caught in the darkness of ignorance and slavery, /  raising them up by your teachings and radiant miracles,  / O God-inspired ascetic Joachim, /  most honored offspring of Ithaca; /  entreat Christ to grant us great mercy."
+      },
+      "kontakion": null
+    }
+  ]
+}

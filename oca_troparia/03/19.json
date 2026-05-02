@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Chrysanthus and Daria, and those with them at Rome",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us honor the like-minded pair of Martyrs,  / Chrysanthos the offspring of purity, and the most modest Daria. /  For united in holiness in the faith,  / they were shown to be initiates of the Word of God.  / They contested lawfully for Him; and they save those who sing:  / “Glory to Him Who strengthened you.  / Glory to Him Who crowned you. /  Glory to Him Who, through you, works healings for all.”"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "You breathed forth the sweet fragrance of piety, O Chrysanthos,  / thereby drawing Daria to the knowledge of salvation, and you contested with her.  / Putting the serpent to flight, the author of evil, /  you were fittingly taken up to the heavenly Bridal Chamber."
+      }
+    },
+    {
+      "name": "Saint Innocent of Komél and Vologda disciple of Saint Nilus of Sora",
+      "troparion": {
+        "tone": 4,
+        "text": "From youth, you were a chosen vessel,1 and served God all your life,  / O Innocent, instructor of monks. /  You urged them to confront the worse with the better,  / and thereby deadened the passions.  / You ascended to the vision of uncreated beauty in God,  / before Whom you now stand.  / Venerable Father, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Withdrawing from the world and from your relatives into the wilderness,  /  you pleased God by unceasing prayer, and were radiant in life’s spiritual struggle.  /  Father, remember us who fervently revere your memory, that we may cry to you:  /  “Rejoice, Venerable Innocent.”"
+      }
+    },
+    {
+      "name": "Martyr Pancharius at Nicomedia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Pancharius, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Pancharius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "“Sweet-Kissing” Icon of the Mother of God of Smolensk",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all of us, who are burdened with sins, fall on our knees before the Theotokos,  /  bowing before her wonderworking Icon of Tenderness,  /  kissing it and crying aloud with tears: / “O Sovereign Lady, accept the prayer of your unworthy servants,  /  and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Lady.  /  Help us, for in you do we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    }
+  ]
+}

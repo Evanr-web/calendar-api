@@ -1,0 +1,101 @@
+{
+  "date": "2026-01-04",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Zebulon, / and adorn yourself, O Naphtali; / river Jordan, cease flowing / and receive with joy the Master coming to be baptized. / Adam, rejoice with our First Mother / and do not hide yourself as you did of old in Paradise; / for having seen you naked, / He has appeared to clothe you with the first garment. / Christ has appeared to renew all creation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today the Lord enters the Jordan and cries out to John: / “Do not be afraid to baptize me. / For I have come to save Adam, the first-formed man.”"
+      }
+    },
+    {
+      "name": "Synaxis of the Seventy Apostles",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy apostles of the Seventy, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "O faithful, let us praise with hymns / the choir of the seventy disciples of Christ. / They have taught us all to worship the undivided Trinity, / for they are divine lamps of the Faith."
+      }
+    },
+    {
+      "name": "Venerable Theoctistus, Abbot at Cucomo, in Sicily",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy Father Theoktistos, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint Eustathius I, Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Eustathius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Eustathius, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Aquila, Deacon, of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Aquila, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Confessors Zosimus the Hermit and Athanasius the Commentarisius (Superintendent of Prisoners), Anchorites, of Cilicia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champions of Orthodoxy, teachers of purity and of true worship, / the enlighteners of the universe and the adornment of hierarchs: / all-wise fathers Zosimus and Athanasius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Nikephoros the Leper",
+      "troparion": {
+        "tone": 1,
+        "text": "All the angels were astonished by the struggles and and strict asceticism of the Venerable Nikēphóros the Leper;  / for like another Job, patiently enduring his pain, he glorified God,  /  Who has crowned him now with glory, distinguishing him through miracles. /  Rejoice, instructor of monastics!  / Rejoice, beacon of light!  /  Rejoice, for a delightful fragrance pours forth from your relics!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nThe valiant athlete of endurance and fortitude,  / the steadfast diamond of patience and long-suffering was tried by affliction and sickness,  /  and in this way he glorified the Most High God, let us extol Nikēphóros the Leper, / saying unto him: Rejoice, O namesake of victory."
+      }
+    },
+    {
+      "name": "Venerable Euthymius and twelve other Monks, martyred at Vatopedi",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Euthymius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable New Martyr Onuphrius of Hilandar (Mount Athos)",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Onuphrius, rejoices with the angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Metropolitan Symeon of Smolensk",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of temperance.  / Therefore, through humility, you attained the heights;  / and through poverty, riches.  /  O Hierarch Symeón our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights…”)\r\nO Hierarch Symeón,  /  divine thunder, spiritual trumpet, planter of faith,  /  and pruner of heresies, great favorite of the Trinity;  / as you stand before God with the Angels, pray unceasingly for all of us."
+      }
+    }
+  ]
+}

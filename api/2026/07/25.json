@@ -30,5 +30,51 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Divinely-wise Anna, you carried in your womb the pure Mother of God, who gave life to our Life. / Therefore, you are now carried joyfully to the inheritance of heaven, / to the abode of those who rejoice in glory, / where you seek forgiveness of sins for those who faithfully honor you, ever blessed one.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "We celebrate the memory of the progenitors of Christ, / and with faith we ask their help, / that deliverance from every affliction be granted to those who cry out: / “Be with us, O God, who in Your good pleasure glorified them.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Dormition of the Righteous Anna, the Mother of the Most Holy Theotokos",
+  "oca_saints": [
+    {
+      "name": "Dormition of the Righteous Anna, the Mother of the Most Holy Theotokos",
+      "troparion": {
+        "tone": 4,
+        "text": "Divinely-wise Anna, you carried in your womb the pure Mother of God, who gave life to our Life. / Therefore, you are now carried joyfully to the inheritance of heaven, / to the abode of those who rejoice in glory, / where you seek forgiveness of sins for those who faithfully honor you, ever blessed one."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "We celebrate the memory of the progenitors of Christ, / and with faith we ask their help, / that deliverance from every affliction be granted to those who cry out: / “Be with us, O God, who in Your good pleasure glorified them.”"
+      }
+    },
+    {
+      "name": "Virgin Martyr Eupraxia of Tabenna",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Eupraxia, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Eupraxia,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Venerable Makarios, Abbot of Zheltovod and Unzha",
+      "troparion": {
+        "tone": 5,
+        "text": "Today your city of Galich praises you, for within its boundaries you shone as a great sun;  / and by your miracles, O Venerable Makarios, you have illumined all things.  / Now pray to the Lord that our souls may be delivered from the temptations of the Enemy,  / and that your city may be protected from the invasion of pagans."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You appeared as a second Moses, O Venerable one, for he divided the sea with his staff,  / and you conquered the passions like Amalek,1 passing through the impenetrable wilderness with an untroubled mind.  / There, by your prayers, you worked great miracles, feeding hungry people to satiety.  / Now pray to the Lord to give consolation to all those in sorrow, O ever-memorable Father Makarios,  / and to the region of Galich, and praise and affirmation to all the Russian land."
+      }
+    }
+  ]
 }

@@ -32,5 +32,70 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "By endurance you gained your reward, venerable Father; / you persevered in prayer unceasingly; / you loved the poor and provided for them in all things. / Blessed John the Merciful, intercede with Christ God that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "You distributed your wealth to the poor / and in return obtained wealth from heaven, John the Merciful. / Therefore, we honor you and celebrate your memory, O namesake of mercy.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint John the Merciful, Patriarch of Alexandria",
+  "oca_saints": [
+    {
+      "name": "Saint John the Merciful, Patriarch of Alexandria",
+      "troparion": {
+        "tone": 8,
+        "text": "By endurance you gained your reward, venerable Father; / you persevered in prayer unceasingly; / you loved the poor and provided for them in all things. / Blessed John the Merciful, intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You distributed your wealth to the poor / and in return obtained wealth from heaven, John the Merciful. / Therefore, we honor you and celebrate your memory, O namesake of mercy."
+      }
+    },
+    {
+      "name": "Venerable Neilos the Ascetic of Sinai",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, /  and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Neilos, pray to Christ God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nO blessed Neilos, like firewood, you cut away the branches of corporeal passions by your prayerful vigil;  / and as one having boldness before the Lord, deliver me from every possible danger that I may cry to you:  / “Hail, O Father revered by all the world.”"
+      }
+    },
+    {
+      "name": "Blessed John “the Hairy” and Fool-For-Christ at Rostov",
+      "troparion": {
+        "tone": 8,
+        "text": "In your patience, you possessed your reward, O holy father. / You were constant in prayer, while loving and aiding the poor. / Beseech Christ God, O John the merciful, that He may save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "By distributing your wealth to the poor, O John most wise, / you gained the wealth of heaven and were called the merciful one: / Therefore we honor you and celebrate your holy memory!"
+      }
+    },
+    {
+      "name": "Prophet Ahijah",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Ahijah, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Ahijah."
+      }
+    },
+    {
+      "name": "Venerable Nilus the Myrrhgusher of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nilus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

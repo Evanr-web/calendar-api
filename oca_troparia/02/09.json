@@ -1,0 +1,93 @@
+{
+  "date": "2026-02-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Leavetaking of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "Hail, Virgin Theotokos, full of grace;  / for from you has shone forth the Sun of Righteousness, Christ our God,  /  giving light to those in darkness. /  Be glad, O righteous Elder; /  for you received in your arms the Redeemer of our souls,  / Who bestows upon us the resurrection."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
+      }
+    },
+    {
+      "name": "Martyr Nikephoros of Antioch, in Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Nikēphóros, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Bound with chains of love, O Nikēphóros, / you demolished the malice of hatred. / And when beheaded, you became a holy martyr for the Incarnate Savior. / Pray to Him for us who praise your glorious memory in song."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Saint Innocent, Bishop of Irkutsk",
+      "troparion": {
+        "tone": 3,
+        "text": "Most radiant luminary of the Church, you enlightened Siberia with the rays of your virtues,  /  and by healing a multitude of those who came to your shrine with faith, you glorified God.  /  We entreat you, O Hierarch and Father Innocent,  /  by your prayers preserve us from all misfortunes and sorrows."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us the faithful lovingly glorify the blameless1 shepherd  /  and preacher of faith among the peoples of Mongolia,  /  the glory and adornment of the flock of Irkutsk,  / for he is the guardian of Siberia and intercessor for our souls."
+      }
+    },
+    {
+      "name": "Venerable Pancratius of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pancratius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nikēphóros of Vazheozersk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nicephorus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gennadius of Vazheozersk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gennadius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyrs Marcellus, Bishop of Sicily, Philagrius, Bishop of Cyprus, and Pancratius, Bishop of Taoromina",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  /  always act with kindness towards us;  / take not Your mercy from us,  /  but guide our lives in peace  /  through the prayers of the hierarchs Marcellus, Philagrius, and Pancratius."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits...”) The Church glorifies you as teachers of virtue and adornments of hierarchs,  / singing: “By your intercessions for those who lovingly honor you, /  grant progress in virtue, and deliverance from temptations.”"
+      }
+    },
+    {
+      "name": "Venerable Shio Mgvime",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Shio, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyr Apollonia",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Apollonia, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Apollonia,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    }
+  ]
+}

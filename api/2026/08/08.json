@@ -29,5 +29,126 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "In confessing the Faith you proclaimed Orthodox doctrine / and were unjustly exiled for rebuking the wicked Emperor.  /  O righteous and glorious Emilian,  /  the boast of Kyzikos,  / entreat Christ God to grant us His great mercy.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "As a valiant defender of the Trinity, /  the Church for which you suffered glorifies you with hymns, O Emilian,\r\nsince you suffered for Her. /  Therefore we honor your memory.  / Deliver your servants from all assaults of the Enemy.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Holy Confessor Emilian, Bishop of Kyzikos",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Transfiguration of our Lord",
+      "troparion": {
+        "tone": 7,
+        "text": "You were Transfigured on the Mount, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light shine upon us sinners! / Through the prayers of the Theotokos, O Giver of Light, glory to You!"
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
+      }
+    },
+    {
+      "name": "Holy Confessor Emilian, Bishop of Kyzikos",
+      "troparion": {
+        "tone": 3,
+        "text": "In confessing the Faith you proclaimed Orthodox doctrine / and were unjustly exiled for rebuking the wicked Emperor.  /  O righteous and glorious Emilian,  /  the boast of Kyzikos,  / entreat Christ God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "As a valiant defender of the Trinity, /  the Church for which you suffered glorifies you with hymns, O Emilian,\r\nsince you suffered for Her. /  Therefore we honor your memory.  / Deliver your servants from all assaults of the Enemy."
+      }
+    },
+    {
+      "name": "Venerable Gregory the Iconographer of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gregory, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of Venerable Zosimas and Sabbatius of Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zosimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Myron the Wonderworker, Bishop of Crete",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Myron, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Eleutherius and Leonidas of Constantinople, and many infants martyred with them",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gregory of Sinai",
+      "troparion": {
+        "tone": 5,
+        "text": "Adorned with sanctity of soul, as a pure vessel of divine vision,  / you proved to be a reflection of the angelic life.  / Therefore, you shone forth spiritually with the radiance of the virtues,  / O Father Gregory, the boast of Sinai and Athos;  / and you guide us unerringly unto the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Tolga",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, O Most Pure Virgin Theotokos, your Icon shines radiantly upon Tolga, and as a never-setting sun, it always appears to the faithful.  / Seeing it in the heavens, invisibly supported by Angels,  / His Grace Bishop Tryphon of Rostov came to the luminous pillar of fire which appeared,  / and walking on the water as if on dry land,  / he prayed to you with faith for his flock and for all people.  / And turning to you we cry out:  / “Most Holy Virgin Theotokos, we glorify you with faith,  / save our land, save the Hierarchs, /  and deliver us all from misfortune,  / according to your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The miraculous and divinely inspired appearance of your luminous Icon, O Most Pure Virgin,   / is for those who look upon it with faith the undoubted hope of salvation;   / for as a pillar of fire you show your protection, tirelessly and ardently for us,   / and you entreat God, by which you deliver us from all misfortunes,  /  and with joyful voices we pray and cry out to you:   / “Rejoice, O Intercessor for our eternal blessedness.”"
+      }
+    },
+    {
+      "name": "Saint Euthymius the Elder of Saint John the Baptist Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Euthymius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Triandaphyllus of Stara Zagora",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Triandaphyllus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Triandaphyllus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Zosimas of Tuman",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zosimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "10 Egyptian Ascetics and Two Martyrs of Tyre",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

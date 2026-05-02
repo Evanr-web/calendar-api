@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Nikon and 199 disciples with him in Sicily",
+      "troparion": {
+        "tone": 4,
+        "text": "By your ascetic way of life / you conquered the crafty one, Holy Father Nikon. / By virtue of your holy life you became a rule and model to your disciples, / and with them you struggled for the Faith in the West. / You have all attained glory in heaven."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Of like discipline with the Ascetics, and rivaling the holy Athletes in zeal, / you were offered to the Lord through martyrdom, steadfast and righteous Martyrs. / As your sure guide you had the glorious Nikon; / fighting together with him you sang: Alleluia."
+      }
+    },
+    {
+      "name": "Venerable Nikon, Abbot of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nikon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Philetus the Senator, his wife and sons, and those with them in Illyria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Basil of Mangazea in Siberia",
+      "troparion": {
+        "tone": 8,
+        "text": "By God's providence you came from the city of Yaroslavl to the Siberian region,  / and we honor your suffering for chastity at the hands of your master in Mangazeya, O blessed Basil, /  for Christ God has crowned you with a martyr's crown in Heaven, /  and He has glorified you on earth with incorruption and miracles. /  O revered Martyr, preserve our land in peace, and pray for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Enlightened by divine grace, O God-lover, /   you completed the course of your life in chastity, patience, and martyrdom; /   therefore, even after death the radiance of your life has been revealed, /   for you pour forth miracles to those who come with faith to venerate your tomb, crying out:  /  “Rejoice, Saint Basil, wonderworker of Mangazeya and of all Siberia.”"
+      }
+    },
+    {
+      "name": "Monastic Martyr Luke of Saint Anne’s Skete on Mount Athos and Odrin",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Luke, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Luke, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Sergius (Srebryansky), the New Confessor of Tver",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Sergius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

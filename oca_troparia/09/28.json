@@ -1,0 +1,74 @@
+{
+  "date": "2026-09-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Chariton the Confessor, Abbot of Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Chariton, pray to Christ God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You delighted in the monastic life, divinely-wise one / and conquered the bodily passions; / you increased in faith, blossoming as the tree of life in the midst of Paradise, / most blessed and holy Chariton!"
+      }
+    },
+    {
+      "name": "Venerable Chariton of Syanzhemsk, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Chariton, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Herodion, Abbot of Iloezersk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Herodion, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Prophet Baruch",
+      "troparion": {
+        "tone": 8,
+        "text": "You were worthy of the light of prophecy / becoming a companion to Jeremiah. / You foretold the self-emptying of God the Word / which he wrought for the salvation of the world. / Now all heirs of his kingdom honor you, O holy Prophet Baruch!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Baruch."
+      }
+    },
+    {
+      "name": "Martyr Alexander and 30 others in Pisidia and Phrygia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Alexander and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Wenceslaus, Prince of the Czechs",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Wenceslaus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Wenceslaus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Schema-monk Cyril and Schema-nun Maria, the parents of Saint Sergius of Radonezh",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father Cyril and Mother Maria,  / for taking up your crosses, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Cyril and Mother Maria your spirits rejoice with the Angels."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O ye faithful, having gathered together today, /  let us glorify the blessed couple, the faithful Cyril and the kind Maria, /  for together with their beloved son, the Venerable Sergius,  / they pray to the One God in Trinity,  / to establish our land in Orthodoxy, to save families in the world,  / to protect the young from misfortunes and temptations, to strengthen the aged,  / and that our souls may be saved."
+      }
+    }
+  ]
+}

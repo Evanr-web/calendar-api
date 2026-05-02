@@ -30,5 +30,105 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your Nativity, O Virgin, / has proclaimed joy to the whole universe! / The Sun of Righteousness, Christ our God, / has shone from You, O Theotokos! / By annulling the curse, / He bestowed a blessing. / By destroying death, He has granted us eternal Life.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "By Your Nativity, O Most Pure Virgin, / Joachim and Anna are freed from barrenness; / Adam and Eve, from the corruption of death. / And we, your people, freed from the guilt of sin, celebrate and sing to you: / The barren woman gives birth to the Theotokos, the nourisher of our life!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Afterfeast of the Nativity of the Mother of God",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Nativity of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Nativity, O Virgin, / has proclaimed joy to the whole universe! / The Sun of Righteousness, Christ our God, / has shone from You, O Theotokos! / By annulling the curse, / He bestowed a blessing. / By destroying death, He has granted us eternal Life."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "By Your Nativity, O Most Pure Virgin, / Joachim and Anna are freed from barrenness; / Adam and Eve, from the corruption of death. / And we, your people, freed from the guilt of sin, celebrate and sing to you: / The barren woman gives birth to the Theotokos, the nourisher of our life!"
+      }
+    },
+    {
+      "name": "Holy and Righteous Ancestors of God, Joachim and Anna",
+      "troparion": {
+        "tone": 1,
+        "text": "Since you were righteous under the law of grace, O Joachim and Anna, / you gave birth to the God-given infant for our sake. / Therefore, the divine Church radiantly keeps feast today, / joyfully celebrating your honorable memory and giving glory to God / who has raised up a horn of salvation from the house of David."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)Anna is now no longer barren / and nurses the All-Pure One! / She rejoices and calls us all to sing a hymn of praise to Christ, / she who from her womb gave mankind the only ever Virgin Mother."
+      }
+    },
+    {
+      "name": "Martyr Severian of Sebaste",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Severian, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Severian;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Joseph, Abbot of Volokolamsk, Volotsk",
+      "troparion": {
+        "tone": 5,
+        "text": "Let all the faithful who have gathered here praise the adornment of fasters and glory of the Fathers,  /  an alms-giver, a light of wisdom, a teacher of meekness,  /  who put heresies to shame, and the star of Russia,  /  the most wise Joseph,  /  who entreats the Lord to have mercy on our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Regarding the storms of life, the vanity of the world, and the tumult of the passions as nothing, /  you became a dweller in the wilderness,  / an instructor of many, a gatherer of monks, a true intercessor, and a lover of purity.  / O Venerable Joseph, entreat Christ God that our souls may be saved."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Saint Theodosius, Archbishop of Chernigov",
+      "troparion": {
+        "tone": 4,
+        "text": "O Hierarch Father Theodosius, / you are a most worthy Bishop. / You were a light to your flock; / then you were translated to the eternal Mansions. / Pray at the Throne of the King of Glory, / that we may be delivered from present evils / and that our souls may be saved by your prayers, O Holy One!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theophanes the Confessor and Faster of Mount Diabenos",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Theophanes, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Chariton",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Chariton, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Chariton;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Blessed Nikḗtas the Hidden of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Niketas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Ciaran of Clonmacnoise",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ciaran, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

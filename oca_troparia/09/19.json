@@ -1,0 +1,58 @@
+{
+  "date": "2026-09-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Elevation of the Cross",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace."
+      }
+    },
+    {
+      "name": "Martyrs Trophimus, Sabbatius, and Dorymedon of Synnada",
+      "troparion": {
+        "tone": 8,
+        "text": "God praised in Trinity has glorified a trinity of martyrs: / Trophimus, Sabbatius, and Dorymedon. / By their faith, they overthrew the adversary. / Through their prayers, O Christ our God, have mercy on us."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As the foundation of athletes and the confirmation of piety / the Church honors and glorifies your brilliant suffering, / wise and glorious Trophimus, ever-praised and blessed athlete. / Together with your fellow sufferers, ask cleansing for those who hymn you, / for you are invincible."
+      }
+    },
+    {
+      "name": "Saint Theodore, Prince of Smolensk and Yaroslav, and his sons Saints David and Constantine",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you clung to Christ’s love / and you eagerly kept his laws. / You were enriched with miraculous gifts / and now pour forth healings, Theodore, David and Constantine / pray to Christ our God to save those who honor you!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "While in the flesh you were radiant lamps living like the angels. / By fasting, vigils and faith you grew like the trees in paradise. / You blossomed in prayer through the grace you received. / You have become mighty physicians, healing infirmity of souls. / O glorious wonderworkers Theodore, David, and Constantine, / pray to Christ our God for the forgiveness of those who venerate your memory!"
+      }
+    },
+    {
+      "name": "Martyr Zosimas the Hermit of Cilicia",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Zosimas, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Zosimas, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Saint Theodore of Tarsus, Archbishop of Canterbury",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Theodore, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

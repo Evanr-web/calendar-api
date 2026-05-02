@@ -30,5 +30,108 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "Living honorably as a priest, / you completed the course of martyrdom; / you extinguished the worship of idols / and became a champion of your flock, divinely-wise one. / Therefore, we honor you, / mystically crying out: / “Through your prayers deliver us from calamity, ever-memorable Anthimus.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Anthimus, Bishop of Nicomedia and those with him",
+  "oca_saints": [
+    {
+      "name": "Hieromartyr Anthimus, Bishop of Nicomedia and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Living honorably as a priest, / you completed the course of martyrdom; / you extinguished the worship of idols / and became a champion of your flock, divinely-wise one. / Therefore, we honor you, / mystically crying out: / “Through your prayers deliver us from calamity, ever-memorable Anthimus.”"
+      }
+    },
+    {
+      "name": "Venerable Theoctistus",
+      "troparion": {
+        "tone": 4,
+        "text": "Dedicated as God’s priest from your youth, / you spurned all worldly aims. / O Righteous Theoctistus you were radiant in your solitude / and strict in the training of monks. / Guide those who come to you and lead them in the way of salvation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You kept your soul pure and presented it to God as his creation. / Enlightened by him, Theoctistus, you rose to the peak of endeavor. / By your works you confirmed the grace that was given to you."
+      }
+    },
+    {
+      "name": "Holy Martyr Euthymius",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Euthymius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Euthymius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Blessed John “the Hairy” and Fool-For-Christ at Rostov",
+      "troparion": {
+        "tone": 8,
+        "text": "You lived in the city as if in the wilderness,  /  with humility, purity, labors, and ascetical contests,1 and much patience, O Blessed Father John.  /  For having taken up the Cross of Christ, you followed Him and dwelt day and night in prayers and singing psalms in Latin /   for the salvation of the whole world, and the Christian family, /   and you moved toward the Unwaning Light. /   Now the faithful come to your tomb and pray to the Lord, to the Mother of God, and to the Forerunner,  /  and they receive healing, by your prayers.  /  O Blessed Father John, pray for us always, and for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Captivated by love for Christ, O Blessed Father John,  / and desiring heavenly beauty, you despised all earthly things, counting them as nothing;  / and having lived like the Angels on earth, /  you were translated to eternal rest, where you stand before Christ's throne.  / Entreat Him that we and all the Christian family may be saved, /  that we may cry out to you:  / “Rejoice, most Blessed Father John.”"
+      }
+    },
+    {
+      "name": "Saint Phoebe the Deaconess at Cenchreae near Corinth",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nO Phoebe, converser with Saint Paul and divinely-inspired servant of God in the Church of Cenchrea,  / as Christ's handmaiden, and filled with heavenly virtues,  / therefore, we honor you with spiritual hymns.  / Glory to Christ, Who glorified you. /  Glory to Him Who crowned you.  / Glory to Him Who, through you, grants us better things."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You appeared today...”)\r\nO  godly-minded Phoebe,  /  companion of the Apostles and servant of Christ, /   you were born on earth, yet cared for heavenly things;  /  entreat Him for those who with faith honor your memory."
+      }
+    },
+    {
+      "name": "Martyr Basilissa of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Basilissa calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Aristion, Bishop of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Aristion, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Joannicius, first Patriarch of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Joannicius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Polydorus of Cyprus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Polydorus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Polydorus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

@@ -1,0 +1,41 @@
+{
+  "date": "2026-08-29",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "The Beheading of the Holy Glorious Prophet, Forerunner, and Baptist John",
+      "troparion": {
+        "tone": 2,
+        "text": "The memory of the righteous is celebrated with hymns of praise, / but the Lord’s testimony is sufficient for you, O Forerunner. / You were shown in truth to be the most honorable of the prophets, / for you were deemed worthy to baptize in the streams of the Jordan Him whom they foretold. / Therefore, having suffered for the truth with joy, / you proclaimed to those in hell God who appeared in the flesh, / who takes away the sin of the world, / and grants us great mercy."
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "The glorious beheading of the Forerunner, / became an act of divine dispensation, / for he preached to those in hell the coming of the Savior. / Let Herodias lament, for she entreated lawless murder, / loving not the law of God, nor eternal life, / but that which is false and temporal."
+      }
+    },
+    {
+      "name": "Saint Anastasius of the Strumitza Eparchy",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Anastasius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Arkadios the Wonderworker, Bishop of Arsinoe, Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Arkadios, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodora and her daughter Theopiste",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mothers Theodora and Theopiste, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

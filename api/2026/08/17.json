@@ -30,5 +30,132 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyr, Myron, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "From childhood you longed for Christ, all-glorious one, / keeping His divine commandments and running to Him with all your being, all-honored Myron. / Now you zealously pray with the angels, / asking remission of sins / for those who celebrate your memory.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Myron the Presbyter of Cyzicus",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth you preserved your virginity, / in falling asleep you did not forsake the world, O Theotokos. / You were translated to life, O Mother of Life, / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death could hold the Theotokos, / who is constant in prayer and our firm hope in her intercessions. / For being the Mother of Life, / she was translated to life by the One who dwelt in her virginal womb."
+      }
+    },
+    {
+      "name": "Martyr Myron the Presbyter of Cyzicus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr, Myron, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "From childhood you longed for Christ, all-glorious one, / keeping His divine commandments and running to Him with all your being, all-honored Myron. / Now you zealously pray with the angels, / asking remission of sins / for those who celebrate your memory."
+      }
+    },
+    {
+      "name": "Venerable Alypios, Iconographer of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "Depicting the faces of the Saints on boards as a skillful artist,  / you wrote their good deeds diligently on the tablets of your heart,  / and therefore, like an icon, you were beautifully adorned with the grace of the priesthood as with a golden oklad,  / by Christ God, the Savior of our souls, O Alypios praised by all."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "From a young age, you strove toward God,  /  and you were given over to the study of iconography,  /  and when you painted the heavenly church of the Theotokos,  /  and contributed to its adornment,   / you beheld the radiance of the Holy Spirit and received the power to work miracles;  /  therefore, since your icons are miraculous, we honor and glorify you, O wondrous Alypios."
+      }
+    },
+    {
+      "name": "Martyrs Paul and Juliana of Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Paul and Juliana, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Thyrsus, Leucius, Coronatus, and those with them at Caesarea, in Bithynia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Patroclus of Troyes",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Patroclus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Patroclus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Straton, Philip, Eutychian, and Cyprian, of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodoritus, Enlightener of the Lapps, Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodoritus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Leucius of Volokolamsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Leucius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Philip of Sukhona",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Philip, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Svena Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Today Svena Monastery triumphs resplendently  /  and the countless assembly of the Fathers of the Caves rejoices /  in the appearance of the Icon of the Mother of God. / With them we cry unceasingly:  /  “Rejoice, O full of grace, the glory of Svena.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin stands invisibly in the church  /  and prays for us with the assembly of the Fathers of the Caves,  /  who reverently glorify her immeasurable mercy  /  toward our people by the appearance of her wonderworking Icon,  /  which adorns the Monastery of the Caves."
+      }
+    },
+    {
+      "name": "New Martyr Demetrius of Samarina in Epirus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Demetrius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Demetrius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

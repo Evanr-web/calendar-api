@@ -29,5 +29,29 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 7,
+    "text": "You were transfigured on the mountain, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light also shine upon us sinners, / through the prayers of the Theotokos. / O Giver of Light, glory to You!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 7,
+    "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)",
+  "oca_saints": [
+    {
+      "name": "The Holy Transfiguration of our Lord God and Savior Jesus Christ (the Second “Feast of the Savior” in August)",
+      "troparion": {
+        "tone": 7,
+        "text": "You were transfigured on the mountain, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light also shine upon us sinners, / through the prayers of the Theotokos. / O Giver of Light, glory to You!"
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
+      }
+    }
+  ]
 }

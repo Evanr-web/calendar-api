@@ -1,0 +1,98 @@
+{
+  "date": "2026-01-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Athanasius the Great, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "You shone forth with works of Orthodoxy and quenched all heresy, / and became victorious trophy-bearers, hierarchs Athanasius and Cyril. / You enriched all things with piety and greatly adorned the Church, / and worthily found Christ God, / who grants His great mercy to all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Athanasius and Cyril, great hierarchs of true piety, and noble champions of the Church of Christ, / preserve all who sing: / “O Compassionate Lord, save those who honor You.”"
+      }
+    },
+    {
+      "name": "Saint Cyril, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "You shone forth with works of Orthodoxy and quenched all heresy, / and became victorious trophy-bearers, hierarchs Athanasius and Cyril. / You enriched all things with piety and greatly adorned the Church, / and worthily found Christ God, / who grants His great mercy to all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Athanasius and Cyril, great hierarchs of true piety, and noble champions of the Church of Christ, / preserve all who sing: / “O Compassionate Lord, save those who honor You.”"
+      }
+    },
+    {
+      "name": "Venerable Athanasius, Abbot of Syandemsk, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Athanasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Athanasius of Novolotsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Athanasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Marcian of Cyrrhus in Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Marcian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Joachim I, Patriarch of Trnovo and Bulgaria",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Joachim, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Maximus, Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Maximus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Maximus, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Maximus the New",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Maximus your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Maximus, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Ephraim the Lesser",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ephraim, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Hieromonk Alexei of Teklati",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Alexei, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

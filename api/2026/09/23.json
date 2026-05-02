@@ -29,5 +29,59 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "(Podoben: “Be quick to anticipate”)\r\nBe glad, O barren one who has not given birth until now,  / for behold, you have conceived the lamp of the Sun,  / and He shall enlighten all the earth, which is afflicted with blindness.  / Dance, O Zachariah, and cry out with boldness: /  The Prophet of the Most High is about to be born.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 1,
+    "text": "(Podoben: “The angelic choir...”)\r\nThe great and renowned Zachariah rejoices radiantly, /  and exults with his wife Elizabeth;  / for worthily does she conceive John the Baptist,  / whom the Archangel announced joyously, /  and men honor as an initiate of grace.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Conception of the Honorable Glorious Prophet, Forerunner and Baptist John",
+  "oca_saints": [
+    {
+      "name": "Conception of the Honorable Glorious Prophet, Forerunner and Baptist John",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate”)\r\nBe glad, O barren one who has not given birth until now,  / for behold, you have conceived the lamp of the Sun,  / and He shall enlighten all the earth, which is afflicted with blindness.  / Dance, O Zachariah, and cry out with boldness: /  The Prophet of the Most High is about to be born."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "(Podoben: “The angelic choir...”)\r\nThe great and renowned Zachariah rejoices radiantly, /  and exults with his wife Elizabeth;  / for worthily does she conceive John the Baptist,  / whom the Archangel announced joyously, /  and men honor as an initiate of grace."
+      }
+    },
+    {
+      "name": "Saints Xanthippi and Polyxeni of Spain",
+      "troparion": {
+        "tone": 3,
+        "text": "You received the light of the divine Faith,  /  and your works shone with piety, O divinely-inspired Polyxénē; /   you glorified Christ in your life /   as well as by your blameless actions; /   therefore intercede with the Lord Who glorified you, to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nPassing through the countries of the earth most wondrously, /  you were shown holy women like yourselves, O godly Xanthίppē and Polyxénē; /  therefore you received unfading crowns from the hands of our Savior, /  now hear those who cry: “Rejoice, most godly pair.”"
+      }
+    },
+    {
+      "name": "Virgin Martyr Irais (Rhais) of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Irais, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Irais,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Martyrs Andrew, John, and John’s children: Peter and Antonius, of Syracuse, martyred in Africa",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

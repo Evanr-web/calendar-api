@@ -29,5 +29,72 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "As a disciple and companion of Paul / you received in your soul the grace of preaching. / You shone in the night of error and struggled for the Lord’s glory. / Sacred minister of the Savior, Aquila, we all acclaim you.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "The Church has acquired you, O Aquila, / who shine like a great sun. / With the splendor of your teaching / she enlightens those who honor you with faith, / glorious Apostle of the Lord.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Apostle Aquila of the Seventy",
+  "oca_saints": [
+    {
+      "name": "Apostle Aquila of the Seventy",
+      "troparion": {
+        "tone": 1,
+        "text": "As a disciple and companion of Paul / you received in your soul the grace of preaching. / You shone in the night of error and struggled for the Lord’s glory. / Sacred minister of the Savior, Aquila, we all acclaim you."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The Church has acquired you, O Aquila, / who shine like a great sun. / With the splendor of your teaching / she enlightens those who honor you with faith, / glorious Apostle of the Lord."
+      }
+    },
+    {
+      "name": "Venerable Stephen, Abbot of Makhrishche, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Stephen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Justus at Rome",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Justus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Justus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Hellius of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hellius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Onesimus of Magnesia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Onesimus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Venerable Nikodemos the Hagiorite",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nThe Orthodox Church honors you as a virtuous member,  / its finest initiate, and a God-bearing teacher of piety; /  for having received heavenly grace, /  you shone your inspirational writings upon those who cry to you: /  “Rejoice, O Father Νikόdēmos.”"
+      },
+      "kontakion": null
+    }
+  ]
 }

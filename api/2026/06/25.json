@@ -29,5 +29,111 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your lamb Febronia, calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 6,
+    "text": "“Most sweet Jesus, my Bridegroom, / it is not hard for me to follow You;” cried Febronia, / “the sweetness of Your love gives wings of hope to my soul, / the beauty of Your mercy has sweetened my heart; / may I drain the cup of sufferings in imitation of You, / so that You may count me worthy to be among the wise virgins: / those who dance with You in Your bridal chamber.” / Therefore, venerable passion-bearer, as we honor the struggles of your labors we entreat you: / “Pray that we not find the doors of the bridal chamber locked to us.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Virgin Martyr Febronia of Nisibis",
+  "oca_saints": [
+    {
+      "name": "Virgin Martyr Febronia of Nisibis",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Febronia, calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "“Most sweet Jesus, my Bridegroom, / it is not hard for me to follow You;” cried Febronia, / “the sweetness of Your love gives wings of hope to my soul, / the beauty of Your mercy has sweetened my heart; / may I drain the cup of sufferings in imitation of You, / so that You may count me worthy to be among the wise virgins: / those who dance with You in Your bridal chamber.” / Therefore, venerable passion-bearer, as we honor the struggles of your labors we entreat you: / “Pray that we not find the doors of the bridal chamber locked to us.”"
+      }
+    },
+    {
+      "name": "Saints Peter and Fevronia (tonsured David and Euphrosyne), Wonderworkers of Murom",
+      "troparion": {
+        "tone": 8,
+        "text": "You were a precious branch from a pious root O blessed Peter, having lived devoutly in the world, /  and then with your wife, the most wise Febronia, you pleased God by your alms and prayers.  / Therefore, you were found worthy of  the monastic life.  / Entreat the Lord to preserve our land from harm, so that unceasingly we may glorify you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Regarding the princedom and the glory of this world as temporary,  /  you lived devoutly, O Peter, with your wife, the most wise Febronia, /   giving alms and offering God-pleasing prayers. /   Therefore, after death, you rest inseparably in one tomb, invisibly bestowing healings;  /  now entreat Christ to preserve the city and the people who glorify you."
+      }
+    },
+    {
+      "name": "Saint Dionysios, the builder of Prodromou Monastery, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Dionysios, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dometius of Dionysiou",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Dometius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Dometius, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Monastic Martyr Procopius of the Ivḗron Monastery on Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Procopius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Procopius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "New Martyr Procopius of Varna",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Procopius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Procopius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Nikon of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nikon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr George of Attalia",
+      "troparion": {
+        "tone": 3,
+        "text": "You proved to be a divine scion of Attalia and the glory of Krene, O New martyr George; / For you contested steadfastly for Christ / And endured death by hanging. / O glorious Martyr, entreat Christ God, / To grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You were seen to be an equal of the martyrs of Christ / When you steadfastly contested, O blessed George; / For you bravely endured death by hanging, O glorious one. / Therefore, do not cease to intercede that those who fervently acclaim you may be saved."
+      }
+    },
+    {
+      "name": "Saint Theoleptos, Metropolitan of Philadelphia",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith, /  a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  /  and through poverty, riches.  /  O Hierarch Theoleptos our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Theoleptos, /  divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity, as you stand before God with the Angels, /  pray unceasingly for all of us."
+      }
+    }
+  ]
 }

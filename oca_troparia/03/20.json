@@ -1,0 +1,77 @@
+{
+  "date": "2026-03-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyred Holy Fathers who were slain at the Monastery of Saint Savva",
+      "troparion": {
+        "tone": 4,
+        "text": "As chosen and holy lambs of the Savior, / you were gathered together in wise Savva’s flock from many lands. / You were put to death by the cruelty of the barbarians / and you departed joyfully to the heavenly fold. / As righteous athletes you now pray for our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You openly disdained the pleasure of earthly and corruptible things, / choosing instead a life in the desert. / You despised the beautiful things of this world / together with the food that passes away. / Therefore, all-blessed ones, you were counted worthy of the Kingdom of heaven, / where you rejoice with the choirs of martyrs and ascetics. / As we honor your memory, / we earnestly cry out to you: / deliver us, O Fathers, from tribulations!"
+      }
+    },
+    {
+      "name": "Monastic Martyr Euphrosynus of Blue Jay Lake, Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you directed your mind toward God, O blessed Euphrosynos, /  by renouncing the world; you settled in an impenetrable wilderness, /  where you dwelt valiantly in abstinence, prayer and fasting, as is meet, being strengthened by God; /  and you ended your life by suffering murder innocently at the hands of the enemies' sons.  / Therefore, you have been crowned together with holy monks and martyrs,  / with whom you stand before the Throne of the Most Holy Trinity.  / We entreat you to pray that we may receive forgiveness of our transgressions, /  and that we may be granted great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Euphrosynus, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Martyr Photini the Samaritan Woman, her sons, and those with them",
+      "troparion": {
+        "tone": 3,
+        "text": "(“Your confession of the Divine Faith...”)\r\nIllumined by the Holy Spirit,  / and refreshed by the streams of Christ the Savior, O all-praised one, /  you drank the water of salvation and gave it abundantly to those who thirsted. /  O Great Martyr and Equal of the Apostles Photinḗ, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyrs Alexandria, Claudia, Euphrasia, Matrona, Juliana, Euphemia, and Theodora",
+      "troparion": {
+        "tone": 1,
+        "text": "As rational sheep of Christ, the Lamb and Shepherd, you suffered martyrdom,  / and completing your course, you preserved the Faith;  / therefore, O Virgin Martyrs, worthy of praise,  / we honor your holy memory today with joyous hearts, magnifying Christ."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nWe who honor the memory of Christ’s Virgin Martyrs now pray with faith for their help,  / that we may be delivered from every affliction, crying out:  / “God, Who willed to glorify them, is with us.”"
+      }
+    },
+    {
+      "name": "Saint Nikḗtas the Confessor, Archbishop of Apollonias in Bithynia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Niketas, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Cuthbert, Wonderworker of Britain",
+      "troparion": {
+        "tone": 3,
+        "text": "While still in your youth, you laid aside all worldly cares, / and took up the sweet yoke of Christ, / and you were shown forth in truth to be nobly radiant in the grace of the Holy Spirit. / Therefore, God established you as a rule of faith and shepherd of His radiant flock, / Godly-minded Cuthbert, converser with angels and intercessor for men."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Having surpassed your brethren in prayers, fasting and vigils, / you were found worthy to entertain an angel in the form of a pilgrim; / and having shown forth with humility as a bright lamp set on high, / you received the gift of working wonders. / And now as you dwell in the Heavenly Kingdom, our righteous Father Cuthbert, / intercede with Christ our God that our souls may be saved."
+      }
+    },
+    {
+      "name": "New Martyr Myron of Crete",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Myron, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Myron;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

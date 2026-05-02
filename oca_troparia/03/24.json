@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-24",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Annunciation",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the beginning of universal joy moves us to sing the prefestal hymn;  /  for Gabriel is coming and will cry to her:  /  \"Rejoice, O Virgin full of grace, the Lord is with you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Slavic)O Virgin Theotokos, you are the beginning of salvation for all of us on earth; /  for God's servant, the great Archangel Gabriel, was sent from Heaven to stand before you bringing you joy.  / Therefore we all cry to you: “Rejoice, unwedded Bride.”"
+      }
+    },
+    {
+      "name": "Venerable Zachariah the Recluse",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zachariah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Artemon, Bishop of Seleucia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Artemon, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Zachariah the Ascetic of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zachariah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Stephen of Kazan",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Stephen, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Stephen;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Peter of Kazan",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Peter, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Peter;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

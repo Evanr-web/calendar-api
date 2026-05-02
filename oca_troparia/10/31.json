@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-31",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Priestmartyr John Kochurov",
+      "troparion": {
+        "tone": 1,
+        "text": "You were revealed to all as a true shepherd / O Hieromartyr John of Chicago, / for you nurtured your people in the Orthodox Faith, / guiding them by word and deed on the path of salvation, / and defended the Faith even unto the shedding of your blood. / Therefore, we, your spiritual children, cry out in thanksgiving: / Glory to Him who gave you strength! / Glory to Him who granted you the Martyr’s crown! / Glory to Him who through you grants mercy to all!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Now the holy Hieromartyr is glorified, / for he took up his cross and followed Christ. / In so doing, he gave us a model of true discipleship. / Therefore, let us cry aloud to him: / Rejoice, O Father John, the glory of priests!"
+      }
+    },
+    {
+      "name": "Holy Apostles Stakhys, Apelles, Amplias, Urban, and Narcissus of the 70",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...“)\r\nLet us acclaim Stachys, Apellēs, Amplίas, Urban, Nárcissus, and Aristóboulos as a six-stringed harp of the Spirit,  /  singing of God's marvelous gifts to mankind.  /  Together, as divine Apostles,  /  they ask that grace may be granted to our souls"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits of our nature...“)\r\nFittingly, let us praise those sacred treasures of the All-Holy Spirit and rays of the Sun of Glory,  / the wise\r\nApostles Apellēs, Urban, Aristóboulos, Amplίas, Nárcissus, and Stakhys,  / who received grace from our God."
+      }
+    },
+    {
+      "name": "Apostle Aristobulus of the Seventy",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nLet us acclaim Stachys, Apellēs, Amplias, Urban, Narcissus, and Aristóboulos as a six-stringed harp of the Spirit,  / singing of God's marvelous gifts to mankind.  / Together, as divine Apostles,  / they ask that grace be granted to our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits of our nature...”)\r\nFittingly, let us praise the wise Apostles Stachys, Apelles, Amplias, Urban, Narcissus, and Aristóboulos  / those treasures of the Holy Spirit and rays of the Sun of glory,  / who were brought together by the grace of our God."
+      }
+    },
+    {
+      "name": "Apostle Epίmakhos of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Epίmakhos, O Lord,  /  through his suffering has received an incorruptible crown from You, our God.  /  For having Your strength, he laid low his adversaries,  /  and shattered the powerless boldness of demons.  /  Through his intercessions, save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nOf your own accord you went to contend for the true Faith, O Epίmakhos,  / and courageously you cried out to the impious: /  \"I have come to strive in contest for the truth,  / and to destroy the idols of perdition.\" /  And when you were beheaded, you received a crown of righteousness."
+      }
+    },
+    {
+      "name": "Venerable Spyridon and Νikόdēmos the Prosphora-bakers, of the Kiev Caves",
+      "troparion": {
+        "tone": 4,
+        "text": "By making prosphora with your hands, and unceasing psalmody with your lips,  /  you offered a sacrifice of praise1 to the Lord, together with the honorable Νikόdēmos. /  O blessed Spyridon, with him entreat Christ God for our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "So that you might reveal your ardent love for the Lord, O wondrous Spyridon,   /  you stopped up the mouth of the furnace, which was burning intensely, with your mantiya;   /  and so you might show the fountain of the gifts of the Spirit dwelling in you,   /  and by carrying water in your hair-shirt, you quenched the flame of the fire,   /  for having boldness before the Lord, with Blessed Νikόdēmos,   /  always pray for us who sing your praises."
+      }
+    },
+    {
+      "name": "Venerable Maura of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what is according to the image;  / for you took up the Cross and followed Christ. /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal. / Therefore, O Venerable Maura, your spirit rejoices with the Angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "100,000 Martyrs of Tbilisi by the Mongols",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

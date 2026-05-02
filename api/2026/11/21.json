@@ -29,5 +29,29 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Today is the prelude of the good will of God, / of the preaching of the salvation of mankind. / The Virgin appears in the temple of God, / in anticipation proclaiming Christ to all. / Let us rejoice / and sing to her: / \"Rejoice, O Fulfillment of the Creator's dispensation.\"",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "The most pure Temple of the Savior; / the precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the house of the Lord. / She brings with her the grace of the Spirit, / therefore, the angels of God praise her: / “Truly this woman is the abode of heaven.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "The Entry of the Most Holy Mother of God into the Temple",
+  "oca_saints": [
+    {
+      "name": "The Entry of the Most Holy Mother of God into the Temple",
+      "troparion": {
+        "tone": 4,
+        "text": "Today is the prelude of the good will of God, / of the preaching of the salvation of mankind. / The Virgin appears in the temple of God, / in anticipation proclaiming Christ to all. / Let us rejoice / and sing to her: / \"Rejoice, O Fulfillment of the Creator's dispensation.\""
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The most pure Temple of the Savior; / the precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the house of the Lord. / She brings with her the grace of the Spirit, / therefore, the angels of God praise her: / “Truly this woman is the abode of heaven.”"
+      }
+    }
+  ]
 }

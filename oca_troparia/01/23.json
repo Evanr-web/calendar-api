@@ -1,0 +1,66 @@
+{
+  "date": "2026-01-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Clement, Bishop of Ancyra, and Martyr Agathangelus",
+      "troparion": {
+        "tone": 4,
+        "text": "You sprang up, most holy one, / as a branch and stem of holiness, / a most sacred flower of the contest of martyrdom / and as a most sweet fruit given by God to the faithful. / But as one who shared the struggle of the martyrs / and the throne of hierarchs, / intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You have become an honored branch of the vine of Christ, / revealed as one of many struggles, / all-praised Clement, / with your fellow champion you cried out: / “Christ is the shining joy of martyrs.”"
+      }
+    },
+    {
+      "name": "Venerable Gennadius of Kostroma",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gennadius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of Saint Theoctistus, Archbishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Theoctistus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Theoctistus, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Venerable Mausimas the Syrian",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Mausimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Salamanēs the Silent of the Euphrates",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father,  /  for you took up the Cross and followed after Christ.  /  By so doing you taught us to disregard the flesh for it passes away  /  but to care instead for the soul, since it is immortal.  /  Therefore, O venerable Salamanēs, your spirit rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul and firmly grasping unceasing prayer as a spear,  /  you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Salamanēs:  /  \"Always intercede for those who honor you.\""
+      }
+    },
+    {
+      "name": "Saint Paulinus the Merciful, Bishop of Nola",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Paulinus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Paulinus, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    }
+  ]
+}

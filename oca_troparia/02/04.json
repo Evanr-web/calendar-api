@@ -1,0 +1,93 @@
+{
+  "date": "2026-02-04",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "Hail, Virgin Theotokos, full of grace;  / for from you has shone forth the Sun of Righteousness, Christ our God,  /  giving light to those in darkness. /  Be glad, O righteous Elder; /  for you received in your arms the Redeemer of our souls,  / Who bestows upon us the resurrection."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
+      }
+    },
+    {
+      "name": "Venerable Isidore of Pelusium",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nIn your wisdom you adorned the Church of Christ gloriously with your many homilies,  / O Venerable Isidore,  / you were purified by abstinence, great deeds, and divine vision,  / and you shone forth in the world.  / By your words, O Father, we are guided and initiated into a more excellent life."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Finding you to be another morning star, O glorious one,  /  the Church is illumined by the brilliance of your words,  /  and she cries out to you: “Rejoice, most blessed and godly-minded Isidore.”"
+      }
+    },
+    {
+      "name": "Venerable Cyril the Wonderworker, Abbot of Novoezersk, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cyril, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Abraham and Coprius, of Pechenga",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Abraham and Coprius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Jadorus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Jadorus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Jadorus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Abramius, Bishop of Arbela in Assyria",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Abramius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nicholas the Confessor, Abbot of Studion",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nO Studite Nicholas, you were shown as the divine offspring of Kydonίa and a model of the monastic life; /  and you revered the Icon of Christ,  / excelling in the struggles of your confession.  / O Venerable Father, /  intercede with Christ God, that He may grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nYou arose from Kydonίa as a brilliant luminary, /  and illuminated the fullness of the Church by your steadfast confession O God-bearer.  / You clarified the veneration of the Icon of Christ by your struggles and pains. /  Therefore we cry out: “Rejoice, Father Nicholas.”"
+      }
+    },
+    {
+      "name": "Saint Evagrisi, disciple of Saint Shio",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Evagrisi, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Anthony of Kareotis",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal.  /  Therefore, O Venerable Anthony, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us fittingly extol the all-praised Anthony with hymns as a devout and experienced faster,  / as an honorable and voluntary martyr, /  and as one who led an eremitic life in the desert, /  for he has trampled the serpent underfoot."
+      }
+    }
+  ]
+}

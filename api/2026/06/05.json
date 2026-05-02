@@ -30,5 +30,99 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "O Dorotheus, wise hierarch of Christ, / you received the light of wisdom as a gift from the Father of lights. / You increased the talents given to you / and in your old age contested beyond the bounds of nature. / And now, O Hieromartyr, you even intercede for our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 5,
+    "text": "You were resplendent, O blessed Dorotheus, / with virtues brighter than the sun and with your sufferings! / You shine forth and enlighten the land, / dispelling the darkness of idolatry and base heresy. / Therefore, we celebrate your memory with splendor!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Dorotheus, Bishop of Tyre",
+  "oca_saints": [
+    {
+      "name": "Hieromartyr Dorotheus, Bishop of Tyre",
+      "troparion": {
+        "tone": 4,
+        "text": "O Dorotheus, wise hierarch of Christ, / you received the light of wisdom as a gift from the Father of lights. / You increased the talents given to you / and in your old age contested beyond the bounds of nature. / And now, O Hieromartyr, you even intercede for our souls!"
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "You were resplendent, O blessed Dorotheus, / with virtues brighter than the sun and with your sufferings! / You shine forth and enlighten the land, / dispelling the darkness of idolatry and base heresy. / Therefore, we celebrate your memory with splendor!"
+      }
+    },
+    {
+      "name": "Blessed Constantine, Metropolitan of Kiev",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Constantine, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint Theodore Yaroslavich, older brother of Saint Alexander Nevsky",
+      "troparion": {
+        "tone": 8,
+        "text": "You grew up up devoutly, like a sprout from a pious root, /  and though you reposed at a young age, /  you fulfilled long years by your virtues1 O Right-Believing Prince Theodore.  / Therefore entreat Him Who governs time, that by your prayers He may grant us long life,  / and bestow upon our country great and abundant mercy.\r\n1 He, being made perfect in a short time, fulfilled a long time (Wisdom of Solomon 4:13)."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Born in piety, and raised in the fear of God, /  having attained chastity in his life, /  and after his repose shone forth by the incorruptibility of his body.  / Honoring the Right-Believing Prince Theodore as a Saint,  / we humbly pray to Thee,  / O Almighty Master,  / and glorify our land forever with Your Saints."
+      }
+    },
+    {
+      "name": "Finding of the Relics of Venerable Bassian and Jonah, Monks of Pertominsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Bassian and Jonah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Marcian, Nicander, Hyperechius, Appolonius, Leonidas, Arius, Gorgias, Pambo, Selenia, and Irene of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodore, Wonderworker and Hermit of the Jordan",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodore, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Anubius the Confessor and Anchorite of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Anubius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Abba Dorotheus of Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Dorotheus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Peter of Korisha",
+      "troparion": {
+        "tone": 1,
+        "text": "You were revealed as a desert dweller,  / an angel in the flesh and a wonderworker, O our God-bearing Father Peter. /  You received heavenly gifts through fasting, vigils, and prayers;  / you healed the infirm and the souls of those who have recourse to you with faith.  / Glory to Him Who strengthened you.  / Glory to Him Who crowned you. /  Glory to Him Who, through you, works healings for all."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You fled from the company of men, and lived in stony caves and cliffs.  / You were filled with divine desire and love for your Lord, O Peter, /  from Whom you received a crown. /  Pray unceasingly that our souls may be saved."
+      }
+    }
+  ]
 }

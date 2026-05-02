@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Translation of the relics of the Protomartyr and Archdeacon Stephen from Jerusalem to Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Your relics have risen from the depths of the earth, / like a treasury for the immortal life of all of creation. / The Church, rejoicing in the grace that she receives from them, / duteously honors you, Protomartyr Stephen. / Preserve us from error and heresy by your intercession!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You were the first to be sown on the earth by the Heavenly Husbandman, O all-praised one. / You were the first to shed your blood on the earth for Christ, O blessed one. / You were the first to receive the crown of victory from Him in heaven, / Stephen, first of the suffering God-crowned martyrs."
+      }
+    },
+    {
+      "name": "Blessed Basil of Moscow the Fool-For-Christ",
+      "troparion": {
+        "tone": 8,
+        "text": "Your life, O Basil, was true and your chastity undefiled.  /  For the sake of Christ you exhausted your body\r\nwith fasting, vigil, with frost and the scorching sun, in snow and in rain, /  yet your face was radiant like the\r\nsun.  / And now the people of Russia come to you, glorifying your holy falling asleep.  / Therefore, pray to\r\nChrist God that He may deliver us from pagan captivity and from civil war,  / and grant peace to the world,\r\nand great mercy to our souls."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Led by the Spirit of God, most blessed Basil,  / you renounced the turmoil of the world, and despised the anxieties of life.  / You stripped yourself of your earthly clothing,  / and were clothed in the garment of dispassion.  / You fled from the temptation of false worldly power,  / and were a stranger among your own people. /  Having chosen the treasure of Heaven instead of earthly wealth, /  you won a crown of patience.  / And now, most blessed Basil,  / pray to Christ God for us who celebrate your holy memory, that we may cry: \"Hail, most blessed Basil.\""
+      }
+    },
+    {
+      "name": "Holy Fool Basil of Kamen",
+      "troparion": {
+        "tone": 1,
+        "text": "Hearing the voice of Your Apostle Paul saying: \"we are fools for Christ's sake,\"1  / O Christ God, Your servant Basil was a fool on earth for Your sake;  / thus their memory is honored in the same way.  / With them we entreat You, O Lord, that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Stephen, Pope of Rome, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne.  / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God;  /  by teaching the word of truth without error, you defended the Faith, even to the shedding of your blood.  /  Hieromartyr Stephen entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Photeine of Cyprus, Wonderworker",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold, /  and you became a luminary of the world, radiant with miracles, O Photeine our Mother.  / Intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  / and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Mother Photeine:  /  “Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

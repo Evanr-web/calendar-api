@@ -29,5 +29,97 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyr Carpus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “As You were voluntarily raised...”)\r\nThe Master has granted your relics to those on earth / as a precious treasure and a fountain flowing with streams of healings; / they cleanse diseases of every kind / and give grace to souls in a never-ending stream; / and so with one accord we celebrate your feast with love, Carpus and Papylus.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Carpus, Papylus, Agathadorus, and Agathonica, at Pergamum",
+  "oca_saints": [
+    {
+      "name": "Martyrs Carpus, Papylus, Agathadorus, and Agathonica, at Pergamum",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Carpus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “As You were voluntarily raised...”)\r\nThe Master has granted your relics to those on earth / as a precious treasure and a fountain flowing with streams of healings; / they cleanse diseases of every kind / and give grace to souls in a never-ending stream; / and so with one accord we celebrate your feast with love, Carpus and Papylus."
+      }
+    },
+    {
+      "name": "Venerable Benjamin of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Benjamin, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Florentius of Thessalonica",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Florentius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Florentius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Benjamin the Deacon of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Benjamin, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Nikḗtas the Confessor of Paphlagonia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Niketas, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Zlata of Meglena, Bulgaria",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Your confession of the Divine Faith...”) You were a golden vessel of virginity and an undefiled bride of Christ,  / O most glorious virgin Zlata; /  for having preserved your virginity blamelessly, you contested for Christ in a godly manner.  / O glorious Martyr, /  entreat your Bridegroom to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared today...”) Made golden by the All-Holy Spirit, /  you preserved your virginity for Christ, /  and contested in a manner beyond nature,  / O Virgin Martyr Chrysḗ, worthy of praise."
+      }
+    },
+    {
+      "name": "Translation of the Ivḗron Icon of the Mother of God to Moscow",
+      "troparion": {
+        "tone": 1,
+        "text": "The audacity of those who hated the Icon of the Lord and the might of the godless came to Nicaea,  / and those who were sent there inhumanly tortured a widow who devoutly revered the Icon of the Mother of God; /  but by night, she and her son cast the Icon into the sea, crying out: /  “Glory to you, O pure one, for the impassable sea has given you its shoulders.1  /  Glory to your straight way,2 O you who alone are incor­rupt.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Although your holy Icon was cast into the sea by the widow who could not save it from its enemies, O Theotokos,  / it has been shown as the Guardian of Mount Athos and the Gate-Keeper of Ivḗron Monastery,  / driving the Enemy away and delivering those who honor you from all misfor­tunes and dangers."
+      }
+    },
+    {
+      "name": "Saint Anthony, Metropolitan of Chqondidi, and Saint Jacob, Elder of Chqondidi",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Jacob your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Jacob,  / always intercede for us who honor you."
+      }
+    }
+  ]
 }

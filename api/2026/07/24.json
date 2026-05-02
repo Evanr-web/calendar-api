@@ -31,5 +31,56 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 2,
+    "text": "Righteous passion-bearers and true fulfillers of the Gospel of Christ, / chaste Boris and guileless Gleb, / you did not resist the attacks of your brother, the enemy, / when he killed your bodies but could not touch your souls. / Therefore, let the evil lover of power mourn / while you rejoice with the angels standing before the Holy Trinity. / Pray that those who honor your memory may be pleasing to God, / and that all Orthodox Christians may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today your most glorious memory shines forth, / noble participants in the passion of Christ, holy Boris and Gleb, / for you call us together to sing praises to Christ our God! / Praying to Him before your sacred images, / we receive the gift of healing by your prayers, / for you are indeed divine healers.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs and Passion-Bearers Boris and Gleb",
+  "oca_saints": [
+    {
+      "name": "Martyrs and Passion-Bearers Boris and Gleb",
+      "troparion": {
+        "tone": 2,
+        "text": "Righteous passion-bearers and true fulfillers of the Gospel of Christ, / chaste Boris and guileless Gleb, / you did not resist the attacks of your brother, the enemy, / when he killed your bodies but could not touch your souls. / Therefore, let the evil lover of power mourn / while you rejoice with the angels standing before the Holy Trinity. / Pray that those who honor your memory may be pleasing to God, / and that all Orthodox Christians may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today your most glorious memory shines forth, / noble participants in the passion of Christ, holy Boris and Gleb, / for you call us together to sing praises to Christ our God! / Praying to Him before your sacred images, / we receive the gift of healing by your prayers, / for you are indeed divine healers."
+      }
+    },
+    {
+      "name": "Martyr Christina of Tyre",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nYou abandoned your father's error, most revered one,  / you received divine illumination,  / and were betrothed to Christ as a glorious virgin;  / therefore, you contested steadfastly and overcame the Enemy, O Great Martyr Christina. /  Pray unceasingly that we may receive great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up on the Cross...”)\r\nYou appeared as a luminous dove with golden wings,  / and flew to the heights of heaven, O revered Christina, and came to rest. /  We faithfully celebrate your glorious feast  / and venerate the shrine of your relics, /  from which divine healing of souls and bodies flows abundantly for all."
+      }
+    },
+    {
+      "name": "Venerable Polycarp, Archimandrite of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Polycarp, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Hilarion of Tvali",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hilarion, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

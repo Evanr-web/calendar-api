@@ -1,0 +1,69 @@
+{
+  "date": "2026-09-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "The Universal Exaltation of the Precious and Life-Giving Cross",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace."
+      }
+    },
+    {
+      "name": "Repose of Saint John Chrysostom, Archbishop of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Grace shining forth from your lips like a beacon has enlightened the universe. / It has shown to the world the riches of poverty; / it has revealed to us the heights of humility. / Teaching us by your words, O Father John Chrysostom, / intercede before the Word, Christ our God, to save our souls!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Having received divine grace from heaven, / with your mouth you teach all men to worship one God in Trinity. / All-blest and venerable John Chrysostom, we worthily praise you, / for you are our teacher, revealing things divine!"
+      }
+    },
+    {
+      "name": "Monastic Martyr Macarius of Dionysiou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Macarius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Macarius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Monastic Martyr Joseph of Dionysiou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Joseph, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Joseph, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Lesna",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Thou Who wast raised up...”)\r\nLet us, who are sinful and humble, now flee fervently to the Theotokos,  /  bowing down to her, crying out in repentance from the depths of our soul:  /  Hasten, O Sovereign Lady, help us and take pity on us,  /  for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast Protectress of Christians,  /  constant advocate before the Creator,  /  do not despise the entreaties of us sinners,  /  but in your goodness hasten to help us who cry out to you with faith:  /  Speedily hear our petition and intercede for us, O Theotokos,  /  for you always protect those who honor you."
+      }
+    },
+    {
+      "name": "Repose of Saint Anthimus, Bishop of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Anthimus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

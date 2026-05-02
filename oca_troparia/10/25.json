@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-25",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Marcian and Martyrius, the Notaries of Constantinople",
+      "troparion": {
+        "tone": 3,
+        "text": "In holy zeal you dispelled the error of Arius / and proclaimed the Trinity, one in essence. / Holy martyrs Marcian and Martyrius, / unshaken bulwarks of Orthodoxy, / entreat Christ our God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “As You were voluntarily raised...”)\r\nFrom your youth you were good athletes, wise Marcian and Martyrius, / vanquishing the Arian heretics; / you kept the faith perfect by following in the footsteps of your bishop and teacher Paul, / therefore, you are worthy to be with him in eternal life, / as respected defenders of the Holy Trinity."
+      }
+    },
+    {
+      "name": "Venerable Martyrius the Deacon, Recluse of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Martyrius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Anastasius the Fuller at Salona in Dalmatia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Anastasius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Tabitha the Widow, raised from the dead by the Apostle Peter",
+      "troparion": {
+        "tone": 1,
+        "text": "With the flow of the many-streamed river of almsgiving / you watered the dry earth of the needy. / Showering alms on the widows and the poor, / you shone with the light of your works / and were radiant with grace, O Tabitha. / Glory to Christ who loves you! / Glory to Christ who has blessed you! / Glory to Christ whom you followed as a true disciple and a spotless lamb!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You served the Savior in holiness / by your God-fearing deeds, / and were a model of love as his disciple. / O Tabitha, we praise your memory!"
+      }
+    }
+  ]
+}

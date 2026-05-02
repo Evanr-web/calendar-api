@@ -30,5 +30,62 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the hierarchs Clement and Peter.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “Today You have shown forth...”)Unshakeable and godlike towers of the Church, / truly inspired and mighty pillars of the Faith, / all-praised Clement and Peter, protect us all by your prayers.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Clement, Pope of Rome",
+  "oca_saints": [
+    {
+      "name": "Leavetaking of the Entry of the Most Holy Theotokos Into the Temple",
+      "troparion": {
+        "tone": 4,
+        "text": "Today is the prelude of the good will of God, / of the preaching of the salvation of mankind. / The Virgin appears in the temple of God, / in anticipation proclaiming Christ to all. / Let us rejoice / and sing to her: / Rejoice, O Divine Fulfillment of the Creator’s dispensation!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The most pure Temple of the Savior: / The precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the House of the Lord. / She brings with her the grace of the Spirit, / which the angels of God do praise. / Truly this woman is the abode of Heaven!"
+      }
+    },
+    {
+      "name": "Hieromartyr Clement, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the hierarchs Clement and Peter."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Unshakeable and godlike towers of the Church, / truly inspired and mighty pillars of the Faith, / all-praised Clement and Peter, protect us all by your prayers."
+      }
+    },
+    {
+      "name": "Hieromartyr Peter, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the hierarchs Clement and Peter."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Unshakeable and godlike towers of the Church, / truly inspired and mighty pillars of the Faith, / all-praised Clement and Peter, protect us all by your prayers."
+      }
+    },
+    {
+      "name": "Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar",
+      "troparion": {
+        "tone": 4,
+        "text": "With your words you taught the pagans the Faith of Christ,  / and by your deeds you raised yourself up to\r\nthe divine life, O Hierarch Clement, Equal-of-the-Apostles,  / you shine forth with miracles and signs upon\r\nthose who come to you with faith, / wondrously illumining the Church;  / therefore, we glorify your honored\r\nmemory."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Clement, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    }
+  ]
 }

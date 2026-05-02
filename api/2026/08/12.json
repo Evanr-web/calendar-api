@@ -29,5 +29,59 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs Anicetus and Photius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Anicetus and Photius of Nicomedia, and those with them",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Transfiguration of our Lord",
+      "troparion": {
+        "tone": 7,
+        "text": "You were Transfigured on the Mount, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light shine upon us sinners! / Through the prayers of the Theotokos, O Giver of Light, glory to You!"
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
+      }
+    },
+    {
+      "name": "Martyrs Anicetus and Photius of Nicomedia, and those with them",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Anicetus and Photius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Alexander, Bishop of Comana",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Alexander, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one,  / you abolished the sacrifices of idolatry and showed yourself as the protector of your flock.  / Therefore, we cry fervently to you: /  “By your intercessions, deliver us from all misfortunes, O Alexander, our Father.”"
+      }
+    },
+    {
+      "name": "Martyr Gerontius, and those with him, of Saint David Gareji Monastery, Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Pamphilus and Capiton",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Pamphilus and Capiton, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

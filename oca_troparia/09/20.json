@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Elevation of the Cross",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace."
+      }
+    },
+    {
+      "name": "Greatmartyr Eustáthios Placidas, with his wife and children, of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Eustáthius and his wife and sons, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)Clearly emulating the sufferings of Christ,  / and faithfully drinking of His cup, 1  O Eustáthios, you became a partaker and joint heir of His glory, / receiving from the God of all divine forgiveness from on high."
+      }
+    },
+    {
+      "name": "Holy Martyr and Confessor Michael and his councilor, Theodore, Wonderworkers of Chernigov",
+      "troparion": {
+        "tone": 4,
+        "text": "Ending your lives by martyrdom, and adorned with martyric crowns,  /  you ascended into the heavens, most wise Michael, and valiant Theodore.  /  Entreat Christ God to preserve your homeland, and all Orthodox Christians, by His great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nDespising an earthly kingdom, and regarding it as worthless, you forsook its transient glory.  /  You entered the contest and proclaimed the Trinity before your tormentors, O Passion-bearer Michael, and valiant Theodore.  / Standing before the King of the Bodiless Powers, pray for your homeland, and for all Orthodox Christians, that we may always revere you."
+      }
+    },
+    {
+      "name": "Saint Oleg, Prince of Briansk",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Basil your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Basil,  / always intercede for us who honor you."
+      }
+    },
+    {
+      "name": "Monastic Martyr Hilarion of Saint Anne Skete, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Hilarion, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Hilarion, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    }
+  ]
+}

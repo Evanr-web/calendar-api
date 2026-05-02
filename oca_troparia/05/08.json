@@ -1,0 +1,44 @@
+{
+  "date": "2026-05-08",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle and Evangelist John the Theologian",
+      "troparion": {
+        "tone": 2,
+        "text": "O beloved Apostle of Christ our God, / come quickly to deliver your helpless people. / He on whose breast you leaned, will accept you as intercessor. / Entreat Him, O Theologian, to disperse the clouds of darkness, / granting us peace and great mercy!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Who shall declare your greatness,  /  O virgin disciple, /  for you pour forth wonders and are a source of healings, /  and pray for our souls as theologian and friend of Christ."
+      }
+    },
+    {
+      "name": "Venerable Arsenius the Great",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arsenius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You shone from Rome as a great sun and reached the royal city,1 most blessed one,  / enlightening it by your words and deeds, and dispersing the darkness of foolishness.  / Therefore, we honor you, O Venerable Arsenios, glory of the Fathers."
+      }
+    },
+    {
+      "name": "Venerable Arsenius the Lover-of-Labor of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arsenius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Pimen the Ascetic of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pimen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "date": "2026-02-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "1st Saturday of Great Lent: The Miracle of the Boiled Wheat",
+      "troparion": {
+        "tone": 2,
+        "text": "Great are the accomplishments of faith, /  the Holy Martyr Theodore rejoiced in the flames as though at the water of rest, /  for having been made a whole-burnt offering in the fire, /  offered to the Trinity as a sweet loaf. /  By his prayers, O Christ God, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Original melody) Having carried the faith of Christ within thy heart as a breastplate; /  thou didst trample underfoot the forces of the Enemy. /  Therefore thou art crowned with a heavenly crown, as one who is joyfully invincible."
+      }
+    },
+    {
+      "name": "Venerable Basil the Confessor, companion of Venerable Procopius at Decapolis",
+      "troparion": {
+        "tone": 1,
+        "text": "Dweller of the desert and angel in the body, / you were shown to be a wonder-worker, our God-bearing Father Basil. / You received heavenly gifts through fasting, vigil, and prayer: / Healing the sick and the souls of those drawn to you by faith. / Glory to Him who gave you strength! / Glory to Him who granted you a crown! / Glory to Him who through you grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nYou received a revelation of God from on high, O wise one, / and withdrew from the midst of the world’s tumult. / You lived the monastic life with honor, / receiving the power to work miracles and heal diseases by grace, / most blessed and holy Basil."
+      }
+    },
+    {
+      "name": "Blessed Nicholas (Salos) of Pskov the Fool-For-Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "According to the flesh, the Holy Fool was a Slav from the land of Pskov; /  yet by feigning foolishness, he was shown as a glorified citizen of the Heavenly Jerusalem, 1  / rejoicing with the Angels;  / he was named for the myrrh-streaming Hierarch Nicholas,  / with whom he always prays to Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You were revealed as a wonderworker, O Nicholas,  /  when you turned the Tsar's power from wrath to mercy,  /  and so a fervent intercessor has appeared in our land. /   Now we entreat you, O Saint: “Remain with us once more and protect us from the wiles of the Enemy; /   for you are the glory and affirmation of the city of Pskov and of all those who love Christ.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Proterius, Patriarch of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Proterius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Nestor, Bishop of Magydos in Pamphylia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Nestor, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Marina and Kyra of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mothers Marina and Kyra, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Domnica (Domnina) of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Domnica, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable John Cassian the Roman",
+      "troparion": {
+        "tone": 8,
+        "text": "Having been purified through fasting,  / you attained the knowledge of wisdom from the God-bearing Fathers who lived in the desert,  / and learned to restrain the passions.  / Therefore, by your prayers, grant that our flesh may be obedient to our spirit; /  for you, O Venerable Cassian, are the teacher of all those in Christ who glorify your memory."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As a venerable monk, O John Cassian,  / you consecrated your life to God, and radiant with virtue,  / you shone like the sun with the splendor of your divine teachings,  / always enlightening the hearts of all who honor you.  / Earnestly entreat Christ on behalf of those who praise you with fervent love."
+      }
+    },
+    {
+      "name": "Venerable John-Barsanuphius, Bishop of Damascus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Heiromartyr Theokteristus",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Theokteristus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Meletius, Archbishop of Khar'kov and Akhtyrsk",
+      "troparion": {
+        "tone": 4,
+        "text": "You came to know that worldly goods are temporary and fleeting,  / and from your youth you loved a life of fasting and filled with labors, O most blessed one, /  the glory of hierarchs and boast of monastics, diligent evangelist of the Pre-Eternal Word,  / shelter and refuge of the destitute and the wretched.  / Therefore, in your prayers, you tried to keep watch with Christ,1 /  and in seeking Him, you found an unfading crown with all the Saints.  / O Hierarch Meletios, our Father, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Aflame with zeal for God, you loved Him with all your heart, O Meletios, our Father,  / and for His sake, you hastened toward monastic contests, /  and brought yourself to Christ God, as a good shepherd,  / wisely shepherding the flock which Christ gave you.  / O Hierarch, worthy of praise, pray to Christ God for us."
+      }
+    },
+    {
+      "name": "Saint Germanus of Dacia Pontica (Dobrogea)",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Germanus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

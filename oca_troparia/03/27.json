@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-27",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Matrona of Thessalonica",
+      "troparion": {
+        "tone": 3,
+        "text": "With undaunted spirit you preserved the Faith, / and your soul, Matrona, was not enslaved by the cruelty of your torturers. / You excelled in contest, slaying the crafty one / and were mystically wedded to the Lord of creation. / Fervently entreat him to deliver us from all harm!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Filled with the light of the Spirit, O Matrona, / you regarded your prison cell as a bridal chamber; / and from it you hastened to your radiant dwelling in the heavens, crying out: / “In divine love for You, O Word, I gladly endured scourgings.”"
+      }
+    },
+    {
+      "name": "Martyrs Manuel and Theodosius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Manuel and Theodosius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable John the Clairvoyant, Anchorite, of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Mount Athos, “Sweet Kissing”",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nWe praise thy holy Icon as a most honored gift, /  and having acquired it, Philotheou Monastery rejoices exceedingly;  / for in it we behold thee, O Pure One, kissing Christ as an infant; /  and we magnify thy great glory, O Virgin, crying out to thee:  / Glory to thy mighty works, O Pure One!  / Glory to thy compassion!  / Glory to thy care for us, O Spotless One!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Prophet Hanani",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Hanani, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Endowed with the gift of prophecy, O Hanani, / you clearly proclaimed the saving coming of Christ to the world. / His brightness has brought light to the whole universe."
+      }
+    }
+  ]
+}

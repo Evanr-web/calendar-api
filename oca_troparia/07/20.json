@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy, Glorious Prophet Elijah",
+      "troparion": {
+        "tone": 4,
+        "text": "An angel in the flesh and the cornerstone of the prophets, / the second forerunner of the coming of Christ, / glorious Elijah sent grace from on high to Elisha, / to dispel diseases and to cleanse lepers. / Therefore, he pours forth healings on those who honor him."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Prophet Elijah of great renown, / seer of the mighty mighty works of God, / by your command you held back the rain! / Pray for us to the only Lover of mankind!"
+      }
+    },
+    {
+      "name": "Repose of Venerable Abramius of Galich or Chukhloma Lake, disciple of Venerable Sergius of Radonezh",
+      "troparion": {
+        "tone": 4,
+        "text": "Withdrawing from the vanity of the world to a quiet refuge,  / you went to the monastery of Saint Sergius,  / and there, after living a life like that of an Angel,  / you came to the land of Galich,  / where, planting the faith of Christ and cleansing the newly-baptized people from pagan superstitions,  / you performed many great feats,  / and after establishing four monasteries, the gathering of monks was distinguished,  / and you brought them to Christ the Savior.  / Therefore, O Venerable Father Abramius, entreat Him to save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "In the monastery of Saint Sergius you learned the monastic life perfectly,  / and for even greater solitude and contests you wished to retire to the wilderness;  / and guided by the Spirit of God, you came to the boundaries of the land of Galich,  / and there in the wilderness you miraculously found the Icon of the Mother of God.  / After accomplishing great and glorious deeds with it,  / you even reached the borders of Chukhloma,  / and from there you were translated to the heavenly abodes,  / O God-bearer Abramius, our Father."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Athanasius, Abbot of Brest-Litovsk",
+      "troparion": null,
+      "kontakion": {
+        "tone": 4,
+        "text": "By your life, Athanasios, you were revealed as an ornament of the monastic life and adornment of the martyrs;  /  and as a most radiant sun you shone forth on the Orthodox people.  /  Therefore, Christ has enriched you with the gift of working miracles,  /  so that honoring your memory, we may call out to you:  /  \"Remember your flock in your prayers, O Venerable one.\""
+      }
+    },
+    {
+      "name": "“Chukhloma” Icon of the Mother of God from Galich",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos, /  and let us fall down in repentance, crying out from the depths of our souls:  /  “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast protectress of Christians, /  most constant advocate before the Creator,  /  do not despise the voices of us who have sinned,  /  but in your goodness come speedily to help us, who cry to you in faith:  /  “Hasten to intercede for us, O Theotokos,  /  and speedily make supplication, for you always protect those who honor you.”"
+      }
+    },
+    {
+      "name": "Martyr Ilia Chavchavadze of Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Ilia, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Ilia;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Righteous Martyr Maria (Skobtsova)",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Maria calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Priestmartyr Demetrius (Klepinine)",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Demetrius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Priestmartyr Alexei (Medvedkov)",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Alexei, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Salome the Georgian",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Salome, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -30,5 +30,48 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "(Podoben: “Awed by the beauty of your virginity...”)\r\nLet us adorn the phalanx of Martyrs with garlands of songs:  /  Thyrsos, Philḗmon, steadfast Apollonios,  /  Arrian, Kallinikos, and the glorious Leukios,  /  for they overthrew the Enemy, and are pillars of piety.  /   Together they illumine the world with the radiance of heavenly grace.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “You appeared today...”)\r\nLet us gather today,  / and praise the luminaries of the Church,  / acclaiming them as prize-winners of Christ our God.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Thyrsos, Leukios, and Kallinikos",
+  "oca_saints": [
+    {
+      "name": "Martyrs Thyrsos, Leukios, and Kallinikos",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Awed by the beauty of your virginity...”)\r\nLet us adorn the phalanx of Martyrs with garlands of songs:  /  Thyrsos, Philḗmon, steadfast Apollonios,  /  Arrian, Kallinikos, and the glorious Leukios,  /  for they overthrew the Enemy, and are pillars of piety.  /   Together they illumine the world with the radiance of heavenly grace."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nLet us gather today,  / and praise the luminaries of the Church,  / acclaiming them as prize-winners of Christ our God."
+      }
+    },
+    {
+      "name": "Martyrs Philemon, Apollonios, Arrian, and Theonas of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Awed by the beauty of your virginity...”)\r\nLet us adorn the phalanx of Martyrs with garlands of songs:  / Thyrsos, Philḗmon, steadfast Apollonios,  /  Arrian, Kallinikos, and the glorious Leukios,  /  for they overthrew the Enemy, and are pillars of piety.  /  Together they illumine the world with the radiance of heavenly grace."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nLet us gather today,   /  and praise the luminaries of the Church,   /  acclaiming them as prize-winners\r\nof Christ our God"
+      }
+    },
+    {
+      "name": "Saint Hilarion, Metropolitan of Suzdal and Yuriev",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Hilarion, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
 }

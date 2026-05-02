@@ -1,0 +1,125 @@
+{
+  "date": "2026-04-04",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "The Raising of Lazarus (Lazarus Saturday)",
+      "troparion": {
+        "tone": 1,
+        "text": "By raising Lazarus from the dead before Your passion, / You did confirm the universal Resurrection, O Christ God! / Like the children with the palms of victory,  / we cry out to You, O Vanquisher of death: / Hosanna in the Highest! / Blessed is He that comes in the Name of the Lord!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Christ the Joy, the Truth and the Light of all, / the Life of the World and the Resurrection / has appeared in His goodness, to those on earth. / He has become the Image of our Resurrection, / granting divine forgiveness to all!"
+      }
+    },
+    {
+      "name": "Venerable Joseph the Hymnographer",
+      "troparion": {
+        "tone": 2,
+        "text": "Come, let us acclaim the divinely inspired Joseph, / the twelve-stringed instrument of the Word, / the harmonious harp of grace and lute of heavenly virtues, / who lauded and praised the assembly of the saints. / And now he is glorified with them."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Your divinely inspired tongue was the pen of a ready scribe, / according to the words of David. / You sang of the contests of the saints / and described the grace they received through their labors. / Therefore, we cry to you: “Rejoice, O blessed harp of holy melody!”"
+      }
+    },
+    {
+      "name": "Venerable George of Mount Maleon in the Peloponnesus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father George, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Joseph the Much-Ailing, of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joseph, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Zosimas, Abbot of Vorbozomsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zosimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Zosimas of Palestine",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us the faithful praise Zosimas the offspring of the wilderness, / the angel in the flesh and the boast of monastics. / With him, let us acclaim holy Mary of Egypt / whose life transcended the limits of nature. / Together, let us cry to them: / Glory to him who strengthened you! / Glory to him who sanctified you! / Glory to him who through you works healing for all!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Let us all praise the righteous Zosimas, the boast of monastics, / and with him, Mary who in the desert lived the angelic life. / Let us cry to them in faith: / Deliver from harm and corrupting passions, / those who celebrate your radiant memory!"
+      }
+    },
+    {
+      "name": "Virgin Martyr Pherbutha (Phermoutha) of Persia, with her sister, and servant",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Pherbutha, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Pheerbutha,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "New Martyr Niketas of Pojani and Serres",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Niketas, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Isidore, Bishop of Seville",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Isidore, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theonas, Archbishop of Thessalonica",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Theonas, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Gerontissa Icon of the Mother of God",
+      "troparion": null,
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “With the streams of your blood...”) [Kontakion of the Great Martyr Demetrios]\r\nWe fall down before you as our Gerontissa, /  and strong protection, Most Holy Mother. /  O Most Pure Theotokos, /  do not cease to protect us always, in danger and sorrow."
+      }
+    },
+    {
+      "name": "The Life Giving Fountain of the Mother of God",
+      "troparion": null,
+      "kontakion": {
+        "tone": 8,
+        "text": "O most favored by God, you confer on me the healing of your grace from your inexhaustible Fountain.  / Therefore, since you gave birth incomprehensibly to the Word, /  I implore you to refresh me with the dew of your grace that I might cry to you: Hail, O Water of salvation."
+      }
+    },
+    {
+      "name": "“Deliverer” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Like a bright star, your Holy Deliverer Icon shone forth with Divine miracles, /   illuminating those who are in the darkness of sorrows with the beams of your grace and mercy.  /  Therefore, All-Good Virgin,  /  grant us deliverance from troubles, /   the healing of spiritual and physical diseases, salvation, and great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O Most Holy Lady, those who are in need turn to your Icon with faith, /  after being delivered from calamities by your protection;  / but as the Mother of Christ God, deliver us from cruel calamities, both temporal and eternal,  / that we may cry out to you: “Rejoice, our deliverer from every trouble.”"
+      }
+    }
+  ]
+}

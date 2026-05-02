@@ -1,0 +1,69 @@
+{
+  "date": "2026-01-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 1,
+        "text": "When You, O Lord were baptized in the Jordan / the worship of the Trinity was made manifest / for the voice of the Father bore witness to You / and called You His beloved Son. / And the Spirit, in the form of a dove, / confirmed the truthfulness of His word. / O Christ, our God, You have revealed Yourself / and have enlightened the world, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today You have shown forth to the world, O Lord, / and the light of Your countenance has been marked on us. / Knowing You, we sing Your praises. / You have come and revealed Yourself, / O unapproachable Light."
+      }
+    },
+    {
+      "name": "Martyr Polyeuktos of Melitene in Armenia",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyr Polу́euktos, O Lord,  / through his contest received an incorruptible crown from You, our God; /  for, possessed of Your strength,  / he laid the tyrants low and shattered the powerless boldness of the demons.  / By his supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nWhen the Savior bowed his head in the Jordan,  / the heads of the dragons were crushed;1  / when Polу́euktos was beheaded, the deceiver was put to shame."
+      }
+    },
+    {
+      "name": "Hieromartyr Philip, Metropolitan of Moscow and All Russia",
+      "troparion": {
+        "tone": 8,
+        "text": "O Hierarch Philip, successor of the First Hierarchs,  / pillar of Orthodoxy, champion of truth, and new confessor;  / you laid down your life for your flock.  / As one having boldness before Christ, pray for your city,  /  and for the people who rightly revere your holy memory."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Let us praise the most wise Phillip, the instructor of Orthodoxy and herald of truth,  /  emulator of Chrysostom, and luminary of Russia,  / who nourished his spiritual children with the food of his words;  /  for with his tongue he sang praises,  / and taught us to chant with our lips as an initiate of the mysteries of God's grace."
+      }
+    },
+    {
+      "name": "Prophet Shemaiah (Samaia or Semeias)",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Shemaiah, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Shemaiah."
+      }
+    },
+    {
+      "name": "Saint Peter, Bishop of Sebaste, in Armenia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Peter, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Peter, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Eustratius the Wonderworker",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Eustratius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

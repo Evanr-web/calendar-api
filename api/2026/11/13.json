@@ -29,5 +29,70 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "Grace shining forth from your mouth like a beacon has illumined the inhabited earth; /  it has disclosed to the world treasures which wealth cannot buy;  / and has set forth for us the height of humility. /  Instructing us by your words, O Father John Chrysostom, /  intercede with the Word, Christ God, that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “When You had fulfilled Your dispensation for our sakes”1...)\r\n\r\nYou received divine grace from Heaven, /  and by your lips you teach all men to worship the one God in Trinity,  / O most blessed Venerable John Chrysostom.  / We praise you, as is meet,  / for you are a guide, making divine things clear.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint John Chrysostom, Archbishop of Constantinople",
+  "oca_saints": [
+    {
+      "name": "Saint John Chrysostom, Archbishop of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Grace shining forth from your mouth like a beacon has illumined the inhabited earth; /  it has disclosed to the world treasures which wealth cannot buy;  / and has set forth for us the height of humility. /  Instructing us by your words, O Father John Chrysostom, /  intercede with the Word, Christ God, that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “When You had fulfilled Your dispensation for our sakes”1...)\r\n\r\nYou received divine grace from Heaven, /  and by your lips you teach all men to worship the one God in Trinity,  / O most blessed Venerable John Chrysostom.  / We praise you, as is meet,  / for you are a guide, making divine things clear."
+      }
+    },
+    {
+      "name": "Martyrs Nikephoros, Antoninus, and Germanus of Caesarea, in Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Nicephorus, Antoninus, and Germanus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Manetha of Cæsarea in Palestine",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Manetha, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Manetha;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Monastic Martyr Damascene of the Lavra",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Damascene, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Damascene, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Stockholm Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls:   /  “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Sovereign Lady.  / Help us, for in you do we hope,  / and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    }
+  ]
 }

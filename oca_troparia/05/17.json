@@ -1,0 +1,79 @@
+{
+  "date": "2026-05-17",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Sunday of the Blind Man",
+      "troparion": null,
+      "kontakion": {
+        "tone": 4,
+        "text": "I come to You, O Christ, / blind from birth in my spiritual eyes / and I call to You in repentance: / You are the most radiant light of those in darkness!"
+      }
+    },
+    {
+      "name": "Apostle Andronicus of the Seventy and his fellow-laborer, Junia",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Andronicus / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nLet us praise the apostle of Christ, Andronicus, / the all-radiant star who illumined the nations with the light of the knowledge of God. / Together with him we praise all-wise Junia, / who shone with righteousness. / To them let us cry out: / “Unceasingly pray to Christ God for us all.”"
+      }
+    },
+    {
+      "name": "Saint Euphrosynē, Great Princess of Moscow",
+      "troparion": {
+        "tone": 5,
+        "text": "From childhood, you were someone pleasing to God,  / and leaving your radiant royal palace, you arrived at the Convent you founded.  / Having crossed the abyss of the sea of life, /  now with the Angels, you glorify Christ God in songs.  / O Venerable Euphrosynē,  / do not cease to pray that He will always preserve your Convent, /  and grant us peace and great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You scorned all the good things of this world as vain,  / and exhausted your body with fasting and vigilance, /  you pleased God with your unceasing prayers, O Venerable Euphrosynē,  / and receiving the gift of healing from Him,  / you restored the sight of the blind man, and alleviated many other ailments.  / Therefore, we cry out with joy,  / “Glory to God, Who is wondrous in His Saints.”"
+      }
+    },
+    {
+      "name": "Martyrs Solochon, Pamphamer, and Pamphalon, at Chalcedon",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Solochon, Pamphamer, and Pamphalon, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Stephen, Archbishop of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Stephen, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dodo of the Saint David-Gareji Monastery, Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Dodo, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Great Martyr Nicholas of Sofia (Bulgaria)",
+      "troparion": {
+        "tone": 3,
+        "text": "You were enriched by the dawn of the Spirit, O glorious one,  / and from Whom you received boldness, you brought forth the Trinity one in essence at the Lord's judgment; /  therefore, you were pelted with stones, but were not defeated by this.  / You were burnt in the fire, and denounced the delusion of the godless. /  O much-suffering Saint Nicholas, entreat Christ God to grant our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us praise the godly Nicholas in songs,  / a true champion of piety, and invincible helper in troubles;  / for in his last year he appeared as a most luminous star, /  enlightening the hearts of the faithful;  / and now he stands with the Angels before the Holy Trinity,  / praying unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Saint Athanasius the New, Wonderworker and Archbishop of Christianopolis",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Athanasius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

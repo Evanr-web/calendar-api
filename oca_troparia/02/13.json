@@ -1,0 +1,66 @@
+{
+  "date": "2026-02-13",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saints Martinian, Zoe, and Photina of Caesarea in Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "You quenched the flames of passion, blessed Martinian, with abundant tears; / you calmed the waves of the sea and checked the assaults of wild beasts, saying: / “Almighty God, You are most glorious, for You have saved me from the fire and storm!”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us worthily praise with hymns the ever-venerable Martinian, / the tried ascetic who struggled for piety, / an honorable athlete by deliberate choice, / and a resolute citizen and inhabitant of the desert; / for he has trampled down the serpent."
+      }
+    },
+    {
+      "name": "Venerable Stephen (in monasticism Simeon), the Myrrhgusher and Prince of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "You were illumined with the image of Godly grace, / and after death you have shone with the light of your life, / by issuing sweet-scented myrrh / which flows from the tomb of your relics, / and sustains your people on this earth, / O our Father Simeon, discerner of the Way of God, / pray to Christ our God that He may grant us His great mercy."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Eulogius, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Eulogius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Appearance of Christ to Saint Martin of\r\nTours",
+      "troparion": {
+        "tone": 4,
+        "text": "In signs and in miracles you were renowned throughout Gaul. / By grace and adoption you are a light for the world, O Martin, blessed of God. / Almsgiving and compassion filled your life with their splendors, / teaching and wise counsel were your riches and treasures, / which you dispense freely to those who honor you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a devoted man of God, you proclaimed His mysteries, / and as a seer of the Trinity, you shed your blessings on the Occident. / By your prayers and entreaties, O adornment of Tours and glory of all the Church, / preserve us, O Saint Martin, and save all who praise your memory."
+      }
+    },
+    {
+      "name": "Saint Seraphima",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Seraphima your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Seraphima, /  you illumined your soul with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Saint George, Archbishop of Mogilev, Belarus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father George, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch George, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    }
+  ]
+}

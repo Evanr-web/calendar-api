@@ -30,5 +30,100 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "(Podoben: “Come, let us worship the Word...”)\r\nYour mother guided you to become a glorious soldier of Christ,  /  and you were clad in the armor of the Spirit,1  /  and entering the contest, you cast down the Enemy.  /  Now, O godly-minded Julian, pray to Christ God for all of us.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Let us praise Julian today,  /  the unconquerable holy warrior,  /  the champion and vessel of truth, and let us cry out to him:  /  “Intercede with Christ our God for all of us.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Julian of Tarsus, in Cilicia",
+  "oca_saints": [
+    {
+      "name": "Venerable Ananias the Iconographer",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image; /   for you took up the Cross and followed Christ.  /   By so doing, you taught us to disregard the flesh, for it passes away; /   but to care for the soul, since it is immortal.  /   Therefore, O Venerable Ananias, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Father Ananias: /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Martyr Julian of Tarsus, in Cilicia",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nYour mother guided you to become a glorious soldier of Christ,  /  and you were clad in the armor of the Spirit,1  /  and entering the contest, you cast down the Enemy.  /  Now, O godly-minded Julian, pray to Christ God for all of us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us praise Julian today,  /  the unconquerable holy warrior,  /  the champion and vessel of truth, and let us cry out to him:  /  “Intercede with Christ our God for all of us.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Terence, Bishop of Iconium",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Terence, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Julius, Presbyter of Novara, and his brother, Saint Julian the Deacon",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Julius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Archil II, King of Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Archil, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Archil;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Luarsab II, King of Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Luarsab, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Luarsab;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Anastasia of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "Abundant in virtue, and adorned with meekness and piety, / you shone forth through the purity of your life; / therefore, you were granted the grace to be the mother of our people’s Luminary. / Thus, we cry aloud to you: “Rejoice, O venerable mother Anastasia!”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Having been blessed by marriage, and living a life of sobriety, / you humbly taught your children to love God above all else. / As you now stand before Him, / intercede for us who cry aloud to you: / “Rejoice, O venerable mother Anastasia!”"
+      }
+    },
+    {
+      "name": "New Martyr Nikḗtas of Nisyros near Rhodes",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Niketas, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Niketas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

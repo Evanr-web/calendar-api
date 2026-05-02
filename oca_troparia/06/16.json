@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Tikhon, Bishop of Amathus in Cyprus",
+      "troparion": {
+        "tone": 3,
+        "text": "God called you to the sacred priesthood / as a worthy servant of the Holy Trinity. / You shone forth with the grace of godliness / strengthening the Church by many miracles. / Righteous Tikhon, entreat Christ our God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)Through your ascetic labors, you shone forth, O beloved of God, / and received from on high the power of the Comforter / to destroy the idols of delusion, / and to save people, / to cast out demons and to heal the sick. / Therefore, venerable Tikhon, / we honor you as a friend of God."
+      }
+    },
+    {
+      "name": "Venerable Tikhon of Kaluga Or Medin",
+      "troparion": {
+        "tone": 4,
+        "text": "You were shone to be a most radiant beacon in the land of Russia, O Tikhon, our Venerable Father,  / for making your dwelling in the wilderness, and leading a strict life there,  / you lived as an incorporeal being, and so God has enriched you with the gift of miracles. /  Therefore, hastening to the shrine of your relics, we cry with compunction:  / \"O Venerable Father, entreat Christ God for the salvation of our souls.\""
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Forsaking your homeland, O Venerable one, /  you settled in the wilderness, where you showed your way of life to be strict;  / and astonishing many by your virtues, you received from Christ the gift of miracles.  / Therefore, remember us who honor your memory that we may cry out to you:  / \"Rejoice, O Venerable Tikhon, our Father.\""
+      }
+    },
+    {
+      "name": "Venerable Tikhon of Luchov, Kostroma",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Tikhon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Tigrius the Presbyter and Eutropius the Reader, of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Tigrius and Eutropius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Kaikhosro the Georgian",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Kaikhosro, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Moses of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Moses, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

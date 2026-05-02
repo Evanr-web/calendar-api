@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-29",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy Virgin Martyr Theodosίa of Tyre",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nThrough your struggles in the contest,  / you offered the God-given gift of your virginity to the Word;  / therefore, He brought you to the heavenly Bridal Chamber.  /  O prize-winner, intercede with the Master of all,  / that He may deliver us from all manner of misfortunes."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nAs a pure virgin and prize-winner,   / you were spiritually betrothed to the King of Heaven,   / O all-praised Theodosίa, entreat Him for the salvation of our souls"
+      }
+    },
+    {
+      "name": "Repose of the Blessed John of Ustiug the Fool-for-Christ",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "O most wise John, you did not love earthly glory,  / so you became a fool, /  desiring to inherit the Kingdom of Heaven,  / you received beatings and insults, and endured nakedness and heat;  / now that you rejoice with the Angels,  / pray to Christ God for our souls."
+      }
+    },
+    {
+      "name": "Virgin Martyr Theodosia the Nun of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Theodosia, O Jesus, / calls out to You in a loud voice: / I love You, O my bridegroom, / and in seeking You, I endure suffering. / In Baptism I was crucified so that I might reign in You, / and died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love. / By her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You were betrothed to the King of Heaven / as a pure and trophy-bearing martyr. / Entreat Him to save our souls, praiseworthy Theodosia."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God “the Surety of Sinners”",
+      "troparion": null,
+      "kontakion": {
+        "tone": 1,
+        "text": "You have been an honorable dwelling of the inexpressible Divine nature, beyond words and beyond understanding; /  and are a Surety for sinners, granting grace and healing;  / as the Mother of Him Who rules all,  / pray to your Son that we may receive mercy on the Day of Judgment."
+      }
+    },
+    {
+      "name": "Martyred Fathers and Mothers of Atchara",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

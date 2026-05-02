@@ -1,0 +1,74 @@
+{
+  "date": "2026-01-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Veneration of the Precious Chains of the Holy and All-Glorious Apostle Peter",
+      "troparion": {
+        "tone": 4,
+        "text": "You came to us without leaving Rome / through the precious chains that you wore. / First-enthroned of the apostles, / we bow down to them in faith and pray: / “Through your prayers to God grant us great mercy.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “The Theotokos who is ever-vigilant in prayer...”)1 \r\nLet us glorify the great Peter, the chief and first-enthroned of the Apostles,  / the divine disciple of Truth, / \r\nkissing his chains with faith, /  and receiving the forgiveness of our transgressions."
+      }
+    },
+    {
+      "name": "Blessed Maximus the Fool for Christ of Tot'ma",
+      "troparion": {
+        "tone": 4,
+        "text": "Having served God blamelessly in the priesthood, you chose foolishness in the midst of worldly vanity;   / you took up the Cross and followed Christ with unswerving will and love.   / Forsaking earthly things, you received heavenly things.   / O Blessed Maximus our Father,  entreat Christ God to preserve the city of Tot'ma unharmed,   / and that our souls may be saved.."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Following the divine call, you were zealous to instruct your flock,   / not by the wisdom of words, but by a life of foolishness;1   / with dispassionate, unceasing prayers, and streams of tears,   / you cleansed your soul and body, exhausting the flesh with the extremes of weather;  /  therefore, even after death, the Lord has glorified you with miracles,   / that we may cry out to you with faith,   / \"Rejoice, O divinely-wise Father Maximus.\""
+      }
+    },
+    {
+      "name": "Martyred brothers Speusippus, Eleusippus, Meleusippus, and those with them, in Gaul",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Danax the Reader, in Macedonia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Danax, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Danax;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Honoratus, Archbishop of Arles, founder of Lerins Monastery",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Honoratus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Honoratus, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Damascene the New",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Damascene, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Romilus of Ravenica",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Romilus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

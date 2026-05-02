@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Fathers of the First Six Councils",
+      "troparion": {
+        "tone": 8,
+        "text": "You are most glorious, O Christ our God,  / You have established the Fathers as lights upon the earth, / \r\nand through them, You have guided all of us to the true Faith!  / O greatly compassionate one, glory to You."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits...”)\r\nThe preaching of the Apostles and the dog­mas of the Fathers have confirmed one faith for the Church;  / and She, clad in the garment of truth woven from heavenly theology,  /  teaches aright and glorifies the great mystery of piety."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Seraphim of Sarov",
+      "troparion": {
+        "tone": 4,
+        "text": "You loved Christ from your youth, O blessed one, / and longing to work for Him alone you struggled in the wilderness in constant prayer and labor. / With penitent heart and great love for Christ you were favored by the Mother of God. / Therefore we cry to you: / “Save us by your prayers, venerable Seraphim, our father.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Forsaking the beauty as well as the corruption of this world, you settled in the monastery of Sarov, O Saint. / There you lived an angelic life, / becoming for many the way to salvation. / Therefore, Christ has glorified you, Father Seraphim, enriching you with abundant healing and miracles. / So we cry to you: “Save us by your prayers, venerable Seraphim, our father.”"
+      }
+    },
+    {
+      "name": "Venerable Macrina, sister of Saint Basil the Great",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Mother, / for you took up the Cross and followed Christ. / By so doing, you taught us to disregard the flesh, for it passes away, / but to care instead for the soul, since it is immortal. / Therefore your spirit, O Holy Mother Macrina, rejoices with the Angels!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dius, Abbot of Antioch",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Dius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Paisius of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paisius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theodore of Edessa, Mesopotamia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; your poverty enriched you. / Hierarch Father Theodore, / entreat Christ our God that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

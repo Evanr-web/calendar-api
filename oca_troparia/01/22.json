@@ -1,0 +1,74 @@
+{
+  "date": "2026-01-22",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle Timothy of the Seventy",
+      "troparion": {
+        "tone": 4,
+        "text": "Having learned goodness and maintaining continence in all things, / you were arrayed with a good conscience as befits a priest. / From the chosen Vessel you drew ineffable mysteries; / you kept the faith, and finished a course equal to His. / Bishop martyr Timothy, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Let us the faithful praise the Holy Apostle Timothy, / the companion of Paul in his travels and together with him / let us honor the wise Anastasius, who came as a star from Persia / for the healing of the passions of our souls and the diseases of our bodies."
+      }
+    },
+    {
+      "name": "Monastic Martyr Anastasius the Persian",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Anastasius, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Let us the faithful praise the Holy Apostle Timothy, / the companion of Paul in his travels and together with him / let us honor the wise Anastasius, who came as a star from Persia / for the healing of the passions of our souls and the diseases of our bodies."
+      }
+    },
+    {
+      "name": "Monastic Martyr Anastasius the Deacon of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father, /  for you took up the Cross and followed Christ.  /  By so doing you taught us to disregard the flesh for it passes away  /  but to care instead for the soul, since it is immortal.  /  Therefore your spirit, venerable Anastasius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Anastasius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Macarius of Zhabyn the Wonderworker",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "377 Martyred Companions in Bulgaria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Brihtwald of Wilton",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Brihtwald, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Euthymius",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Euthymius your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Euthymius,  / always intercede for us who honor you."
+      }
+    }
+  ]
+}

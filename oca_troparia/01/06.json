@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Feast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 1,
+        "text": "When You, O Lord were baptized in the Jordan  / the worship of the Trinity was made manifest  / for the voice of the Father bore witness to You  / and called You His beloved Son.  / And the Spirit, in the form of a dove,  / confirmed the truthfulness of His word.  / O Christ, our God, You have revealed Yourself  / and have enlightened the world, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today You have shown forth to the world, O Lord, / and the light of Your countenance has been marked on us. / Knowing You, we sing Your praises. / You have come and revealed Yourself, / O unapproachable Light."
+      }
+    },
+    {
+      "name": "Venerable Macarius of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

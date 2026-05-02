@@ -29,5 +29,67 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyr Artemios, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Let us gather to sing worthy hymns in honor of Artemios, / the pious and victorious martyr who defeated his enemies: / He is great among martyrs and generous in performing miracles, / and he intercedes with the Lord on behalf of us all!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Greatmartyr Artemius at Antioch",
+  "oca_saints": [
+    {
+      "name": "Greatmartyr Artemius at Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Artemios, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us gather to sing worthy hymns in honor of Artemios, / the pious and victorious martyr who defeated his enemies: / He is great among martyrs and generous in performing miracles, / and he intercedes with the Lord on behalf of us all!"
+      }
+    },
+    {
+      "name": "Righteous Child Artemius of Verkola",
+      "troparion": {
+        "tone": 2,
+        "text": "By the will of the Almighty, Heaven was darkened by a stormcloud, /  lightning flashed, and in the threatening sound of thunder, /  you surrendered your soul into the hand of God, O most wise Artemios.  / And now you stand before the Throne of the Master of all,  / speedily granting healing to all who come to you with faith and love, /  and entreating Christ God that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gerasimus the New Ascetic of Cephalonia",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us the faithful praise the divine Gerasimos, / who is the protector of the Orthodox, and an angel in the body,\nand a newly appeared God-bearing wonderworker; / for he has worthily received from God the unfailing grace of\nhealing; / he restores the sick, and heals those possessed by demons; / therefore, he pours forth healings upon those who honor him."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nToday the island of Cephalonia /  with sacred songs of thanksgiving, / calls upon all the Orthodox to extol the newly appeared boast and glory of Orthodoxy, /  the divine Gerasimos, / who is truly her deliverer and champion."
+      }
+    },
+    {
+      "name": "Venerable Matrona of Chios",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Awed by the beauty of your virginity...”)Following in the footsteps of Christ, you forsook the pleasures of the world, O venerable one,  / and in the flesh you imitated the life of the angels.  / Therefore, you have filled Chios, your native isle, with joy,  / and with the gifts bestowed by the Spirit, O all-praised maiden.  / Therefore, we cry out to you with joy: “Rejoice, most blessed Matrona.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "The Uncovering of the Relics of the Hieromartyr Νikόdēmos, Bishop of Belgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "With loud voices, let us glorify the zealot of Orthodoxy and piety,   /  the Hieromartyr Νikόdēmos and the Hierarch Joasaph, who gave his life for the sheep of Christ's flock;   /   pray to the all-merciful God for us   /  that He may strengthen our land in Orthodoxy with faith, hope and love,   /  and bestow great mercy on our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O chosen lamp of the land of Belgorod, you suffered martyrdom and death for the sake of Christ;  /  since you have received invincible grace, help us with your patronage in the establishment of Orthodoxy,  /  that we may cry out to you with faith: “Rejoice, Hieromartyr Νikόdēmos, Archpastor and zealous intercessor.”"
+      }
+    }
+  ]
 }

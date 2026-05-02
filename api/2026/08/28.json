@@ -32,5 +32,81 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "(Podoben: “When the stone had been sealed...”)\r\nYou were shown to be a citizen of the desert, / an Angel in the flesh, and a wonderworker, O Moses, our God-bearing Father. / By fasting, vigil, and prayer, /  you obtained heavenly gifts, and you heal the sick, and the souls of those who have recourse to thee with faith.  / Glory to Him Who gave you strength.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, works healings for all.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "(Podoben: “The Divine Faith...”)\r\nO most blessed and righteous Father Moses,  / you drove away the darkness of the passions, being richly illumined with divine light;  / and by your vigilant prayers,  / you withered the wanton pride of the flesh,  / and ascended to the citadel on high,  / where you entreat Christ God to grant us great mercy.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Moses the Ethiopian of Scete",
+  "oca_saints": [
+    {
+      "name": "Recovery of the relics of Saint Job of Pochaev",
+      "troparion": {
+        "tone": 4,
+        "text": "Taking the yoke of Christ upon yourself1 from your youth, O Venerable Father Job,  / for many years you contested in the field of piety at Ugornitsky Monastery on the island of Dubensk;  / and arriving at Pochaev Mountain, marked by the healing footprint of the Most Holy Theotokos,  / you often enclosed yourself in a narrow rock cave, for the sake of divine contemplation and prayers. /  Strengthened by the grace of God,  / you labored courageously for the good of Christ's Church and of your community,  / against the enemies of Orthodoxy, and for Christian piety, /  as well as instructing a multitude of monks,  / whom you brought as victors to our Master and God.  / Entreat Him that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The imperishable treasure of your relics hidden under the ground have shone forth, O God-pleaser, /  for you lived piously with faith in Christ our God, you attained the perfection of virtue, /  and forsaking the pleasures of this temporal life in the cave of Pochaev Mountain by fasting, prayers and holy contests, and because of these your body withered. /  Now, having passed to God in peaceful and eternal rest,  / you pray for all who come to you with faith. /  Rejoice, all-praised Job, the God-pleaser and adornment of Pochaev Monastery."
+      }
+    },
+    {
+      "name": "Venerable Moses the Ethiopian of Scete",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “When the stone had been sealed...”)\r\nYou were shown to be a citizen of the desert, / an Angel in the flesh, and a wonderworker, O Moses, our God-bearing Father. / By fasting, vigil, and prayer, /  you obtained heavenly gifts, and you heal the sick, and the souls of those who have recourse to thee with faith.  / Glory to Him Who gave you strength.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, works healings for all."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nO most blessed and righteous Father Moses,  / you drove away the darkness of the passions, being richly illumined with divine light;  / and by your vigilant prayers,  / you withered the wanton pride of the flesh,  / and ascended to the citadel on high,  / where you entreat Christ God to grant us great mercy."
+      }
+    },
+    {
+      "name": "Righteous Anna the Prophetess and Daughter of Phanuel, who met the Lord at the Temple in Jerusalem",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophetess Anna, O Lord; / through her we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophetess Anna."
+      }
+    },
+    {
+      "name": "Martyr Susanna, Queen of Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Susanna, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Susanna;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Synaxis of the Saints of the Kiev Caves, whose relics repose in the Far Caves of Venerable Theodosius",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, with the whole assembly of the Venerable Monks, /   we honor the noetic sun and the radiant moon of the founding Fathers of the Caves;  /  for they illumine the heavens of the Church,  /  and enlighten those who toil in the darkness of the passions.  /  By their prayers, they grant help from Christ God in all sorrows, and they pray for the deliverance our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Chosen from all sorts of God-pleasers, O Venerable Monks of the Caves,   /  you have shone forth in these hills by your virtues.   /  The earth has not hidden your deeds, but Heaven was opened to you.   /  Therefore, we offer hymns of praise to God, Who glorified you.   /  Since you have boldness, make intercession by your prayers,  /   that we who honor you may be delivered from all misfortunes, since you are our intercessors before God."
+      }
+    },
+    {
+      "name": "Saint Savva of Pskov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Savva, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

@@ -29,5 +29,51 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "We celebrate the memory / of Your prophet Nahum, O Lord; / through him we entreat You, / save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Nahum.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Prophet Nahum",
+  "oca_saints": [
+    {
+      "name": "Prophet Nahum",
+      "troparion": {
+        "tone": 4,
+        "text": "We celebrate the memory / of Your prophet Nahum, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Nahum."
+      }
+    },
+    {
+      "name": "Righteous Philaret the Merciful of Amnia in Asia Minor",
+      "troparion": {
+        "tone": 3,
+        "text": "From the wealth of your faith in God, / you distributed your riches to the poor, O Philaret. / Your life was adorned with compassion / and you glorified the Giver of mercy. / Implore him to have compassion and mercy on those who praise you!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You possessed the spirit of Job in temptations, / and compassionately distributed your wealth to the poor. / You were a living fountain of almsgiving, / and by your manner of life you gladden those who cry: / Rejoice, O Philaret, servant of Christ God!"
+      }
+    },
+    {
+      "name": "Martyr Ananias of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Ananias, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Ananias;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

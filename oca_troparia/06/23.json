@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Agrippina of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Agrippina calls out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nThe day has come on which the Church commemorates your radiant contest and martyrdom. / She calls upon all to cry to you with gladness: / “Rejoice, all-honored virgin-martyr Agrippina.”"
+      }
+    },
+    {
+      "name": "Righteous Artemius of Verkola",
+      "troparion": {
+        "tone": 2,
+        "text": "By the will of the Almighty, Heaven was darkened by a stormcloud, /  lightning flashed, and in the threatening sound of thunder, /  you surrendered your soul into the hand of God, O most wise Artemios.  / And now you stand before the Throne of the Master of all,  / speedily granting healing to all who come to you with faith and love, /  and entreating Christ God that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Second Translation of the relics of Saint Herman, Archbishop of Kazan",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Herman, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Eustochius, Gaius, Probus, Lollius, and Urban, of Ancyra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Synaxis of the Saints of Vladimir",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the chosen city radiantly rejoices with the Most Holy Theotokos,   /  and the entire land of Vladimir triumphs with them,   /  celebrating the memory of the great assembly of the Saints glorified by God,   /  in the contests of the Orthodox from ancient times,  /   and in the company of those who have pleased God;   /  with them they cry out with love:  /   \"O wondrous intercessors with Christ God, who have received bright crowns from Him,   /  beseech Him to grant peace and prosperity to your homeland,   /  and to our souls great mercy.\""
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As bright stars of the Church of Russia,  /   shining forth in all the holy lands of Vladimir by your confession of faith,   /  O divinely-wise Saints:   /  Orthodox Princes, Venerable Fathers and Mothers, Passion-bearers, and you Righteous:  /   earnestly entreat Christ God to grant remission of sins to those who lovingly revere your holy memory."
+      }
+    },
+    {
+      "name": "Meeting of the Vladimir Icon of the Mother of God in memory of the Saving of Moscow from the Invasion of Khan Achmed",
+      "troparion": {
+        "tone": 4,
+        "text": "O Sovereign Lady,  /  defend all who are in danger and misfortune  /  or weak from many sins,  /  and who stand before your holy Icon  /  praying with tears, humility, repentance, and invincible hope,  / free them from every evil,  / give them the grace they need, / and save us all, O Virgin Theotokos, /  for You are the divine refuge of those who follow you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O victorious Leader of triumphant hosts, / you have delivered us from evils by the coming of your honorable Icon, O Lady Theotokos, /  radiantly we celebrate the festival of your meeting, and as is customary we cry to you  /  \"Rejoice, O Bride who has not known marriage.\""
+      }
+    },
+    {
+      "name": "“Tenderness” Icon of the Mother of God of the Pskov Caves",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all of us, who are burdened with sins, fall on our knees before the Theotokos,  /  bowing before her wonderworking Tenderness Icon,  / kissing it and crying aloud with tears:  /  “O Sovereign Lady, accept the prayer of your unworthy servants, / and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Lady. / Help us, for in you do we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Nikḗtas of Thebes and those with him",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nFrom childhood you followed the Lord, O Nikḗtas, /  through prayers, vigils, and all forms of asceticism,  / earnestly keeping His commandments, /  for which you received the divine Schema, and were seen by Theodore, enveloped in perceptible light.  / Glory to Christ Who glorified you.  / Glory to Him Who made you wondrous.  / Glory to Him Who has shown you to be a godly Elder."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Etheldreda of Ely",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what is according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away; /   but to care for the soul, since it is immortal.  /  Therefore, O Venerable Etheldreda, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace of healing...”)1\r\nHaving discarded a bed for rest, for the sake of your love for God, O Mother Etheldreda,  /  and illuminating your spirit with fasting,  /  you have completely vanquished your enemies; /   and by your intercessions you destroyed the evil schemes of our adversaries."
+      }
+    }
+  ]
+}

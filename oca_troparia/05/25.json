@@ -1,0 +1,33 @@
+{
+  "date": "2026-05-25",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Third Finding of the Honorable Head of the Holy Glorious Prophet, Forerunner and Baptist John",
+      "troparion": {
+        "tone": 4,
+        "text": "As a divine treasure hidden in the ground / was your head revealed to us by Christ, O prophet and forerunner. / We have gathered in commemoration of this finding / with inspired hymns of praise to the Savior, / Who saves us from corruption through your prayers!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "By giving your venerable head to a sinful woman, / Herod broke the law of God. / But we behold it and cry out for joy, / and say to you, O forerunner: / Pray to the Lord that He may grant mercy to us all!"
+      }
+    },
+    {
+      "name": "Hieromartyr Therapon, Bishop of Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Therapon, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Urban, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Urban, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

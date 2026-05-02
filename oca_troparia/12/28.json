@@ -1,0 +1,63 @@
+{
+  "date": "2026-12-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Nativity of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Nativity, O Christ our God,  /  has shone to the world the Light of knowledge;  /  for by it, those who worshipped the stars / were taught by a star to adore You,  / the Sun of Righteousness,1  /  and to know You, the Dayspring2 from on High.  / O Lord, glory to You!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Original Melody)\r\nToday the Virgin gives birth to the Transcendent One,  /  and the earth offers a cave to the Unapproachable One!  / Angels with shepherds glorify Him.  /  The wise men journey with a star,  /  since for our sake the Pre-Eternal God was born as a young Child.3"
+      }
+    },
+    {
+      "name": "20,000 Martyrs of Nicomedia",
+      "troparion": {
+        "tone": 2,
+        "text": "Blessed is the earth that received your blood, passion-bearers of the Lord, / and holy is the dwelling place which received your spirits. / You triumphed over the enemy in the stadium / and you preached Christ with boldness. / Since He is good, we pray that you beseech Him to save our souls."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Their souls strengthened by faith, the twenty thousand martyrs accepted their suffering by fire, / and cried out to You, the One born of the Virgin: / “Like gold, myrrh, and frankincense, the gifts of the Persian kings, / receive our whole burnt offering, O Eternal God.”"
+      }
+    },
+    {
+      "name": "Venerable Ignatius of Loma and Yaroslav",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  /  and you became a luminary of the world, radiant with miracles, O Ignatius our Father.  / Intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you have slain the armies of the demons.  / Therefore, we beseech you, O Father Ignatius:  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Apostle Nicanor the Deacon of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Nicanor, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Simon the Myrrh-gusher of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Νikόdēmos, Bishop of Belgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Νikόdēmos, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

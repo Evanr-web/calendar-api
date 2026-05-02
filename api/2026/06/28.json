@@ -30,5 +30,97 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "O Christ God, / You have given us the miracles of Your martyrs, Cyrus and John, / as an invincible rampart; / through their prayers, frustrate the plans of the heathens, / and strengthen the faith of the Orthodox Christians, / for You alone are good and love mankind.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "(Podoben: “Today the Virgin...”)\r\nHaving received the gift of miracles through divine grace, O saints, / you work wonders in the world unceasingly. / You remove all of our passions through your invisible surgery, / divinely-wise Cyrus and glorious John, / for you are truly divine physicians.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John",
+  "oca_saints": [
+    {
+      "name": "Translation of the Relics of the holy and wonderworking Unmercenaries Cyrus and John",
+      "troparion": {
+        "tone": 5,
+        "text": "O Christ God, / You have given us the miracles of Your martyrs, Cyrus and John, / as an invincible rampart; / through their prayers, frustrate the plans of the heathens, / and strengthen the faith of the Orthodox Christians, / for You alone are good and love mankind."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nHaving received the gift of miracles through divine grace, O saints, / you work wonders in the world unceasingly. / You remove all of our passions through your invisible surgery, / divinely-wise Cyrus and glorious John, / for you are truly divine physicians."
+      }
+    },
+    {
+      "name": "Venerable Xenophon, Abbot of Robeika, Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "You appeared as a splendid growth in the wilderness, Venerable Father,  / for from your youth you chose a life of purity, following your spiritual instructor,  / and by his admonitions, you turned your mind to heavenly things.  / You dwelt in the wilderness and there you founded a monastery, becoming a wise counselor for your flock,  / shining as a bright lamp in Great Novgorod with honor and strength.  / Therefore, Christ enriched you with miracles and glorified you.  / O Xenophon our Father, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Sergius and Herman, Wonderworkers of Valaam",
+      "troparion": {
+        "tone": 4,
+        "text": "Fulfilling the Gospel of Christ and loving him alone, / despising earthly cares you settled on an island. / There you fought against the invisible foe, / subjecting your bodies to the Spirit by fasting, vigil and prayer. / Crowned with glory and now standing before the Trinity, / pray, O Fathers Sergius and Herman, / that our souls may be saved!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You left the world to follow in Christ’s footsteps, / reaching Lake Neva and the island of Valaam. / There you lived the angelic life / and were translated to the heavenly bridal chamber. / As you stand with the angels remember the children whom you gathered, / that we may joyfully cry to you: / Rejoice, blessed Fathers Sergius and Herman!”"
+      }
+    },
+    {
+      "name": "Saint Paul, Physician of Corinth",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paul, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God “Of the Three Hands”",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Go quickly before...”)\r\nFrom Palestine, the godly-minded Savva brought your divine Icon to us,  / O holy Bride of God, known as the Icon “Of the Three Hands.\"  / Wherefore, since the Monastery of Hilandar has acquired it as their boast,  / they hymn you, O Theotokos, crying out in exultation:  / Hail, full of grace, the Lord is with you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O victorious Leader...”)\r\nCome, let us venerate the most revered Icon of \"Of the Three Hands” with faith and piety.  / O Maiden, preserve your Monastery from all misfortunes and adversities,  / and also those who cry to you; \"Hail, defender of all.\""
+      }
+    },
+    {
+      "name": "Hieromartyr Basil",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Basil, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Holy Martyr Pappias",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Pappias, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Pappias;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Confessor Sergius of Paphlagonia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal.  /  Therefore, O Venerable Sergius, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Finding delight in abstinence, you subdued the desires of the flesh. /   Revealed as one nurtured in the Faith,  /  you blossomed like the Tree of Life in Paradise, /   O Holy Father Sergius."
+      }
+    }
+  ]
 }

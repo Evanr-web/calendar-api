@@ -1,0 +1,25 @@
+{
+  "date": "2026-02-24",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "First and second finding of the Honorable Head of the Holy Glorious Prophet, Forerunner, and Baptist of the Lord, John",
+      "troparion": {
+        "tone": 4,
+        "text": "The head of the Forerunner rose from the earth as a star, / brilliant with rays of healing and immortality. / It gathers the choirs of angels in heaven, / and assembles the human race on earth / to sing with one voice the glory of Christ our God."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "O Prophet of God and Forerunner of Grace, / your head has blossomed from the earth as a sacred rose. / We are ever being healed, / for as of old, You preach repentance to the world."
+      }
+    },
+    {
+      "name": "Venerable Erasmus of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Erasmus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

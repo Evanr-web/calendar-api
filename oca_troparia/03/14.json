@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "3rd Saturday of Great Lent: Memorial Saturday",
+      "troparion": {
+        "tone": 8,
+        "text": "Only Creator, with wisdom profound, You mercifully order all things, / and give that which is needed to all men: / Give rest, O Lord, to the souls of Your servants who have fallen asleep, / for they have placed their trust in You, our Maker and Fashioner, and our God."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "With the saints give rest, O Christ, to the souls of Your servants, / where there is neither sickness nor sorrow, and no more sighing, / but life everlasting."
+      }
+    },
+    {
+      "name": "Venerable Benedict of Nursia",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nBy your ascetical contests, O God-bearer Benedict, /  you were true to the name that you bear;  / for you\r\nblossomed as a son of benediction,  / and became a Rule for all who desire to emulate your life.  / Thus,\r\nwith one voice we cry: /  “Glory to Him Who strengthened you;  / glory to Him Who crowned you;  / glory to Him Who, through you, works healings for all.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You were enriched with God’s grace; / your works agreed with your name, O Benedict, helpful servant of Christ God. / Through prayer and fasting you were revealed to be filled with the gifts of the Spirit of God! / You are a healer of the sick, the banisher of demons and speedy defender of our souls!"
+      }
+    },
+    {
+      "name": "Saint Theognostus, Metropolitan of Kiev and All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Theognostus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Right-believing Great Prince Rostislav-Michael, Prince of Kiev",
+      "troparion": {
+        "tone": 6,
+        "text": "You became a builder of cities and churches in the land of Kiev, /   O Great Prince Rostislav, you abolished turmoil and preserved unity.  /  Thus, the Lord sent you wisdom; /   therefore, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Euschemon the Confessor, Bishop of Lampsacus",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Euschemon, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Saint Theodore",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, the renowned city of Kostroma and the entire Russian land rejoice joyfully,  / calling all God-loving Christian people to the glorious triumph of the Mother of God /  because of the arrival of her wonderworking and much-healing Icon: /  for today a great and most radiant sun has appeared to us.  / Come all of God's chosen people, the new Israel, to the fountain of healing, /  for it pours forth to us the inexhaustible mercy of the Most Holy Theotokos  / and delivers all Christian cities and lands from the malice of their enemies.  / But, All-Merciful Lady, Virgin Theotokos, Sovereign Lady,  / by your great mercy, save our country, the bishops, and your people /  from all their misfortunes that we may cry out to you,   / “Rejoice, O Virgin, the boast of Christians.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "We your servants offer prayers of thanksgiving to you, O Theotokos, /  for all the good things you have done for our city; /  we cry out to you from the depths of our souls, and bowing down we pray: /  “O Sovereign Lady, do not cease to intercede with your Son and our God  / to grant every good thing and salvation to all who cry out to you with faith and love,  / ‘Rejoice, O Virgin, the boast of Christians.’”"
+      }
+    }
+  ]
+}

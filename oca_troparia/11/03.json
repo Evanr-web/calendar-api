@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyrs Akepsimas, Bishop in Persia, Presbyter Joseph, and Deacon Aeithalas",
+      "troparion": {
+        "tone": 3,
+        "text": "You were pillars of the Church, O servants of godliness, / and you humbled the proud worshippers of fire. / Much afflicted hierarch Akepsimas, Joseph the presbyter and Aeithalás the deacon, / pray to Christ our God / to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You celebrated the mysteries blamelessly, O wise ones, / and became acceptable sacrifices, O divinely blessed ones! / You gloriously drank of the cup of Christ, Holy Akepsimas, Joseph, and Aithalas / and are praying unceasingly to Christ God for us all."
+      }
+    },
+    {
+      "name": "Consecration of the Church of the Holy Great Martyr George in Lydda",
+      "troparion": {
+        "tone": 4,
+        "text": "O liberator of captives,  /  defender of the poor,  /  physician of the sick, and champion of kings,  / Trophy-bearer and Great Martyr George,  /  intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nWe the faithful flee to you for refuge  /  seeking your protection and speedy help,  /  we entreat you, O Champion of Christ,  /  that we who sing your praises may be delivered from the snares of the Enemy  / and from every peril and adversary,  /  that we may cry: “Rejoice, O Martyr George!”"
+      }
+    },
+    {
+      "name": "Martyrs Eudoxios, Agapios, Atticus, and those with them, at Sebaste",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Akepsimas the Hermit of Cyrrhus in Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Akepsimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Pimen the Bulgarian of the Zographou Monastery, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pimen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nicholas, Radiant Star of the Georgians",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nicholas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Akepsimas",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Akepsimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

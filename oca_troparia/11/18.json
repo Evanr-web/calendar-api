@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Platon of Ancyra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Platon and Romanus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)Your holy memory delights the universe, O Platon, / bringing us together to honor you in our joy! / With hymns we praise your great deeds / crying out to you with faith: / “Save our land from its enemies, O Holy one!”"
+      }
+    },
+    {
+      "name": "Martyr Romanus the Deacon of Caesarea",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Platon and Romanus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Your holy memory delights the universe, / bringing us together to honor you in our joy. / We praise your great deeds with hymns, O Romanus, / crying out to you with faith: / O holy one, save our land from its enemies!"
+      }
+    },
+    {
+      "name": "Martyr Barulas the Youth of Caesarea",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Barulas, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Barulas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "New Martyr Anastasius of Epirus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Anastasius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anastasius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Zacchaeus the Deacon, and Alphaeus, of Caesarea in Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Zacchaeus and Alphaeus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

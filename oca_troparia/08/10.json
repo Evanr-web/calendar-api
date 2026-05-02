@@ -1,0 +1,28 @@
+{
+  "date": "2026-08-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Transfiguration of our Lord",
+      "troparion": {
+        "tone": 7,
+        "text": "You were Transfigured on the Mount, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light shine upon us sinners! / Through the prayers of the Theotokos, O Giver of Light, glory to You!"
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
+      }
+    },
+    {
+      "name": "Martyr and Archdeacon Laurence, and those with him, of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Victorious martyr of Christ our God, / by the sign of the Cross you gave sight to the blind; / you distributed the riches of the Church to the poor; / you were tried by fire and no evil was found in you. / As you endured the burning, / may your prayers extinguish the flames of our many sins, / blessed Archdeacon Laurence!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Your heart burned with divine fire / as the flames of the passions died within you. / God-bearing martyr Laurence, the pillar of those who struggle, / you cried out in the midst of your contest: / “Nothing can separate me from the love of Christ.”"
+      }
+    }
+  ]
+}

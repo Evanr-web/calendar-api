@@ -1,0 +1,90 @@
+{
+  "date": "2026-01-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Euthymius the Great",
+      "troparion": {
+        "tone": 4,
+        "text": "Be glad, O desert which hast not given birth; be of good cheer, you who have not travailed; for a man of desires1 has multiplied your spiritual children and planted them in piety, and through abstinence, he brought them unto the perfection of the virtues. Through his supplications, O Christ our God, make our life peaceful."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first-fruits of our nature…”)\r\nCreation rejoiced at your august birth, and at your divine memorial, O Venerable one, and gladly received many of your miracles; now bestow them abundantly upon our souls, and wash away the stains of our sins, / that we may sing: “Alleluia!”"
+      }
+    },
+    {
+      "name": "Venerable Euthymius the Schemamonk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Euthymius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Laurence, Recluse of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Laurence, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Euthymius of Syanzhemsk, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Euthymius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Innas, Pinnas, and Rimmas, disciples of the Apostle Andrew, in Scythia",
+      "troparion": {
+        "tone": 2,
+        "text": "As disciples of the First-Called, you were the first-called of the Slavs,  / and because you enlightened your brethren with the light of Truth,  / you received a cruel death at the hands of a savage and godless prince,  / bound by frost and ice on the Danube River in the land of Scythia.  /  But since you lay down your lives for your friends,1  /  O Saints Innas, Pinnas, and Rimmas,  / you offer your most powerful prayers for us,  / and once again all the Slavic peoples are converting to Christ."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "A great exploit2  of faith;  / bound by the ice, as if by the water of rest,3   / Saints Innas, Pinnas, and Rimmas rejoiced,  / but the torturer, in his foolish frenzy, tried to destroy the fruits of their vineyard;  / nevertheless to this day, Christ accepts holy clusters from the Slavic peoples,  / and crowns the Slavic Protomartyrs with crowns.  / Therefore, as the children of the faithful you nurtured,  /  we thank and implore you, O Saints:  / \"By your prayers, fervently entreat Him,  /  so that we also, in the Spirit of truth, may be zealous for God.\""
+      }
+    },
+    {
+      "name": "Martyrs Bassus, Eusebius, Euthychius, and Basileides, at Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Euthymios, Patriarch of Trnovo",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  / a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  /  and through poverty, riches.  /  O Hierarch Euthymios, our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Euthymios,  / divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity, as you stand before God with the Angels,  / pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "New Martyr Zachariah",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Zachariah, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Zachariah;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Euthymius the Confessor",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Euthymius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "date": "2026-04-08",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great and Holy Wednesday",
+      "troparion": {
+        "tone": 8,
+        "text": "Behold the Bridegroom comes at midnight, / and blessed is the servant whom He shall find watching, / and again unworthy is the servant whom He shall find heedless. / Beware, therefore, O my soul, do not be weighed down with sleep, / lest you be given up to death and lest you be shut out of the Kingdom. / But rouse yourself crying: Holy, Holy, Holy, are You, O our God! / Through the Theotokos have mercy on us!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Though I have transgressed more than the harlot, O Good One,  / I have not offered You a flood of tears, but in silence I fall down before You.  / With love I embrace Your most Pure feet.  / As Master, grant me remission of sins, when I cry to You, O Savior:  / “Deliver me from the filth of my evil deeds.”"
+      }
+    },
+    {
+      "name": "Apostle Herodion of the Seventy, and those with Him",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You became the disciples of Christ / And all-holy Apostles, / O glorious Herodion, Agabus and Rufus, / Asyncritus, Phlegon and Hermes. / Ever entreat the Lord / To grant forgiveness of transgressions / To us who sing your praises."
+      }
+    },
+    {
+      "name": "Saint Niphon, Bishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Niphon, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Rufus the Obedient of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Rufus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Pausilippus of Heraclea in Thrace",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Pausilippus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Pausilippus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Celestine, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Celestine, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Spanish” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Icon, O Virgin Lady, was given to us as an inexhaustible source of miracles,  / bestowed upon those who are overwhelmed and afraid,  / pouring forth the healing of the afflictions for the sick,  / which is a sign of your intercession. /  By the Cross of your Son, we conquer our enemies; /  and to you, our Queen and Sovereign Lady,  / we offer a song of praise."
+      },
+      "kontakion": null
+    }
+  ]
+}

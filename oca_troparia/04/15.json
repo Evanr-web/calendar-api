@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle Aristarchus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Aristarchus, Pudens, and Trophimus, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Apostles of Christ and laborers for the Savior, / Aristarchus, Pudens, and Trophimus, / you are the light of the world. / Intercede for us who praise your glorious memory / and pray that we may be saved."
+      }
+    },
+    {
+      "name": "Apostle Pudens of the Seventy",
+      "troparion": {
+        "tone": 4,
+        "text": "Together let us honor the threefold choir of Christ’s Apostles, / Aristarchus, Pudens and the holy Trophimus. / Like rivers filled with the wisdom of God / they poured out the water of the Word for all the world. / Through their intercessions, O Christ our God, have mercy on us!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Apostles of Christ and laborers of the Savior, / you are the light of the world. / Intercede for us who praise your holy memory, / and pray that we may be saved."
+      }
+    },
+    {
+      "name": "Apostle Trophimus of the Seventy",
+      "troparion": {
+        "tone": 4,
+        "text": "Together let us honor the threefold choir of Christ’s Apostles, / Aristarchus, Pudens and the holy Trophimus. / Like rivers filled with the wisdom of God / they poured out the water of the Word for all the world. / Through their intercessions, O Christ our God, have mercy on us!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Apostles of Christ and laborers of the Savior, / you are the light of the world. / Intercede for us who praise your holy memory, / and pray that we may be saved."
+      }
+    },
+    {
+      "name": "Martyrs Basilissa  and Anastasia of Rome, disciples of Apostles Peter and Paul",
+      "troparion": {
+        "tone": 1,
+        "text": "As rational sheep of Christ, the Lamb and Shepherd, you suffered martyrdom, /  and completing your course, you have preserved the Faith;  / therefore, O Anastasίa and Basilίssa, worthy of praise,  / we celebrate your holy memory today with joyous hearts, magnifying Christ."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared...”)\r\nWe who celebrate the memory of Christ’s Virgin Martyrs Anastasίa and Basilίssa now pray with faith for their help, /   that we may be delivered from every affliction, crying out:  /  “God, Who willed to glorify them, is with us.”"
+      }
+    },
+    {
+      "name": "Martyr Suchias and his Soldiers in Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Suchias, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Savva the Goth of Wallachia",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, the Orthodox Church of Romania  / spiritually celebrates and cries out with joy:  / Come, ye lovers of the martyrs,  / to celebrate the annual commemoration of the martyr Savva! /  For he, rising among us by the will of God,  / has wondrously blossomed, bringing to the Master a rich and welcome harvest through martyrdom.  / And now he prays unceasingly in the heavens for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Savva;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Ephraim the Great of Atsquri",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Ephraim, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

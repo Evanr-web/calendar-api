@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-08",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Pelagia the Penitent",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up on the Cross...”)\r\nLike a fragrant rose growing among thorns, / you were revealed to the Church by your virtuous deeds  /  becoming a source of joy for the faithful.  / You offered your life as a sweet-smelling fragrance  /  to Him who made you wondrous.  /  Entreat Him to deliver us from every passion of soul and body, /  O righteous Pelagia."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou exhausted your body through fasting, vigils, and prayer  /  earnestly entreating the Creator that you might receive complete forgiveness for your former deeds. /  Truly, you received this, O Mother Pelagia, /  thereby showing us the way to repentance."
+      }
+    },
+    {
+      "name": "Venerable Dositheus, Abbot of Verkneostrov, Pskov",
+      "troparion": {
+        "tone": 4,
+        "text": "You appeared as a bright lamp on an island in Lake Pskov; /  for you took the Cross of Christ upon your shoulders from your youth, /  and followed Him diligently, drawing nearer to God in purity;  / therefore, you were enriched by the gift of miracles.  / Thus we also, when we come to your holy icon,  / we  lament and cry out:  /  “O Venerable Father Dositheos, entreat Christ God for the salvation of our souls.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "With God’s help, you armed yourself with purity of soul,  / and tightly grasping unceasing prayer as a spear, you overthrew the demonic hordes. /  O Dositheos our Father, /  pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Venerable Tryphon, Abbot of Vyatka",
+      "troparion": {
+        "tone": 4,
+        "text": "Like a radiant star, you shone from east to west,  /  for after leaving your homeland, you reached the region of Vyatka and the God-protected city of Khlynov, /  where you established a Monastery for the glory of the Most Holy Theotokos.  /  There you gathered a multitude of monks, directing them to the path of salvation. / You were a converser with Angels and a colleague of Fasters,  / O Venerable Tryphon.  / With them, entreat Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Passing dry-footed through many storms,  / you drowned the bodiless Enemies vigorously, with the streams of your tears, O divinely-wise Tryphon,  / and you received the gift of working miracles. /  Pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Venerable Thais of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our fathers, / do not take your mercy from us, / but ever act towards us according to your kindness / and by the prayers of your Holy Thais, / guide our lives in peace!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us praise the blessed Thais, / the truly fruitful branch from a corrupt root, / the sweet stream from a salty source, / the image of repentance and rule of patience! / Once a vessel of sin, she is now the chosen vessel of grace! / Let us cry aloud to her: / O Venerable Thais, entreat Christ God that our souls may be saved!"
+      }
+    },
+    {
+      "name": "Virgin Martyr Pelagia of Antioch",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Pelagia,  /  O Jesus, cries out in a loud voice: /  ‘I love You, my Bridegroom,  /  and seeking You, I endure suffering.  / In Your Baptism I was crucified and buried with You, I suffer for Your sake that I might reign with You,  /  and I die for You that I might live with You.  /  Accept me, who with love sacrifice myself for You, as an unblemished offering.  / for I have offered myself in love.’  / By her prayers save our souls, O most merciful One."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Pelagia,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Monastic Martyr Ignatius the Monk of Bulgaria",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Ignatius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Ignatius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    }
+  ]
+}

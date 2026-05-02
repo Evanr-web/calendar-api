@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-12",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Theophanes the Confessor of Sigriane",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile / and by your longing for God you brought forth fruits in abundance. / By the radiance of miracles you illuminated the whole universe. / O our holy Father Theophanes, pray to Christ our God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gregory Dialogus, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Receiving divine grace from God on high, glorious Gregory, / and strengthened with its power, / you willed to walk in the path of the Gospel, most blessed one. / Therefore you have received from Christ the reward of your labors. / Entreat Him that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Father Gregory, you showed yourself to be an imitator of Christ, the chief Shepherd, / guiding the orders of monks to the fold of heaven. / You taught the flock of Christ His commandments. / Now you rejoice and dance with them in the mansions of heaven."
+      }
+    },
+    {
+      "name": "Venerable Simeon the New Theologian",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Your confession of the Divine Faith...”)\r\nSince you received divine enlightenment within your soul, O Venerable Father Symeon,  / you were shown to the world as a most radiant light, /  driving away its darkness, and persuading all to seek the grace of the Spirit which they had lost. /  Earnestly intercede with Him to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nRadiant with the Three-Sun Light, you appeared as a true theologian of the Most Divine Trinity, /   the divinely transcendent Lord;  /  from on high, you were made rich with the wisdom of discourse  /  and poured forth Divine streams of godly wisdom; /  having drunk from these, we cry out:  /  “Rejoice, thrice-blessed Symeon.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Kirion II, Catholicos-Patriarch of All Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Kirion, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

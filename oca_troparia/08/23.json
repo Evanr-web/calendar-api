@@ -1,0 +1,55 @@
+{
+  "date": "2026-08-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Leavetaking of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth you preserved your virginity, / in falling asleep you did not forsake the world, O Theotokos. / You were translated to life, O Mother of Life, / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death could hold the Theotokos, / who is constant in prayer and our firm hope in her intercessions. / For being the Mother of Life, / she was translated to life by the One who dwelt in her virginal womb."
+      }
+    },
+    {
+      "name": "Martyr Lupus, slave of Saint Demetrius of Thessalonica",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Lupus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a steadfast warrior of the Lord, / you vanquished the enemy array, O Lupus. / Strengthened by divine love, / with strength surpassing that of man you prevailed in your contest. / Now you unceasingly intercede with Christ our God for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Irenaeus, Bishop of Lyons",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “You were lifted up...”)\r\nAs a wise Hierarch bearing the name of peace,  / you proclaimed the Gospel in the world, Most Blessed and Holy Irenaeus,  / and you contested vigorously for Christ; /  therefore, O Hieromartyr, we honor you in song, crying; /  “Glory to Him Who strengthened you.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, grants us grace and mercy.”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  /  O divinely-wise one,  /  you\r\nextinguished the sacrifices of idolatry  /  and showed yourself to be a protector of your flock.  /  Therefore,\r\nwe fervently cry out to you:  /  “By your intercessions, deliver us from all misfortunes,  /  O Irenaeus our Father.”"
+      }
+    },
+    {
+      "name": "Saints Eutychius and Florentius of Nursia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Eutychius and Florentius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Callinicus, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Callinicus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

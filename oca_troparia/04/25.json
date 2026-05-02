@@ -1,0 +1,39 @@
+{
+  "date": "2026-04-25",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Basil of Poiana Marului",
+      "troparion": {
+        "tone": 8,
+        "text": "O Teacher of the true worship of God, guide of monks, preacher of grace, /  instructor of noetic prayer as one who labored with vigilance,  / O Venerable Father Basil, always entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nLet us honor the wondrous guide of monks, a most experienced teacher of prayer, /  a heavenly man and earthly angel, a most renowned spiritual counselor,  / and let us sing joyously to him: “Rejoice, Holy Father Basil, preacher of grace.”"
+      }
+    },
+    {
+      "name": "Apostle and Evangelist Mark",
+      "troparion": {
+        "tone": 4,
+        "text": "From your childhood the light of truth enlightened you, O Mark, / and you loved the labor of Christ the Savior. / Therefore, you followed Peter with zeal / and served Paul well as a fellow laborer, / and you enlighten the world with your holy Gospel."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "When you received the grace of the Spirit from on high, O Apostle, / you broke the snares of the philosophers and gathered all nations into your net, / bringing them to your Lord, O glorious Mark, / by the preaching of the divine Gospel."
+      }
+    },
+    {
+      "name": "Venerable Sylvester, Abbot of Obnora",
+      "troparion": {
+        "tone": 4,
+        "text": "As a good disciple of the blessed Sergius, you emulated his faith and godliness,  / receiving the gifts of the Holy Spirit and, for the Lord's sake,  / you made great efforts for the salvation and consolation of the faithful.  / Do not forsake us who come to you with faith,  /  O Venerable Father Sylvester."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "By your struggles you have contested,1 and you brought your soul as a pure and unblemished sacrifice to God,2 /  after your repose you are diligent for us before God in prayer;  / therefore, turning to you with faith, we cry out:  / “Rejoice, O Venerable Father Sylvester.”"
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "date": "2026-07-29",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Callinicus of Gangra in Asia Minor",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Callinicus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nYou worthily inherited joy on high, Callinicus, / for aflame with love for Christ you bravely endured the fire. / As you stand before Him, / never cease to intercede for us all."
+      }
+    },
+    {
+      "name": "Venerable Constantine and Cosmas, Abbots of Kosinsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Constantine and Cosmas pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyr Seraphima (Serapia) of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Seraphima, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Seraphima,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Martyr Theodota and her three sons in Bithynia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Theodota, O Jesus, / calls out to You in a loud voice: / I love You, O my bridegroom, / and in seeking You, I endure suffering. / In Baptism I was crucified so that I might reign in You, / and died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love. / By her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Eustathius of Mtskheta in Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Eustathius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Eustathius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Bessarion, Bishop of Smolyan",
+      "troparion": {
+        "tone": 1,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Bessarion entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Child Schemamonk Bogolep",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Bogolep, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Roman of Kirzhachsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Roman, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Michael “the Black-Robed” of Saint Savva Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Michael, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Nativity of Saint Nicholas the Wonderworker",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Nicholas, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You revealed yourself, O saint, in Myra as a priest, / for you fulfilled the Gospel of Christ / by giving up your soul for your people, / and saving the innocent from death. / Therefore you are blessed as one become wise in the grace of God."
+      }
+    },
+    {
+      "name": "Martyr Michael",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Michael, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Michael;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "date": "2026-04-13",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Icon of the Mother of God of Mt. Athos, “Sweet Kissing”",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nWe praise thy holy Icon as a most honored gift, /  and having acquired it, Philotheou Monastery rejoices exceedingly;  / for in it we behold thee, O Pure One, kissing Christ as an infant; /  and we magnify thy great glory, O Virgin, crying out to thee:  / Glory to thy mighty works, O Pure One!  / Glory to thy compassion!  / Glory to thy care for us, O Spotless One!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Artemon of Laodikeia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Artemon, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Made worthy of a sacred confession, / and completing your life as a martyr, / you were translated to heaven, / receiving from God an unfading crown. / Therefore we celebrate your holy memory, calling out: / Remember us, as you stand before Christ, / O wise Hieromartyr Artemon."
+      }
+    },
+    {
+      "name": "Martyr Crescens of Myra in Lycia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Crescens, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Crescens;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Thomais of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Thomais, O Lord, / through her suffering has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Thomais;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

@@ -30,5 +30,67 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "Blessed are You O Christ Our God / You have revealed the fishermen as most wise / by sending down upon them the Holy Spirit / through them You drew the world into Your net / O Lover of Man, Glory to You!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "When the most High came down and confused the tongues, / He divided the nations; / but when he distributed the tongues of fire / He called all to unity. / Therefore, with one voice, we glorify the All-holy Spirit!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Postfeast of Pentecost — Day of the Holy Spirit",
+  "oca_saints": [
+    {
+      "name": "Postfeast of Pentecost — Day of the Holy Spirit",
+      "troparion": {
+        "tone": 8,
+        "text": "Blessed are You O Christ Our God / You have revealed the fishermen as most wise / by sending down upon them the Holy Spirit / through them You drew the world into Your net / O Lover of Man, Glory to You!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "When the most High came down and confused the tongues, / He divided the nations; / but when he distributed the tongues of fire / He called all to unity. / Therefore, with one voice, we glorify the All-holy Spirit!"
+      }
+    },
+    {
+      "name": "Martyr Justin the Philosopher and those with him at Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nO Justin, teacher of divine knowledge, /  you shone with the radiance of true philosophy.  /  You were wisely armed against the Enemy.  /  Confessing the truth, you contested with the Martyrs,  /  with them, O Justin, always entreat Christ to save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nAs a breath from Paradise, the dew descending upon Aermon,1 /   Christ the Power and the Peace and Wisdom of God the Father, /   came upon your thirsting spirit, O Martyr Justin,  /  making you a Fount of Knowledge2 for all the faithful,  /  when with true valor you endured death as a Martyr, to live forever in Christ."
+      }
+    },
+    {
+      "name": "Venerable Dionysius, Abbot of Glushitsa, Vologda",
+      "troparion": {
+        "tone": 1,
+        "text": "Inflamed with divine love from your youth, O venerable Dionysius, and despising all earthly attractions, you came to love Christ alone,  / and for His sake, you settled in the inner wilderness /  and lived with the wild animals, entirely for Christ.  / Thus, the All-Seeing Eye, having beheld your labors, /  enriched you with the gift of miracles, even after your repose.  / Therefore, we cry out to you:  / Pray unceasingly for us who always revere your honorable memory with hymns of praise."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Turning all of your spiritual longing toward God, steadfastly you followed His call with all your soul.  / Having settled in the wilderness and, having lived there in an angelic way, you were a path to salvation for many.  / Hence, Christ has glorified you, and enriched you with the gift of miracles. /  Therefore, we cry out to you: Hail, Venerable Dionysius, dweller in the wilderness."
+      }
+    },
+    {
+      "name": "Venerable Agapitus the Unmercenary Physician of the Kiev Near Caves",
+      "troparion": {
+        "tone": 5,
+        "text": "You proclaimed your faith as a good physician. / You rebuked the Armenian and brought him to piety. / When dying you asked God for life, / and by this wonder brought him to Christ. / Now standing joyfully before the Lord / Pray for us, O righteous one!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Shio, David, Gabriel, and Paul of Akhalkalaki in Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

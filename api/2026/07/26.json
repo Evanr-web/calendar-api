@@ -31,5 +31,89 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "O God of our Fathers,  /  always act with kindness towards us;  /  take not Your mercy from us,  /  but guide our lives in peace  /  through the prayers of the hierarchs Hermolaus, Hermippus, and Hermocrates.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "(Podoben: “As the first fruits...”) The Church glorifies you as teachers of virtue and adornments of hierarchs,  / singing: “By your intercessions for those who lovingly honor you, /  grant progress in virtue, and deliverance from temptations.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Hermolaus and Martyrs Hermippus and Hermocrates at Nicomedia",
+  "oca_saints": [
+    {
+      "name": "Repose of Saint Jacob Netsvetov, Enlightener of the Peoples of Alaska",
+      "troparion": {
+        "tone": 4,
+        "text": "Righteous Father Jacob, / adornment of Atka and the Yukon delta, / offspring of Russian America, / flower of brotherly unity, / healer of sickness, / and terror of demons, / you offered yourself as a living sacrifice / to bring light to a searching people. / Pray to Christ God that our souls may be saved!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Holy Father Jacob, / teacher of the knowledge of God, / you revealed your love for your people, / taking up your cross and following Christ, / enduring hardships like the apostle Paul. / Pray on our behalf to Christ our God / to grant us great mercy!"
+      }
+    },
+    {
+      "name": "Hieromartyr Hermolaus and Martyrs Hermippus and Hermocrates at Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  /  always act with kindness towards us;  /  take not Your mercy from us,  /  but guide our lives in peace  /  through the prayers of the hierarchs Hermolaus, Hermippus, and Hermocrates."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits...”) The Church glorifies you as teachers of virtue and adornments of hierarchs,  / singing: “By your intercessions for those who lovingly honor you, /  grant progress in virtue, and deliverance from temptations.”"
+      }
+    },
+    {
+      "name": "Venerable Moses the Hungarian of the Kiev Near Caves",
+      "troparion": {
+        "tone": 3,
+        "text": "O great lover of purity and chastity, we sinners praise you with sacred hymns as another Joseph, /  O Moses,  / revered by all, and equal of the Angels. We pray diligently to you:  /  “Entreat Christ God that He may heal all our passions and grant us great mercy.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Seeking God alone in Heaven, you despised all earthly things. /  You did not care for your body, but valiantly gave yourself up to torments, hunger, thirst, and bonds; /   in prison you endured beatings, shedding your blood,  /  and having  parts of your body cut off, for the sake of purity. /   You preserved your virginity courageously,  /  and now with the assembly of virgins you stand before the Most Holy Trinity.  /  Entreat Him to deliver from all their temptations those who cry out to you:  /  “Rejoice, Most Blessed Father Moses.”"
+      }
+    },
+    {
+      "name": "Martyr Paraskevi of Rome",
+      "troparion": {
+        "tone": 5,
+        "text": "O wise and praiseworthy Martyr of Christ Paraskevḗ,  /  by taking courage and rejecting feminine weakness  /  you conquered the devil!  /  You put your torturer to shame by crying out: / \"Come, rend my body with your sword, and burn it with fire;  /  for I go rejoicing to Christ my bridegroom!\" /  By her prayers, O Christ God, save our souls!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Your temple, revered by all, is found to be a hospital for souls, /  in it all believers honor you with loud voices, /   O glorious Monastic Martyr Paraskevḗ."
+      }
+    },
+    {
+      "name": "Venerable Geróntios, the Founder of the Skḗtē of Saint Anna on Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gerontius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Savva III of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Savva, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Holy Virgin Martyr Oraiozele, disciple of the Holy Apostle Andrew",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Oraiozele calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Oraiozele,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    }
+  ]
 }

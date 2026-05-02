@@ -1,0 +1,96 @@
+{
+  "date": "2026-08-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Transfiguration of our Lord",
+      "troparion": {
+        "tone": 7,
+        "text": "You were Transfigured on the Mount, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light shine upon us sinners! / Through the prayers of the Theotokos, O Giver of Light, glory to You!"
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
+      }
+    },
+    {
+      "name": "Glorification of Venerable Herman of Alaska, Wonderworker of All America",
+      "troparion": {
+        "tone": 4,
+        "text": "O blessed Father Herman of Alaska, / north star of Christ’s holy Church, / the light of your holy life and great deeds / guides those who follow the Orthodox way. / Together we lift high the Holy Cross / you planted firmly in America. / Let all behold and glorify Jesus Christ, / singing his holy Resurrection."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "The eternal light of Christ our Savior / guided you, blessed Father Herman, / on your evangelical journey to America / to proclaim the Gospel of peace. / Now you stand before the throne of glory; / intercede for your land and its people: / Peace for the world and salvation for our souls!"
+      }
+    },
+    {
+      "name": "Apostle Matthias of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "O Holy Apostle Matthias, / intercede with the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O wonderworker and Apostle Matthias, / your words have gone out into all the world, / enlightening men as the sun / and giving grace to the Church, / bringing faith to the heathen lands."
+      }
+    },
+    {
+      "name": "Martyr Anthony of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Anthony, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anthony;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Psoi of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Psoi, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Julian of Constantinople and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Julian and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Macarius of Oredezhsk",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert, /  and by your sighings from the depths, your labors bore fruit a hundredfold,  /  and you became a luminary of the world, radiant with miracles,  /  O Makarios our Father. Intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Father Makarios:  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Holy New Martyr Ignatius (Bazyluk)",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  / for you took up your cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal.  / Therefore, O Venerable Ignatius, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us worthily extol in hymns the all-praised Ignatius,  / as a devout and experienced faster,  / as an honored and voluntary martyr,  / and as one who led an eremitic life in the desert,  / for he has trampled the serpent underfoot."
+      }
+    },
+    {
+      "name": "Hieromartyr Euthymios of Rhodes",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Euthymios, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

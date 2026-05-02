@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-12",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Epiphanius, Bishop of Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the hierarchs Epiphanius and Germanus."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “As You were voluntarily raised...”)\r\nWith faith, let us praise the pair of wonderful hierarchs, / the divine Epiphanius and Germanus, / for they subdued the godless pagans / by proclaiming the wisest teachings to all, / ever chanting the great mystery of piety in an Orthodox manner."
+      }
+    },
+    {
+      "name": "Saint Germanus, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / take not away Your mercy from us, / but ever act towards us according to Your kindness, / and by the prayers of Your saints, / guide our lives in peace."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Come, O faithful, let us sing a worthy hymn of praise / to honor the glorious Bishops, Epiphanius and Germanus. / They enlightened the minds of those living without faith, / while presenting the great mysteries of God to the faithful, / explaining True Belief with great wisdom!"
+      }
+    },
+    {
+      "name": "Hieromartyr Hermogenes, Patriarch of Moscow and All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Hermogenes, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dionysius, Archimandrite of Saint Sergius’ Monastery",
+      "troparion": {
+        "tone": 3,
+        "text": "Having learned goodness of the grace which comes from the Most High,  / and girded yourself from your youth with a clear conscience, O Dionysios, most like unto Christ, /  you were a pillar of patience and a preacher of the Word of God;  / you confirmed the dogmas of the faith and set at naught the imaginings of the superstitious, /  by doing which you suffered gladly for the truth,  / showing in yourself an example of suffering. /  Yet, since you are bold in interceding with Christ God, /  do not cease to pray for us who lovingly revere your holy memory."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Sabinus, Archbishop of Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Sabinus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Polybius, Bishop in Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Polybius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr John of Vlachia, Romania",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the Church of the pious Romanians celebrates spiritually and shouts with joy:  / Come, O lovers of the martyrs, to celebrate the annual commemoration of the struggles of the New Martyr John. /  By God's will, he who was one of us was raised and blossomed wondrously in the imperial city of Constantine,  / bringing to the Master rich and well-received fruit, by his martyrdom. /  Now, in heaven, he prays unceasingly that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: Show yourself today to the world ...)\r\nShow us today, the very beauty of the Savior, / the young soldier of the Savior, / enlightening all who shout: Rejoice, John, Great Martyr of Christ!"
+      }
+    },
+    {
+      "name": "Martyr Pancratius",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Pancratius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Pancratius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

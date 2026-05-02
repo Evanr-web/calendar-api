@@ -1,0 +1,57 @@
+{
+  "date": "2026-02-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Leo the Great, Pope of Rome",
+      "troparion": {
+        "tone": 8,
+        "text": "O Champion of Orthodoxy, and teacher of holiness, / the enlightenment of the universe and the inspired glory of true believers. / O most wise Father Leo, your teachings are as music of the Holy Spirit for us! / Pray that Christ our God may save our souls!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Seated upon the throne of the priesthood, glorious Leo, / you shut the mouths of the spiritual lions. / With divinely inspired teachings of the honored Trinity, / you shed the light of the knowledge of God upon your flock. / Therefore, you are glorified as a divine initiate of the grace of God."
+      }
+    },
+    {
+      "name": "Venerable Cosmas of Yakhrom",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cosmas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Agapitos the Confessor and Wonderworker, Bishop of Synnada in Phrygia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Agapitos, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Flavian the Confessor, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Flavian, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Nicholas, Catholicos of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Nicholas, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Colman of Lindesfarne",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Colman, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

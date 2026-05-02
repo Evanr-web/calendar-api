@@ -1,0 +1,68 @@
+{
+  "date": "2026-03-29",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "5th Sunday of Great Lent: St Mary of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what was according to the image;  / for you took up the Cross and followed Christ. /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal.  / Therefore, O Venerable Mary, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Having been a sinful woman,  /  you became a Bride of Christ through repentance.  / Having attained the angelic life,  /  you defeated demons by the weapon of the Cross;  /  therefore, O most glorious Mary you are a Bride of the Kingdom."
+      }
+    },
+    {
+      "name": "Hieromartyr Mark, Bishop of Arethusa, who suffered under Julian the Apostate",
+      "troparion": {
+        "tone": 3,
+        "text": "In preparation for the contest, you anointed an assembly of martyrs / and bolstered them by your steadfastness, O glorious Mark. / You finished your course together with them / and all of you were found worthy of the joy of heaven. / Righteous father, entreat Christ our God to grant us His great mercy.(The Typikon does not prescribe a Kontakion.)"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Cyril the Deacon of Heliopolis, and those with him, who suffered under Julian the Apostate",
+      "troparion": {
+        "tone": 3,
+        "text": "In preparation for the contest, O glorious Cyril, / you anointed an assembly of martyrs / and strengthened them by your steadfastness. / You finished your course with them. / And you were all found worthy of the joys of heaven. / O righteous Father, / pray to Christ our God to grant us his great mercy!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Having been illumined by the grace of truth, / you radiantly instruct the ends of the earth in piety, O glorious Hieromartyrs. / Therefore we bless you in faith."
+      }
+    },
+    {
+      "name": "Venerable John the Anchorite of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Eustathius (Eustace) the Confessor, Bishop of Bithynia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Eustathius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Mark,  Jonah, and Bassa of the Pskov Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Mark, Jonah, and Bassa, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Nikḗtas of the Roslavl Forests",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Niketas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

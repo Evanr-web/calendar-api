@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle Carpus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Carpus and Alphaeus, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nThe Church ever sees you as a shining star, Apostle Carpus. / Your miracles have brought her great enlightenment. / Save those who in faith honor your memory."
+      }
+    },
+    {
+      "name": "Apostle Alphaeus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Alphaeus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Greatmartyr George the New at Sofia, Bulgaria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr George, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr George;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Macarius, Abbot of Kalyazin",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Abercius and Helen, children of the Apostle Alphæus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Confessor John Psykhaitis",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  / for you took up the Cross and followed Christ.  / By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal. /  Therefore, O Venerable John, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Finding delight in abstinence,  / you subdued the desires of the flesh  /  Revealed as one nurtured in the Faith,  / you blossomed like the Tree of Life in Paradise,  / O Holy Father John."
+      }
+    },
+    {
+      "name": "Saint Augustine of Canterbury, Evangelizer of England",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Augustine your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Augustine, pray unceasingly for us all."
+      }
+    }
+  ]
+}

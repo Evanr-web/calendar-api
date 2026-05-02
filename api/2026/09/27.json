@@ -31,5 +31,110 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "In contest you were strengthened by the Holy Spirit, Martyr Callistratus, / and were glorious in casting down the Enemy. / You offered a noble army of athletes / as sweet-smelling incense to Christ. / With them pray for us who praise you with hymns.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “Today You have shown forth...”)Like stars you have shone upon the world / shedding the light of your contests and miracles upon all who cry to you: / “Rejoice, Martyr Callistratus and fellow company of martyrs.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Callistratus and 49 companions",
+  "oca_saints": [
+    {
+      "name": "Martyr Callistratus and 49 companions",
+      "troparion": {
+        "tone": 3,
+        "text": "In contest you were strengthened by the Holy Spirit, Martyr Callistratus, / and were glorious in casting down the Enemy. / You offered a noble army of athletes / as sweet-smelling incense to Christ. / With them pray for us who praise you with hymns."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Like stars you have shone upon the world / shedding the light of your contests and miracles upon all who cry to you: / “Rejoice, Martyr Callistratus and fellow company of martyrs.”"
+      }
+    },
+    {
+      "name": "Venerable Sabbatius, Wonderworker of Solovki",
+      "troparion": {
+        "tone": 3,
+        "text": "You abandoned the world and fought the good fight / by hardship, vigil and prayer. / Pray to Christ our God to save our souls, O holy Father Sabbatius!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Fleeing the turmoil of life / you dwelt on an island in the sea. / You took up your cross and followed Christ / toiling in vigils, fasting and hardships. / You became the adornment of the righteous / And we lovingly celebrate your memory. / Pray to Christ our God / to save our souls, O righteous Sabbatius!"
+      }
+    },
+    {
+      "name": "Apostle Mark of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Mark, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Aristarchus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Aristarchus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Zenas of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Zenas, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Epicharis of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Martyr Epίkharis, O Lord, /  through her contest received an incorruptible crown from You, our God; /  for, possessed of Your strength, /  she laid low the tyrants and shattered the powerless boldness of the demons.  / By her supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou shone forth in your splendor as a bright star,  /  announcing Christ to this temporal world, O Martyr Epίkharis, /   vanquishing the snares of false gods, /   you revealed the true light to the faithful,  /  and you always intercede on behalf of us all."
+      }
+    },
+    {
+      "name": "Saint Ignatius of Christ the Savior Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  / By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal. / Therefore, O Venerable Ignatius, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...&rdqo;)\r\nHaving divinely armed yourself with purity of soul  / and firmly grasping unceasing prayer as a spear, you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Ignatius:  / “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Saint Flavian, Archbishop of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Flavian, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Aquilina",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “O coeternal Word...”)\r\nLet us praise the devout Aquilina,  / who was seen as a godly-minded girl and a champion of Christ,  / who courageously maintained her faith out of love for Him / , and overcoming the Enemy by her holy struggles, she obtained divine glory.  / Now she intercedes with Christ the Word to have mercy on our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Anthimus the Georgian",
+      "troparion": {
+        "tone": 1,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Anthimus entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

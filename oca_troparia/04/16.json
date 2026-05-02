@@ -1,0 +1,66 @@
+{
+  "date": "2026-04-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Virgin Martyrs Agape, Irene and Chionia, in Illyria",
+      "troparion": {
+        "tone": 4,
+        "text": "Completing the course of your life in martyrdom / and having kept the faith, / as lambs endowed with reason / you were led before Christ the Lamb and Shepherd. / Therefore rejoicing now in spirit, / we celebrate your wondrous and holy memory, / magnifying Christ."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Becoming beautiful brides of Christ, / you offered to Him a gift of blood and sacrifice, / O passion-bearing maidens, / Irene, Agape and glorious Chionia, / rightly entering the bridal chamber, / ever filled with ineffable enlightenment. / Therefore celebrating in spirit / your precious and holy memory, / we give glory to the Savior / And cry out in piety: / Pray to the Lord for us."
+      }
+    },
+    {
+      "name": "Martyrs Leonidas, Chariessa, Nice, Galina, Kalista, Nunechia, Basilissa, Theodora, and Irene, of Corinth",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Christopher of Dionysiou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Christopher, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Christopher, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Hieromartyr Nikḗtas",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Niketas, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Weeping “Ilyin Chernigov” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls:  / “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast protectress of Christians,  /  most constant advocate before the Creator,  /  do not despise the voices of us who have sinned,  /  but in your goodness come speedily to help us, who cry to you in faith:  /  “Hasten to intercede for us, O Theotokos,  /  and speedily make supplication, for you always protect those who honor you.”"
+      }
+    },
+    {
+      "name": "Tambov (Utkino) Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the city of Tambov exalts radiantly, and Christ’s Hierarch Pitirim rejoices;  /  for now, O Sovereign Lady, your icon shines forth with the miracles of your Icon,  /  which the Hierarch brought from the capital city of Moscow,  /  revealing your wondrous intercession to the people, and healing everyone who turns to you with faith.  /  Therefore, we humbly cry out to you: “Save us through your Icon, O All-hymned Virgin.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Now God’s Angels and all the Saints in Heaven rejoice,  /  beholding your glory, O Most Pure Virgin,  /  and before your Icon, the faithful offer you prayers of thanksgiving  /  for the mercy and compassion you have shown to all of us, especially to our city.  /  As you did of old, O Virgin Theotokos,  /  save us in days to come by your intercession."
+      }
+    }
+  ]
+}

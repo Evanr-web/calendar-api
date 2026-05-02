@@ -1,0 +1,85 @@
+{
+  "date": "2026-06-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle Bartholomew of the Twelve",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Bartholomew and Barnabas, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You have appeared to the universe as a great sun, / shining with the radiance of your teachings and awesome miracles. / You enlighten those who honor you, apostle of the Lord, Bartholomew."
+      }
+    },
+    {
+      "name": "Apostle Barnabas of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Bartholomew and Barnabas, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You became a true servant of the Lord / and appeared as the first among the Seventy Apostles; / together with Paul you set your preaching in a clear light / revealing Christ as Savior to all; / therefore with hymns we celebrate your godly memory, O Barnabas."
+      }
+    },
+    {
+      "name": "Venerable Barnabas, Abbot of Vetluga",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Barnabas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Ephraim, Abbot of Novy Torg",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ephraim, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Synaxis of the “Axion Estin” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Go quickly before...”)\r\nGather together, all ye Fathers of Athos, /  faithfully celebrating with joy and gladness today, /  for wondrously the Mother of God  / is hymned by the Angel; /  therefore, we glorify her forever as the Theotokos."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Thou hast appeared today...”)\r\nAll of Athos keeps festival today, /  for wondrously, it has received hymns from the Angel,  / extolling the Mother of God, whom all of creation honors and glorifies."
+      }
+    },
+    {
+      "name": "Hieromartyr Metrophanes (Chang Tzi-tzung), first Chinese priest and the martyrs of the Boxer Rising in China",
+      "troparion": {
+        "tone": 1,
+        "text": "By the sufferings of Your saints which they endured for Your sake,  / be moved, O Lord, and heal all our infirmities, /  we implore You, O Lover of man."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “Seeking the highest...”)\r\nO divine martyrs, you have appeared as bright beacons,  /  illumining all of creation with the radiance of your miracles; /  unceasingly entreat Christ to deliver us all from our infirmities,  / and to drive away from us the profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Saint Luke, Archbishop of Simferopol",
+      "troparion": {
+        "tone": 1,
+        "text": "Herald of the path of salvation, Confessor and Archpastor of the Crimean Land,   /  True Guardian of Patristic Tradition, unshakable pillar, teacher of Orthodoxy,  /   divinely-wise physician, and Hierarch Luke,   /  pray unceasingly to Christ the Savior to grant unshakable faith to the Orthodox, salvation, and great mercy."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Like a star shining with light, O Hierarch, you shone with virtues, /   and you led a blameless life, like the Angels;  /  therefore, you were honored with the rank of a Bishop, /   but suffered much persecution from the atheists,  /  yet you remained unshakable in your faith,  /  healing many with your medical wisdom.  /  Therefore, your revered relics were found in the bowels of the earth,  /  and the Lord has glorified you, so that all the faithful may cry out to you:  /  \"Rejoice, Father and Hierarch Luke,  /  the boast and bulwark of the Crimean land.\""
+      }
+    },
+    {
+      "name": "Abul Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Icon, O Virgin Lady, was given to us as an inexhaustible source of miracles,  / bestowed upon those who are overwhelmed and afraid,  / pouring forth the healing of the afflictions for the sick,  / which is a sign of your intercession. /  By the Cross of your Son, we conquer our enemies; /  and to you, our Queen and Sovereign Lady,  / we offer a song of praise."
+      },
+      "kontakion": null
+    }
+  ]
+}

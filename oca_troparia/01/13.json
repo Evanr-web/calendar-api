@@ -1,0 +1,104 @@
+{
+  "date": "2026-01-13",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 1,
+        "text": "When You, O Lord were baptized in the Jordan / the worship of the Trinity was made manifest / for the voice of the Father bore witness to You / and called You His beloved Son. / And the Spirit, in the form of a dove, / confirmed the truthfulness of His word. / O Christ, our God, You have revealed Yourself / and have enlightened the world, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today You have shown forth to the world, O Lord, / and the light of Your countenance has been marked on us. / Knowing You, we sing Your praises. / You have come and revealed Yourself, / O unapproachable Light."
+      }
+    },
+    {
+      "name": "Martyrs Hermylus and Stratonicus of Belgrade",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Hermylus and Stratonicus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Irenarchus the Recluse of Rostov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Irenarchus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Eleazar of Anzersk Island, Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Eleazar, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Peter of Anium, at Hieropolis",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Peter, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Peter;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint James, Bishop of Nisibis",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father James, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch James, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Hilary, Bishop of Poitiers",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Hilary, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Hilary, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Venerable Maximus Kavsokalyvites of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Maximus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Elian, Missionary to Cornwall, England",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Elian your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the Highest...”) Having divinely armed yourself with purity of soul and firmly grasping unceasing prayer as a\r\nspear,  /  you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Elian: /  \r\n“Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Saint Jeremiah I Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  /  and through poverty, riches.  /  O Hierarch Jeremiah, our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Jeremiah, divine thunder, spiritual trumpet,  / planter of faith, and pruner of heresies, great favorite of the Trinity,  / as you stand before God with the Angels,  / pray unceasingly for all of us."
+      }
+    }
+  ]
+}

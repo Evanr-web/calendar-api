@@ -1,0 +1,109 @@
+{
+  "date": "2026-05-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Theodore the Sanctified, disciple of Venerable Pachomius the Great",
+      "troparion": {
+        "tone": 1,
+        "text": "Dweller of the desert and angel in the body, / you were shown to be a wonder-worker, our God-bearing Father Theodore. / You received heavenly gifts through fasting, vigil, and prayer: / Healing the sick and the souls of those drawn to you by faith. / Glory to Him who gave you strength! / Glory to Him who granted you a crown! / Glory to Him who through you grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You flourished like a palm tree in the house of God, / bringing forth the fruit of virtues for the Lord through your ascetic efforts. / Therefore, you are called blest, venerable Father Theodore, / for you are equal to the bodiless ones!"
+      }
+    },
+    {
+      "name": "Translation of the relics of Venerable Ephraim, Abbot of Perekop, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ephraim, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Cassian, Abbot of Komel (Vologda)",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cassian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Laurence, Abbot of Komel",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Laurence, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Alexander, Archbishop of Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, / O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Alexander entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Vitus, Modestus, and Crescentia, at Lucania",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint George, Bishop of Mitylene",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father George, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Monastic Martyrs of Saint Savva Lavra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Fathers, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "New Martyr Vukasin of Klepci, Serbia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Vukasin, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Vukasin;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "New Martyr Nicholas of Metsovo",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Nicholas, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Nicholas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Brendan the Navigator",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father,  /  for you took up the Cross and followed after Christ.  /  By so doing you taught us to disregard the flesh for it passes away  /  but to care instead for the soul, since it is immortal.  /  Therefore, O Venerable Brendan, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you\r\nhave slain the armies of the demons.  / Therefore, we beseech you, O Father Brendan:  / “Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

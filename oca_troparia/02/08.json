@@ -1,0 +1,69 @@
+{
+  "date": "2026-02-08",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Sunday of the Prodigal Son",
+      "troparion": null,
+      "kontakion": {
+        "tone": 3,
+        "text": "I have recklessly forgotten Your glory, O Father; / and among sinners I have scattered the riches which You had given me. / Therefore, I cry to You like the Prodigal: / “I have sinned before You, O compassionate Father; / receive me a penitent and make me as one of Your hired servants.”"
+      }
+    },
+    {
+      "name": "Afterfeast of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "Hail, Virgin Theotokos, full of grace;  / for from you has shone forth the Sun of Righteousness, Christ our God,  /  giving light to those in darkness. /  Be glad, O righteous Elder; /  for you received in your arms the Redeemer of our souls,  / Who bestows upon us the resurrection."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
+      }
+    },
+    {
+      "name": "Greatmartyr Theodore Stratelates “the General”",
+      "troparion": {
+        "tone": 4,
+        "text": "Truly enlisted with the King of Heaven, / you became an outstanding general for Him, passion-bearer Theodore; / you armed yourself wisely with the weapons of faith / and conquered hordes of demons, revealing yourself as a victorious athlete. / Therefore, in faith we always call you blessed."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "With the word of God as a spear in your hand, / in courage of soul and armed with faith, / you vanquished the enemy, Theodore, glory of martyrs, / with whom you unceasingly pray to Christ God for us all."
+      }
+    },
+    {
+      "name": "Prophet Zachariah",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Zachariah, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Zachariah."
+      }
+    },
+    {
+      "name": "Saint Sava II, Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Savva, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Savva, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Blessed Liubov (Sukhanovskaya) of Ryazan, Fool for Christ",
+      "troparion": {
+        "tone": 5,
+        "text": "You were called Liubov1 in Holy Baptism, and you knew the love of Christ in your life;  / you served God and man with love, and you acquired great boldness;  / we also resort to you continuously, crying out from the depths of our hearts:  / “Pray to the Lord, O Blessed godly-wise Liubov, /  that He grant peace to the world and great mercy to our souls.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Healed by Christ's Hierarch Nicholas, and blessed by him to serve God and people,  / you took up the cross of foolishness with love and bore it until the end, O Holy Blessed Liubov,  / do not forsake us who venerate your holy memory,  / as you stand with the Saints before the Throne of the Most Holy Trinity, /  praying for the well-being of your land and for the salvation of our souls."
+      }
+    }
+  ]
+}

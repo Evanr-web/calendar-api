@@ -1,0 +1,47 @@
+{
+  "date": "2026-06-17",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Manuel, Sabel, and Ismael, of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "O godly champions and opponents of impiety, divinely-in / spired Manouḗl, wondrous Ishmaḗl, and Sabél,  / you proclaimed Christ, the Son of God courageously, /  and you shed your blood for Him.  / Do not cease imploring Him to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nWounded by faith in Christ, you drank faithfully from His cup,  / and overthrew the idolatry and audacity of the Persians. /  O blessèd Martyrs, equal in number to the Trinity,  / intercede for us all."
+      }
+    },
+    {
+      "name": "Martyr Nectan of Hartland",
+      "troparion": {
+        "tone": 4,
+        "text": "O holy Father Nectan / you followed the bidding of the Lord / and left your father and mother for His sake to embrace the hermit’s life. / Faithful follower of Christ unto death / pray that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Nectan;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Shalva of Akhaltsikhe",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Shalva, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Ananias the Iconographer",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image; /   for you took up the Cross and followed Christ.  /   By so doing, you taught us to disregard the flesh, for it passes away; /   but to care for the soul, since it is immortal.  /   Therefore, O Venerable Ananias, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Father Ananias: /  “Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

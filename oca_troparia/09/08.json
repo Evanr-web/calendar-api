@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-08",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "The Nativity of our Most Holy Lady the Mother of God and Ever-Virgin Mary",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Nativity, O Virgin,  / has proclaimed joy to the whole universe!  / The Sun of Righteousness,1 Christ our God,  /  has shone from you, O Theotokos!  /  By annulling the curse,  /  He bestowed a blessing.  /  By destroying death, He has granted us eternal Life."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Original Melody)\r\nBy your Nativity, O Most Pure Virgin,  / Joachim and Anna are freed from barrenness; /  Adam and Eve, from the corruption of death.  /  And we, your people, freed from the guilt of sin, celebrate and sing to you:  /  “The barren woman gives birth to the Theotokos, the nourisher of our life.”"
+      }
+    },
+    {
+      "name": "Icon of the Mother of God “of the Sign”, the “Kursk-Root”",
+      "troparion": {
+        "tone": 4,
+        "text": "Having obtained you as an unassailable rampart and a source of miracles, O Most Pure Theotokos,   / we your servants vanquish the assaults of enemies.   / Therefore we entreat you: “Grant peace to your city, and great mercy to our souls.”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "We celebrate the appearance of your revered Icon of the Sign, O Theotokos, whereby you have granted your people a wondrous victory over the enemies of your city. Therefore, we cry to you with faith: “Rejoice, O Virgin, the boast of Christians.”"
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Pochaev",
+      "troparion": {
+        "tone": 8,
+        "text": "O Victorious Leader, who have chosen the mountain of Pochaev as your habitation,  /  we, your servants, sing our grateful thanks and praise to you, O Theotokos;  /  for you have glorified this godly place from of old by the appearance of the healing power of your footprint and your wonderworking image.  /  As you once preserved your habitation from the invasion of infidels,  /  set us free from every calamity and invasion,  /  so that always preserved through your help, we may sing from the depths of our souls:  /  Rejoice, O Praise of Pochaev, our hope and consolation!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of Sophia, the Wisdom of God",
+      "troparion": {
+        "tone": 1,
+        "text": "O Christ our God, the Eternal Wisdom,  / by Your Divine Providence, You bowed down the Heavens,  / and deigned to dwell in the womb of the Pure Virgin,  / having broken the enmity,1 You have sanctified our nature and revealed Your Kingdom to us;  / therefore You, our Creator and Savior, and the Pure Virgin who gave birth to You,  / serve as the mystery of our salvation, and we glorify you in the Orthodox way."
+      },
+      "kontakion": null
+    }
+  ]
+}

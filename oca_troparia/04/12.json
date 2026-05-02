@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-12",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "HOLY PASCHA: The Resurrection of Our Lord",
+      "troparion": {
+        "tone": 8,
+        "text": "(Hypakoe)\r\nBefore the dawn Mary and the women came /  and found the stone rolled away from the tomb. /  They heard the angelic voice: “Why do you seek among the dead as a Man  / the One Who is everlasting Light? /  Behold the clothes in the grave; go and proclaim to the world: /  ‘The Lord is risen; He has slain death, /  as He is the Son of God, saving the race of man.’”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You descended into the tomb, O Immortal,  / You destroyed the power of death. /  In victory You arose, O Christ God, /  proclaiming: “Rejoice!” to the Myrrhbearing Women, / granting peace to Your Apostles, and bestowing Resurrection on the fallen."
+      }
+    },
+    {
+      "name": "Saint Basil the Confessor, Bishop of Parium",
+      "troparion": {
+        "tone": 4,
+        "text": "Glorious hierarch Basil, / priest of the King of glory, / you are a radiant confessor of the Faith: / You opposed the iconoclasts and suffered for the Truth. / Standing before God, remember those who honor you."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You royally served the King of all, / holy hierarch Basil. / You revealed divine truths / and became a whole burnt offering. / You cry to those who honor you: / “The honor given to an icon ascends to Christ.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Zeno, Bishop of Verona",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Zeno, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Isaac the Syrian, Abbot of Spoleto",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Isaac, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyrs Menas, David, and John, of Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the holy fathers Menas, David, and John."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Menas, David, and John, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Anthusa of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Anthusa, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Athanasia, Abbess of Aegina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Athanasia, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Acacius the Younger of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Acacius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Murom Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the city of Murom rejoices brightly,  / like the radiance of the sun, O most wondrous Sovereign Lady, /  having received your wonderworking Icon,  / now we resort to it and pray, crying out to you;  / \"O Sovereign Lady Theotokos,  / pray to Christ our God, Who was incarnate of you, /  that He will deliver this city and all Christian cities and lands,  / and preserve them unharmed by all the slanders of enemies, /  and that He will save our souls, for He is merciful."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Lady. / Help us, for in you we hope, / and of you we boast, for we are your servants. / Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Belynich Icon of the Mother of God",
+      "troparion": null,
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Lady. / Help us, for in you we hope, / and of you we boast, for we are your servants. / Let us not be put to shame."
+      }
+    }
+  ]
+}

@@ -30,5 +30,75 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Truly enlisted with the King of Heaven, / you became an outstanding general for Him, passion-bearer Theodore; / you armed yourself wisely with the weapons of faith / and  conquered hordes of demons, revealing yourself as a victorious athlete. / Therefore, in faith we always call you blessed.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “Seeking the highest...”)\r\nWith the word of God as a spear in your hand, / in courage of soul and armed with faith, / you vanquished the enemy, O Theodore, glory of martyrs; / with them you unceasingly pray to Christ God for us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Translation of the relics of the Greatmartyr Theodore Stratelates",
+  "oca_saints": [
+    {
+      "name": "Translation of the relics of the Greatmartyr Theodore Stratelates",
+      "troparion": {
+        "tone": 4,
+        "text": "Truly enlisted with the King of Heaven, / you became an outstanding general for Him, passion-bearer Theodore; / you armed yourself wisely with the weapons of faith / and  conquered hordes of demons, revealing yourself as a victorious athlete. / Therefore, in faith we always call you blessed."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nWith the word of God as a spear in your hand, / in courage of soul and armed with faith, / you vanquished the enemy, O Theodore, glory of martyrs; / with them you unceasingly pray to Christ God for us all."
+      }
+    },
+    {
+      "name": "Saint Theodore, first Bishop of Rostov and Suzdal",
+      "troparion": {
+        "tone": 8,
+        "text": "In prayerful vigil your heart has always ached for your flock,  / and by your teachings you have enlightened all, O most wise Theodore;  / therefore, on the day of your memorial, entreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "O most wise Theodore, /  your glorious memory shone as a great sun,  / by which you give assistance to those who are in trouble,  / and who come to you diligently, /  by the grace with which Christ has endowed you, unto eternal life."
+      }
+    },
+    {
+      "name": "Saint Ephraim, Patriarch of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Ephraim, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Zosimus of Phoenicia, Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zosimus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Yaroslavl",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all of us who are burdened with sins, fall on our knees before the Theotokos, /  bowing before her wonderworking Tenderness Icon, /  kissing it and crying aloud with tears:  /  “O Sovereign Lady, accept the prayer of your unworthy servants,  / and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Sovereign Lady. / Help us, for in you do we hope, /  and of you do we boast, for we are your servants.  / Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Hieromartyr Theodore (Tevdore)  of Kvelta",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Theodore, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

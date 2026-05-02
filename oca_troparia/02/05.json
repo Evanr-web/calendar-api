@@ -1,0 +1,61 @@
+{
+  "date": "2026-02-05",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "Hail, Virgin Theotokos, full of grace;  / for from you has shone forth the Sun of Righteousness, Christ our God,  /  giving light to those in darkness. /  Be glad, O righteous Elder; /  for you received in your arms the Redeemer of our souls,  / Who bestows upon us the resurrection."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
+      }
+    },
+    {
+      "name": "Martyr Agatha of Palermo in Sicily",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Agatha, calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "May the Church be robed today in a garment of glorious porphyry, / dyed by the pure blood of the martyr Agatha, / and let us cry out: “Rejoice, pride of Catania!”"
+      }
+    },
+    {
+      "name": "Repose of Saint Theodosius of Chernigov",
+      "troparion": {
+        "tone": 4,
+        "text": "Holy Hierarch Theodosius, / you were found to be most worthy among bishops / and a light to your flock when translated to the eternal mansions. / Pray at the throne of the King of Glory / that we may be delivered from all present evil / and that our souls may be saved by your prayers."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Holy Hierarch Theodosius, / you labored for Christ by grazing your rational flock in spiritual pastures; / you received the gift of healing from Christ the Savior / to cure from bodily and spiritual infirmities all those who come to your relics. / Pray for those who call on your name, / that our souls may be saved from the enemy."
+      }
+    },
+    {
+      "name": "Martyr Theodula of Anazarbus, and the Martyrs Helladius, Macarius and Evagrius, in Cilicia",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyrs, O Lord, in their contest for You  / have received as a prize the crowns of incorruption and life from You, our immortal God;  / for since they possessed Your strength, they cast down the tyrants /  and wholly destroyed the demons' powerless presumption. /  O Christ God, by their prayers, save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “Seeking the highest...”)\r\nO divine martyrs, you appeared as bright beacons,  / illumining all of creation with the radiance of your miracles;  / do not cease to entreat Christ to deliver us all from our maladies,  / and drive away from us the profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God “Seeker of the Perishing”",
+      "troparion": {
+        "tone": 4,
+        "text": "Seek us who are perishing, O Most Holy Virgin, /  do not chasten us according to our sins,  / but\r\nsince you are merciful in your love for mankind, deliver us from hell, and sickness, and necessity, / \r\nand save us."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Lady. / Help us, for in you we hope, / and of you we boast, for we are your servants. / Let us not be put to shame."
+      }
+    }
+  ]
+}

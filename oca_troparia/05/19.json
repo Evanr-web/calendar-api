@@ -1,0 +1,107 @@
+{
+  "date": "2026-05-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Patrick, Bishop of Prusa, and his companions",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Patrick and his companions,  O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nYou were arrayed in the beauty of the priesthood, O Patrick, / and adorned with the blood of martyrdom. / As you stand before Christ with those who suffered with you, / remember us, / for you are an honored passion-bearer."
+      }
+    },
+    {
+      "name": "Venerable Cornelius, Abbot of Komel, Vologda",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you were inflamed with the fire of divine love,  / and you forsook the vanity of earthly life, O Venerable one. /  As a disciple of Anthony the Great,  / you served Christ in silence and in strictness, through vigil, prayer, and fasting.  / Therefore, O blessed Cornelius, pray to the Lord that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From your youth, like an Angel, you served the Lord,  / Who shone forth to the world from the Holy Virgin, O blessed one, /  and by His power, you made the desert a city; /  for there you gathered a multitude of disciples, enlightening them with your God-inspired teaching.  / Therefore, we cry to you: “Hail, Father Cornelius, divine adornment of monks.”"
+      }
+    },
+    {
+      "name": "Venerable Cornelius, Abbot of Paleostrov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cornelius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Right-believing John, Prince of Uglich, tonsured as Ignatius",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Ignatius your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Ignatius, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Venerable Sergius of Shukhtom",
+      "troparion": {
+        "tone": 8,
+        "text": "With the streams of your tears you cultivated the barrenness of the desert;  /  and with your deep sighs, you bore fruit a hundredfold by your labors.  /  You became a luminary, shining upon the world with miracles. /  O our righteous Father Sergius, intercede with Christ God that our souls be saved!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John, Bishop of the Goths in the Crimea",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Right-believing Demetrios Donskoy, Grand Prince of Moscow",
+      "troparion": {
+        "tone": 3,
+        "text": "In you the Russian land has found a great defender in a time of tribulation,  / O vanquisher of the pagans. /  At the Don you defeated the vainglorious Mamai;  / having received the blessing of Saint Sergius for this undertaking;  / and so, Prince Demetrios, pray to Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "By your deeds, Saint Demetrios,  / God preserved our country by granting you invincible power.  / And now,\r\nour powerful defender,  / by your holy prayers, keep your city of Moscow safe from all hostile schemes."
+      }
+    },
+    {
+      "name": "Martyr Caluf of Egypt",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Caluf, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Caluf;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Entrance of Saint Nino (Nina) the Enlightener into Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "O handmaiden of the Word of God,  / who equaled the first-called Apostle Andrew in preaching,  / and emulated the other Apostles;  / enlightener of Iberia and lyre of the Holy Spirit,  / Holy equal of the Apostles Nina, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Come, all of you, let us sing praises today to the one chosen by Christ,  / the equal of the Apostles, the preacher of God's Word,  / the wise bearer of good tidings, who brought the people of Kartli to the path of life and truth;  / she is the disciple of the Mother of God,  / our zealous intercessor and unsleeping guardian, /  the all-praised Nina."
+      }
+    },
+    {
+      "name": "Martyr Theotime",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Theotime* calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom,\r\nand in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  / \r\nand I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself\r\nin love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your all-revered temple to be a source of healing for our souls,  / we the faithful cry out to you with a loud voice:  / \"O greatly renowned martyr Theotime, /  entreat Christ God unceasingly on behalf of us all.\""
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-24",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Commemoration of the Holy Fathers of the First Ecumenical Council",
+      "troparion": {
+        "tone": 8,
+        "text": "You are most glorious, O Christ our God! / You have established the Holy Fathers as lights on the earth! / Through them you have guided us to the true faith! / O greatly Compassionate One, glory to You!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The Apostles’ preaching and the Fathers’ doctrines have established one faith for the Church. / Adorned with the robe of truth, woven from heavenly theology, / it defines and glorifies the great mystery of Orthodoxy!"
+      }
+    },
+    {
+      "name": "Venerable Simeon Stylites the Younger of Wonderful Mountain",
+      "troparion": {
+        "tone": 1,
+        "text": "Dweller of the desert and angel in the body, / you were shown to be a wonder-worker, our God-bearing Father Simeon. / You received heavenly gifts through fasting, vigil, and prayer: / healing the sick and the souls of those drawn to you by faith. / Glory to Him who gave you strength! / Glory to Him who granted you a crown! / Glory to Him who through you grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You longed for the things on high, / turning away from those below. / You built a pillar on which you lived as if in heaven, / shining with the splendor of miracles, venerable Simeon, / and unceasingly praying for us all to Christ, the God of all."
+      }
+    },
+    {
+      "name": "Venerable Niketas the Stylite, Wonderworker of Pereyaslavl, Zalesski",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Orthodox mind came to hate youthful passions and began to struggle courageously;  / you\r\ndefeated the Enemy, and in your diligence you pleased God.  / From Him on high you received\r\nthe gift of working miracles,  / casting out demons, and healing diseases.  / O glorious Nikḗtas, pray\r\nto Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "For the sake of Christ, you suffered a violent death at the hands of your servants, /  and received from Him an imperishable crown. /  To those who come to your revered tomb with faith, you grant healing,  / O Venerable Nikḗtas, intercessor for our souls."
+      }
+    },
+    {
+      "name": "Martyr Meletius Stratelates who suffered in Galatia, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Meletius and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Vincent of Lerins",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal.  /  Therefore, O Venerable Vincent, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Finding delight in abstinence, you subdued the desires of the flesh.  / Revealed as one nurtured in the Faith,  / you blossomed like the Tree of Life in Paradise,  / O Holy Father Vincent."
+      }
+    }
+  ]
+}

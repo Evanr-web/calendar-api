@@ -1,0 +1,77 @@
+{
+  "date": "2026-04-07",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great and Holy Tuesday",
+      "troparion": {
+        "tone": 8,
+        "text": "Behold the Bridegroom comes at midnight, / and blessed is the servant whom He shall find watching, / and again unworthy is the servant whom He shall find heedless. / Beware, therefore, O my soul, do not be weighed down with sleep, / lest you be given up to death and lest you be shut out of the Kingdom. / But rouse yourself crying: Holy, Holy, Holy, are You, O our God! / Through the Theotokos have mercy on us!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You know that this is the last hour, O wretched soul, / and fear the cutting of the fig tree. / Work diligently therefore at the talent given to you / keep watch and pray: / Let us not remain outside the bridal chamber of Christ."
+      }
+    },
+    {
+      "name": "Repose of Saint Tikhon, Patriarch of Moscow, Enlightener of North America",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us praise Tikhon, the patriarch of all Russia, / and enlightener of North America / an ardent follower of the Apostolic traditions, / and good pastor of the Church of Christ. / Who was elected by divine providence, / and laid down his life for his sheep. / Let us sing to him with faith and hope, / and ask for his hierarchical intercessions: / Keep the church in Russia in tranquility, / and the church in North America in peace. / Gather her scattered children into one flock, / bring to repentance those who have renounced the True Faith, / preserve our lands from civil strife, / and entreat God’s peace for all people!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the assembly of New Martyrs / stands together with us in the Church / and together we raise a festive song / celebrating the uncovering of the relics of our Hierarch Father Tikhon / who defeated the enemy and preserved the Faith / While protecting the flock entrusted to him. / For he ever prays for us all / that we may never be deprived of the Love of God."
+      }
+    },
+    {
+      "name": "Saint George the Confessor, Bishop of Mytilene",
+      "troparion": {
+        "tone": 3,
+        "text": "Like a meadow planted by God / you were fruitful with the grace of the Spirit, / O holy Archpastor of the Mysteries. / You cultivated the souls of the faithful / refreshing them with living water. / O righteous Father George, / pray Christ our God to grant us great mercy!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You shone on the world like the sun, O holy and righteous George, / inspired initiate of the holy Faith, / enlightening your disciples!"
+      }
+    },
+    {
+      "name": "Venerable Daniel, Abbot of Pereslavl-Zalessky",
+      "troparion": {
+        "tone": 3,
+        "text": "From your youth, O blessed one, you devoted yourself entirely to the Lord,  / always obeying God and resisting the devil, you overcame sinful passions,  / thereby becoming a temple1 of God and you built a beautiful monastery for the glory of the Most Holy Trinity, / and for Christ's flock gathered in them, O God-pleaser, you departed to the eternal abodes, O Father Daniel.  / Entreat the tri-hypostatic God, one in essence, for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You appeared as an unfading Light, a bright luminary enlightening all with the purity of your life, O Father Daniel,   / because you were a model and a rule for monastics, a father of orphans, and benefactor of widows.   / Therefore, we your children cry out to you:   / “Rejoice, our joy and crown; rejoice, for you have a special right to address God;   / rejoice, great strengthener of our city.”"
+      }
+    },
+    {
+      "name": "Martyr Calliopius at Pompeiopolis in Cilicia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Calliopius, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Calliopius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Rufinus the Deacon, Aquilina, and 200 soldiers with them at Sinope",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Serapion of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Serapion, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

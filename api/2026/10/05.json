@@ -30,5 +30,105 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "(Podoben: “Your confession of the Divine Faith...”)\r\nStrengthened by Divine grace you put to shame the power of ungodliness,  / and contended beyond\r\nthe limits of nature; /  now you pour forth an unfailing stream of grace upon those who cry to you,  / O\r\nglorious Charitίnē.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “You have appeared today...”)\r\nReddened with the blood of martyrdom, /  you were arrayed splendidly in the beauty of the heavens, O\r\nMartyr Charitίnē,  / and you cried: “You are the joy of the Martyrs, O Christ.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Charitina of Amisos",
+  "oca_saints": [
+    {
+      "name": "Martyr Charitina of Amisos",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Your confession of the Divine Faith...”)\r\nStrengthened by Divine grace you put to shame the power of ungodliness,  / and contended beyond\r\nthe limits of nature; /  now you pour forth an unfailing stream of grace upon those who cry to you,  / O\r\nglorious Charitίnē."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared today...”)\r\nReddened with the blood of martyrdom, /  you were arrayed splendidly in the beauty of the heavens, O\r\nMartyr Charitίnē,  / and you cried: “You are the joy of the Martyrs, O Christ.”"
+      }
+    },
+    {
+      "name": "Synaxis of the Hierarchs of Moscow",
+      "troparion": {
+        "tone": 4,
+        "text": "First Hierarchs of Russia, true guardians of Apostolic traditions, /  unshakable pillars, guides of Orthodoxy,  / Peter, Alexei, Jonah, Philip and Hermogenes,  / pray to the Master of all to grant peace to the world,  / and to our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You lived devoutly, /  and as Hierarchs you guided your people and were well pleasing to God;  / therefore, He glorified you  / with incorruption and wonderworking, taught by God’s grace."
+      }
+    },
+    {
+      "name": "Venerable Damian the Healer, Jeremiah, and Matthew, Clairvoyants, of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "Your hearts were enlightened with the light of Christ’s commandments, and you dispelled the dread darkness.  / Like an abode of the Trinity, from whom we receive grace, O Fathers Damian, Jeremiah and Matthew,  / you heal the infirm, and you announce the future in the communion with the angels. /  We pray to you to intercede with Christ God to grant to us the communion of the saints."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Charitina, Princess of Lithuania",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Charitina, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Dionysius, Bishop of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Dionysius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Memelchtha of Persia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Memelchtha, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Memelchtha;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Gregory of Chandzoe, Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gregory, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Eudokimos of Vatopedi Monastery on Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away; /  but to care for the soul, since it is immortal. /  Therefore, O Venerable Eudokimos your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  / Therefore, we beseech you, O Father Eudokimos:  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Righteous Methodia of Kimolos",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us the faithful honor with hymns the Venerable Methodίa, the offspring of Kίmolos, /  the treasury of virtues, and truly the peer of the Holy Ascetics of the earliest times,  / imitating the deeds of her life, beloved by God, we cry out: /  \"Glory to Him Who gave you strength. /  Glory to Him Who crowned you.  / Glory to Him Who numbered you in the choir of the Saints, O Mother.\""
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared today...”)\r\nYou lived a blameless life,  /  mystically gladdening the entire island of Kίmolos with the light of your virtues, /   O God-inspired Methodίa."
+      }
+    }
+  ]
 }

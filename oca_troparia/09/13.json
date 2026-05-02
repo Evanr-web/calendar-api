@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-13",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Elevation of the Cross",
+      "troparion": {
+        "tone": 4,
+        "text": "We offer in supplication / the life-creating Cross of Your goodness, O Lord, / which You have granted to us / although we are unworthy. / Through the Theotokos, save all Orthodox Christians, O only Lover of mankind."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Your precious Cross rises like the sun / and mystically makes all things holy and pure. / Let us prepare to welcome it with faith."
+      }
+    },
+    {
+      "name": "Commemoration of the Founding of the Church of the Resurrection (Holy Sepulchre) at Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "You have revealed the beauty of the holy dwelling place of Your glory on earth / to be like the splendor of the heavenly firmament, O Lord. / Through the prayers of the Theotokos, / strengthen it for ever and ever / and accept our supplication / which we ceaselessly offer to You therein, / the life and resurrection of all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)The Church has been revealed to be a heaven filled with light / which enlightens all the faithful. / Standing within it we cry: “Establish this house, O Lord.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Cornelius the Centurion",
+      "troparion": {
+        "tone": 4,
+        "text": "O Blessed Cornelius, / you were distinguished in works of righteousness. / You received the enlightenment of godliness, / and were a fellow-laborer with the Apostles, / for you shared in their work, / preaching Christ’s incarnation to all. / With them pray that all who honor your memory may be saved!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O Divinely minded Cornelius, / the Church, receiving you as a blessed first-fruit of the Gentiles, / is enlightened by your holy life, / for you are a perfect seer of the Mysteries!"
+      }
+    },
+    {
+      "name": "Martyr Chronides of Alexandria and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Chronides and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Macrobius and Gordian at Tomi in Romania and those with them",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Julian of Galatia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Julian, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Peter of Atroe",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Peter, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Greatmartyr Ketevan, Queen of Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Ketevan, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Ketevan;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Hierotheus the Younger of Ivḗron, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hierotheus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)With hymns, as is meet, let us honor the God-bearing Hierotheos among the Ascetics, /  the new\r\nherald of grace among the Saints;  / he is the boast of Messēnia, and the divine adornment of Ivḗron\r\nMonastery, /  therefore we cry: “Rejoice, O God-bearing Father.”"
+      }
+    },
+    {
+      "name": "Saint John of Prislop",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

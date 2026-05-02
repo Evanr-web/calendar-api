@@ -1,0 +1,120 @@
+{
+  "date": "2026-09-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Elevation of the Cross",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace."
+      }
+    },
+    {
+      "name": "Greatmartyr Niketas the Goth",
+      "troparion": {
+        "tone": 4,
+        "text": "You took up the Cross of Christ bravely, as though taking up arms,  / and hastening to battle against the enemies, /  you suffered for Christ, after which you gave your sacred soul to the Lord;  / therefore, you were worthy to receive from Him the gift of healing,  / O Great Martyr Nikḗtas. /  Pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou defeated the might of delusion by your firm resolve,  / and receiving a crown of victory through your suffering,  / O Nikḗtas, namesake of victory,1 you rejoice with the Angels; /  and with them, pray unceasingly to Christ God for us all."
+      }
+    },
+    {
+      "name": "Uncovering of the relics Saint Acacius, Bishop of Melitene",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Acacius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Theodotus, Asclepiodotus, and Maximus, of Adrianopolis",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Theodotus, Asclepiodotus, and Maximus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Porphyrius the Actor",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Porphyrius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Porphyrius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of the Holy Protomartyr and Archdeacon Stephen",
+      "troparion": {
+        "tone": 4,
+        "text": "Your relics have risen from the depths of the earth, / like a treasury for the immortal life of all of creation. / The Church, rejoicing in the grace that she receives from them, / duteously honors you, Protomartyr Stephen. / Preserve us from error and heresy by your intercession!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You were the first to be sown on the earth by the Heavenly Husbandman, O all-praised one. / You were the first to shed your blood on the earth for Christ, O blessed one. / You were the first to receive the crown of victory from Him in heaven, / Stephen, first of the suffering God-crowned martyrs."
+      }
+    },
+    {
+      "name": "Saint Philotheus the Presbyter in Asia Minor",
+      "troparion": {
+        "tone": 1,
+        "text": "O pure and holy Philotheus, you were a lover of God, / and now glorified by the Holy Spirit, / you work miracles to save from harm all who cry to you: / Glory to him who has glorified you! / Glory to him who has made you wonderful! / Glory to him who through you works healings for all!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You ended your life in righteousness / and were a lover of God. / O holy Philotheus, having received power to work wonders, / pray unceasingly for us all!"
+      }
+    },
+    {
+      "name": "Venerable Joseph, Abbot of Alaverdi, Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joseph, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Joseph the New of Partos, Metropolitan of Timishoara (Romania)",
+      "troparion": {
+        "tone": 8,
+        "text": "From your youth you obeyed the Lord in all things, by your prayers, labors, and fasting.  / Therefore, seeing your struggles, God appointed you as a Hierarch and Shepherd of His Church;  / and after death, you dwell in the abodes of the Saints. /  O Holy Father Joseph, entreat Christ God to grant the forgiveness of sins to us who faithfully and lovingly honor your holy memory."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Bessarion, Archbishop of Larissa",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Bessarion, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gerasimus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gerasimus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr John of Crete",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr John, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr John;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

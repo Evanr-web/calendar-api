@@ -1,0 +1,76 @@
+{
+  "date": "2026-02-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostles of the Seventy Archippus  and Philemon, and Martyr Apphia",
+      "troparion": {
+        "tone": 3,
+        "text": "With your whole heart you followed the way of holiness / and became a companion of the Apostles, O Archippus. / By your word you preached the Faith, / and by your life you uprooted evil. / Having proved steadfast in contest you were granted the crown of righteousness."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The Church has gained you as a great star, O Archippus, / and enlightened by the rays of your wonders it cries out to you: / “Save us, who with faith honor your memory.”"
+      }
+    },
+    {
+      "name": "Martyrs Maximus, Theodotus, Hesychius, and Asclepiodota, of Adrianopolis",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Presbyters and Confessors Eugene and Macarius, at Antioch",
+      "troparion": {
+        "tone": 8,
+        "text": "Champions of Orthodoxy, teachers of purity and of true worship, / the enlighteners of the universe and the adornment of hierarchs: / all-wise fathers Eugene and Macarius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dositheus of Palestine, disciple of Venerable Abba Dorotheus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Dositheus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Rabulas of Samosata",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Rabulas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodore of Sanaxar",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you loved Christ with filial love,  /  and desiring to serve only the Lord,  / you have chosen the good part, which shall not be taken away by death.1  / You devoted yourself to the one thing needful, and to the Giver of Life,  / and you were found worthy to receive from Him the gifts of divine teaching and spiritual discernment,  /  guiding all who have recourse to you, seeking the salvation of their souls,  / O divinely-wise Elder Theodore of Sanaxar."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Forsaking the vanity of the world and regarding everything in it as fleeting,  /  you dwelt in Sanaxar Monastery, where you lived as an angel. /   You were a path to salvation for many, /   and so Christ enriched you with the gifts of discernment and teaching.  /  Therefore, we cry out to you: /   “By your prayers, O Venerable Theodore, may our souls be saved.”"
+      }
+    },
+    {
+      "name": "Venerable Conan, Abbot of the Pethukla Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Conan, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Philothea the Monastic",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nThe renowned city of Athens honors the Monastic Martyr Philothei,  /  and joyously reveres her sacred relics;  / for she lived her life honorably and exchanged it for contests and martyrdom; /  and she intercedes with the Savior,  /  that He may grant all of us divine mercy."
+      },
+      "kontakion": null
+    }
+  ]
+}

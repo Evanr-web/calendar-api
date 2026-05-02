@@ -1,0 +1,33 @@
+{
+  "date": "2026-04-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostles Jason and Sosipater of the Seventy, the Virgin Kerkyra, and those with them",
+      "troparion": {
+        "tone": 3,
+        "text": "O holy Apostles Jason and Sosipater, / pray to the merciful God, / that He may grant to our souls / remission of our transgressions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "O Jason, source of healing, / and Sosipater, glory of the martyrs of Christ: / You were enlightened by the preaching of Paul, / both becoming a great consolation to the world through your miracles. / Thrice-holy and God-bearing Apostles and defenders of those who suffer, / intercede with Christ God that He may save our souls."
+      }
+    },
+    {
+      "name": "Martyrs Dada, Maximus, and Quinctilian, at Dorostolum",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Dada, Maximus, and Quinctilian, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Cyril, Bishop of Turov",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Cyril, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

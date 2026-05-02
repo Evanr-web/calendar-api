@@ -1,0 +1,60 @@
+{
+  "date": "2026-01-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 1,
+        "text": "When You, O Lord were baptized in the Jordan / the worship of the Trinity was made manifest / for the voice of the Father bore witness to You / and called You His beloved Son. / And the Spirit, in the form of a dove, / confirmed the truthfulness of His word. / O Christ, our God, You have revealed Yourself / and have enlightened the world, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today You have shown forth to the world, O Lord, / and the light of Your countenance has been marked on us. / Knowing You, we sing Your praises. / You have come and revealed Yourself, / O unapproachable Light."
+      }
+    },
+    {
+      "name": "Venerable Theodosius the Great, the Cenobiarch",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Theodosius, pray to Christ God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Planted in the courts of your Lord, you blossomed beautifully with virtue, / and increased your children in the desert, showering them with streams of your tears, / O chief shepherd of the divine flock of God. / Therefore, we cry to you: “Rejoice, Father Theodosius.”"
+      }
+    },
+    {
+      "name": "Venerable Michael the Fool-for-Christ of the Klops Monastery, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Michael, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theodosius of Antioch",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodosius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodosius, Metropolitan of Trebizond",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodosius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Yelets Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the ancient city of Yelets rejoices with exultation, /  remembering the glorious miracle of the Most Holy Theotokos, /  when on the streets of the capital city of Moscow the people met her wonderworking Icon,  / then the Sovereign Lady, on Mount Argamach in the city of Yelets,  / came out to meet the wicked Tamerlane,  / turning back his formidable offensive.  / Contemplating the wondrous appearance of the newly-painted Icon,  / and thanking our Protectress for all her blessings, /  we humbly cry: “Do not forsake us in the future, O Merciful Mother.”"
+      },
+      "kontakion": null
+    }
+  ]
+}

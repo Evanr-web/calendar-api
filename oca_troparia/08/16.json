@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth you preserved your virginity, / in falling asleep you did not forsake the world, O Theotokos. / You were translated to life, O Mother of Life, / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death could hold the Theotokos, / who is constant in prayer and our firm hope in her intercessions. / For being the Mother of Life, / she was translated to life by the One who dwelt in her virginal womb."
+      }
+    },
+    {
+      "name": "Translation of the Image “Not-Made-By-Hands” of our Lord Jesus Christ from Edessa to Constantinople, the Third “Feast of the Savior in August”",
+      "troparion": {
+        "tone": 2,
+        "text": "We venerate Your most pure image, O Good One, / and ask forgiveness of our transgressions, O Christ God. / Of Your own will You were pleased to ascend the Cross in the flesh / to deliver Your creatures from bondage to the Enemy. / Therefore with thanksgiving we cry aloud to You: / “You have filled all with joy, O our Savior, / by coming to save the world.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Uncircumscribed Word of the Father / as we behold the victorious image of Your true incarnation, / not made by hands, but divinely wrought / in Your ineffable and divine dispensation towards us, / we honor it with veneration!"
+      }
+    },
+    {
+      "name": "Holy Unmercenary Physician Diomedes",
+      "troparion": {
+        "tone": 4,
+        "text": "The instruments of torture have made a way for you to Heaven, O soldier of Christ Diomḗdēs, /  you defeated the devil’s intrigues and became distinguished in Heaven with Christ,  / pray for those who honor your memory with faith."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a true and invincible Martyr,  /  you became the guardian of the heavenly mysteries of piety and grace, O wondrous Diomḗdēs,   / having overcome the torturer and becoming victorious,   / you were honored with crowns of victory."
+      }
+    },
+    {
+      "name": "Venerable Cherimon (Chaeremon) of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cherimon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Saint Theodore",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, the renowned city of Kostroma and the entire Russian land rejoice joyfully,  / calling all God-loving Christian people to the glorious triumph of the Mother of God /  because of the arrival of her wonderworking and much-healing Icon: /  for today a great and most radiant sun has appeared to us.  / Come all of God's chosen people, the new Israel, to the fountain of healing, /  for it pours forth to us the inexhaustible mercy of the Most Holy Theotokos  / and delivers all Christian cities and lands from the malice of their enemies.  / But, All-Merciful Lady, Virgin Theotokos, Sovereign Lady,  / by your great mercy, save our country, the bishops, and your people /  from all their misfortunes that we may cry out to you,   / “Rejoice, O Virgin, the boast of Christians.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "We your servants offer prayers of thanksgiving to you, O Theotokos, /  for all the good things you have done for our city;  / we cry out to you from the depths of our souls, and bowing down we pray: /  “O Sovereign Lady, do not cease to intercede with your Son and our God  / to grant every good thing and salvation to all who cry out to you with faith and love,  / ‘Rejoice, O Virgin, the boast of Christians.’”"
+      }
+    },
+    {
+      "name": "Martyr Christopher of Guria, Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Christopher, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Christopher;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Isaac of Karnu, Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Isaac, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Isaac;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Joseph of Karnu, Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Joseph, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Joseph;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Joachim of Osogovo",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joachim, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Νikόdēmos of Meteora",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Νikόdēmos, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Stamatius of Volos",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Stamatius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Stamatius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Gerasimus the New Ascetic of Cephalonia",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us the faithful praise the divine Gerasimos, / who is the protector of the Orthodox, and an angel in the body,\r\nand a newly appeared God-bearing wonderworker; / for he has worthily received from God the unfailing grace of\r\nhealing; / he restores the sick, and heals those possessed by demons; / therefore, he pours forth healings upon those who honor him."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nToday the island of Cephalonia /  with sacred songs of thanksgiving, / calls upon all the Orthodox to extol the newly appeared boast and glory of Orthodoxy, /  the divine Gerasimos, / who is truly her deliverer and champion."
+      }
+    },
+    {
+      "name": "Saint Constantine Brancoveanu and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Constantine and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    }
+  ]
+}

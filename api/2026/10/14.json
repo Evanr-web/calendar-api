@@ -31,5 +31,48 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Let us praise the fourfold company of martyrs: / Nazarius, Protase, Gervase and Celsus. / For they preached the Trinity to all / and by their contest dispelled the worship of idols. / Through their prayers, O Christ God, have mercy on us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan",
+  "oca_saints": [
+    {
+      "name": "Martyrs Gervasius, Nazarius, Protasius, and Celsus of Milan",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us praise the fourfold company of martyrs: / Nazarius, Protase, Gervase and Celsus. / For they preached the Trinity to all / and by their contest dispelled the worship of idols. / Through their prayers, O Christ God, have mercy on us all."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Paraskevi (Petka) of Serbia",
+      "troparion": {
+        "tone": 2,
+        "text": "You loved the solitary and hesychastic life, /  and then, with diligence, you hastened after Christ, your Bridegroom, and took up His easy yoke in your youth.  / Armed with the Sign of the Cross,  / you contended courageously against noetic enemies; /  through fasting, prayer, and by shedding tears,  / you extinguished the embers of the passions, O glorious Paraskevḗ. /  Now, standing in the heavenly Bridal Chamber of Christ, together with the wise virgins,  /  intercede for us who honor your holy memory."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Devoutly let us all praise the most honorable Paraskevḗ,  / a holy intercessor for the afflicted;  / for she left this perishable life behind and received eternal incorruption.  / Therefore, she has been given the grace of working miracles, by the command of God."
+      }
+    },
+    {
+      "name": "Venerable Nicholas Sviatosha Prince of Chernigov, and Wonderworker of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nicholas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Silvanus of Gaza",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Silvanus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

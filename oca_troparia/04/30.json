@@ -1,0 +1,74 @@
+{
+  "date": "2026-04-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle James the Brother of Saint John the Theologian",
+      "troparion": {
+        "tone": 3,
+        "text": "You were a chosen Apostle of Christ  / and the only brother of the beloved Theologian.  /  O most praised James, entreat Him to grant the remission of sins and great mercy  /  to those who sing hymns to you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You heard the divine voice when it called to you, O glorious James;  / therefore, casting off the love of father, friends, and companions,  / together with your brother John, you hastened to Christ,  / and you were worthy to behold the divine Transfiguration of the Lord."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Saint Nikḗtas, Bishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Nikita, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Donatus, Bishop of Euroea in Epirus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Donatus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Uncovering of the relics of Saint Basil, Bishop of Amasea",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Basil, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Maximus of Ephesus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Maximus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Maximus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Ignatius Brianchaninov, Bishop of the Caucasus and Stavropol",
+      "troparion": {
+        "tone": 8,
+        "text": "You were shown as the chosen beloved of Christ, united to Him by many afflictions and unceasing prayer;  / and having received the grace of the Holy Spirit, you were an exemplary teacher for the people.  / Remember us, O holy hierarch Ignatius, God-bearer of Russia,  / that by your teachings and prayers, we may find saving repentance,  / and, with heartfelt love, be found in Christ.*"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "While traversing the path of this earthly life, O hierarch Ignatius, /  nonetheless, unceasingly you observed the laws of eternal life, which you taught to your disciples.  / Wherefore, O holy Father, pray that we may follow them as well."
+      }
+    },
+    {
+      "name": "New Martyr Argyra",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Argyra, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Argyra;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

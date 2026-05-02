@@ -1,0 +1,125 @@
+{
+  "date": "2026-07-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle Silas of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Silas and Silvanus, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You were revealed to be branches of the vine of Christ, O wise ones, / bearing clusters of virtues that pour out on us the wine of salvation. / Receiving it, we are filled with gladness, / and we celebrate your most honored memory, apostles of the Lord, Silas and Silvanus. / Therefore, intercede that great mercy and remission of sins may be granted to us."
+      }
+    },
+    {
+      "name": "Apostle Silvanus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Silas and Silvanus, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You were revealed to be branches of the vine of Christ, O wise ones, / bearing clusters of virtues that pour out on us the wine of salvation. / Receiving it, we are filled with gladness, / and we celebrate your most honored memory, apostles of the Lord, Silas and Silvanus. / Therefore, intercede that great mercy and remission of sins may be granted to us."
+      }
+    },
+    {
+      "name": "Apostle Crescens of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Crescens, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Epenetus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Epenetus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Andronicus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Andronicus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr John the Soldier at Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Loving the blessedness of the Gospel, O divinely-wise John,  / you have glorified the purity of your heart with virginity.  / Therefore you rejected the vanity of this world, hastening to the contemplation of God,  / Who glorified you with miracles of healing, to treat various sufferers. /  Therefore, we implore you: \"Entreat Christ the Lord to deliver us from all sorrows,  / and that we may obtain the Kingdom of Heaven.\""
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You were revealed as a great joy for those who suffer misfortunes, O wonderworker John,  / for you heal all the illnesses of those who pray to you by fulfilling their requests.  / Therefore, even now, entreat the Lord  / that He may save us by His mercy."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Herman of Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Herman, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Polychronius, Bishop of Babylon, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Valentine, Bishop of Interamna, Terni in Italy, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Angelina of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly perserved in you, O Mother, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away, / but to care instead for the soul, since it is immortal. / Therefore your spirit, O venerable Angelina, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Longing to be worthy of the heavenly life, you voluntarily gave up earthly food,  / and distributed your wealth to the poor; for you were given heavenly riches.  / You enlighten us after your repose, and you shine forth with miracles, O all-laudable Angelina. /  Therefore, we honor your holy repose by singing: Hail, most praised Mother."
+      }
+    },
+    {
+      "name": "Venerable Anatole II of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anatole, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Tsotne Dadiani the Confessor",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Tsotne, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Velikorets Icon of Saint Nicholas the Wonderworker",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith,  /  an image of humility and a teacher of abstinence;  / your humility exalted you; /  your poverty enriched you.  /  Hierarch Father Nicholas,  /  entreat Christ our God  /  that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You revealed yourself, O Saint, in Myra as a priest,  /  for you fulfilled the Gospel of Christ  /  by giving up your soul for your people,  /  and saving the innocent from death.  /  Therefore you are blessed as one become wise in the grace of God."
+      }
+    }
+  ]
+}

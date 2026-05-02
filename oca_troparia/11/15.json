@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy Martyrs and Confessors Gurias, Samonas, and Habibus, of Edessa",
+      "troparion": {
+        "tone": 5,
+        "text": "Christ our God, You have granted us the miracles of Your holy martyrs / Gurias, Samonas and Abibas, / as a stronghold and protection. / Through their prayers, strengthen those in authority in every good deed, / for You alone are merciful and the Lover of mankind!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)You received grace from on high, all-praised martyrs, / and you intercede for those in the midst of temptations! / Therefore, holy ones, you freed a young woman from bitter death. / You are indeed the glory of Edessa and the joy of the world!"
+      }
+    },
+    {
+      "name": "Martyrs Elpidius, Marcellus, and Eustochius, who suffered under Julian the Apostate",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Elpidius, Marcellus, and Eustochius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Dēmḗtrios of Thrace",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Dēmḗtrios, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Dēmḗtrios;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Paisios Velichkovsky",
+      "troparion": {
+        "tone": 2,
+        "text": "Having become a stranger on earth,  / you reached the heavenly homeland, O Venerable Father Paϊsios. /  You taught the faithful to lift up their minds to God,  /  crying out to Him with all their hearts:  / “Lord Jesus Christ, Son of God, have mercy on me, a sinner.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Like a much-laboring bee, you were an elect zealot of the monastic life, /  supplying our souls with the writings of the Fathers, through which you guide us on the path of salvation. /  Therefore, we cry out to you: “Hail, truly wise Paϊsios, /  for through you, the tradition of spiritual Elders has been restored to us!”"
+      }
+    },
+    {
+      "name": "Kupyatitsa Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Today we celebrate joyously the remembrance of the appearance of your wonderworking Icon on the Cross, O Sovereign Lady,  / which became the shield of the Orthodox Faith1 in the days of severe trials,  / strengthening and saving all those who come to you with faith.  / Therefore, we pray earnestly: /  “Always be our Protector.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The Lord has glorified the church of Kupyátitsa with many miracles by your Icon, O Theotokos,  / for you are the helper of all who turn to your sacred protection with faith, O Good one.  / We sinners, who are burdened with many sins, /  have no one else but you to deliver us continually from our troubles and sorrows,  / O Mother of the Most High God;  / therefore, we cry out to Him: “Alleluia.”"
+      }
+    },
+    {
+      "name": "Saint Philip of Rabanga",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Philip, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

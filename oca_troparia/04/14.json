@@ -1,0 +1,69 @@
+{
+  "date": "2026-04-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Bright Tuesday",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Go quickly before...”)\r\nYou strove in contest on Lesbos for the sake of Christ God; /  sanctifying her by the discovery of your relics, O blessed martyrs. /  Therefore, we honor you, God-bearer Raphael,  / together with Nicholas the deacon, and the virgin Irene,  / as our divine protectors, and intercessors with the Lord."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You Who were lifted up...”)\r\nLet all of us honor the Holy Martyrs  /  who contended for Christ as our protectors and wonderworkers,  /  whose relics were hidden beneath the earth for many years,  /  and who have revealed themselves to us in wondrous ways:  /  Raphael, Nicholas, and Irene, as well as those who contended with them, as protectors and wonderworkers."
+      }
+    },
+    {
+      "name": "Saint Martin the Confessor, Pope of Rome",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Your confession of the Divine Faith...”)\r\nYou strengthened the Church with true doctrines, O godly-wise Hierarch Martin; /  you confessed the\r\ntwo natures of Christ and vanquished heresy.  / O venerable Father,  / entreat Christ God that He may\r\ngrant us great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O victorious leader...”)\r\nAs a hierarch and teacher of ineffable things,  / you gushed forth streams of doctrine, O most\r\nwise Martin:  / you expounded the true theology that in Christ there are two natures and two wills. / \r\nIntercede for those who cry to you: Rejoice, most blessed Father."
+      }
+    },
+    {
+      "name": "Martyrs Anthony, John, and Eustathius of Vilnius",
+      "troparion": {
+        "tone": 4,
+        "text": "Having rejected worldly honors and glory, O valiant and honorable sufferers,  / vigorously and courageously you endured torments for the sake of the Faith,  / surrendering yourselves to death for the Master, the Life of all.  / Therefore, Christ has illumined you gloriously with a pillar of cloud from Heaven, and honors you from His Throne of glory.  / Standing before Him with the Angelic Host, pray that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nHaving abandoned the delusion of your fathers, O Saints, you were brought to Christ;  /  and with all\r\nthe zeal of your souls you stood firmly unto death with boldness of mind.  /  Therefore, attaining the\r\nvictory of true honor,  /  pray unceasingly to the Master for us all."
+      }
+    },
+    {
+      "name": "Martyr Ardalion the Actor",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Ardalion, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Ardalion;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Azades the Eunuch and 1,000 Martyrs of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Vil'na Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "O Most Pure Virgin Theotokos,  / most blessed and speedy intercessor for all the faithful, /  before your holy wonderworking Icon,  / we pray that by it, just as before, you may grant protection to the city of Moscow; /  so now mercifully deliver us from all our troubles and misfortunes and save our souls, for you are compassionate.1"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "To you, O Champion Leader, /  we your servants dedicate a feast of victory and thanksgiving, / as those rescued from sufferings, O Theotokos;  / but since you possess invincible might, free us from all dangers,  / that we may cry to you: “Rejoice, unwedded Bride.”"
+      }
+    }
+  ]
+}

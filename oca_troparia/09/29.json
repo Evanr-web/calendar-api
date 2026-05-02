@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-29",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Kyriakos the Anchorite",
+      "troparion": {
+        "tone": 1,
+        "text": "You were shown to be a citizen of the desert, an Angel in the body /  and a wonderworker. /  O our God-bearing Father Kyriákos,  / through fasting, vigil and prayer you received heavenly gifts,  /  healing the sick and the souls of those who hasten to you with faith. / Glory to Him Who gave you strength.  /  Glory to Him Who crowned you.  /  Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(“O Victorious Leader...”)\r\nThe sacred Lavra always honors you as a mighty champion,  / and celebrates your holy memory every year.  / Since you possess boldness with the Lord,  / protect us from our enemies, that we may cry to you: /  “Rejoice, O thrice-blessed Father.”"
+      }
+    },
+    {
+      "name": "Martyrs Dadas, Gabdelas, and Kazdoa of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Onuphrius of Saint David Gareji Monastery, Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Onuphrius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Cyprian of Ustiug",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O venerable Father Father Cyprian, the image of God shone forth, /  for you carried your cross and followed Christ. /  By so doing you taught us to disregard the flesh, for it passes away,  / and to care instead for the soul since it is immortal.  / Wherefore, your soul forever rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Cyprian,  / always intercede for us who honor you."
+      }
+    }
+  ]
+}

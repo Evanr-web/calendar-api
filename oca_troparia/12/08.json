@@ -1,0 +1,55 @@
+{
+  "date": "2026-12-08",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Patapius of Thebes",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nIn following your divine calling from your youth,  / you shone forth upon the world with the gift of your ascetical labors. /  And as one made glorious by the grace of dispassion,  / you healed diverse passions.  / O Venerable Father Patapios, /  entreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nFinding your temple to be a place of spiritual healing,  / people flocked to it eagerly, O Saint.  / They seek to be healed of their diseases and to receive the remission of the sins /  which they committed during their lives,  / for you are seen as a protector of all those in need, /  O Venerable Patapios."
+      }
+    },
+    {
+      "name": "Venerable Cyril, Abbot of Chelma Hill",
+      "troparion": {
+        "tone": 4,
+        "text": "Today your bright memorial has shone upon us,  / shining like the sun, with beams of divine grace,  / illuminating the entire world and driving away from us the dark night of evil spirits.  / Today the Holy Angelic Powers of Heaven,  / all the nations of the earth, and the souls of the righteous,  /  triumph spiritually, and rejoice today; and bowing down we sinners entreat you:  /  “O Venerable Father Cyril,  / pray unceasingly to Christ God for the salvation of your monastery, your city,  / and of all those who revere you with love.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From your youth, O Venerable one, you forsook all worldly goods and comforts,  /  and settled in the wilderness, diligently following your calling,  / most blessed Father, exhausting your body through toil and fasting;  /  therefore, the Most Blessed Lord made you a shepherd of His sheep.  /  O Wonderworker Cyril, entreat Christ God on behalf of those who come to you with faith,  /  asking for the forgiveness of their transgressions, and honoring your holy memory with love."
+      }
+    },
+    {
+      "name": "Holy Apostles of the Seventy: Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostles Sosthenes, Apollos, Cephas, Tychicus, Epaphroditus, Caesar, and Onesiphorus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Anthusa at Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Anthusa, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anthusa;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "362 Martyrs of Africa (62 Clergy and 300 Laypeople)",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

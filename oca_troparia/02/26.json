@@ -1,0 +1,47 @@
+{
+  "date": "2026-02-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Porphyrius, Bishop of Gaza",
+      "troparion": {
+        "tone": 4,
+        "text": "Adorned with the royal purple of your virtues,  /  you were glorious as a hierarch and shone forth resplendently, O wise Porphyrios. / You were excellent in word and deed  /  strengthening all with the grace of godliness. /  Since you always serve Christ, do not cease to pray for the world."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "[Podoben: “With the streams of your blood...” (See the Kontakion for the Great Martyr Demetrios)]\r\nAdorned with a most holy disposition,  / you were resplendent in the vesture of the priesthood, O most blessed and godly-minded Porphyrios,  / and you are renowned for your miracles of healing,  / ceaselessly interceding for all of us."
+      }
+    },
+    {
+      "name": "Venerable Sebastian of Poshekhonye",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sebastian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Christodoulos",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Christodoulos, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Christodoulos;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "New Martyr John Kalphes, the Apprentice",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr John, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr John;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

@@ -30,5 +30,116 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Anysia calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "As a two-fold lamp you illumine the Church of Christ / with truly mystical radiance. / You brought forth a hundred-fold fruit through your contest, O Anysia; / and you shone forth in asceticism, O Melania. / You were both found worthy of the incorruptible life of the righteous.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Virgin Martyr Anysia at Thessalonica",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Nativity of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Nativity, O Christ our God,  /  has shone to the world the Light of knowledge;  /  for by it, those who worshipped the stars / were taught by a star to adore You,  / the Sun of Righteousness,1  /  and to know You, the Dayspring2 from on High.  / O Lord, glory to You!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Original Melody)\r\nToday the Virgin gives birth to the Transcendent One,  /  and the earth offers a cave to the Unapproachable One!  / Angels with shepherds glorify Him.  /  The wise men journey with a star,  /  since for our sake the Pre-Eternal God was born as a young Child.3"
+      }
+    },
+    {
+      "name": "Virgin Martyr Anysia at Thessalonica",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Anysia calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "As a two-fold lamp you illumine the Church of Christ / with truly mystical radiance. / You brought forth a hundred-fold fruit through your contest, O Anysia; / and you shone forth in asceticism, O Melania. / You were both found worthy of the incorruptible life of the righteous."
+      }
+    },
+    {
+      "name": "Martyr Zoticus the Keeper of Orphans",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Zoticus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Zoticus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Apostle Timon the Deacon of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Timon, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Philetairus of Nicomedia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Philetairus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Philetairus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Theodora of Caesarea, in Cappadocia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Theodora, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodora of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Theodora, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Gideon of Karakalou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Gideon, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Gideon, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Saint Macarius, Metropolitan of Moscow and All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Macarius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Opening of the relics of Saint Daniel of Pereyaslavl",
+      "troparion": {
+        "tone": 3,
+        "text": "From your youth, O blessed one, you devoted yourself entirely to the Lord,  / always obeying God and resisting the devil, you overcame sinful passions,  / thereby becoming a temple1 of God and you built a beautiful monastery for the glory of the Most Holy Trinity, / and for Christ's flock gathered in them, O God-pleaser, you departed to the eternal abodes, O Father Daniel.  / Entreat the tri-hypostatic God, one in essence, for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You appeared as an unfading Light, a bright luminary enlightening all with the purity of your life, O Father Daniel,   / because you were a model and a rule for monastics, a father of orphans, and benefactor of widows.   / Therefore, we your children cry out to you:   / “Rejoice, our joy and crown; rejoice, for you have a special right to address God;   / rejoice, great strengthener of our city.”"
+      }
+    }
+  ]
 }

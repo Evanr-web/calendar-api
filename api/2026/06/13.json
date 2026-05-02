@@ -32,5 +32,110 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Triphyllius, / entreat Christ our God / that our souls may be saved.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus",
+  "oca_saints": [
+    {
+      "name": "Martyr Aquilina of Byblos in Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Aquilina, calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You ascended to the heights through martyrdom, all-honorable Aquilina, / having purified your soul through the virtues of your virginity. / You were wounded with love for Christ your bridegroom, / before whom you stand rejoicing with the angels; / together with them unceasingly pray for us all."
+      }
+    },
+    {
+      "name": "Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Triphyllius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Andronikos, Disciple of Saint Sergius",
+      "troparion": {
+        "tone": 1,
+        "text": "Having loved silence from your youth, you came to Mount Makovets, O blessed Andrónikos,  / and established a coenobitic Monastery in the earthly city of Moscow; /  and now as you rejoice in the abode of the Heavenly City,  / pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Savva, Abbot of Moscow",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Savva, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Antonina of Nicea",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Antonina, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Antonina;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Anna and her son, Saint John, of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O holy Anna and John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable James, who was deceived and worshiped the Antichrist",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father James, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Antipater, Bishop of Bostra, Arabia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Antipater, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Anthimus, Bishop of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Anthimus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "10,000 Martyrs",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Transfer of the relics of Saint Paraskevḗ the New",
+      "troparion": {
+        "tone": 2,
+        "text": "You loved the solitary and hesychastic life, /  and then, with diligence, you hastened after Christ, your Bridegroom, and took up His easy yoke in your youth.  / Armed with the Sign of the Cross,  / you contended courageously against noetic enemies; /  through fasting, prayer, and by shedding tears,  / you extinguished the embers of the passions, O glorious Paraskevḗ. /  Now, standing in the heavenly Bridal Chamber of Christ, together with the wise virgins,  /  intercede for us who honor your holy memory."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Devoutly let us all praise the most honorable Paraskevḗ,  / a holy intercessor for the afflicted;  / for she left this perishable life behind and received eternal incorruption.  / Therefore, she has been given the grace of working miracles, by the command of God."
+      }
+    }
+  ]
 }

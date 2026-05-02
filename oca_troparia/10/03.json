@@ -1,0 +1,49 @@
+{
+  "date": "2026-10-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Dionysius the Areopagite, Bishop of Athens",
+      "troparion": {
+        "tone": 4,
+        "text": "Having learned goodness and maintaining continence in all things, / you were arrayed with a good conscience as befits a priest. / From the chosen Vessel you drew ineffable mysteries; / you kept the faith, and finished a course equal to His. / Bishop martyr Dionysius, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a disciple of the apostle caught up to the third heaven, / you spiritually entered the gate of heaven, Dionysius. / You were enriched with understanding of ineffable mysteries / and enlightened those who sat in the darkness of ignorance. / Therefore we cry to you: Rejoice, universal Father!"
+      }
+    },
+    {
+      "name": "Martyrs Rusticus the Presbyter and Eleutherius the Deacon",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Rusticus and Eleutherius."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dionysius the Recluse of the Kiev Caves",
+      "troparion": {
+        "tone": 4,
+        "text": "You offered the Bloodless Sacrifice to the Lord blamelessly,  / and served Him diligently according to your calling. /  O Saint Dionysios, pray for us who revere you with love."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John the Chozebite, Bishop of Caesarea, Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Hesychius of Mount Horeb",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hesychius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

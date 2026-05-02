@@ -29,5 +29,64 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "You were a pillar of patient endurance, / having imitated the forefathers, O Venerable One: / Job in suffering, and Joseph in temptations. / You lived like the bodiless ones while yet in the flesh, O Daniel, our Father. / Beseech Christ God that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "You ascended your pillar like a brightly shining star, O blest One; / you illumined the world with your venerable deeds dispersing the darkness of error. / Therefore we pray you, Father Daniel, / now illumine the hearts of your servants with the never-setting light of wisdom.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Daniel the Stylite of Constantinople",
+  "oca_saints": [
+    {
+      "name": "Venerable Daniel the Stylite of Constantinople",
+      "troparion": {
+        "tone": 1,
+        "text": "You were a pillar of patient endurance, / having imitated the forefathers, O Venerable One: / Job in suffering, and Joseph in temptations. / You lived like the bodiless ones while yet in the flesh, O Daniel, our Father. / Beseech Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You ascended your pillar like a brightly shining star, O blest One; / you illumined the world with your venerable deeds dispersing the darkness of error. / Therefore we pray you, Father Daniel, / now illumine the hearts of your servants with the never-setting light of wisdom."
+      }
+    },
+    {
+      "name": "Venerable Nikon the Dry, of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nikon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Mirax of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Mirax, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Mirax;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Akepsimas and Aithalas of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Akepsimas and Aithalas, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Luke the New Stylite of Chalcedon",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Luke, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

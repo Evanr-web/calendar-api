@@ -1,0 +1,25 @@
+{
+  "date": "2026-01-27",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Translation of the relics of Saint John Chrysostom, Archbishop of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Grace shining forth from your lips like a beacon has enlightened the universe; / it has shone to the world the riches of poverty; / it has revealed to us the heights of humility. / Teaching us by your words, O Father John Chrysostom, / intercede before the Word, Christ our God, to save our souls."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Having received divine grace from heaven, / you teach all men to adore the one God in three persons. / O all-blessed John Chrysostom, we rightly praise you, / for you are our teacher, revealing things divine!"
+      }
+    },
+    {
+      "name": "Saint Clement the Stylite who lived as an ascetic on Mount Ságmata in Boeotia",
+      "troparion": {
+        "tone": 1,
+        "text": "You despised the wealth and glory of this vain age, O godly-wise, most righteous Clement,  /  and you dwelt on a rugged mountain, where you conversed with God;  /  therefore, we have gathered to praise you, as is meet:  /  “Glory to Christ, Who glorified you.  /  Glory to Him Who crowned you.  /  Glory to Him Who, through you, grants healing to all.”"
+      },
+      "kontakion": null
+    }
+  ]
+}

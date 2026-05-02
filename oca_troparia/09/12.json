@@ -1,0 +1,87 @@
+{
+  "date": "2026-09-12",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Leavetaking of the Nativity of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Nativity, O Virgin, / has proclaimed joy to the whole universe! / The Sun of Righteousness, Christ our God, / has shone from You, O Theotokos! / By annulling the curse, / He bestowed a blessing. / By destroying death, He has granted us eternal Life."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "By Your Nativity, O Most Pure Virgin, / Joachim and Anna are freed from barrenness; / Adam and Eve, from the corruption of death. / And we, your people, freed from the guilt of sin, celebrate and sing to you: / The barren woman gives birth to the Theotokos, the nourisher of our life!"
+      }
+    },
+    {
+      "name": "Hieromartyr Autonomus, Bishop in Italy",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Autonomus, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "With reverence you served the divine mysteries, O wise one, / and became an acceptable sacrifice while partaking of the cup of Christ. / Now, as you stand before Him, holy martyr Autonomus, / unceasingly intercede for us all."
+      }
+    },
+    {
+      "name": "Venerable Bassian of Tiksnensk, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Bassian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of Righteous Simeon of Verkhoturye",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simeon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Julian of Galatia and 40 Martyrs with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Theodore of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Theodore, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theodore;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Coronatus, Bishop of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Coronatus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Athanasius of Serpukhov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Athanasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Dositheus of Tbilisi",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Dositheus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

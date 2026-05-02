@@ -1,0 +1,98 @@
+{
+  "date": "2026-04-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Antipascha: Saint Thomas Sunday",
+      "troparion": {
+        "tone": 7,
+        "text": "From the sealed tomb, You did shine forth O Life! / Through closed doors You did come to Your disciples, O Christ God! / Renew in us, through them, an upright spirit, / by the greatness of Your mercy, O Resurrection of all!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Thomas touched Your life-giving side with an eager hand, O Christ God, / when You did come to Your apostles through closed doors. / He cried out with all: You are my Lord and my God!"
+      }
+    },
+    {
+      "name": "Venerable John of the Ancient Caves in Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing, you taught us to disregard the flesh, for it passes away, / but to care instead for the soul, since it is immortal. / Therefore your spirit, O holy Father John, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nDivinely arming yourself with purity of soul, / and wielding incessant prayer as a spear, / John, our father, you impaled hordes of demons. / Unceasingly pray for us all!"
+      }
+    },
+    {
+      "name": "Martyrs Christopher, Theonas, and Anthony, at Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Christopher, Theonas, and Anthony, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Paphnutius of Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Go quickly before...”)\r\nAs a Priest you offered the Holy Sacrifice, /  and as a Martyr you yourself were a burnt offering.  / O Hieromartyr Paphnoutios,  / God's steadfast contestant and treasury of grace, /  bestow grace on us who praise you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou reddened your priestly vesture in the streams of your blood, /  and ran joyously to the heavenly tabernacle, O blessed Paphnoutios,  / and you cry out to the Savior:  / “You are the Fountain of Life, pouring forth compassion upon us all.”"
+      }
+    },
+    {
+      "name": "Saint George the Confessor and Bishop of Antioch, in Pisidia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father George, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Tryphon, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Tryphon, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nikēphóros, Abbot of Catabad",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nicephorus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Agathangelus of Esphigmenou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Agathangelus, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Agathangelus, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Simeon of Philotheou",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simeon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Theodore and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Theodore and his companions O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-04-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Greatmartyr, Victory-bearer, and Wonderworker George",
+      "troparion": {
+        "tone": 4,
+        "text": "You contested with an excellent deed, O passion-bearer of Christ,  / by faith you denounced the iniquity of the torturers, offering yourself as a sacrifice pleasing to God;1 /  therefore you received a crown of victory, / and by your intercessions O Saint,  / you obtain the forgiveness of sins for all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nYou were cultivated by God, and you showed yourself as a most honorable cultivator of piety;  / and you harvested for yourself the sheaves of virtue; /  for having sown in tears, now you reap with joy;  / and having contested unto blood, you received Christ.  / By your intercessions, O Saint, you obtain the forgiveness of sins for all."
+      }
+    },
+    {
+      "name": "Martyr Alexandra the Empress, wife of Diocletian",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Alexandra, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Alexandra;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Anatolius and Protoleon, soldiers converted by witnessing the martyrdom of Saint George",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Anatolius and Protoleon, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Lazarus of Bulgaria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Lazarus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Lazarus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Holy Martyr Polychronia",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyr Polychronίa, O Lord,  / by her contest has received an incorruptible crown from You, our God;  / for, possessed of Your strength, she laid the tyrants low  / and shattered the powerless boldness of the demons.  / By her supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights..”)\r\nYou shone forth in your splendor as a bright star,  / proclaiming Christ to this temporal world, O Martyr Polychronίa,  / vanquishing the snares of false gods, /  you revealed the true light to the faithful,  / and you always intercede on behalf of us all."
+      }
+    }
+  ]
+}

@@ -30,5 +30,78 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 2,
+    "text": "Great are the accomplishments of faith, / for the Three Holy Youths rejoiced in the source of the flame, as if by restful waters,1 / and the Prophet Daniel appeared as a shepherd of lions as of sheep. / By their prayers, O Christ God, save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(The Original Melody)\r\nYou would not worship an image made by hands, O thrice-blessed youths;  /  but shielded by the ineffable Essence, you were glorified through your ordeal by fire.  /  In the midst of the unbearable fire you called upon God, crying: /  \"Hasten, O compassionate One, /  and in Your mercy come to our aid,  / for if You will, You can do so.\"2",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "The Three Holy Youths: Ananias, Azarias and Misael",
+  "oca_saints": [
+    {
+      "name": "Prophet Daniel",
+      "troparion": {
+        "tone": 2,
+        "text": "Great are the accomplishments of faith, / for the Three Holy Youths rejoiced in the source of the flame, as if by restful waters,1 / and the Prophet Daniel appeared as a shepherd of lions as of sheep. / By their prayers, O Christ God, save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nCleansed by the Spirit  /  your pure heart became a vessel of clearest prophecy;  /  you saw things far away as if they were near.  When cast into the den you tamed the lions. / Therefore we honor you, O blessed Prophet, glorious Daniel."
+      }
+    },
+    {
+      "name": "The Three Holy Youths: Ananias, Azarias and Misael",
+      "troparion": {
+        "tone": 2,
+        "text": "Great are the accomplishments of faith, / for the Three Holy Youths rejoiced in the source of the flame, as if by restful waters,1 / and the Prophet Daniel appeared as a shepherd of lions as of sheep. / By their prayers, O Christ God, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(The Original Melody)\r\nYou would not worship an image made by hands, O thrice-blessed youths;  /  but shielded by the ineffable Essence, you were glorified through your ordeal by fire.  /  In the midst of the unbearable fire you called upon God, crying: /  \"Hasten, O compassionate One, /  and in Your mercy come to our aid,  / for if You will, You can do so.\"2"
+      }
+    },
+    {
+      "name": "Venerable Daniel the Confessor (in Schema Stephen) of Spain, and Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Daniel, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dionysius of Aegina",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “When the stone had been sealed...”)\r\nLet all the faithful honor with one accord Dionysios,  / the offspring of Zákynthos, the Bishop of Aegina, the guardian of the Holy Monastery of Strophada, /  crying out to him sincerely, /  “By your prayers, save those who celebrate your memory, crying to you: /  ‘Glory to Christ, Who glorified you.  / Glory to Him Who made you wondrous.  / Glory to Him Who has granted you to us as an unsleeping intercessor.’”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Avakum the Deacon of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "As true soldiers of Christ, / you shone forth with meekness and humility / and for Christ you suffered courageously, / O Holy Martyrs Paisius and Avakum, / but your deaths proclaim to all / that it is better to die for Christ and for one’s country / than without Christ to gain the whole world."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "In this world you lived like angels / and by your lives fulfilled the Gospel. / You laid down your souls for faith and country, / in death you showed yourselves to be stronger than your tormentors, / therefore we celebrate your memory, / O holy venerable martyrs Paisius and Avakum."
+      }
+    },
+    {
+      "name": "Saint Paisius",
+      "troparion": {
+        "tone": 4,
+        "text": "As true soldiers of Christ, / you shone forth with meekness and humility / and for Christ you suffered courageously, / O Holy Martyrs Paisius and Avakum, / but your deaths proclaim to all / that it is better to die for Christ and for one’s country / than without Christ to gain the whole world."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "In this world you lived like angels / and by your lives fulfilled the Gospel. / You laid down your souls for faith and country, / in death you showed yourselves to be stronger than your tormentors, / therefore we celebrate your memory, / O holy venerable martyrs Paisius and Avakum."
+      }
+    }
+  ]
 }

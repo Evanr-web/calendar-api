@@ -30,5 +30,56 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "(Podoben: “Your tomb, O Savior...”)\r\nYou followed Christ Who was born of a virgin for our sake, O revered Mary Magdalene,  / keeping His commandments and laws. /  Today, as we celebrate your most holy memory, we rejoice in faith, /  and by your prayers, we receive the forgiveness of our sins.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “You were lifted up...”)\r\nWhen God, transcendent in His nature, came into the world in the flesh, O Mary,  / He received you as His true disciple as was meet.  / For you had all your desire and your love set upon Him;  / therefore, you provided many cures for the sick;  / and now, translated into the Heavens, you always pray for the world.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Myrrhbearer and Equal of the Apostles Mary Magdalene",
+  "oca_saints": [
+    {
+      "name": "Myrrhbearer and Equal of the Apostles Mary Magdalene",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “Your tomb, O Savior...”)\r\nYou followed Christ Who was born of a virgin for our sake, O revered Mary Magdalene,  / keeping His commandments and laws. /  Today, as we celebrate your most holy memory, we rejoice in faith, /  and by your prayers, we receive the forgiveness of our sins."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nWhen God, transcendent in His nature, came into the world in the flesh, O Mary,  / He received you as His true disciple as was meet.  / For you had all your desire and your love set upon Him;  / therefore, you provided many cures for the sick;  / and now, translated into the Heavens, you always pray for the world."
+      }
+    },
+    {
+      "name": "Translation of the relics of the Hieromartyr Phocas, Bishop of Sinope",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation,  / O inspired one of God; / by teaching the word of truth without error, you defended the Faith,  / even to the shedding of your blood. / Hieromartyr Phocas entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "The Master established you as a brilliant sun / shining on all the faithful, glorious hieromartyr Phocas. / He has accepted your life, faith and contest as myrrh, / for He is rich in mercy."
+      }
+    },
+    {
+      "name": "Repose of Venerable Cornelius of Pereyaslavl",
+      "troparion": {
+        "tone": 8,
+        "text": "Let us honor the new God-pleaser, Venerable Cornelius,  / who lifted the cross upon his shoulders, eagerly taking up the yoke of Christ, /  he fought courageously against invisible enemies and intrigues, / and as a good soldier he stands before the Master Christ and prays without ceasing for our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Markella of Chios",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Markella calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    }
+  ]
 }

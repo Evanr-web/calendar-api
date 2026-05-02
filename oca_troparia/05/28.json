@@ -1,0 +1,98 @@
+{
+  "date": "2026-05-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Niketas, Bishop of Chalcedon",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; your poverty enriched you. / Hierarch Father Nicetas, / entreat Christ our God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You shone with the splendor of your deeds, venerable Nicetas. / You became an heir to the throne of the apostles. / Completely filled, O Father, with the teachings of God, you shone like the sun upon your flock. / Therefore we cry out to you: “Rejoice, beauty of Chalcedon.”"
+      }
+    },
+    {
+      "name": "Saint Ignatius the Wonderworker, Bishop of Rostov",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Ignatius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Eutychius, Bishop of Melitene",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, / O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Eutychius entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Heliconis of Thessalonica",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Heliconis, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Heliconis;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Helladius, Bishop in the East",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Helladius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Germanus, Bishop of Paris",
+      "troparion": {
+        "tone": 8,
+        "text": "Let us celebrate the father of the poor, the treasure of the needy,  /  the master of wisdom of kings and powerful men,  /  the unifier of the Church of Gaul, the unmercenary healer of all illnesses:  /  Saint Germanus, the founder of the abbey that still bears his name,  /  the crafter of peace, the exemplary pastor of Paris:  /  for he intercedes for our souls before Christ our God."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Sophronius the Bulgarian",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father,  /  for you took up the Cross and followed Christ.  /  By so doing you taught us to disregard the flesh for it passes away  /  but to care instead for the soul, since it is immortal.  /  Therefore your spirit, venerable Sophronios, rejoices with the angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Demetrius",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Demetrius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Demetrius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Nicea",
+      "troparion": {
+        "tone": 4,
+        "text": "(Tone 8 in Greek usage)\r\n\r\nYour womb has become a Holy Table, which held the Heavenly Bread.  / Those who partake of it shall not die,  / as the Nourisher of all has said, O Theotokos."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint William of Gellone",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image; /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal.  / Therefore, O Venerable William, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Finding delight in abstinence,   / you subdued the desires of the flesh.   / Revealed as one nurtured in the Faith,   / you blossomed like the Tree of Life in Paradise,  /  O Venerable Father William."
+      }
+    }
+  ]
+}

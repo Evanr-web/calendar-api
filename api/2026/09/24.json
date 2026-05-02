@@ -29,5 +29,149 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "You were enlightened by the words of Paul, O Bride of God, Thekla, / and your faith was confirmed by Peter, O Chosen One of God. / You became the first sufferer and martyr among women, / by entering into the flames as into a place of gladness. / For when you accepted the Cross of Christ, / the demonic powers were frightened away. / O all-praised One, intercede before Christ God that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "(Podoben: “As the first fruits of our nature...”)\r\nRadiant with the beauty of virginity and adorned with a crown of martyrdom,  / you were entrusted with the apostolic Faith. /  As a glorious virgin you turned the flames into dew  / and tamed an angry bull by your entreaties,  / O Prize-winner Thekla.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Protomartyr and Equal of the Apostles Thekla",
+  "oca_saints": [
+    {
+      "name": "Synaxis of All Saints of Alaska",
+      "troparion": {
+        "tone": 4,
+        "text": "Today Alaska rejoices and America celebrates, / for the new world has been sanctified by martyrdom / Kodiak echoes with songs of thanksgiving, / Iliamna and Kenai observe the festival of faith. / The Apostle and martyr Juvenaly is glorified, / and Peter the Aleut is exalted by his voluntary sacrifice, / in their devotion and love for the Lord / they willingly endured persecution and death for the Truth, / now in the Kingdom of Heaven they intercede for our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today Valaam joins Alaska / in celebrating this joyous feast, / as her spiritual son Juvenaly / embraces the new martyr Peter with love. / Together they suffered for the Lord in America / and united the old world with the new by their voluntary sacrifice. / Now forever they stand before the King of glory and intercede for our souls."
+      }
+    },
+    {
+      "name": "Martyr Peter the Aleut",
+      "troparion": {
+        "tone": 4,
+        "text": "Today Alaska rejoices and America celebrates / for the New World has been sanctified by martyrdom. / Kodiak echoes with songs of thanksgiving, / Iliamna and Kenai observe the Festival of Faith. / The apostle and martyr Juvenaly is glorified / and Peter the Aleut is exalted by his voluntary sacrifice. / In their devotion and love for the Lord / they willingly endured persecution and death for the Truth. / Now in the Kingdom of Heaven they intercede for our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today Valaam joins Alaska in celebrating this joyous feast, / as her spiritual son Juvenaly embraces the New Martyr Peter with love. / Together they suffered for the Lord in America / and united the Old World with the New by their voluntary sacrifice. / Now forever they stand before the King of Glory and intercede for our souls."
+      }
+    },
+    {
+      "name": "Martyr Juvenal of Alaska",
+      "troparion": {
+        "tone": 4,
+        "text": "Today Alaska rejoices and America celebrates / for the New World has been sanctified by martyrdom. / Kodiak echoes with songs of thanksgiving, / Iliamna and Kenai observe the Festival of Faith. / The apostle and martyr Juvenaly is glorified / and Peter the Aleut is exalted by his voluntary sacrifice. / In their devotion and love for the Lord / they willingly endured persecution and death for the Truth. / Now in the Kingdom of Heaven they intercede for our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today Valaam joins Alaska in celebrating this joyous feast, / as her spiritual son Juvenaly embraces the New Martyr Peter with love. / Together they suffered for the Lord in America / and united the Old World with the New by their voluntary sacrifice. / Now forever they stand before the King of Glory and intercede for our souls."
+      }
+    },
+    {
+      "name": "Protomartyr and Equal of the Apostles Thekla",
+      "troparion": {
+        "tone": 4,
+        "text": "You were enlightened by the words of Paul, O Bride of God, Thekla, / and your faith was confirmed by Peter, O Chosen One of God. / You became the first sufferer and martyr among women, / by entering into the flames as into a place of gladness. / For when you accepted the Cross of Christ, / the demonic powers were frightened away. / O all-praised One, intercede before Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits of our nature...”)\r\nRadiant with the beauty of virginity and adorned with a crown of martyrdom,  / you were entrusted with the apostolic Faith. /  As a glorious virgin you turned the flames into dew  / and tamed an angry bull by your entreaties,  / O Prize-winner Thekla."
+      }
+    },
+    {
+      "name": "Venerable Nίkander Wonderworker of Pskov",
+      "troparion": {
+        "tone": 6,
+        "text": "You have become a luminary of unwaning light for our land, blessed by God,  / and valiantly endured tribulations from the Enemy. /  Your beatings and wounds became for you a garment of incorruption,  / for you fought the beasts, and were wounded by robbers.  / You prayed for them, saying, /  “Do not impute this sin to them,” /  thereby becoming like the Master Christ.  / O Father Nίkander, worthy of glory, pray for our souls."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Christ has shown you as the dawning of the sun, O venerable one,  /  for you shine in the Russian land with the grace of miracles, /   dispersing the darkness of suffering and sorrow for those who come to you in faith. /   Therefore, we honor your memory, Father Nίkander, and we cry out to you: /   “Rejoice, adornment of ascetics, the glory and strength of our land.”"
+      }
+    },
+    {
+      "name": "Monastic Martyr Galacteon of Vologda",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Galacteon, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Galacteon, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Copres of Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Copres, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Abramius, Abbot of Mirozh, Pskov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Abramius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Dorothy of Kashin",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother, /  for taking up your cross, you followed\r\nafter Christ,  / and by your deeds you taught us to disregard the flesh, for it passes away,  / but to attend to\r\nthe soul for it is immortal.  / Therefore, most venerable Mother Dorothy,  your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...”)\r\nFor the love of God, O venerable one,  /  you despised a bed for rest,  /  and having illumined your spirit\r\nthrough fasting, you completely vanquished your enemies; /   and by your intercession, you destroyed\r\nthe evil plots of our adversaries."
+      }
+    },
+    {
+      "name": "Venerable Silouan of Mount Athos",
+      "troparion": {
+        "tone": 2,
+        "text": "O all-blessed Father Silouan, / flaming zealot of the seraphim’s love for the Lord / and fervent imitator of Jeremiah who wept for the people, / hearing the call of the Mother of the Lord of Hosts, / with wise courage you spewed out the sinful serpent / and withdrew from the snares of the world to the mountain of Athos, / where in labors and prayer, joined with tears, / in abundance you acquired the grace of the holy Spirit with which our hearts are enflamed. / Being strengthened by you, we cry out with compunction: / My Lord, my Life and the Joy of your saint, / save the world and us from all cruel things!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "O Silouan, beloved of God, / truly amazing preacher of humility / and radiance warmed by the love for mankind of the Holy Spirit: / The Russian Church rejoices in your labors. / All monks on the Athonite mountain / and all Christian people are rejoicing as well, / turning themselves towards God with the love of children. / Beseech Him for us, you who have seen God and are equal to the angels, / that burning with your love our souls may be saved."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God “of the Myrtle Tree”",
+      "troparion": {
+        "tone": 4,
+        "text": "Come all you people,  /  let us now clap our hands with faith and sing sacred hymns to the Mother of God, crying aloud: /   “Hail, protection of all those who supplicate you. /   Hail, salvation of those who honor you with longing. /   Hail, O Sovereign Lady who healed the paralytic.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nLet us draw near to the Theotokos,  / who provides abundant healing for all, longingly singing hymns of praise.  / O Bride of God, as you raised the paralytic,  / deliver from all tribulations those who cry to you:  / “Hail, glory of all the earth.”"
+      }
+    },
+    {
+      "name": "Venerable Simon of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable David of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father David, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

@@ -30,5 +30,89 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyr Agathonicus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 1,
+    "text": "Having received the good calling, divinely-wise One, / you abandoned the cult of evil men, not fearing their tortures, glorious Agathonicus. / Therefore, you have inherited good things, / and worthily received the incorruptible crown with your fellow martyrs.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth you preserved your virginity, / in falling asleep you did not forsake the world, O Theotokos. / You were translated to life, O Mother of Life, / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death could hold the Theotokos, / who is constant in prayer and our firm hope in her intercessions. / For being the Mother of Life, / she was translated to life by the One who dwelt in her virginal womb."
+      }
+    },
+    {
+      "name": "Martyr Agathonicus of Nicomedia, and those with him, who suffered under Maximian",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Agathonicus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Having received the good calling, divinely-wise One, / you abandoned the cult of evil men, not fearing their tortures, glorious Agathonicus. / Therefore, you have inherited good things, / and worthily received the incorruptible crown with your fellow martyrs."
+      }
+    },
+    {
+      "name": "Hieromartyr Athanasios, Venerable Anthousa, and others",
+      "troparion": {
+        "tone": 8,
+        "text": "VENERABLE ANTHOUSA\r\n(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert, /  and by your sighings from the depths, your labors bore fruit a hundredfold,  / and you became a luminary of the world, radiant with miracles,  / O Venerable Mother Anthousa, intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "VENERABLE ANTHOUSA\r\n(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul / and firmly grasping unceasing prayer as a spear, you slew the hordes of demons. /  Therefore, we beseech you, O Venerable Mother Anthousa):  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Virgin Martyr Eulalia of Barcelona and the Martyr Felix",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Eulalia, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Eulalia,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the Monastery of Krasnogorsk rejoices brightly and Raithu Hermitage celebrates with it; /  like the dawn of the sun shining from the east,  /  we perceive your wonderworking Icon, O Sovereign Lady,  / by which you disperse the fog of temptations and troubles from those who cry to you with faith:  / \"Deliver our Monastery, and all Christian countries, from all the intrigues of our enemies,   / and save our souls as the Merciful Protector of the Christian race.\""
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Although by Divine permission your revered Icon was desecrated and pierced with a spear by the pagans, \r\nO Sovereign Lady,  / in our Orthodox country it is glorified and lovingly revered by all.  / Therefore, through you, the blind receive sight, the deaf hear, /  the mute speak, the lame walk, the sick are strengthened, and the grieving receive comfort and joy.  / Therefore, we pray you, O Merciful Mother,  / always extend your mercies toward us as the Blessed one."
+      }
+    },
+    {
+      "name": "Saint Bogolep, disciple of Saint Paisius of Uglich",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Bogolep, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Isaac I of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Isaac, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

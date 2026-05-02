@@ -1,0 +1,74 @@
+{
+  "date": "2026-10-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy, Glorious Demetrios the Myrrh-gusher of Thessaloniki",
+      "troparion": {
+        "tone": 3,
+        "text": "The entire world has found you to be a great champion in times of peril;  / for you put the heathen to flight, O victorious one.  /  As you brought to naught the boasts of Lyaeus, and gave courage to Nestor in the stadium, /  in the same way, O Holy Great Martyr Demetrios,  / entreat Christ God, that He grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(The Original Melody)God, Who has given you invincible strength, Demetrios,  / has adorned the Church with the royal purple of the streams of your blood,  / and has kept your city unharmed,  / for you are its support."
+      }
+    },
+    {
+      "name": "Commemoration of the Great Earthquake at Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Christ our God, You look upon the earth and it trembles; / deliver us from the terrible threat of earthquakes; / and through the prayers of the Theotokos, send down upon us / Your abundant mercy and save us."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Deliver us all from upheavals, and from terrible afflictions caused by our sins, O Lord, / and spare Your people people whom You have purchased with Your blood, O Master. / Do not deliver Your city to destruction by terrible earthquakes, / for we know no other God than You; / and to those who cry out You respond: / “I am with you and no one will be against you.”"
+      }
+    },
+    {
+      "name": "Saint Theophilus of the Kiev Caves, Bishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Theophilus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Lupus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Lupus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Lupus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Athanasius of Medikion Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Athanasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Joseph of Dionysiou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Joseph, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Joseph, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Saint Demetrius of Tsilibinsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Demetrius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

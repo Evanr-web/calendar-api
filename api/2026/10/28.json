@@ -31,5 +31,121 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "Wise and praiseworthy martyr of Christ Paraskevḗ, / you conquered the devil by accepting courage and rejecting feminine weakness. / You shamed your torturer by crying out: / Come rend my body with your sword and burn it with fire, / for I go rejoicing to Christ my bridegroom. / By her prayers, O Christ God, save our souls.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Greatmartyr Paraskevi of Iconium",
+  "oca_saints": [
+    {
+      "name": "Venerable Stephen the Hymnographer of Saint Savva Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / enlightener of the universe and adornment of hierarchs: / all-wise father Stephen, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “As You were voluntarily raised...”)\r\nYou planted a garden of the virtues, most glorious one, / and watered it with the streams of your tears. / Since you have received the tree of life, O Stephen, / save your flock from corruption by your prayers. / Deliver from all evil / all of those who fervently honor you, O wise one, / for we have acquired you as a great intercessor through faith and love."
+      }
+    },
+    {
+      "name": "Repose of Saint Arsenius, Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Arsenius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Greatmartyr Paraskevi of Iconium",
+      "troparion": {
+        "tone": 5,
+        "text": "Wise and praiseworthy martyr of Christ Paraskevḗ, / you conquered the devil by accepting courage and rejecting feminine weakness. / You shamed your torturer by crying out: / Come rend my body with your sword and burn it with fire, / for I go rejoicing to Christ my bridegroom. / By her prayers, O Christ God, save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Venerable Job the Wonderworker, Abbot of Pochaev",
+      "troparion": {
+        "tone": 4,
+        "text": "Attaining the patience of our long-suffering Forefather, /  and similar to the abstinence of John the Baptist, partaking of the divine fervor of both,  / you were worthy to receive their names, /  and you were a fearless preacher of the true Faith,  / thereby you brought a multitude of monks to Christ,  / and you confirmed all the people in Orthodoxy. /  O Venerable Father Job, pray that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nYou appeared as a pillar of the true Faith and as one zealous for the Gospel's commandments, a denouncer of pride, and an intercessor and instructor of the humble,  / therefore, pray for the remission of sins of those who glorify you,  / and preserve your Monastery unharmed,  / O Job our Father, resembling the much-suffering Job."
+      }
+    },
+    {
+      "name": "Saint Demetrius (Dimitri), Metropolitan of Rostov",
+      "troparion": {
+        "tone": 8,
+        "text": "O lover of Orthodoxy and eradicator of schisms,  /  healer of Russia and new intercessor before God,  /  you healed the minds of the foolish by your writings.  /  O blessed Demetrios, harp of the Spirit, pray to Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Let us bless Demetrios, the golden-worded teacher, the radiant star of Russia who shone forth from Kiev,  /  and reached Rostov by way of Novgorod and Seversk, illuminating the entire land with his teachings and miracles,  /  for he wrote down all those things which are for our edification  /  so that, like Paul, he might win all for Christ and save our souls through the Orthodox Faith."
+      }
+    },
+    {
+      "name": "Martyrs Africanus, Terence, Maximus, Pompeius, and 36 others, of Carthage",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord,  /  through their sufferings have received an incorruptible crowns from You, our God.  /  For having Your strength, they laid low their adversaries,  /  and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Terence and Neonila, and their children",
+      "troparion": {
+        "tone": 3,
+        "text": "Bound together by natural bonds / and clothed with the might of faith, / you walked the path of martyrdom with your seven children. / O holy Martyrs Terence and Neonilla, / pray that those who honor your contest may receive forgiveness of their sins."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “As You were voluntarily raised...”)The universe rejoices at the honorable commemoration of the martyrs: / Terence the most-wise, his wife Neonila, and their children. / Therefore, let us hasten that we may receive healing; / for he has received grace from the Holy Spirit / to cure the sicknesses and ills of our souls."
+      }
+    },
+    {
+      "name": "Hieromartyr Cyriacus, Patriarch of Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Cyriacus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable John the Chozebite",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Neophytus of Urbin, Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, / O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Neophytus entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Athanasius the Younger, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Athanasius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Arsenius of Cappadocia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arsenius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

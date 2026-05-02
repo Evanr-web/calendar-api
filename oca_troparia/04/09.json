@@ -1,0 +1,63 @@
+{
+  "date": "2026-04-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great and Holy Thursday",
+      "troparion": {
+        "tone": 8,
+        "text": "When the glorious disciples were enlightened / at the washing of their feet before the supper, / then the impious Judas was darkened, ailing with avarice / and to the lawless judges he betrays You, the righteous Judge. / Behold, O lover of money, this man who because of money hanged himself. / Flee from the greedy soul which dared such things against the Master. / O Lord, who is good towards all men, glory to You!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high...”)\r\nWith his hands the betrayer receives the Bread. / With his hands he secretly receives the silver, / the price of Him who fashioned man with His hands; / so the servant and deceiver Judas remains depraved."
+      }
+    },
+    {
+      "name": "Martyr Eupsychius of Caesarea, in Cappadocia",
+      "troparion": {
+        "tone": 3,
+        "text": "With steadfast heart you finished your course and cast down the wily foe, / for you were armed with the power of the Cross, blest Eupsychius. / You were numbered with the host of martyrs and have attained eternal glory. / Always entreat Christ our God to save us who honor you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a living temple of Christ the Lord / you destroyed the ungodly temple, / and through your steadfast toils, Martyr Eupsychius, / you built a dwelling in Paradise."
+      }
+    },
+    {
+      "name": "Hieromartyr Desan, Bishop in Persia, and 272 others with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Bademus (Vadim) of Persia",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Bademus, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Bademus, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Saint Eleni (also called Susanna), New Martyr of Lesbos",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Eleni calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyrs Raphael, Nicholas, and Irene of Lesbos",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

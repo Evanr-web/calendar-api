@@ -31,5 +31,103 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 2,
+    "text": "By faith You justified the Forefathers,  /  when through them You betrothed Yourself beforehand to the Church of the Gentiles.  /  The saints boast in glory,  /  that from their seed there is a glorious fruit:  /  she who bore You without seed.  /  By their prayers, O Christ God, save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 6,
+    "text": "(The Original Melody)\r\nYou did not worship the graven image,  /  O thrice-blessed youths,  /  but shielded by the ineffable\r\nEssence,  /  you were glorified in your trial by fire.  /  In the midst of the unbearable fire you called\r\nupon God, crying:  /  \"Hasten, O compassionate One.  /  and in Your mercy, come to our aid,  /  for You\r\ncan do so if You will.\"1",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Sunday of the Forefathers",
+  "oca_saints": [
+    {
+      "name": "Sunday of the Forefathers",
+      "troparion": {
+        "tone": 2,
+        "text": "By faith You justified the Forefathers,  /  when through them You betrothed Yourself beforehand to the Church of the Gentiles.  /  The saints boast in glory,  /  that from their seed there is a glorious fruit:  /  she who bore You without seed.  /  By their prayers, O Christ God, save our souls."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "(The Original Melody)\r\nYou did not worship the graven image,  /  O thrice-blessed youths,  /  but shielded by the ineffable\r\nEssence,  /  you were glorified in your trial by fire.  /  In the midst of the unbearable fire you called\r\nupon God, crying:  /  \"Hasten, O compassionate One.  /  and in Your mercy, come to our aid,  /  for You\r\ncan do so if You will.\"1"
+      }
+    },
+    {
+      "name": "Repose of Venerable Herman of Alaska, Wonderworker of All America",
+      "troparion": {
+        "tone": 4,
+        "text": "O blessed Father Herman of Alaska, / north star of Christ’s holy Church, / the light of your holy life and great deeds / guides those who follow the Orthodox way. / Together we lift high the Holy Cross / you planted firmly in America. / Let all behold and glorify Jesus Christ, / singing his holy Resurrection."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "The eternal light of Christ our Savior, / guided you, O blessed father Herman, / on your evangelical journey to America, / proclaiming the Gospel of peace. / Now you stand before the throne of Glory; / intercede for your land and its people / peace for the world and salvation for our souls!"
+      }
+    },
+    {
+      "name": "Martyrs Eustratius, Auxentius, Eugene, Mardarius, and Orestes, at Sebaste",
+      "troparion": {
+        "tone": 4,
+        "text": "O radiance of the Martyrs revered by all,  / we glorify the five Passion-bearers,  / for despising earthly glory,  /  O most luminous sun and most wise orator Eustratios,  / with the other Martyrs you willingly endured fire and torments for Christ, the King of all;  / and from His throne of glory He crowned you with crowns of honor.  /  By their intercessions, O Christ God, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "[Podoben: “Neither the tomb, nor death could hold…” (Kontakion for the Dormition)]\r\nYou shone as a most brilliant light for those who sat in the darkness of ignorance, O Prizewinner.  /  And armed with faith as with a spear,  / you were not frightened by the audacity of your adversaries,  / O Eustratios, most eloquent of orators."
+      }
+    },
+    {
+      "name": "Virgin Martyr Lucy of Syracuse",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWearing the radiant mantle of virginity,  /  and virginally betrothed to the Life-giver Christ, /  you forsook the love of your earthly betrothed; /  therefore, as a bridal gift,  /  you brought to Him the outpouring of your blood.  /  O Virgin Martyr Lucy, intercede with Him for us all!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "We honor you, pure Virgin and trophy-bearer Lucy,  / and we praise your illustrious contest;  / for you desired only the beauty of Christ,  / disdaining all corruptible things.  / When you were beheaded, you received incorruptible glory."
+      }
+    },
+    {
+      "name": "Venerable Arcadius of Novotorsk",
+      "troparion": {
+        "tone": 4,
+        "text": "Guided by your spiritual mentor, the Venerable Father Ephraim, an excellent zealot of obedience,  / O Father Arcadius, you fled from worldly vanity and were a superb monk;  / working diligently, you have received a crown of heavenly glory from Christ God. /  And now, together with the Venerable Father Ephraim, /  pray for us before the Throne of the Most High,  / that we may be delivered from all troubles and sorrows,  / and for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "By directing your mind to the depths of the knowledge of God,  / you ascended to the heavenly abodes,  / and your life was equal to that of an angel, O Father Arcadius.  / You were obedient to your spiritual guide and teacher, the Venerable Ephraim, in all things.  / And now, standing with him before the Throne of the Master Christ,  / pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Venerable Mardarios the Recluse of the Kiev Caves",
+      "troparion": {
+        "tone": 4,
+        "text": "O blessed Mardários, for the sake of Christ you possessed nothing,  / and because of your many good works, He dwelt in your heart.  / Pray for us who praise you with hymns."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "O glorious Mardários,  / you aspired to heavenly things, coveting nothing earthly,  /  and through non-acquisitiveness you became a chariot of fire ascending to Heaven,  / and were found worthy to dwell with the Angels.  / Now with them, pray unceasingly to Christ God for all of us."
+      }
+    },
+    {
+      "name": "Venerable Arsenius of Latros",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arsenius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Gabriel of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles,  /  you occupied their throne,  /  and through the practice of virtue, you found the way to divine contemplation, O divinely-inspired one;  /  Therefore, by rightly dividing the word of truth, you suffered for the Faith,  /  even unto the shedding of your blood.  /  O Hieromartyr Gabriel, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up…”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one, you abolished the sacrifices of idolatry and showed yourself as a protector of your flock.  / Therefore, we cry fervently to you:  /  “By your intercessions, deliver us from all misfortunes,  / O Gabriel our Father.”"
+      }
+    }
+  ]
 }

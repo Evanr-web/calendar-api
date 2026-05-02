@@ -30,5 +30,70 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "Ever-Virgin Theotokos, protectress of mankind, / you have given your people a powerful legacy: / the robe and sash of your most honored body which remained / incorrupt throughout your seedless childbearing; / for through you time and nature are renewed! / Therefore we implore you: “Grant peace to your people and to our souls great mercy!”",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "Today your flock celebrates the enshrinement of your precious sash, / and it earnestly cries out to you: / “Rejoice, O Virgin, boast of all Christians!”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "The Placing of the Cincture (Sash) of the Mother of God",
+  "oca_saints": [
+    {
+      "name": "The Placing of the Cincture (Sash) of the Mother of God",
+      "troparion": {
+        "tone": 8,
+        "text": "Ever-Virgin Theotokos, protectress of mankind, / you have given your people a powerful legacy: / the robe and sash of your most honored body which remained / incorrupt throughout your seedless childbearing; / for through you time and nature are renewed! / Therefore we implore you: “Grant peace to your people and to our souls great mercy!”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today your flock celebrates the enshrinement of your precious sash, / and it earnestly cries out to you: / “Rejoice, O Virgin, boast of all Christians!”"
+      }
+    },
+    {
+      "name": "Hieromartyr Cyprian, Bishop of Carthage",
+      "troparion": {
+        "tone": 8,
+        "text": "Guide of Orthodoxy, teacher of piety and holiness,  / luminary of Carthage, and divinely-inspired adornment of Confessors.  /  O wise Cyprian, by your teachings you have enlightened all, O harp of the Spirit.  /  Pray to Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "(Podoben: “The soldiers standing guard...”) \r\nWe honor you, O Cyprian, as a true shepherd /  who by your sacred words and divinely-wise doctrines  /  have shown us the boundary stones which mark the one Church of Christ. /  You bore witness courageously, even unto death;  / therefore, we praise you as a Hierarch and Martyr.  /  Pray to Christ God that our souls may be saved."
+      }
+    },
+    {
+      "name": "Saint Gennadius, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gennadius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Aidan, Bishop of Lindesfarne",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith, / a model of meekness, and a teacher of temperance. / Therefore, through humility, you attained the heights; / and through poverty, riches. /  O Hierarch Aidan, our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Aidan, divine thunder, spiritual trumpet,  /  planter of faith, and pruner of heresies,  /  great favorite of the Trinity, as you stand before God with the Angels, /   pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Saint Eanswythe, Abbess of Folkestone",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what is according to the image;  / for you took up the Cross and followed Christ. /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal. / Therefore, O Venerable Eanswythe, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace of healing...”)\r\nHaving discarded a bed for rest, for the sake of your love for God, O Mother Eanswythe, /  and illuminating your spirit with fasting,  / you completely vanquished your enemies;  / and by your intercessions you destroyed the evil schemes of our adversaries."
+      }
+    }
+  ]
 }

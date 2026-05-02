@@ -29,5 +29,75 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "At the First Council you appeared as a champion of Truth and a Wonderworker, O our God-bearing Father Spyridon.  / For you spoke to one dead in her grave, and transformed a serpent into gold;  / while chanting your holy prayers /  you had Angels serving with you, most holy one.  / Glory to Him Who glorified you.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, grants healing to all.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Wounded by the love of Christ, most holy one, your mind was given wings by the radiance of the Spirit, O God-inspired one,  / you found your work in active contemplation, O God-pleasing Spyridon,  / becoming a godly sacrifice, and entreating divine illumination for all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Spyridon the Wonderworker, Bishop of Tremithus",
+  "oca_saints": [
+    {
+      "name": "Saint Mardarije (Uskokovic) of Libertyville",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  / a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  / and through poverty, riches.  /  O Hierarch Mardarije* our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Tireless preacher of Christ the Lord, leader on the path of Saint Savva for your people in diaspora,  / labor-loving practitioner and teacher of repentance,  / Saint Mardarije* of Libertyville and America, together with all the Enlighteners of the American lands,  / entreat the only Lover of mankind, to grant  peace and unity to all Orthodox Christians."
+      }
+    },
+    {
+      "name": "Saint Spyridon the Wonderworker, Bishop of Tremithus",
+      "troparion": {
+        "tone": 1,
+        "text": "At the First Council you appeared as a champion of Truth and a Wonderworker, O our God-bearing Father Spyridon.  / For you spoke to one dead in her grave, and transformed a serpent into gold;  / while chanting your holy prayers /  you had Angels serving with you, most holy one.  / Glory to Him Who glorified you.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Wounded by the love of Christ, most holy one, your mind was given wings by the radiance of the Spirit, O God-inspired one,  / you found your work in active contemplation, O God-pleasing Spyridon,  / becoming a godly sacrifice, and entreating divine illumination for all."
+      }
+    },
+    {
+      "name": "Venerable Therapon, Abbot of Monza",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Therapon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Alexander, Bishop of Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Alexander, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Synetus of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Synetus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Synetus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr John, Abbot of the Zedazeni Monastery",
+      "troparion": {
+        "tone": 1,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr John entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

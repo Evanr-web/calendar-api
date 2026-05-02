@@ -1,0 +1,93 @@
+{
+  "date": "2026-06-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Timothy, Bishop of Prusa",
+      "troparion": {
+        "tone": 1,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne.  /  Through the practice of virtue,  /  you found the way to divine contemplation, O divinely inspired one; /  by rightly dividing the word of truth without error, /  you defended the Faith, even to the shedding of your blood.  / O Hieromartyr Timothy entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  /  O divinely-wise one,  /  you abolished the sacrifices of idolatry and showed yourself to be a protector of your flock.  /  Therefore, we cry fervently to you: /  “By your intercessions, deliver us from all misfortunes, O Timothy our Father.”"
+      }
+    },
+    {
+      "name": "Venerable Silvanus the Schemamonk, of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Silvanus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Finding of the relics of Saint Basil, Bishop of Ryazan",
+      "troparion": {
+        "tone": 4,
+        "text": "At first you were honored with the episcopal dignity at Murom, but were unjustly banished.  / You climbed\r\nonto your mantya as if it were a light ship; /  and as one without a body, you made your way supernaturally\r\nover the water, /  guided by the Providence of the Most High, and by the intercession of the Mother of God,\r\nyou reached the God-saved city of Ryazan. /  There you accepted your hierarchal throne, and your God-given\r\nflock of Ryazan.  / You have done well, O Hierarch and Father Basil.  / Entreat Christ God that our souls may\r\nbe saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O Hierarch Basil, you shone in the city of Murom like a bright star,  /  and upon the water you reached the city of Ryazan; /   you helped the Church of God well by enlightening the people with your teaching and your life.  /  Even now, remember your children who pray to you, our good teacher, /   and entreat Christ God and His Most Pure Mother for us, /   that with grateful souls we may cry to you:  /  “Rejoice, O Christ-pleaser and fervent intercessor with God for us.”"
+      }
+    },
+    {
+      "name": "Saint John Maximovitch, Metropolitan of Tobolsk",
+      "troparion": {
+        "tone": 8,
+        "text": "Instructor of piety, nourisher of orphans, helper of the afflicted, /  unmercenary physician of the sick, speedy helper of suffering souls, /  fervent intercessor with the Lord for all. /  O Hierarch Father John, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You were shown as a light for those in the darkness of ignorance,  /  a comforter of widows and orphans,  /  and a wondrous physician of the infirm, /   instructor of children and youths, most radiant joy for parents. /  O Hierarch Father John, pray to Christ God to grant our country confirmation in the Faith; /  victory to our armies over our enemies, and great mercy to His people."
+      }
+    },
+    {
+      "name": "Martyr Alexander and Virgin Martyr Antonina at Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Alexander and Antonina, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Kanides the Monk of Cappadocia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Kanides, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theophanes and Saint Pansemne of Antioch",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O holy Theophanes and Pansemne, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Bassianus, Bishop of Lodi in Liguria",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  /  and through poverty, riches.  /  O Hierarch Bassianus our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high...”)\r\nO Hierarch Bassianus,  / divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity;  / as you stand before God with the Angels,  / pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Saint Neaniskos the Martyr",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Neaniskos, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Neaniskos;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

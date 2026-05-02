@@ -1,0 +1,60 @@
+{
+  "date": "2026-02-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Leo, Bishop of Catania in Sicily",
+      "troparion": {
+        "tone": 1,
+        "text": "You were shown forth as a resplendent priest, / a teacher of godliness and a wonderworker, blessed hierarch Leo; / by the light of heavenly virtue you were enriched with the power of the Spirit, / and heal the souls and bodies of those who hasten to you. / Glory to Christ who has glorified you! / Glory to Him who has crowned you! / Glory to Him who through you works healing for all!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "With hymns of praise let us crown Leo, / who was consecrated to the Lord from early childhood; / he received grace while still a babe in swaddling clothes. / He is a brightly shining star in the Church: / its valiant defender and firm support!"
+      }
+    },
+    {
+      "name": "Venerable Agathon, Wonderworker of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Agathon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Beheading of Venerable Cornelius, Abbot of the Pskov Caves",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Cornelius, rejoices with the angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Agathon, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Agathon, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyrs of Valaam Monastery",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  / ever dealing with us according to Your compassion, take not Your mercy from us,  / but direct our lives in peace  /  through the prayers of Your Monastic Martyrs."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nPassing unharmed through a multitude of storms,  / and receiving the gift of miracles, /  you drowned your bodiless Enemies in the streams of your tears, /  O Divinely-wise Monastic Martyrs; /  now, having received the gift of miracles, /  pray unceasingly for all of us."
+      }
+    }
+  ]
+}

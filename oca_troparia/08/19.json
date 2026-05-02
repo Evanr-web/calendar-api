@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth you preserved your virginity, / in falling asleep you did not forsake the world, O Theotokos. / You were translated to life, O Mother of Life, / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death could hold the Theotokos, / who is constant in prayer and our firm hope in her intercessions. / For being the Mother of Life, / she was translated to life by the One who dwelt in her virginal womb."
+      }
+    },
+    {
+      "name": "Martyr Andrew Stratelates, and 2,593 soldiers with him, in Cilicia",
+      "troparion": {
+        "tone": 5,
+        "text": "You renounced the glory of earthly rank / and inherited the kingdom of heaven; / you adorned your incorruptible crown as with beautiful stones. / You led an army of martyrs to Christ, / and with the angels in the never-fading light / you found Christ the never-setting sun. / Together with those who suffered with you, / holy general Andrew, / ever pray to Him that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Standing before the Lord in prayer like a star near the sun, / you were filled with ineffable joy beholding your desire: the treasure of the kingdom. / You sing without ceasing to the immortal King / together with the angels throughout the ages. / With them, general Andrew, unceasingly pray for us all."
+      }
+    },
+    {
+      "name": "Saint Pitirim, Bishop of Perm",
+      "troparion": {
+        "tone": 8,
+        "text": "Instructor of Orthodoxy, teacher of piety, and treasury of mercy,  / adornment of bishops, mentor of the people of Zyryansk,  / O Hierarch Pitirim, you lay down your life for Christ,  / pray to the only Lover of mankind for your flock, and for all who lovingly honor your memory."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Timothy, Agapius, and Thekla, of Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Timothy, Agapius, and Thekla, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theophanes of Docheiariou, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theophanes, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Don Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "O All-hymned Mother, and glorified by all, /  the Queen Mother of God,  / the Mother of the Creator of all created things,  / the hope of Christians and Protectress of those who have no hope,  / and despair of expecting quick help, we beseech you:  / be merciful to us sinners, do not abandon your servants, /  and do not reject the prayers of those who are unworthy.  / We pray, beholding the revered image of your holy and wonderworking Icon we cry out:  / “May your mercy be with those who sail and travel; /  may your mercy be upon them. /  O Sovereign Lady, protect me by your precious robe,  / in all difficult situations preserve the faithful,  / and entreat Christ God, Who was born of you,  / that He may save our souls from sins.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Having moved to the Heavenly abodes with your body,  / you did not leave those living on earth, O Theotokos,  / having granted the opportunity to contemplate and venerate your sacred and wonderworking Icon to all those who love you,  / as a sign of your grace, /  we venerate it by kissing it."
+      }
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "date": "2026-12-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Prophet Habakkuk",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Habakkuk, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Divinely eloquent Habakkuk, / you announced to the world the coming forth of God from the south, from the Virgin. / Standing on the divine watch, you received a report from the radiant angel: / “You proclaimed the Resurrection of Christ to the world!” / Therefore in gladness we cry out to you: / “Rejoice, splendid adornment of the prophets!”"
+      }
+    },
+    {
+      "name": "Venerable Athanasius “the Resurrected One”, Recluse of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Athanasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Athanasius the Recluse of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Athanasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Myrope of Chios",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Myrope calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saints John, Heraclemon, Andrew, and Theophilus, of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers John, Heraclemon, Andrew, and Theophilus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Jesse, Bishop of Tsilkani, Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Jesse, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Joannicius of Devic",
+      "troparion": {
+        "tone": 1,
+        "text": "You were enlightened by divine grace through prayer and fasting,  /  radiantly illuminating the ends of the earth.  /  Having received the gift of miracles from God,  / you heal the sick and drive away demons from the souls of those who have recourse to your holy relics with faith, O venerable Father Ioannikios.  / Glory to Him Who gave you grace. / Glory to Him Who strengthened you.  /  Glory to Him Who through you, works healings for all."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From your youth, O godly-minded one, you loved the angelic life,  /  forsaking all earthly goods, you rose like a star from the world, /  and you ascended to Christ, the spiritual Sun of Righteousness,1 and from Him you received the grace of healing, curing the illnesses of those who run to your holy shrine with love.  /  Therefore, we also honor your holy memory and cry out to you: “Rejoice, O  Father Ioannikios.”"
+      }
+    },
+    {
+      "name": "Synaxis of the Gerontissa Icon of the Mother of God",
+      "troparion": null,
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “With the streams of your blood...”) [Kontakion of the Great Martyr Demetrios]\r\nWe fall down before you as our Gerontissa,  / and strong protection, Most Holy Mother.  / O Most Pure Theotokos,  / do not cease to protect us always, in danger and sorrow."
+      }
+    },
+    {
+      "name": "Saint Porphyrios, Wonderworker of Kavsokaliva",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert…”)\r\nO ye faithful, let us honor Porphyrios,  / the offspring of Euboia the Elder of all Greece,  / an initiate of theology, and a true lover of Christ;  / from childhood he was filled with divine gifts;  /  those possessed by demons are delivered, the sick are healed, and they cry with faith:  / “Glory to Him Who strengthened you.  / Glory to Him Who sanctified you.  /  Glory to Him Who, through you, works healings for all.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader…”)\r\nWholeheartedly, let us praise Porphyrios, the most holy temple of the Comforter, and beloved of the Most Pure Theotokos; for he loves and heals all, he guards us and intercedes for us so that we might attain théosis. Therefore, we cry: “Rejoice, O Father Porphyrios.”"
+      }
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "date": "2026-11-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Paul the Confessor, Archbishop of Constantinople",
+      "troparion": {
+        "tone": 3,
+        "text": "(Original Melody) \r\nYour confession of the Divine Faith, /  has shown you to the Church as another Paul, and a zealot among priests;  / the righteous blood of Abel and Zachariah1 cries out to the Lord with yours.  /  O Venerable Father, /  entreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou shone forth on earth as a star of heavenly light; /  now you enlighten the entire Church for which you suffered,  / for you laid down your life, /  and truly your righteous blood cries out to the Lord like that of Zachariah and Abel.2"
+      }
+    },
+    {
+      "name": "Venerable Barlaam, Abbot of Khutyn, Novgorod",
+      "troparion": {
+        "tone": 3,
+        "text": "Exhausting your body by sleeping on the earth, praying, and keeping vigil, O Venerable one,  / you dispelled all carnal thoughts  / and become a copious stream of healing for those who come to you with faith;  / O Barlaam, our Father,  / pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a second Elijah, O Father, you brought down rain from the heavens,  /  for he brought down fire and astonished the king,   / but you pleased your people and instituted a festival.  /  Great Novgorod takes pride in you, having your relics in itself,   / preserving it unshaken by enemies, so that we may cry out to you:   / “Rejoice, Venerable Barlaam, our Father.”"
+      }
+    },
+    {
+      "name": "Venerable Luke the Steward of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ. /  By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal. /  Therefore, O Venerable Luke, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Luke:   /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Repose of Saint Herman, Archbishop of Kazan",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth, you took up the yoke of Christ with zeal,  / by the podvig1 of vigil, fasting and prayer, you became renowned.  / Therefore, you were called by God to serve the Church in the newly-enlightened kingdom of Kazan,  / together with the Hierarch Gouria.  / You became the head of the Monastery you founded in the city of Sviyazhsk,  / and a worthy successor of the primate.  / Standing before the Master's Throne in spirit, /  pray, O Hierarch Herman,  / together with the Hierarch Guria,  / that the Orthodox flock may flourish in piety,  / and that the darkness of the heterodox may be dispersed by the light of faith."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Barlaam of Keret Lake",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Barlaam, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Tecusa, Alexandra, Claudia, Matrona, Polactia, Euphrosynē, and Athanasia, of Ancyra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Luke of Sicily",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Luke, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Holy Virgin Martyr Manatho",
+      "troparion": {
+        "tone": 1,
+        "text": "As rational sheep of Christ, the Lamb and Shepherd,  / you suffered martyrdom,  / and completing your course, you have preserved the Faith; /  therefore, O Manatho, worthy of praise,  / we celebrate your holy memory today with joyous hearts, magnifying Christ."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared...”)\r\nWe who celebrate the memory of Christ’s Virgin Martyr Manatho now pray with faith for her help,  / that we may be delivered from every affliction, crying out:  / “God, Who willed to glorify her, is with us.”"
+      }
+    }
+  ]
+}

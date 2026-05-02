@@ -31,5 +31,89 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "Holy unmercenaries and wonderworkers, Cosmas and Damian, / heal our infirmities. / Freely you have received; freely you give to us.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Having received the grace of healing, / you grant healing to those in need. / Glorious wonder workers and healers, Cosmas and Damian, / visit us and put down the insolence of our enemies, / and bring healing to the world through your miracles.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia",
+  "oca_saints": [
+    {
+      "name": "Holy Wonderworkers and Unmercenaries Cosmas and Damian of Mesopotamia",
+      "troparion": {
+        "tone": 8,
+        "text": "Holy unmercenaries and wonderworkers, Cosmas and Damian, / heal our infirmities. / Freely you have received; freely you give to us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Having received the grace of healing, / you grant healing to those in need. / Glorious wonder workers and healers, Cosmas and Damian, / visit us and put down the insolence of our enemies, / and bring healing to the world through your miracles."
+      }
+    },
+    {
+      "name": "Hieromartyrs John the Bishop and Jacob (James) the Presbyter, of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  /  always act with kindness towards us;  / take not Your mercy from us,  /  but guide our lives in peace  /  through the prayers our holy fathers John and Jacob."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits...”) The Church glorifies you as teachers of virtue and adornments of hierarchs,  / singing: “By your intercessions for those who lovingly honor you, /  grant progress in virtue, and deliverance from temptations.”"
+      }
+    },
+    {
+      "name": "Martyrs Kyriaina and Juliana in Cilicia",
+      "troparion": {
+        "tone": 1,
+        "text": "As reasonable lambs, you were guided by Christ, the Chief Shepherd, / along the path of martyrdom. / You finished your course and kept the faith; / therefore, honored Kyriaina and Juliana, / with joyful hearts, we magnify Christ today, as we honor your holy memory!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Hermenegild the Goth of Spain",
+      "troparion": {
+        "tone": 4,
+        "text": "Your Martyr Hermenegild, O Lord,  /  through his suffering received an incorruptible crown from You, our \r\nGod;  /  for possessed of Your strength, he laid low the tyrants  / and shattered the powerless boldness of \r\nthe demons.  /  By his supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou shone forth in your splendor as a bright star, announcing Christ to this temporal world, /  O Martyr\r\nHermenegild vanquishing the snares of false gods,  / you revealed the true light to the faithful,  / and you \r\nalways intercede on behalf of us all."
+      }
+    },
+    {
+      "name": "Martyrs Cæsarius, Dacius, Savva, Sabinian, Agrippa, Adrian, and Thomas, at Damascus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyrs James and his two disciples, James the Deacon, and Dionysios the Monk",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Thou Who wast lifted up...”)\r\nLiving angelically on earth, you received the grace of the Apostles,  / and you were sent forth as a herald and teacher of repentance,  / indicating the path of salvation to those who wished.  / Therefore, you arrayed yourself nobly for the contest, O wise one,  / along with your steadfast fellow-athletes, O greatest Monastic Martyr James."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nLet us praise James, as is fitting, /  the illustrious and divine trumpet of repentance, and holy preacher of God's love for mankind;  / for as he bore the wounds of the Lord upon himself,  / he fulfilled what was lacking in the martyrs.  / Therefore, we say: Rejoice, most excellent Father James."
+      }
+    },
+    {
+      "name": "Virgin Martyr Helen of Sinope",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nLet us honor the most fragrant flower of purity,  / the boast and divine offspring of Sinope, /  the Virgin Martyr of Christ,  / the most pure Helen who struggled steadfastly,  / and overcame the Enemy by the power of faith, /  and she intercedes fervently with Christ God for everyone,  / that He may have mercy on our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nAs an undefiled virgin,  / you overcame the most cunning Enemy by the power of Christ,  / O all-praiseworthy Virgin Martyr, Helen."
+      }
+    }
+  ]
 }

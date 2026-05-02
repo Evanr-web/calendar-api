@@ -1,0 +1,76 @@
+{
+  "date": "2026-09-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Commemoration of the Miracle of the Archangel Michael at Colossae",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “ Come, let us worship the Word...”)\r\nO Chief Commander Michael, /  you were seen overshadowing your church like a cloud raining waters of immortality. /  You preserved it like another ark,  / and turned aside the flow of the rivers with your staff,  / for the glory of the Faith, and to the delight of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Michael, commander of God’s armies / and minister of the divine glory, / prince of the bodiless angels / and guide of mankind, / ask for what is good for us, and for great mercy, / as supreme commander of the Bodiless Hosts."
+      }
+    },
+    {
+      "name": "Martyrs Eudoxius, Zeno, and Macarius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Eudoxius, Zeno, and Macarius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Archippus of Herapolis",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / enlightener of the universe and adornment of hierarchs: / all-wise father Archippus, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Romulus and with him many others",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Romulus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Cyril, Bishop of Gortyna",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Cyril, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Cyriacus, Faustus the Presbyter, Abibas the Deacon, and 11 others, at Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint David of Hermopolis, Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father David, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Maxim Sandovich",
+      "troparion": {
+        "tone": 4,
+        "text": "By God’s Providence you were sent to the Mountain of Pochaev  /  for the knowledge of the truth of the Orthodox Faith, / and after receiving true teaching in the city of Zhitomir,  /  you came to our land as a soldier of Christ. /  For Orthodoxy and for your own people you received a martyr's crown.  / Therefore, you confirmed your native land in Orthodoxy. /  O Hieromartyr Maxim, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Your Martyrdom, O Father Maxim, /  enlightened and encouraged our people in the Orthodox Faith. /  Giving up your own life to Christ God, /  you endured torments and suffered imprisonment.  / Pray for us and for your land before Christ our God."
+      }
+    }
+  ]
+}

@@ -29,5 +29,94 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "You concealed your womanliness in asceticism,  / and at your repose everyone was amazed, O Euphrosynē. /  As a young girl you toiled like a man, /  and by your intercessions you deliver those who honor you from dangers.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “Seeking the heights...”)\r\nLonging to reach the life on high, zealously forsaking worldly pleasures here below,  / you lived among men, O most comely one.  / For the sake of Christ your Bridegroom,  / you disdained an earthly betrothal.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Euphrosyne of Alexandria",
+  "oca_saints": [
+    {
+      "name": "Repose of Venerable Sergius the Wonderworker, Abbot of Radonezh",
+      "troparion": {
+        "tone": 8,
+        "text": "In the purity of your life, you combined the stream of your tears with later ascetical contests of faith,  /  thereby exuding a spiritual font, O Venerable Sergius,  /  in which you wash the spiritual and bodily impurity of all those who lovingly revere your memory. /   Therefore, we your children cry out to you: “O Father, pray to the Holy Trinity for our souls.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Wounded by love for Christ, O venerable one, and following Him with unwavering desire,  /  you despised all carnal pleasures, and as the sun, you shone upon the land of your birth.  /  Therefore, Christ has enriched you with the gift of working miracles.  /  Remember us who honor your most illustrious memory,  /  that we may call to you: “Rejoice, O divinely-wise Sergius.\""
+      }
+    },
+    {
+      "name": "Venerable Euphrosyne of Alexandria",
+      "troparion": {
+        "tone": 1,
+        "text": "You concealed your womanliness in asceticism,  / and at your repose everyone was amazed, O Euphrosynē. /  As a young girl you toiled like a man, /  and by your intercessions you deliver those who honor you from dangers."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the heights...”)\r\nLonging to reach the life on high, zealously forsaking worldly pleasures here below,  / you lived among men, O most comely one.  / For the sake of Christ your Bridegroom,  / you disdained an earthly betrothal."
+      }
+    },
+    {
+      "name": "Venerable Euphrosynē of Suzdal",
+      "troparion": {
+        "tone": 4,
+        "text": "The land of Suzdal rejoiceth in thy holy memory, /  while believers assemble in thine all-honorable temple, /  where now thine all-glorious memory is celebrated.  / O venerable Euphrosynē,  / pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "First Translation of the relics of Saint Herman, Archbishop of Kazan",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Herman, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Paphnutius and 546 companions in Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Paphnutius and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Arsenius the Great, Catholicos of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Arsenius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Wonderworking Boyan Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Rejoice, O land of Boyan, the least of all Christian cities:  / for the Lord has manifested in you the wonderworking Icon of His Most Pure Mother,  / weeping for our sins, and with her tears of grace, she wipes away every tear from our eyes."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "The Angels were amazed by the appearance of the Boyan Icon of the Mother of God,  / and humanity was strengthened by the grace of the Holy Spirit, /  kissing the fountains of tears from the face of Christ, the Divine Infant, and the Most Pure Mother of God,  / drawing from them gifts of healing for the salvation of our souls."
+      }
+    },
+    {
+      "name": "Assuage My Sorrows Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Assuage the sickness of my much-sighing soul,  /  you who wipe away every tear from the face1 of the earth:  / for you drive away the sicknesses of mankind, / and end the despondency of sinners.  / Through you, Most Holy Virgin Mother,  /  all of us acquire hope and affirmation of faith."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Do not entrust me to human protection, Most Holy Sovereign Lady,  /  but accept the prayers of your servant,  / for I am fettered by sorrow, and I cannot endure the arrows fired by demons;  /  I have no shelter and there is nowhere to run.  /  I am wretched and my enemies are on every side, and I have no consolation except you,  / O Sovereign Lady of the world, the hope and protection of the faithful. / Do not despise my prayers,  / but do that which is beneficial for me."
+      }
+    }
+  ]
 }

@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Theodotus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nYou struggled well,  O Theodotus, / together with your fellow athletes and the passion-bearing virgins. / You have all received crowns of honor. / Therefore, unceasingly pray to Christ God for us all."
+      }
+    },
+    {
+      "name": "Martyrs Peter, Dionysius, Andrew, Paul, and Christina who suffered under Decius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your martyrs, O Lord, for their sufferings / have received incorruptible crowns from You, our God. / For strengthened by Your might, / they overthrew tyrants and destroyed the powerless boldness of demons. / Through their supplications save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “Seeking the highest...”)\r\nO divine martyrs, you appeared as bright beacons, /  illumining all of creation with the radiance of your miracles;  / do not cease to entreat Christ to deliver us all from our maladies,  / and drive away from us the profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Martyrs Simeon, Isaac and Bachtisius, of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Simeon, Isaac, and Bachtisius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Heraclius, Paulinus, and Benedimus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Heraclius, Paulinus, and Benedimus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs David and  Tarichan of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs David and Tarichan, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

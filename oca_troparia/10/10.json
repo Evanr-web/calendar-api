@@ -1,0 +1,82 @@
+{
+  "date": "2026-10-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Eulampius and Eulampia, at Nicomedia, and 200 Martyrs with them",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Eulampius and Eulampia, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Let us honor the noble martyrs, / brother and sister in the flesh, wise Eulampius and Eulampia; / for they put to shame the devices of tyrants / through the power of the Crucified one. / Therefore, they have been declared the glory and boast of martyrs."
+      }
+    },
+    {
+      "name": "Saint Amphilochius, Bishop of Vladimir, Volhynia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Amphilochius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Theotecnus of Antioch",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Theotecnus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theotecnus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Bassian of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Bassian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theophilus the Confessor of Bulgaria",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Theophilus, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Ambrose of Optina",
+      "troparion": {
+        "tone": 5,
+        "text": "We come to you, as to a fountain of healing, O Father Ambrose.  / For you guide us truly on the path of salvation,  / protecting us from troubles and misfortunes by your prayers,  / and comforting us in our physical and spiritual sorrows;  / above all, you taught with humility, patience, and love.  / As our fervent intercessor, entreat Christ the Lover of mankind  / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Fulfilling the  precepts of the Shepherd of shepherds,  / you inherited the grace of Eldership, /  having compassion for all who come to you with faith; /  therefore we your children cry out to you with love: /  “Holy Father Ambrose, /  entreat Christ God that our souls may be saved.”"
+      }
+    },
+    {
+      "name": "Hieromartyr and Metropolitan of Moscow and Krutitsy, Peter Polyansky",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Peter, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "26 Monastic Martyrs of Zographou Monastery on Mount Athos",
+      "troparion": {
+        "tone": 4,
+        "text": "(Apolytikion)\r\nToday, O honored Monastic Martyrs, and preachers of the Spirit,  / we celebrate your holy Feast as is meet, /  for you are a cause of blessings for us.  / Celebrating the All-night Vigil we sing: /  “O faithful servants of the Holy Trinity, entreat the Lord on our behalf.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Let us praise the intercessors and protectors of our Monastery (city),  / the sacred and Venerable Martyrs, twenty-six in number,  / who overthrew the Latin error, endured immolation and were crowned; /  therefore,we cry aloud: “Rejoice, O Venerable sufferers.”"
+      }
+    }
+  ]
+}

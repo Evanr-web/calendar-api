@@ -1,0 +1,25 @@
+{
+  "date": "2026-12-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Nicholas the Wonderworker, Archbishop of Myra in Lycia",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith, /  a model of meekness, and a teacher of temperance.  / Through humility, you attained the heights; /  and through poverty, riches.  / O Father and Hierarch Nicholas, intercede with Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You were shown forth in Myra as an officiant of the sacred rites, /  for you fulfilled the Gospel of\r\nChrist, O Venerable Nicholas, by laying down your life for your people,  /  and saving the innocent\r\nfrom death.  /  Therefore, you were sanctified as a great initiate of God's grace."
+      }
+    },
+    {
+      "name": "Saint Maximus, Metropolitan of Kiev",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Maximus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

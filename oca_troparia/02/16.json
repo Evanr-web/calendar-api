@@ -1,0 +1,52 @@
+{
+  "date": "2026-02-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Pamphilius the Presbyter, Valens the Deacon, and those with them, at Caesarea in Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, Pamphilius and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Faced with terrible sufferings, / the fearless athletes of the Lord rejoiced; / they conversed with one another ignoring the flesh. / Therefore, they have inherited eternal glory, / ever praying for us who praise their struggles."
+      }
+    },
+    {
+      "name": "Saint Maruthas, Bishop of Martyropolis in Mesopotamia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Maruthas, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Persian Martyrs in Martyropolis in Mesopotamia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Flavian, Archbishop of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Flavian, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Elias",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyr Elias, O Lord,  / by his contest has received an incorruptible crown from You, our God;  / for, possessed of Your strength,  / he laid the tyrants low and shattered the powerless boldness of the demons.  / By his supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou shone forth in your splendor as a bright star,  / proclaiming Christ to this temporal world, O Martyr Elias, /  vanquishing the snares of false gods,  / you revealed the true light to the faithful,  / and you always intercede on behalf of us all."
+      }
+    }
+  ]
+}

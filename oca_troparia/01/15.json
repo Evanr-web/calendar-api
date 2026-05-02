@@ -1,0 +1,74 @@
+{
+  "date": "2026-01-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Paul of Thebes",
+      "troparion": {
+        "tone": 3,
+        "text": "Inspired by the Spirit, / you were the first to dwell in the desert in emulation of Elijah the zealot; / as one who imitated the angels, you were made known to the world by Saint Anthony the Great. / Righteous Paul, entreat Christ God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today we gather and praise you with hymns as an unwaning ray of the spiritual Sun; / for you shine on those in the darkness of ignorance, / leading all mankind to the heights, venerable Paul, / adornment of Thebes and firm foundation of the fathers and ascetics."
+      }
+    },
+    {
+      "name": "Venerable John Calabytes “the Hut-Dweller”",
+      "troparion": {
+        "tone": 4,
+        "text": "From your early youth, / you longed with fervor for the things of the Lord. / Leaving the world and its pleasures, / you became an example of monastic life. / Most blessed John, you built your hut at the door of your parents’ house and overcame the devil’s guiles. / Therefore Christ Himself has worthily glorified you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Longing for poverty in imitation of Christ, / you abandoned your parents’ wealth, wise Father John; / grasping the Gospel in your hands, / you followed Christ God, unceasingly praying for us all."
+      }
+    },
+    {
+      "name": "Venerable Pansophius of Alexandria, the Martyr",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Pansophius, rejoices with the angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Prochorus, Abbot in the Vranski Desert on the River Pshina in Bulgaria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Prochorus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gabriel, Founder of Lesnov Monastery in Bulgaria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gabriel, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Ita, Hermitess of Killeedy",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what is according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal.  / Therefore, O Venerable Ita, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights... ”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you slew the armies of demons.  / Therefore, we beseech you, O Mother Ita:  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Saints Salome of Ujarma and Perozhavra of Sivnia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mothers,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mothers Salome and Perozhavra your spirits rejoice with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mothers Salome and Perozhavra, /  you illumined your souls with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "date": "2026-02-07",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "Hail, Virgin Theotokos, full of grace;  / for from you has shone forth the Sun of Righteousness, Christ our God,  /  giving light to those in darkness. /  Be glad, O righteous Elder; /  for you received in your arms the Redeemer of our souls,  / Who bestows upon us the resurrection."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By Your birth, You sanctified a virginal womb,  /  and fittingly You blessed Simeon’s hands, O Christ God;  /  even now You have saved us by anticipation.  / Grant peace to Your faithful people whom You have loved, O only Lover of mankind."
+      }
+    },
+    {
+      "name": "Saint Parthenios, Bishop of Lampsakos",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  / ever dealing with us according to Your compassion, take not Your mercy from us,/ but direct our lives in peace  /  through the prayers of Saint Parthenios."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nYou received from God the grace of working miracles,  / O godly-wise Hierarch, wonderworker, and God-bearer Parthenios.  /  You cleansed all the passions of the faithful  / and cast out evil spirits.  / Therefore, O Father, we sing your praise as a great initiate of the grace of God."
+      }
+    },
+    {
+      "name": "Venerable Luke of Hellas",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  / ever dealing with us according to Your kindness;  / do not withdraw Your mercy from us,  / but by their intercessions,  / direct our lives in peace."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nGod, in His ineffable judgment, chose you before you were formed,  / that you might be well-pleasing to Him;  / from the womb, He showed you forth as His own servant,  / directing your steps, ever guiding you, O Luke, as the Lover of mankind.  / Now standing before Him, you rejoice."
+      }
+    },
+    {
+      "name": "1,003 Martyrs of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Aule",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Aule, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Aule;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Apostle Jude the Brother of the Lord",
+      "troparion": {
+        "tone": 1,
+        "text": "Divinely we praise you, O Jude, as a faithful witness, / knowing you to be the brother of Christ. / You trampled on delusion, / and so preserved the faith. / Today as we celebrate your holy memory, / by your intercessions we receive remission of sins."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You were chosen as a disciple for your firmness of mind: / An unshakable pillar of the Church of Christ, / you proclaimed His word to the Gentiles, / telling them to believe in one Godhead. / You were glorified by Him, receiving the grace of healing, / healing the ills of all who came to you, / O most praised Apostle Jude!"
+      }
+    },
+    {
+      "name": "Venerable Barlaam of Shenkursk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Barlaam, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Zosimus the Soldier at Antioch, in Pisidia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your Holy Martyr Zosimos, O Lord,  /  through his sufferings has received an incorruptible crown from You, our God.  /  For having Your strength, he laid low his adversaries,  /  and shattered the powerless boldness of demons.  /  Through his intercessions, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  /  which is repulsive to this world, O Martyr Zosimos;  /  extinguishing the allure of false gods,  /  you enlighten the faithful,  /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Paisius the Great",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nFervently, let us honor the God-bearer Paϊsios,  / an Angel in the flesh, the crown of Monastics,  / an incorporeal man and a citizen of Heaven,  / who celebrates with us,  / granting grace to all who rejoice in his memory."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nLet us, the faithful, sing praises to the godly-wise Paϊsios,  / the adornment of the desert, equal of the Angels,\r\nthe friend of Christ, and the glory of Monastic Saints. /  Let us cry to him: “Rejoice, O Father Paϊsios.”"
+      }
+    },
+    {
+      "name": "Saint John the Solitary of Jerusalem",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Paisius of Hilandar, Bulgaria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paisius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint Job, Patriarch of Moscow and all Russia",
+      "troparion": {
+        "tone": 3,
+        "text": "Let the Church of Christ triumph, and let the city of Moscow rejoice, /  for the lamp of the Russian land, the unshakable Patriarch Job,  / has shone forth in confession of the Truth. /  By his prayers, O Lord, eradicate all the temptations and heresies of this world, /  direct the people to piety, and strengthen them in Orthodoxy."
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "In times of hardship, you were like the long-suffering Job and offered yourself to Christ  / as a living and unblemished sacrifice,1 /  turning your flock to repentance,  / suffering much for the sake of Christ;  / O Hierarch Job,  / pray that we too, may thank the Lord for all things and always give glory to God."
+      }
+    }
+  ]
+}

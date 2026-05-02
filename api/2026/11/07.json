@@ -30,5 +30,94 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your thirty-three holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "The radiant choir of martyrs, the light-bearing company, / spiritually descends to us, enlightening the Church with brilliant rays. / Therefore as we celebrate their honored memory, / we ask You, our Savior: / through their prayers deliver us from misfortunes / so that we may sing to You: “Alleluia.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "33 Holy Martyrs of Melitene",
+  "oca_saints": [
+    {
+      "name": "33 Holy Martyrs of Melitene",
+      "troparion": {
+        "tone": 4,
+        "text": "Your thirty-three holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "The radiant choir of martyrs, the light-bearing company, / spiritually descends to us, enlightening the Church with brilliant rays. / Therefore as we celebrate their honored memory, / we ask You, our Savior: / through their prayers deliver us from misfortunes / so that we may sing to You: “Alleluia.”"
+      }
+    },
+    {
+      "name": "Venerable Lazarus, Wonderworker of Mount Galesius Near Ephesus",
+      "troparion": {
+        "tone": 8,
+        "text": "You watered your pillar with prayerful vigils and flowing tears; / you brought forth fruit a hundredfold with sighs from the depths of your soul. / You were a shepherd, granting the requests of all. / Entreat Christ God, venerable Lazarus our father, that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "With joy the Church of Christ glorifies you with psalms / as a most brilliant light, venerable Lazarus. / Therefore, always pray to Christ that He may grant forgiveness of transgressions to all."
+      }
+    },
+    {
+      "name": "The Discovery of the Relics of Venerable Zosimas, Abbot of Vorbozomsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zosimas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Finding of the relics of Venerable Cyril, Abbot of Novoezersk, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "You appeared as a bright lamp at New Lake on Beautiful Island, Venerable Father Cyril,  / for you took the Cross of Christ upon your shoulders,  / and followed Him diligently, with purity toward God, /  drawing closer to Him and were adorned with the power to work miracles; / therefore, we come to the shrine of your revered relics, humbly crying out: /  \"O Venerable Father Cyril, pray to Christ God for the salvation of our souls.\""
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Melasippus, Karina, their son, Antoninus, and forty children converted by their martyrdom, at Ancyra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Auctus, Taurion, and Thessalonica, at Amphipolis, in Macedonia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Joyful” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all of us, who are burdened with sins, fall on our knees before the Theotokos,  /  bowing before her wonderworking Icon of Tenderness,  /  kissing it and crying aloud with tears: / “O Sovereign Lady, accept the prayer of your unworthy servants,  /  and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Lady.  /  Help us, for in you do we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Martyr Theodotus of Ancyra",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Theodotus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theodotus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

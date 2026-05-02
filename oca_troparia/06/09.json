@@ -1,0 +1,71 @@
+{
+  "date": "2026-06-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Cyril, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 1,
+        "text": "With all reverence let us praise a light of the world, / the great orator and champion of the Mother of God. / For by his fiery teachings / he burned up the heresy of Nestorius; / therefore, let us cry out to him: / “Divine Cyril, intercede with Christ to strengthen the Orthodox Faith.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You have openly poured out upon us the depth of the teachings of theology, / drawing from the well-springs of the Savior; / you drowned heresies / and saved your flock unharmed from triple waves. / Blessed and venerable Cyril, / you are shown to be a guide for all lands, revealing things divine"
+      }
+    },
+    {
+      "name": "Venerable Cyril, Igoumen of White Lake",
+      "troparion": {
+        "tone": 1,
+        "text": "You blossomed like a flower in the desert, even as David,1 O Father Cyril,  / uprooting the thorns of evil passions,  / and there you gathered a multitude of disciples, who were instructed in the fear of God and in your teaching;  / whom you, as a loving father, did not abandon until death, visiting them that we all may sing:  / \"Glory to Him Who gave you strength. /  Glory to Him Who crowned you.  / Glory to Him Who, through you, works healing for all."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Rejecting pernicious worldly philosophies which dragged you down, O Father,  / you hastened joyously to the path of heavenly ascent;  / and there, as you stand with the Saints before the All-Holy Trinity, /  pray that your flock may be protected from enemies,  / that we who celebrate your holy repose may cry out to you: /  \"Rejoice, most blessed Cyril, our Father.\""
+      }
+    },
+    {
+      "name": "Venerable Alexander, Abbot of Kushta, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "As an Angel in the flesh, contesting on earth with spiritual struggles,  / you dwelt in the wilderness and lived with the animals, and were wholly Christ's.  / You followed Him irrevocably, and were led to Heaven, following the Divine paths,  / O blessed Father Alexander, as a wondrous one, you pour forth miracles,  / driving away diseases from those who come to you with faith; /  and as one having boldness before the Lord, remember us who honor your revered memory."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "O desert-dweller, by your powerful prayer to God, /  purify our hearts devoid of good thoughts by the attacks of the Enemy,  / so that we may cry out to you in gratitude:  / “Rejoice, Alexander, who by your earthly life in the wilderness have obtained the Kingdom of Heaven.”"
+      }
+    },
+    {
+      "name": "Five Nuns beheaded in Persia: Martyrs Thecla, Mariamne, Martha, Mary, and Ennatha",
+      "troparion": {
+        "tone": 1,
+        "text": "As reasonable lambs, you were guided by Christ, the Chief Shepherd, / along the path of martyrdom. / You finished your course and kept the faith; / therefore, honored Thecla, Mariamne, Martha, Mary, and Ennatha, / with joyful hearts, we magnify Christ today, as we honor your holy memory!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Columba of Iona, Enlightener of Scotland",
+      "troparion": {
+        "tone": 5,
+        "text": "By your God-inspired life / you embodied both the mission and the dispersion of the Church, / most glorious Father Columba. / Using your repentance and voluntary exile, / Christ our God raised you up as a beacon of the True Faith, / an apostle to the heathen and an indicator of the Way of salvation. / Wherefore O holy one, cease not to intercede for us / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John of Shavta-Gelati",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint David Gareji, and Venerable Lucian, spiritual son of Saint David",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father David, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

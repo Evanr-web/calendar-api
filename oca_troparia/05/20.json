@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Unmercenary Physician Thallelaios at Aegae in Cilicia and his companions, Martyrs Alexander and Asterios",
+      "troparion": {
+        "tone": 3,
+        "text": "O holy prize-winner and healer Thallélaios, /  intercede with the merciful God that He grant to our souls  / the forgiveness of our faults."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nRevealed as a fellow contestant with the Martyrs,  /  you were an excellent soldier of the King of Glory.  / Through your\r\ntrials and torments /  you humbled the arrogance of the idolators.  / Therefore, we praise your august memory, O wise\r\nThallélaios."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Saint Alexis, Metropolitan of Moscow and Wonderworker of All Russia",
+      "troparion": {
+        "tone": 2,
+        "text": "As a precious treasure hidden underground for many years,  / we have acquired your miraculous revered relics, most blessed Father Hierarch Alexis,  / from them we receive healings; /  enriched and glorifying Christ we say: /  “Glory to Him Who glorifies His saints.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As an unsetting sun, your incorrupt relics have shone upon us from the tomb,  / though hidden for many years, O Hierarch Alexis; /  we receive grace through you, for you enrich this whole country and all of us with miracles and beauty,  / by the action of grace, that we may sing to you:  / “Rejoice Father, the light of Russia.”"
+      }
+    },
+    {
+      "name": "Martyr Asclas of Egypt",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Asclas, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Asclas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Glorification of Venerable Zabulon and Sosanna, parents of Saint Nino, Enlightener of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "O Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of the Hierarchs: / O all-wise Venerable Zabulon and Sosanna, Your teachings have gleamed with light upon all things. / Intercede before Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Stephen of Piperi, Serbia",
+      "troparion": {
+        "tone": 7,
+        "text": "Come to the well of grace, Christ our God, all who are nurtured in Orthodoxy, /   for in these latter times, the light of faith has been revealed because of the Venerable Father Stephen;  /  therefore, we praise Christ God, crying out:  /  “Deliver us from evil, by our faith, that we may sing to You: Alleluia.”"
+      },
+      "kontakion": null
+    }
+  ]
+}

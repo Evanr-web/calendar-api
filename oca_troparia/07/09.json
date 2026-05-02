@@ -1,0 +1,55 @@
+{
+  "date": "2026-07-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Pancratius, Bishop of Taormina in Sicily",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Pancratius entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Pancratius, you were revealed as a brilliant star for the people of Taormina; / you were also shown to be a sufferer for Christ. / Since you now stand before Him, O blessed one, pray for those who honor you."
+      }
+    },
+    {
+      "name": "Hieromartyr Cyril, Bishop of Gortyna in Crete",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Cyril, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Patermuthius, Coprius, and Alexander the Soldier, in Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Patermuthius, Coprius, and Alexander, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theodore, Bishop of Edessa",
+      "troparion": {
+        "tone": 4,
+        "text": "Against your will, you received your flock as a Hierarch,  / but of your own free will you contested for the Church,  / and the unbelieving Caliph Mavi converted to the Faith with the help of earth from the Lord's tomb.  / Along with his physical blindness, you also healed his soul, and instructed him in piety. /  At the same time you drove heretics away from the Church like wolves. /  O most revered Hierarch Theodore,  / pray that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "By your good will, you graciously illumined your child,  / the revered Mavi, at the Life-Giving Tree.  / You went to Constantinople, /  where you healed the eyes of the virtuous Empress Theodora with earth from the Lord's tomb and restored her sight.  / From there, with the desired treasure again in Babylon  / you strengthened the honorable Mavi for his martyrdom for Christ;  / therefore we cry out to you: /  “Rejoice, revered Theodore,  / disciple of Christ, the Good Shepherd.”"
+      }
+    },
+    {
+      "name": "Saint Dionysios the Rhetorician and his disciple Saint Mētrophánēs",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nYou consumed the roots of the passions with divine coals,  / and shone ascetically on Athos,  / for radiant with the unwaning light,  / you were shown as equals to the God-bearers.  / O wise Dionysios and godly Mētrophánēs, entreat Christ God that great mercy may be granted unto us."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nAs most sacred initiates of the Trinity, and of equal standing, and communicants with the Monastic Saints,  / O wise Dionysios and Mētrophánēs,  / never cease to quash the schemes of the Enemy against us,  / so that we may cry: “Rejoice, O God-bearers.”"
+      }
+    }
+  ]
+}

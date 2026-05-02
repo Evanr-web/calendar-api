@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Repose of Saint Nikolai of Zhicha",
+      "troparion": {
+        "tone": 8,
+        "text": "O golden-tongued preacher proclaiming the risen Christ, / everlasting guide of the cross-bearing Serbian people, / resounding harp of the Holy Spirit, and dear to monastics who rejoice in you, / pride and boast of the priesthood, teacher of repentance, master for all nations, / guide of those in the army of Christ as they pray to God, / Holy Nikolai teacher in America and pride of the Serbian people, / with all the saints, implore the only Lover of mankind / to grant us peace and joy in his heavenly kingdom!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Born at Lelich in Serbia, / you served as archpastor at the church of Saint Nahum in Ochrid. / You presided on the throne of Saint Savva at Zhicha, / teaching the people of God and enlightening them with the Gospel, / bringing them to repentance and love for Christ. / And for His sake you endured suffering at Dachau. / Therefore, Nicholai, we glorify you as one newly well pleasing to God."
+      }
+    },
+    {
+      "name": "Saint Cyril, Archbishop of Jerusalem",
+      "troparion": {
+        "tone": 8,
+        "text": "You were seen in Zion clothed in a robe of godliness / as an illustrious pillar of the Apostles’ faith. / You became an heir to their grace, / setting forth their pious doctrines / and dispensing their talents of wisdom. / O Cyril, our Father and hierarch, pray for us."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "With your lips, O wise Cyril, / and through divine inspiration / you enlightened your people / to the worship of the one Trinity, / undivided in essence, yet divided in Hypostases. / Wherefore rejoicing, we celebrate your all-holy memory, / offering you as our intercessor before God."
+      }
+    },
+    {
+      "name": "Martyrs Trophimus and Eucarpus of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Trophimus and Eucarpus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Aninas of the Euphrates",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Aninas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Cyril of Astrakhan",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cyril, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

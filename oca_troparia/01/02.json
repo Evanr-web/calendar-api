@@ -1,0 +1,74 @@
+{
+  "date": "2026-01-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Zebulon, / and adorn yourself, O Naphtali; / river Jordan, cease flowing / and receive with joy the Master coming to be baptized. / Adam, rejoice with our First Mother / and do not hide yourself as you did of old in Paradise; / for having seen you naked, / He has appeared to clothe you with the first garment. / Christ has appeared to renew all creation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today the Lord enters the Jordan and cries out to John: / “Do not be afraid to baptize me. / For I have come to save Adam, the first-formed man.”"
+      }
+    },
+    {
+      "name": "Repose of Venerable Seraphim, Wonderworker of Sarov",
+      "troparion": {
+        "tone": 4,
+        "text": "You loved Christ from your youth, O blessed one, / and longing to work for Him alone you struggled in the wilderness in constant prayer and labor. / With penitent heart and great love for Christ you were favored by the Mother of God. / Therefore we cry to you: / “Save us by your prayers, venerable Seraphim, our father.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Forsaking the beauty as well as the corruption of this world, / you settled in the monastery of Sarov, O Saint. / There you lived an angelic life, / becoming for many the way to salvation. / Therefore, Christ has glorified you, Father Seraphim, / enriching you with abundant healing and miracles. / So we cry to you: “Save us by your prayers, venerable Seraphim, our father.”"
+      }
+    },
+    {
+      "name": "Saint Sylvester, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "You appeared to your flock as a rule of faith, / An image of humility and a teacher of abstinence. / Because of your lowliness Heaven was opened to you; / Because of your poverty, riches were granted to you. / O holy Pope Sylvester, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "The Trinity delights in you, O holy bishop Sylvester! / You are divine thunder, a spiritual trumpet / A planter of the Faith, / and destroyer of heresies. / As you ever stand with the angels, entreat Christ without ceasing for us all!"
+      }
+    },
+    {
+      "name": "Venerable Sylvester of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sylvester, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Juliana of Lazarevo, Murom",
+      "troparion": {
+        "tone": 4,
+        "text": "By your righteous deeds you revealed to the world / an image of the perfect servant of the Lord. / By your fasting, vigil and prayers, / you were inspired in your evangelical life, / feeding the hungry and caring for the poor, / nursing the sick and strengthening the weak. / Now you stand at the right hand of the Master, Christ, / O holy Juliana, interceding for our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Theogenes, Bishop of Parium on the Hellespont",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Theogenes, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr George of Iberia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr George, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr George;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

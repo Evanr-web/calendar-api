@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Sophronius, Patriarch of Jerusalem",
+      "troparion": {
+        "tone": 5,
+        "text": "Patriarch Sophronius, you were glorious in the splendor of sobriety, / and through the radiance of your words you revealed ineffable enlightenment from heaven. / For by your life you attained wisdom / and now you confirm the Church / as an illustrious hierarch and intercessor for us with the Lord."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You were most wise among patriarchs, Sophronius of Jerusalem. / You struggled with divine zeal, spreading the commandments of truth with your lips.  / You set right the foundations of the Church and firmly established the monastic order. / You brought to light wise sermons, and instructed by them, / therefore we cry out to you: “Rejoice, splendid boast of the Orthodox.”"
+      }
+    },
+    {
+      "name": "Saint Euthymius, Bishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "From from your youth you were chosen by God, O Hierarch Euthymios,  /  therefore you were honored with the episcopal rank,  /  and you directed the spiritual life of the people entrusted to you by God. /   Therefore, even after your repose, you received from the Lord the gift of wondrously healing various infirmities. /   Pray to God for us who celebrate your honorable memory and always glorify you."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Ruling together with the bishops and being an excellent champion with the hierarchs, Saint Euthymios.  / Do not cease to protect your country, your city, and the people who revere you with faith and bow down before your relics,  / that we may cry out to you: “Rejoice, O divinely-wise Hierarch.”"
+      }
+    },
+    {
+      "name": "Hieromartyrs Pionius and Limnus of Smyrna and those with them: Asclepiades, Macedonia, and Sabina",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of the Martyr Epimachus of Pelusium",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Epimachus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Epimachus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Sophronius, Bishop of Vratcha, Bulgaria",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Sophronius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Sophronius the Recluse of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sophronius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

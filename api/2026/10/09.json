@@ -30,5 +30,105 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "Holy Apostle James, / entreat the merciful God / to grant our souls forgiveness of transgressions.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Let us bless James, praising him as the messenger of God, / for he filled the souls of the pious with wise dogmas. / Standing at the throne of glory before the Master, / he rejoices with all the angels unceasingly praying for us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Apostle James, son of Alphaeus",
+  "oca_saints": [
+    {
+      "name": "Glorification of Saint Tikhon, Patriarch of Moscow and All Russia, Enlightener of North America",
+      "troparion": {
+        "tone": 1,
+        "text": "Chosen by God in a turbulent time, / you glorified God in complete holiness; / and attained greatness through humility / you showed forth the power of God through simplicity and piety; / you laid down your life for the Church and her people, / O Holy Confessor and Patriarch, Father Tikhon, / pray to Christ God to Whom you were also crucified / that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "A gentle manner adorned You / you showed kindness and compassion to those who repented / you were firm and unbending in confessing the Orthodox Faith / and zealous in loving the Lord / O Holy Hierarch of Christ and Confessor Tikhon / pray for us that we may not be separated from the love of God / which is of Christ Jesus, our King and Lord."
+      }
+    },
+    {
+      "name": "Apostle James, son of Alphaeus",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle James, / entreat the merciful God / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us bless James, praising him as the messenger of God, / for he filled the souls of the pious with wise dogmas. / Standing at the throne of glory before the Master, / he rejoices with all the angels unceasingly praying for us all."
+      }
+    },
+    {
+      "name": "Venerable Andronicus, and his wife Athanasia, of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O holy Andronicus and Athanasia, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Juventius and Maximus at Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Juventius and Maximus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Publia the Confessor, Deaconess of Antioch",
+      "troparion": {
+        "tone": 8,
+        "text": "Your holy martyr Publia, O Lord,  / through her sufferings has received an incorruptible crown from You, our God.  /  For having Your strength, she laid low her adversaries, /  and shattered the powerless boldness of demons.  / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Publia;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Peter the former soldier",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away; /  but to care for the soul, since it is immortal. /  Therefore, O Venerable Peter, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Peter:  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Dionysius of Paris, Bishop",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Dionysius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Korsun",
+      "troparion": {
+        "tone": 4,
+        "text": "Like a radiant star, your revered Icon, O Virgin Theotokos,  / shone forth in the city of Izborsk,  / from which tears sometimes flow from both eyes, like a stream, /  then having seen it, the people of Izborsk, men, women, and children, prayed before it with tears,  / and we, gazing tenderly, cry:  / “O Most Holy Sovereign Lady Theotokos, do not forget us, your sinful servants, /  but pray to Christ God, that we may be saved.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Assuage My Sorrows” Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Assuage the sickness of my much-sighing soul,  /  you who wipe away every tear from the face1 of the earth:  /  for you drive away the sicknesses of mankind,  /  and end the despondency of sinners.  /  Through you, Most Holy Virgin Mother,  /  all of us acquire hope and affirmation of faith."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Do not entrust me to human protection, Most Holy Sovereign Lady, /  but accept the prayers of your servant,  / for I am fettered by sorrow, and I cannot endure the arrows fired by demons;  / I have no shelter and there is nowhere to run. /  I am wretched and my enemies are on every side, and I have no consolation except you, /  O Sovereign Lady of the world, the hope and protection of the faithful.  / Do not despise my prayers,  / but do that which is beneficial for me."
+      }
+    }
+  ]
 }

@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Acindynus, Pegasius, Aphthonius, Elpidephorus, Anempodistus, and 7,000 with them, of Persia",
+      "troparion": {
+        "tone": 2,
+        "text": "Blessed is the earth that received your blood, Passion-bearers of the Lord, / and holy is the dwelling place which received your spirits. / You triumphed over the enemy in the stadium / and you preached Christ with boldness. / Since He is good, we pray that you beseech Him to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You have received into the enjoyment of Your goodness and repose, O only Good One, / the pious and God-bearing martyrs, who abandoned all earthly things: / Acindynus, Pegasias, and Anempodistus, / together with Aphthonius and Elpidephorus."
+      }
+    },
+    {
+      "name": "Saint Marcian of Cyrrhus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Marcian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Ozerianka” Icon of the Mother of God of Shuiu-Smolensk",
+      "troparion": {
+        "tone": 4,
+        "text": "O Most Pure Virgin Theotokos, /  the All-Good and Merciful Protector of the Christian race,  / we kneel before your Holy wonderworking Icon,  / by which the city of Shuya was once delivered from a cruel epidemic, /  we humbly cry out to you:  / “Do not cease to keep your city from troubles and tribulations under the protection of your kindness, /  and all the towns and villages of the Russian land;  / and pray to your Son, Christ God,  / for the salvation of our souls.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast protectress of Christians, / most constant advocate before the Creator,  / do not despise the voices of us who have sinned,  / but in your goodness come speedily to help us, who cry to you in faith:  / “Hasten to intercede for us, O Theotokos, /  and speedily make supplication, for you always protect those who honor you.”"
+      }
+    }
+  ]
+}

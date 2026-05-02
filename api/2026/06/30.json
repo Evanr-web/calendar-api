@@ -30,5 +30,48 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "First-enthroned of the apostles,  / teachers of the universe:  / Entreat the Master of all /  to grant peace to the world,  / and to our souls great mercy!*",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “Seeking the highest...”)\r\nToday Christ the Rock glorifies with highest honor / Peter, the rock of faith and leader of the apostles, / together with Paul and the company of the twelve, / whose memory we celebrate with eagerness of faith, / giving glory to the One Who gave glory to them.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+  "oca_saints": [
+    {
+      "name": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
+      "troparion": {
+        "tone": 4,
+        "text": "First-enthroned of the apostles,  / teachers of the universe:  / Entreat the Master of all /  to grant peace to the world,  / and to our souls great mercy!*"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nToday Christ the Rock glorifies with highest honor / Peter, the rock of faith and leader of the apostles, / together with Paul and the company of the twelve, / whose memory we celebrate with eagerness of faith, / giving glory to the One Who gave glory to them."
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Sophronius, Bishop of Irkutsk",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you loved Christ, O blessed Sophronios, /  and you governed monastic communities well;  /  and being honored with the rank of Hierarch, you kept watch over the flock of Irkutsk. / Thus, after your repose, you received the gift of miracles from God,  / and now entreat Christ God to deliver us from misfortunes, and to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Let us glorify with love the Hierarch and namesake of sobriety,  /  O faithful, the special adornment of the Church of Irkutsk, our Father and Hierarch Sophronios,  /  for he is the guardian of that city and land, and an intercessor for our souls."
+      }
+    },
+    {
+      "name": "Saint Gelasius of Rimet",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gelasius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
 }

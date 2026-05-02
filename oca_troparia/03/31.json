@@ -1,0 +1,92 @@
+{
+  "date": "2026-03-31",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Repose of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas",
+      "troparion": {
+        "tone": 2,
+        "text": "You evangelized the northern people of America and Asia, / proclaiming the Gospel of Christ to the natives in their own tongues. / O holy hierarch father Innocent, / enlightener of Alaska and all America, whose ways were ordered by the Lord, / pray to Him for the salvation of our souls in His Heavenly Kingdom!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Your life, O holy father Innocent, Apostle to our Land, / proclaims the dispensation and grace of God! / For laboring in dangers and hardships for the Gospel of Christ / you were kept unharmed and exalted in humility. / Pray that He may guide our steps in the way we should go."
+      }
+    },
+    {
+      "name": "Saint Hypatius the Wonderworker, Bishop of Gangra",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Hypatius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint Jonah, Metropolitan of Moscow and All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Jonah, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Hypatius the Healer of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hypatius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Apollonius, Ascetic, of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Apollonius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Avdas, Bishop of Persia, and Martyr Benjamin the Deacon",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Hypatius, Abbot of Rufinus in Chalcedon",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hypatius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Appearance of the Ivḗron Icon of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "The audacity of those who hated the Icon of the Lord and the might of the godless came to Nicaea,  / and those who were sent there inhumanly tortured a widow who devoutly revered the Icon of the Mother of God; /  but by night, she and her son cast the Icon into the sea, crying out: /  “Glory to you, O pure one, for the impassable sea has given you its shoulders.1  /  Glory to your straight way,2 O you who alone are incor­rupt.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Although your holy Icon was cast into the sea by the widow who could not save it from its enemies, O Theotokos,  / it has been shown as the Guardian of Mount Athos and the Gate-Keeper of Ivḗron Monastery,  / driving the Enemy away and delivering those who honor you from all misfor­tunes and dangers."
+      }
+    },
+    {
+      "name": "Saint Acacius the Confessor",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Acacius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Joseph the Patriarch",
+      "troparion": null,
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As first-fruits of our nature...” – Kontakion for Sunday of All Saints)\r\n\r\nJacob lamented the loss of Joseph,  / but the noble one was seated in a chariot and honored as a king; /  for when he refused to be enslaved by the desires of the Egyptian woman,  / he was glorified by Him who beholds the hearts of men,  / and bestows an incorruptible crown."
+      }
+    }
+  ]
+}

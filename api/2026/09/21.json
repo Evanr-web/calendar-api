@@ -31,5 +31,140 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Leavetaking of the Elevation of the Cross",
+  "oca_saints": [
+    {
+      "name": "Leavetaking of the Elevation of the Cross",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace."
+      }
+    },
+    {
+      "name": "Apostle Quadratus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "O Holy Apostle Quadratus / pray to our merciful God / that He may grant to our souls / remission of our transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Uncovering of the relics of Saint Demetrius (Dmitri),  Metropolitan of Rostov",
+      "troparion": {
+        "tone": 8,
+        "text": "O lover of Orthodoxy and eradicator of schisms,  /  healer of Russia and new intercessor before God,  /  you healed the minds of the foolish by your writings.  /  O blessed Demetrios, harp of the Spirit, pray to Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Let us bless Demetrios, the golden-worded teacher, the radiant star of Russia who shone forth from Kiev,  /   and reached Rostov by way of Novgorod-Seversky, illuminating the entire land with his teachings and miracles,  /  for he wrote down all those things which are for our edification  /   so that, like Paul, he might win all for Christ and save our souls through the Orthodox Faith."
+      }
+    },
+    {
+      "name": "Venerable Daniel, Abbot of Shuzhgorsk, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Daniel, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Joseph of Zaonikiev Monastery, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joseph, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Hypatius, Bishop of Ephesus, and his Presbyter, Andrew",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  /  always act with kindness towards us;  /  take not Your mercy from us,  /  but guide our lives in peace  /  through the prayers of the hiermartyrs Hypatius and Andrew."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits...”) The Church glorifies you as teachers of virtue and adornments of hierarchs,  / singing: “By your intercessions for those who lovingly honor you, /  grant progress in virtue, and deliverance from temptations.”"
+      }
+    },
+    {
+      "name": "Saint Meletius, Bishop of Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Meletius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Eusebius of Phoenicia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Eusebius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Eusebius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Priscus of Phrygia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Priscus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Priscus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "26 Monastic Martyrs of Zographou, Mount Athos",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Fathers, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Cosmas the Bulgarian of Zographou, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cosmas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint George (John) of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father George, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

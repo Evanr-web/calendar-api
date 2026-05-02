@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Synaxis of the Saints of North America",
+      "troparion": {
+        "tone": 8,
+        "text": "As the bountiful harvest of Your sowing of salvation, / the lands of North America offer to You, O Lord, all the saints who have shone in them. / By their prayers keep the Church and our land in abiding peace / through the Theotokos, O most Merciful One."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the choir of Saints who were pleasing to God in the lands of North America / now stands before us in the Church and invisibly prays to God for us. / With them the angels glorify Him, / and all the saints of the Church of Christ keep festival with them; / and together they all pray for us to the Pre-Eternal God."
+      }
+    },
+    {
+      "name": "Prophet Elisha",
+      "troparion": {
+        "tone": 4,
+        "text": "An angel in the flesh and the cornerstone of the prophets, / the second forerunner of the coming of Christ, / glorious Elijah sent grace from on high to Elisha, / to dispel diseases and to cleanse lepers. / Therefore, he pours forth healings on those who honor him."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nYou were revealed as a Prophet of God, / when you received from Elijah a double portion of the grace which you deserved; / you were his contemporary, blessed Elisha, / and together with him you unceasingly pray to Christ God for us all!"
+      }
+    },
+    {
+      "name": "Saint Methodius, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "You appeared to your flock as a rule of faith, / an image of humility, and a teacher of abstinence. / Because of your lowliness, heaven was opened to you; / because of your poverty, riches were granted to you! / O Holy Bishop Methodius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You contended on earth as one already delivered from the body, / and thus you deserved heaven, O Methodius! / You proclaimed throughout the world the righteousness of venerating Icons, / spending your days in hardship and effort, / and now you still rebuke those who do not honor the image of Christ."
+      }
+    },
+    {
+      "name": "Venerable Methodius, Abbot of Peshnosha",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Methodius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Elisha of Suma, Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Elisha, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Niphon of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Niphon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

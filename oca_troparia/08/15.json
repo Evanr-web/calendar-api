@@ -1,0 +1,36 @@
+{
+  "date": "2026-08-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "The Dormition of our Most Holy Lady the Mother of God and Ever-Virgin Mary",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth, you preserved your virginity,  /  and in falling asleep you did not forsake the world, O\r\nTheotokos.  /  You passed into life as the Mother of Life,  / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death had power over the Theotokos,  /  who is unsleeping1 in her intercessions and an unchanging hope in her protection.  /  For as the Mother of Life,  /  she was translated into life by Him who dwelt in her ever-virginal womb."
+      }
+    },
+    {
+      "name": "Saint Makarios the Roman",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  / and you became a luminary of the world, radiant with miracles.  / O Makarios our Father, intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Having left your homeland, O blessed one,  / you settled in the wilderness on an island in the marshes of Lezna, /  and there you shone forth in a life of severity;  / and having astounded many by your life, you received the gift of miracles from Christ.  / Remember us who revere your memory as we cry to you: “Rejoice, Makarios our Father.”"
+      }
+    },
+    {
+      "name": "Icon of Sophia, the Wisdom of God (Novgorod)",
+      "troparion": {
+        "tone": 1,
+        "text": "O Christ our God, the Eternal Wisdom,  / by Your Divine Providence, You bowed down the Heavens,  / and deigned to dwell in the womb of the Pure Virgin,  / having broken the enmity,1 You have sanctified our nature and revealed Your Kingdom to us;  / therefore You, our Creator and Savior, and the Pure Virgin who gave birth to You,  / serve as the mystery of our salvation, and we glorify you in the Orthodox way."
+      },
+      "kontakion": null
+    }
+  ]
+}

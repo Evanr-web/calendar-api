@@ -1,0 +1,44 @@
+{
+  "date": "2026-09-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Gregory, Bishop of Greater Armenia, Equal of the Apostles, Enlightener of Armenia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, / O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Gregory entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today, let us the faithful, praise with songs and hymns / the admirable hierarch Gregory as an initiate in the sacred mysteries. / He was a contender for the truth, a vigilant pastor and teacher, / a light for the whole world, / interceding with Christ that our souls may be saved!"
+      }
+    },
+    {
+      "name": "Venerable Gregory, Abbot of Pelsheme and Wonderworker of Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gregory, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Michael, first Metropolitan of Kiev",
+      "troparion": {
+        "tone": 4,
+        "text": "The prophecy of the first-called apostle has been fulfilled today: / Grace has illumined the hills of Kiev and the faith is increased. / Those who were not a people / are now the people of God, a holy nation, / a flock of Christ of which you, O Michael, are first shepherd, / and you serve it by bringing baptism. / O Hierarch, standing before God pray that all may be saved!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You appeared as a second Moses, / bringing the vine from Egyptian idolatry into the land of promise. / You said of it: Faith shall be established in this land, / and fruit to nourish the world shall flourish on the summits of Kiev, / more than on the heights of Lebanon. / Having this harvest we bless you, O Hierarch Michael!"
+      }
+    },
+    {
+      "name": "Martyrs Rhipsime and Gaianḗ of Armenia and those with them",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord,  /  through their sufferings have received incorruptible crowns from You, our God.  /  For having Your strength, they laid low their adversaries,  /  and shattered the powerless boldness of demons.  /  Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

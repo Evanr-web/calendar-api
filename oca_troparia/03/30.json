@@ -1,0 +1,106 @@
+{
+  "date": "2026-03-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable John Climacus of Sinai, Author of “the Ladder”",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile / and by your longing for God you brought forth fruits in abundance. / By the radiance of miracles you illuminated the whole universe. / O our holy Father John Climacus, pray to Christ our God to save our souls."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "You offered us your teachings as fruits of everlasting freshness, / to sweeten the hearts of those who receive them with attention. / O blessed and wise John, they are the rungs of a ladder, / leading the souls of those who honor you from earth to Eternal glory in Heaven!"
+      }
+    },
+    {
+      "name": "Saint Sophronius, Bishop of Irkutsk",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you loved Christ, O blessed Sophronios, /  and you governed monastic communities well;  /  and being honored with the rank of Hierarch, you kept watch over the flock of Irkutsk. / Thus, after your repose, you received the gift of miracles from God,  / and now entreat Christ God to deliver us from misfortunes, and to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Let us glorify with love the Hierarch and namesake of sobriety,  /  O faithful, the special adornment of the Church of Irkutsk, our Father and Hierarch Sophronios,  /  for he is the guardian of that city and land, and an intercessor for our souls."
+      }
+    },
+    {
+      "name": "Prophet Joad",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Joad, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Joad."
+      }
+    },
+    {
+      "name": "Apostle Sosthenes of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Sosthenes, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Apollos of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Apollos, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Cephas of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Cephas, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Caesar of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Caesar, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Epaphroditus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Epaphroditus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Euboula, mother of Saint Panteleimon",
+      "troparion": {
+        "tone": 5,
+        "text": "With joyous hymns let us fittingly praise Saint Euboula, /  the mother of our protector, Panteleimon.  / She has given birth to our defender and healer,  / the glory of Martyrs and of Unmercenary Physicians,  / and the swift healer of all."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Let us gather today and joyfully honor Saint Euboula, / the mother of our protector. /  She stands with him before the throne of God, /  interceding unceasingly for us, /  that we may be granted the forgiveness of our sins."
+      }
+    },
+    {
+      "name": "Venerable John the Silent of Saint Savva Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Zosimus, Bishop of Syracuse",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Zosimus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

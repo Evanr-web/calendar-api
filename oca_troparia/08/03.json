@@ -1,0 +1,85 @@
+{
+  "date": "2026-08-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Isaac the Ascetic of the Dalmatian Monastery at Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Venerable Isaac, Dalmatus, and Faustus."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Through asceticism you shone like lights in the world / and by your faith you overthrew heresies. / We praise you with hymns, Isaac, Dalmatus, and Faustus, / as servants of Christ who are praying for us all."
+      }
+    },
+    {
+      "name": "Venerable Dalmatus the Ascetic of the Dalmatian Monastery at Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Venerable Isaac, Dalmatus, and Faustus."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Through asceticism you shone like lights in the world / and by your faith you overthrew heresies. / We praise you with hymns, Isaac, Dalmatus, and Faustus, / as servants of Christ who are praying for us all."
+      }
+    },
+    {
+      "name": "Venerable Faustus the Ascetic of the Dalmatian Monastery at Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Venerable Isaac, Dalmatus, and Faustus."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Through asceticism you shone like lights in the world / and by your faith you overthrew heresies. / We praise you with hymns, Isaac, Dalmatus, and Faustus, / as servants of Christ who are praying for us all."
+      }
+    },
+    {
+      "name": "Venerable Anthony the Roman and Abbot of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "Leaving old Rome, your fatherland,  / you mounted a rock, as if it were a swift ship.  / On it you crossed\r\nthe sea like one without a body,  / above the laws of nature, guided by the reasoning of the Divine Mind. /  You reached Great Novgorod and established a monastery,  / in which you left your body as a sanctified gift.  / Therefore, we entreat you, Father Antony:  / \"Pray to Christ God,  / that He may save our souls.\""
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nYou were raised in Rome, and blossomed gracefully in Great Novgorod,  / where you pleased God by your\r\nmany labors and struggles. /  Therefore, you received from Him the gift of working miracles,  / and your body was preserved incorrupt for many years.  / As we kiss it, we cry joyfully to you from our souls: \"Hail, Father Anthony.\""
+      }
+    },
+    {
+      "name": "Martyr Razhden of Persia the Georgian",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Razhden;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Cosmas the Eunuch and Hermit of Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe. / O our holy Father Cosmas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "9 Kherkheulidze Brothers with their Mother and Sister and Nine Thousand Martyrs of Marabda",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodora and her daughter Theopiste",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mothers Theodora and Theopiste, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

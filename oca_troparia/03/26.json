@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Leavetaking of the Annunciation",
+      "troparion": {
+        "tone": 4,
+        "text": "Today is the beginning of our salvation, / the revelation of the eternal mystery! / The Son of God becomes the Son of the Virgin / as Gabriel announces the coming of Grace. / Together with him let us cry to the Theotokos: / Rejoice, O Full of Grace, / the Lord is with You!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O Victorious Leader of Triumphant Hosts! / We, your servants, delivered from evil, sing our grateful thanks to you, O Theotokos! / As you possess invincible might, set us free from every calamity / so that we may sing: Rejoice, O unwedded Bride!"
+      }
+    },
+    {
+      "name": "Synaxis of the Archangel Gabriel",
+      "troparion": {
+        "tone": 4,
+        "text": "Gabriel, commander of the heavenly hosts, / we who are unworthy beseech you, / by your prayers encompass us beneath the wings of your immaterial glory, / and faithfully preserve us who fall down and cry to you: / “Deliver us from all harm, for you are the commander of the powers on high!”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Supreme commander Gabriel, / you are the glorious intercessor and servant / before the all-radiant, worthy, all-powerful, infinite and awesome Trinity. / Ever pray now that we may be delivered from all tribulations and torments, / so that we may cry out to you: / “Rejoice, protection of your servants!”"
+      }
+    },
+    {
+      "name": "Hieromartyr Irenaeus, Bishop of Sirmium",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Irenaeus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "26 Martyrs in the Crimea",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Malchus of Chalcis, Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Malchus your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Malchus, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Venerable Basil the New, Anchorite, Near Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Basil, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Montanus the Presbyter of Singidunum, and his wife Maxima",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyrs Montanus and Maxima, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr George of Sofia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr George, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr George;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

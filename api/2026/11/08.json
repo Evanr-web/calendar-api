@@ -30,5 +30,29 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Commanders of the heavenly hosts, / we who are unworthy beseech you, / by your prayers encompass us beneath the wings of your immaterial glory, / and faithfully preserve us who fall down and cry to you: / “Deliver us from all harm, for you are the commanders of the powers on high!”",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Commanders of God’s armies and ministers of the divine glory, / princes of the bodiless angels and guides of mankind, / ask for what is good for us, and for great mercy, / supreme commanders of the Bodiless Hosts.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Synaxis of the Archangel Michael and the Other Bodiless Powers",
+  "oca_saints": [
+    {
+      "name": "Synaxis of the Archangel Michael and the Other Bodiless Powers",
+      "troparion": {
+        "tone": 4,
+        "text": "Commanders of the heavenly hosts, / we who are unworthy beseech you, / by your prayers encompass us beneath the wings of your immaterial glory, / and faithfully preserve us who fall down and cry to you: / “Deliver us from all harm, for you are the commanders of the powers on high!”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Commanders of God’s armies and ministers of the divine glory, / princes of the bodiless angels and guides of mankind, / ask for what is good for us, and for great mercy, / supreme commanders of the Bodiless Hosts."
+      }
+    }
+  ]
 }

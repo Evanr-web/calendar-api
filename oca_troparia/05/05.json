@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-05",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great Martyr Irene",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “When the stone had been sealed...”)\r\nChrist called you Irene, because you grant peace to those hastening to your holy temple with hymns and spiritual songs,  /  for you intercede for all, standing before the Three-Sunned Divinity,  / Let everyone celebrate her memory joyously, magnifying Christ, Who glorified her."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nAdorned with the beauty of virginity,  /  you became most beautiful in your brave contest, O Irene;  /  you were reddened by the blood which you shed,  / and you overthrew ungodly error; /  therefore, you received the prize of victory from the hand of your Creator."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable James, Abbot of Zhelezny Bor",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father James, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Ephraim",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nYou shone forth like the sun on Mount Amómon, O God-bearer,  /  and through martyrdom you departed unto God.  /  You endured the invasion of the barbarians, O Ephraim, Great Martyr of Christ.  /  Therefore, you gush forth grace forever to those who devoutly call upon you.  /  Glory to Him Who gave you strength.  /  Glory to Him Who magnified you.  /  Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin gives birth...”)\r\nYou contested on Mount Amómon, O godly-minded one,  /  and in this you followed the path of martyrdom.  /  Therefore, the Giver of Life has appropriately crowned you with double crowns.1  /  O Hieromartyr Ephraim,  /  we entreat you earnestly to have mercy upon those who honor you."
+      }
+    },
+    {
+      "name": "Inexhastible Chalice Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "O believers, let us turn today to the Divine and wonderworking Icon of the Most Holy Mother of God,  /  who fills the hearts of the faithful with her mercy from the heavenly Ineffable Chalice, and shows them miracles;  /  seeing and hearing about these, /   we celebrate spiritually and fervently exclaim: /   “Most merciful Sovereign Lady,  /  heal our illnesses and passions,  /  entreating your Son Christ God to save our souls.”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Your womb was a Holy Throne, containing Christ God, the Heavenly Bread,1 /  whoever eats it will not die;2 as the Nourisher of all,  / the Theotokos, has said."
+      }
+    },
+    {
+      "name": "Venerable Barlaam of Serpukhov",
+      "troparion": {
+        "tone": 3,
+        "text": "Taught to please God by Metropolitan Alexei,  / you adorned your soul with virtues, and therefore you were the chosen one of the Mother of God,  / and you founded a monastery dedicated to the Entry of the Mother of God into the Temple,  / for the salvation of many human souls.  / As a good instructor of monastics, and a fervent intercessor with God for us, /  O Venerable Barlaam, our Father,  / pray for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O Venerable Father Barlaam, although your revered relics are kept hidden,  / they pour forth bright rays of miracles and healings /  for all who turn to you with faith and pray zealously to you; /  for you appeared as a true God-pleaser,  / ever interceding for all who lovingly honor your holy memory."
+      }
+    }
+  ]
+}

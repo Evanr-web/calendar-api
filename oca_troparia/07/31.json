@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-31",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Procession of the Honorable and Lifegiving Cross of the Lord",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance! / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of the Cross, / preserve Your habitation!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily crucified for our sake, / grant mercy to those who are called by Your name; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the invincible trophy, Your weapon of peace!"
+      }
+    },
+    {
+      "name": "Righteous Eudocimus of Cappadocia",
+      "troparion": {
+        "tone": 4,
+        "text": "He who called you from earth to heaven, / keeps your body unharmed after death, holy Eudocimus; / for you lived a sober and holy life / and did not defile your flesh; / so with boldness intercede with Christ that we may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today your honored memory has assembled us at the holy shrine of your sacred relics; / all then who approach and venerate them / are rescued from the evil malice of demons / and are swiftly delivered from various diseases, blessed Eudocimus."
+      }
+    },
+    {
+      "name": "Martyr Julitta at Caesarea",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Julitta, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Julitta;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Germanus, Bishop of Auxerre",
+      "troparion": {
+        "tone": 6,
+        "text": "Holy Bishop Germanus, our protector, honor and consolation of the church of Gaul.  / You gave up glory and riches in order to follow Christ our God with humility.  / You fought against heresies and caused the true Faith to triumph. /  O Father of the Auxerrians, refuge of the unfortunate, pray to Christ to strengthen us in mercy."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Benjamin, Metropolitan of Petrograd and Gdovsk, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Arsenius, Bishop of Ninotsminda",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Arsenius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Joseph of Arimathea",
+      "troparion": {
+        "tone": 2,
+        "text": "The Noble Joseph, /  when he had taken down Your most pure Body from the tree,  /  wrapped it in fine linen and anointed it with spices, / and placed it in a new tomb.  / But You rose on the third day, O Lord,  / granting the world great mercy."
+      },
+      "kontakion": null
+    }
+  ]
+}

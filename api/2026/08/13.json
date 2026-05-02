@@ -30,5 +30,122 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 7,
+    "text": "You were Transfigured on the Mount, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light shine upon us sinners! / Through the prayers of the Theotokos, O Giver of Light, glory to You!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 7,
+    "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Leavetaking of the Transfiguration of our Lord",
+  "oca_saints": [
+    {
+      "name": "Leavetaking of the Transfiguration of our Lord",
+      "troparion": {
+        "tone": 7,
+        "text": "You were Transfigured on the Mount, O Christ God, / revealing Your glory to Your disciples as far as they could bear it. / Let Your everlasting Light shine upon us sinners! / Through the prayers of the Theotokos, O Giver of Light, glory to You!"
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "On the Mountain You were Transfigured, O Christ God, / and Your disciples beheld Your glory as far as they could see it; / so that when they would behold You crucified, / they would understand that Your suffering was voluntary, / and would proclaim to the world, / that You are truly the Radiance of the Father!"
+      }
+    },
+    {
+      "name": "Saint Tikhon, Bishop of Voronezh, Wonderworker of Zadonsk and All Russia",
+      "troparion": {
+        "tone": 8,
+        "text": "From your youth you loved Christ, O blessed one. / You have been an example for all by word, life, love, faith, purity, and humility. / Therefore, you now abide in the heavenly mansions, / where you stand before the throne of the All-holy Trinity. / Holy Hierarch Tikhon, pray for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Successor to the Apostles, / adornment of hierarchs, and teacher of the Orthodox Faith: / Beseech the Master of all to grant peace to the universe / and to our souls great mercy."
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Maximus the Confessor",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / enlightener of the universe and adornment of hierarchs: / All-wise father Maximus, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Maximus, divinely inspired champion of the Church, / sure and illumined exponent of Orthodoxy, / harp and trumpet of godliness, / divine and holy adornment of monks: / never cease to intercede for us all."
+      }
+    },
+    {
+      "name": "Martyr Hippolytus of Rome and those with him: Martyr Concordia, Irenaeus, and Abundius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Hippolytus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God “of the Passion”",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, the Icon of the Mother of God shines ineffably in the city of Moscow, as bright as the sun, /  and the entire world is illumined by her coming.  / The Powers of Heaven and the souls of the righteous triumph spiritually, rejoicing,  / and we who behold her, cry out with tears: /  “O Most Merciful Sovereign Lady Theotokos,  / entreat Christ our God Who was incarnate of you,  / to grant peace and health to all Christians according to His great and ineffable mercy.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "We have received the imperishable grace which you have bestowed upon us /  with your saving healing through your revered wonderworking Icon, O Virgin Theotokos;  / therefore, we sinners humbly cry out to you with tears:  / “O Most Holy Sovereign Lady, reveal to us your speedy protection and help;  / defend us from our enemies, and save our land from all sorrow,  / guard your people with peace, and keep those who trust in you, /  hasten to deliver us, lest we perish cruelly, as we cry to you: /  ‘Rejoice, O Bride who knew not wedlock.’”"
+      }
+    },
+    {
+      "name": "\"Seven Arrows\" Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Soften our evil hearts, O Theotokos, and repel the attacks of those who hate us,  /  and loosen all the rigidity of our soul.  /  For beholding your holy image,  /  we are filled with compunction by your compassion and loving kindness toward us,  /  and we kiss your wounds; /   for we are terrified by the darts with which we wound you.  /  O Compassionate Mother,  /  do not let us perish because of our hardness of heart, /   or our neighbor's hardness of heart,  /  for you are truly the Softener of Evil Hearts."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "By your grace, O Sovereign Lady, /   soften the hearts of evildoers,  /  send down benefactors who will preserve them from all evil;  /  with gratitude and zeal, we pray to you before your revered icons."
+      }
+    },
+    {
+      "name": "Second Finding of the relics of Saint Tikhon, Wonderworker of Zadonsk",
+      "troparion": {
+        "tone": 8,
+        "text": "From your youth you loved Christ, O blessed one. / You have been an example for all by word, life, love, faith, purity, and humility. / Therefore, you now abide in the heavenly mansions, / where you stand before the throne of the All-holy Trinity. / Holy Hierarch Tikhon, pray for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Successor to the Apostles, / adornment of hierarchs, and teacher of the Orthodox Faith: / Beseech the Master of all to grant peace to the universe / and to our souls great mercy."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Minsk",
+      "troparion": {
+        "tone": 5,
+        "text": "From Constantinople and Kiev, you appeared on the waters of the Svisloch, Most Holy Virgin,  / and you showed your mercy to the God-saved city of Minsk.  / Enlighten us sinners with your radiance, manifest your power as always; /  save us by your intercession, and deliver us from the intrigues of our enemies,  / for we have you as an unassailable wall, and our only hope."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Holy Empress Irene (Schema-nun Xenia)",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Xenia your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Xenia, /  you illumined your soul with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Monastic Martyr Dositheus",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Dositheus, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Dositheus, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    }
+  ]
 }

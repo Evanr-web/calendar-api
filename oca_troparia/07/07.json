@@ -1,0 +1,71 @@
+{
+  "date": "2026-07-07",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Thomas of Mount Maleos",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints Thomas and Acacius."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “As You were voluntarily raised...”)Inflamed with divine love, you courageously showed us a great victory: / you spurned the mortal king and all earthly beauty. / You completed your worldly sojourn on Mount Maleon, / from where you went up to Heaven to the King of kings. / Unceasingly pray for us all, O Thomas."
+      }
+    },
+    {
+      "name": "Venerable Acacius of Sinai, who is mentioned in the Ladder",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints Thomas and Acacius."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nForsaking the world, you followed Christ from childhood. / Emulating His voluntary humility, you cast down the prideful tyrant. / All-wise and venerable Acacius, / unceasingly pray for us all!"
+      }
+    },
+    {
+      "name": "Venerable Eudokia (in monasticism Euphrosyne), Grand Duchess of Moscow",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Euphrosynē, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Peregrinus, Lucian, Ompeius, Hesychius, Papius, Saturninus, and Germanus, of Dyrrachium in Macedonia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Evangelicus, Bishop of Tomis, Constanța in Romania",
+      "troparion": {
+        "tone": 1,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Evangelicus entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Kyriake of Nicomedia",
+      "troparion": {
+        "tone": 5,
+        "text": "O virgin martyr Kyriake, / you were a worthy sacrifice / When you offered your pure soul to God; / wherefore Christ has glorified you, / and through you pours forth graces abundantly on all the faithful, / for He is the merciful Loving God!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Kyriake;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Prosper of Aquitaine",
+      "troparion": {
+        "tone": 1,
+        "text": "Come, you faithful, let us venerate Prosper, this new Father of the Church, /  the child of Aquitaine and glory of the Gauls, an imitator of the Holy Apostles;  / from all sorts of threats against Orthodoxy he delivers those who cry to him with faith:  / Glory to Him Who has given you this knowledge!  / Glory to Him Who has enlightened you! /  Glory to Him Who saves us, by your prayers!"
+      },
+      "kontakion": null
+    }
+  ]
+}

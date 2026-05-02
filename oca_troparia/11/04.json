@@ -1,0 +1,71 @@
+{
+  "date": "2026-11-04",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Seraphim (Samoilovich), Archbishop of Uglich",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the Church of Russia joyfully forms a chorus, /  praising her New Martyrs and Confessors;  / hierarchs and priests, royal passion-bearers, right-believing princes and princesses,  / venerable men and women, and all Orthodox Christians. /  Having laid down their life for faith in Christ during the days of godless persecution,  / they preserved the truth by the shedding of blood.  / By their protection, O long-suffering Lord,  / preserve our land in Orthodoxy until the end of the age."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the New Martyrs of Russia stand in white robes before the Lamb of God,  / and with the angels they sing to God the hymn of victory:  / \"Blessing, and glory, and wisdom, and praise, and honor,  / and power, and strength be to our God /  unto the ages of ages. Amen.\""
+      }
+    },
+    {
+      "name": "Venerable Joannicius the Great",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joannicius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today we celebrate together your honored memory, / and we faithfully beseech you, O holy Joannicius / that we may find mercy with the Lord!"
+      }
+    },
+    {
+      "name": "Hieromartyrs Nicander, Bishop of Myra, and Hermas, the Presbyter",
+      "troparion": {
+        "tone": 4,
+        "text": "In your manner a participant, / and in your throne a successor of the Apostles, / you discovered action an entrance into visions, / O inspired one of God. / Therefore teaching the Word of truth, / you suffered for the faith even unto blood. / O Bishop and Martyr Nicander, pray to Christ God that our souls may be saved!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first fruits...”) The Church glorifies you as teachers of virtue and adornments of hierarchs,  / singing: “By your intercessions for those who lovingly honor you, /  grant progress in virtue, and deliverance from temptations.”"
+      }
+    },
+    {
+      "name": "Venerable Mercurius the Faster of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Mercurius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nicander, Abbot of Gorodensk, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nicander, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saints John, Stephen, and Isaiah of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers John, Stephen, and Isaiah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gabriel of Atonelni",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gabriel, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

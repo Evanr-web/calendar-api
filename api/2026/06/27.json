@@ -30,5 +30,72 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "Through your patience, your unceasing prayer, your love for the poor and the help you gave to them,  /  you became worthy of your reward, O holy Sampson.  / Intercede with Christ God that He may save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "(Podoben: “As the first-fruits of nature...” – Kontakion for All Saints)\r\nWe honor your relics, for you are an excellent physician and powerful intercessor; /  as we gather to praise you with psalms and hymns, divinely-wise and Venerable Sampson,  /  we glorify Christ, who granted you the grace of healing.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Sampson the Hospitable of Constantinople",
+  "oca_saints": [
+    {
+      "name": "Saint Sampson the Hospitable of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Through your patience, your unceasing prayer, your love for the poor and the help you gave to them,  /  you became worthy of your reward, O holy Sampson.  / Intercede with Christ God that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As the first-fruits of nature...” – Kontakion for All Saints)\r\nWe honor your relics, for you are an excellent physician and powerful intercessor; /  as we gather to praise you with psalms and hymns, divinely-wise and Venerable Sampson,  /  we glorify Christ, who granted you the grace of healing."
+      }
+    },
+    {
+      "name": "Venerable Serapion of Kozhe Lake",
+      "troparion": {
+        "tone": 5,
+        "text": "(For reading in the cell)\r\nYou indicated the way to salvation through Christ,  /  rejecting the Hagarene wickedness of your family,  / loving Christ God with all your heart,  / you regarded boyar honors as nothing, / you chose to live an eremitic life, / with the desert-dweller Nephon you served the Lord,  / glorifying the Holy Trinity with prayers and labors in the wilderness, you were revealed as a branch of the good root,  /  bringing forth good fruit to the Lord.  / O Father Serapion,  /  pray unceasingly for all of us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You increased the grace given to you by God a hundredfold, /  establishing a northern abode in the wilderness, / and with love you gathered and nourished a multitude of others;  /  you were not wounded by the labors and reproaches of the brethren,  / but were revealed as an image of meekness, patience, and humility;  / therefore, Venerable Father Serapion, /  entreat the Lord to grant these grace-filled gifts to our souls."
+      }
+    },
+    {
+      "name": "Venerable George of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father George, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Finding of the relics of Venerable Ambrose of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ambrose, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Martin of Turov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Martin, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Kirion II, Catholicos-Patriarch of All Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Kirion, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

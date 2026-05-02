@@ -1,0 +1,55 @@
+{
+  "date": "2026-03-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Quadratus and those with him at Corinth",
+      "troparion": {
+        "tone": 1,
+        "text": "Let the godly-minded Quadratus, Anectus, Paul, Dionysius, Cyprian, and Crescens / be praised with melodious hymns, / for as the six-fold choir of Christ’s prize-winners, / they ceaselessly pray for us before the Trinity!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As you contested bravely in Corinth, O wise martyrs, / you appeared as a six-branched radiant lamp. / Illumining the way for Christ’s faithful by the grace that was given you!"
+      }
+    },
+    {
+      "name": "Martyr Quadratus and those with him at Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Anastasia the Patrician of Alexandria",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Anastasia your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Anastasia, /  you illumined your soul\r\nwith fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Saint John of Khakhuli the Oqropiri, also called Chrysostom",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Michael the New Martyr",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Michael, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Michael;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

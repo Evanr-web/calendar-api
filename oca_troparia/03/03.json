@@ -1,0 +1,52 @@
+{
+  "date": "2026-03-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Eutropius, Cleonicus, and Basiliscus of Amasea",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us praise Eutropius, Basiliscus and divine Cleonicus, / the three holy athletes of Christ. / They surpassed human endurance in their contests / and professed the supremacy of the Trinity. / Now they ceaselessly intercede that we all may be saved!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Eutropius, Basiliscus and Cleonicus, / bound together in unity of faith, / by their noble contest speedily destroyed the enemies’ ranks!"
+      }
+    },
+    {
+      "name": "Saint Piamoun",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what is according to the image;  / for you took up the Cross and followed Christ.  / By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal.  /  Therefore, O Venerable Piamoun, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace of healing...”)1\r\nHaving discarded a bed for rest, for the sake of your love for God,  / O Mother Piamoun, /  and illuminating your spirit with fasting,  / you completely vanquished your enemies; /  and by your intercessions you destroyed the evil schemes of our adversaries."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Volokolamsk",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the most glorious city of Volok and the Holy Monastery of Saint Joseph shine radiantly,  / as the dawn of the sun, O Sovereign Lady,  / your wonderworking Icon, to which we now flock and pray to you: /  “O most wondrous Sovereign Lady Theotokos.  / Entreat Christ our God, Who was born of you,  / to deliver your city and all Christian cities and countries unharmed by all the slanders of the Enemy,  / and to save our souls, for He is merciful.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John (Chrysostom) IV, Catholicos of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Shio Mgvime",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Shio, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

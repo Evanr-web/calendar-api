@@ -30,5 +30,83 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "You became like your namesake, the Forerunner, O John, / for you were radiant with fasting and purity; / and Christ has revealed you / as a worthy shepherd of his flock: / Now pray for those who honor your holy memory!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint John the Faster, Patriarch of Constantinople",
+  "oca_saints": [
+    {
+      "name": "Venerable Anthony of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anthony, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodosius of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodosius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Mamas of Caesarea in Cappadocia",
+      "troparion": {
+        "tone": 3,
+        "text": "Divine offshoot of the Martyrs,  /  you followed their steps with longing,  / and while proclaiming the Savior's Name, you were marvelous in the contest,  /  O wise and glorious Mámas; /  entreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nWith the staff given to you by God, O Saint,  / shepherd your people in life-giving pastures, /  and crush unseen and fierce enemies beneath the feet of those who praise you; /  for all those who are in danger have you as a fervent intercessor, O Mámas."
+      }
+    },
+    {
+      "name": "Martyrs Theodotus and Rufina of Caesarea, in Cappadocia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Theodotus and Rufina, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John the Faster, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You became like your namesake, the Forerunner, O John, / for you were radiant with fasting and purity; / and Christ has revealed you / as a worthy shepherd of his flock: / Now pray for those who honor your holy memory!"
+      }
+    },
+    {
+      "name": "3,628 Martyrs who suffered at Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Kaluga",
+      "troparion": {
+        "tone": 4,
+        "text": "O invincible defender of the land of Kaluga from foreign enemies,  /  and merciful deliverer from deadly wounds;  /  rescue your servants from all misfortunes and sicknesses,  /  who turn to your wonderworking Icon with faith and love,   /  and save our souls."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have neither prayerful hymns, nor words to praise you worthily, /   O Mother of Christ our God, /   for the appearance of your wonderworking Icon in the land of Kaluga. /   We can only cry out to you: /   “Do not withhold your mercy from us,  /  but pour it forth upon all who turn to your Icon, which bestows healing.”"
+      }
+    }
+  ]
 }

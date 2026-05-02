@@ -1,0 +1,85 @@
+{
+  "date": "2026-01-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Synaxis of the Ecumenical Teachers and Hierarchs: Basil the Great, Gregory the Theologian, and John Chrysostom",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us who love their words come together, honoring with hymns, the three greatest luminaries of the Three-Sunned divinity: /  Basil the Great, Gregory the Theologian, together with the renowned John Chrysostom, of golden speech.  / They have illumined the entire world with the rays of divine doctrines;  / they are sweetly-flowing rivers of wisdom,  / who with divine knowledge have watered all of creation with clear streams; /  for they always intercede with the Trinity for us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "O Lord, You have received the Holy and God-proclaiming heralds, the crown of Your Teachers,  / for the enjoyment of Your good things and for repose; /  for You have accepted their sufferings and labors above every sacrifice,  / for You alone glorify Your Saints."
+      }
+    },
+    {
+      "name": "Hieromartyr Hippolytus, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "As Equals of the Apostles and teachers of the inhabited earth, /  intercede with the Master of all to grant peace to the world,  / and to our souls great mercy."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Zeno the Faster, of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zeno, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Zeno the Hermit of Antioch, disciple of Saint Basil the Great",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Zeno, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Theophilus the New in Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Theophilus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theophilus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God “Tinos”",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “When the stone had been sealed...”)\r\nO people of Tinos and all you faithful,  / let us praise our guardian and Protectress with hymns;  / the most exalted Icon of the spotless Theotokos is found to be a font of healing for us.  / Therefore, let us all cry aloud to her:  / “Hail, hope of those who honor you.  / Hail, our boast.  / Hail, deliverer of mankind from the curse.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O victorious leader...”)\r\nWe celebrate the discovery of your all-holy Evangelίstria2 Icon, /  and we praise your beneficence;  /  for from it you pour forth abundant grace on all,  / and grant healing to all who cry to you: “Hail, Bride who knew not wedlock.”"
+      }
+    },
+    {
+      "name": "Saint Demetrius, New Martyr of Sliven",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Demetrius, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Demetrius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "New Martyr Theodore",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Theodore, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theodore;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

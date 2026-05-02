@@ -1,0 +1,82 @@
+{
+  "date": "2026-05-07",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Commemoration of the Apparition of the Sign of the Precious Cross Over Jerusalem, in 351 AD",
+      "troparion": {
+        "tone": 8,
+        "text": "Now the image of Your Cross has shone brighter than the sun, /  spreading from the Holy Mountain1 to the Place of the Skull,2  / and in it O Savior, You revealed Your power, thereby strengthening us.  / Keep us always in peace, through the intercessions of the Theotokos, O Christ God, and save us."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The Most Pure Cross has opened Heaven which was closed,  / and has dawned upon the earth, shining its brilliant rays to the heavens;  / therefore, receiving the radiance of its power as our guide to the unwaning light,  / we have it in battles as a weapon of peace, an invincible trophy."
+      }
+    },
+    {
+      "name": "Repose of Saint Alexis Toth, Confessor and Defender of Orthodoxy in America",
+      "troparion": {
+        "tone": 4,
+        "text": "O righteous Father Alexis, / our heavenly intercessor and teacher, / divine adornment of the Church of Christ! / Entreat the Master of All / to strengthen the Orthodox Faith in America, / to grant peace to the world / and to our souls, great mercy!"
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "Let us, the faithful, praise the Priest Alexis, / a bright beacon of Orthodoxy in America, / a model of patience and humility, / a worthy shepherd of the Flock of Christ. / He called back the sheep who had been led astray / and brought them by his preaching / to the Heavenly Kingdom!"
+      }
+    },
+    {
+      "name": "Martyr Acacius the Centurion at Byzantium",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Acacius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Acacius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Repose of Venerable Nilus, Abbot of Sora",
+      "troparion": {
+        "tone": 4,
+        "text": "You forsook the world, concealing yourself like David,1 /  and you considered all worldly things to be as filth,  / and after settling in a quiet place,  / you were filled with spiritual joy, our Father Nilus,  / and desired to serve the One God, flourishing like a palm tree,2  / and as a prolific vine, you increased the number of monks in the wilderness.  / Therefore, we cry out with gratitude: / “Glory to Him Who strengthened you in the contest of desert living.  / Glory to Him Who chose you as a special founder of the Rules for solitary monks.  / Glory to your intercessions for us with the Savior.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nilus the Myrrhgusher of Lavra of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nilus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Pachomius of Mount Athos",
+      "troparion": {
+        "tone": 3,
+        "text": "Your godly life was made radiant by the trials of holy martyrdom, / O glorious, righteous Martyr Pachomius. / Through your ascetical deeds you shone forth on Athos / and shed your blood as an Athlete. / Intercede with the Lord Who has glorified you / that He may grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You became illustrious on Athos through your ascetic life and later excelled in martyrdom. / For you were given wings by your love for God, / O divinely-wise Martyr, glorious Pachomius."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Zhirovits",
+      "troparion": {
+        "tone": 2,
+        "text": "Do not despise those who entreat your help, O Sovereign Lady,  / and open the unfathomable depths of mercy to all who hasten to your healing Icon.  / Assuage the sorrows of our life, O most bountiful one, /  and guide your faithful from this vale of tears to everlasting joy.  / For in you, all have acquired hope and assurance, O Fount of mercy, protection and salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Quadratus and his companions",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Quadratus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

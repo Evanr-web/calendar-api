@@ -1,0 +1,28 @@
+{
+  "date": "2026-09-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Repose of the Holy Apostle and Evangelist John the Theologian",
+      "troparion": {
+        "tone": 2,
+        "text": "O Apostle beloved of Christ God,  / hasten to deliver a defenseless people.  / He Who permitted you to recline on His breast  / receives you as you bow before Him; /  entreat Him, O Theologian, /  to dispel the persistence of the heathen, and to grant us peace and great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Original Melody)\r\nWho can tell of your greatness, /  O virgin disciple?  / You pour forth miracles, and are a fountain of healing, / \r\nand you intercede for our souls as a Theologian and the friend of Christ."
+      }
+    },
+    {
+      "name": "Venerable Ephraim, Abbot of Perekop, Wonderworker of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you submitted to God completely, O Blessed One,  / and for the sake of His love you forsook your homeland and relatives, and settled in the wilderness;  / there you lived an austere life,  / and received the gift of miracles from God.  / O Venerable Ephraim, entreat Christ God that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Desiring the angelic life, O venerable one,  / you forsook all earthly things, and came unto Christ;  / by keeping His commandments, you were an unshakable fortress against the attacks of the Enemy.  / Therefore we cry out to you: “Rejoice, Ephraim, most radiant luminary.”"
+      }
+    }
+  ]
+}

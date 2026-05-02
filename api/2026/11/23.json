@@ -30,5 +30,108 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Today is the prelude of the good will of God, / of the preaching of the salvation of mankind. / The Virgin appears in the temple of God, / in anticipation proclaiming Christ to all. / Let us rejoice / and sing to her: / \"Rejoice, O Fulfillment of the Creator's dispensation.\".",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "The most pure Temple of the Savior; / the precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the house of the Lord. / She brings with her the grace of the Spirit, / therefore, the angels of God praise her: / “Truly this woman is the abode of heaven.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Afterfeast of the Entry of the Most Holy Mother of God into the Temple",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Entry of the Most Holy Mother of God into the Temple",
+      "troparion": {
+        "tone": 4,
+        "text": "Today is the prelude of the good will of God, / of the preaching of the salvation of mankind. / The Virgin appears in the temple of God, / in anticipation proclaiming Christ to all. / Let us rejoice / and sing to her: / \"Rejoice, O Fulfillment of the Creator's dispensation.\"."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The most pure Temple of the Savior; / the precious Chamber and Virgin; / the sacred Treasure of the glory of God, / is presented today to the house of the Lord. / She brings with her the grace of the Spirit, / therefore, the angels of God praise her: / “Truly this woman is the abode of heaven.”"
+      }
+    },
+    {
+      "name": "Saint Amphilokhios, Bishop of Iconium",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  / and through poverty, riches.  / O Hierarch Amphilókhios our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Amphilókhios,  / divine thunder, spiritual trumpet,  / planter of faith, and pruner of heresies,  / great favorite of the Trinity,  /  as you stand before God with the Angels,  / pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Saint Gregory, Bishop of Agrigentum",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the hierarchs Gregory and Amphilochius."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint Alexander Nevsky",
+      "troparion": {
+        "tone": 4,
+        "text": "Know2 your brethren, O Russian Joseph,  /  reigning not in Egypt, but in Heaven,  /  O right-believing Prince Alexander,  / and accept their prayers, multiplying the number of fruits to men by the fruits of the land under your authority,  / and by praying for all Orthodox Christians in the struggle against their enemies by providing help."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O blessed Alexander,  /  just as your relatives, Boris and Gleb,  / came to your aid from Heaven, in the battle against the Swede Birger and his troops,  /  come now to the aid of your compatriots  / and defeat those who are at war with us."
+      }
+    },
+    {
+      "name": "Saint Metrophanes (in schema Macarius), Bishop of Voronezh",
+      "troparion": {
+        "tone": 4,
+        "text": "You were a Rule of faith for your flock,  / and an example of meekness by your word and life, O humble-minded Father Metrophanes. /  Therefore, you shone brighter than the sun in the radiance of holiness,  / adorned with a crown of incorruption and glory;  / entreat Christ God to preserve the peace of our land and of your city."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Having subjected the body to the spirit by abstinence,  / you made your life blameless, like that of the Angels,  / you wore the vestments of a Hierarch, as the crown of the priesthood;  / and now, most blessed Metrophanes, standing before the Master of all, /  entreat Him to grant us peace and to save our souls."
+      }
+    },
+    {
+      "name": "Sisinius the Confessor, Bishop of Cyzicus",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Sisinius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Theodore of Antioch",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Theodore, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theodore;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Ven. Anthony of Iezeru-Vâlcea Skete",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  /  and you became a luminary of the world, radiant with miracles,  /  O Anthony our Father. Intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "The Church knows you as a bright sun, adorned with good deeds,  /  and with rays of healings you enlighten all, as a servant of Christ.  / Therefore, we celebrate the Feast of your all-laudable remembrance and honor your ascetical struggles,  /  O Most Venerable Father Anthony."
+      }
+    },
+    {
+      "name": "Hieromartyr Gregory (Peradze) of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Gregory, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

@@ -30,5 +30,75 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "Let us praise with sacred songs the holy Apostle Luke, / the recorder of the joyous Gospel of Christ / and the scribe of the Acts of the Apostles, / for his writings are a testimony of the Church of Christ: / He is the physician of human weaknesses and infirmities. / He heals the wounds of our souls, / and constantly intercedes for our salvation!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Let us praise the godly Luke: / he is the true preacher of piety, / the orator of ineffable mysteries / and the star of the Church; / for the Word, Who alone knows the hearts of men, / chose him, together with wise Paul, to be a teacher of the gentiles!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Apostle and Evangelist Luke",
+  "oca_saints": [
+    {
+      "name": "Apostle and Evangelist Luke",
+      "troparion": {
+        "tone": 5,
+        "text": "Let us praise with sacred songs the holy Apostle Luke, / the recorder of the joyous Gospel of Christ / and the scribe of the Acts of the Apostles, / for his writings are a testimony of the Church of Christ: / He is the physician of human weaknesses and infirmities. / He heals the wounds of our souls, / and constantly intercedes for our salvation!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us praise the godly Luke: / he is the true preacher of piety, / the orator of ineffable mysteries / and the star of the Church; / for the Word, Who alone knows the hearts of men, / chose him, together with wise Paul, to be a teacher of the gentiles!"
+      }
+    },
+    {
+      "name": "Martyr Marinus the Elder at Anazarbus",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Marinus your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Marinus, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Julian the Hermit of Mesopotamia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Julian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Joseph the Wonderworker, Igumen of Volokolamsk",
+      "troparion": {
+        "tone": 5,
+        "text": "All you faithful who have gathered here, let us praise the all-wise Joseph,  / the adornment of fasters and beauty of the Fathers, /  the giver of alms, the light of wisdom,  / the teacher of meekness, the scourge of heresies, and the star of Russia, /  praying that the Lord may have mercy on our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Considering the storms of life, the vanity of the world, and the tumult of the passions as nothing,  /  O Venerable Joseph, you became a dweller in the wilderness, the instructor of many, a gatherer of monks,  /  a true intercessor, and a lover of purity.  /  Pray to Christ God that our souls may be saved."
+      }
+    },
+    {
+      "name": "Saint Peter of Cetinje",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Peter, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint David of Serpukhov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father David, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

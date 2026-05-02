@@ -1,0 +1,71 @@
+{
+  "date": "2026-03-13",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Translation of the relics of Saint Nikephoros, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 3,
+        "text": "Your fragrant relics have been revealed as godly treasure / filled with life for the Church. / On their august translation / we receive the gifts of the Spirit. / Righteous Father Nikephorus, entreat Christ our God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You laid down your life for your flock / Inspiring it with true piety. / Therefore it joyfully receives your holy relics and cries to you: / You are our boast and refuge, / O Father Nikephorus, blessed light of confession!"
+      }
+    },
+    {
+      "name": "Martyr Sabinus (Abibus) of Egypt",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Sabinus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Sabinus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyrs Africanus, Publius, and Terence, of Carthage",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Publius, Bishop of Athens",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Publius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Alexander of Macedonia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Alexander, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Alexander;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Christina of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Christina calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Aninas of the Euphrates",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Aninas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

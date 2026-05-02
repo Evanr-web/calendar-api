@@ -31,5 +31,113 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "On this day we, the Orthodox people, joyously keep festival, /   illumined by your coming, O Mother of God; /   and, beholding your most pure image, we cry out with compunction: /   \"Cover us with your Protecting Veil and deliver us from all evil,  /  entreating your Son, Christ our God, to save our souls.\"",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today the Virgin stands in the church,  / and with hosts of Saints, and invisibly prays to God for us. /  Angels worship with Hierarchs,  / and Apostles rejoice with Prophets, /  for the Theotokos prays to the Pre-eternal God for us.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary",
+  "oca_saints": [
+    {
+      "name": "The Protection of our Most Holy Lady the Mother of God and Ever-Virgin Mary",
+      "troparion": {
+        "tone": 4,
+        "text": "On this day we, the Orthodox people, joyously keep festival, /   illumined by your coming, O Mother of God; /   and, beholding your most pure image, we cry out with compunction: /   \"Cover us with your Protecting Veil and deliver us from all evil,  /  entreating your Son, Christ our God, to save our souls.\""
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin stands in the church,  / and with hosts of Saints, and invisibly prays to God for us. /  Angels worship with Hierarchs,  / and Apostles rejoice with Prophets, /  for the Theotokos prays to the Pre-eternal God for us."
+      }
+    },
+    {
+      "name": "Apostle Ananias of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Ananias, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Romanus the Melodist, “Sweet-Singer”",
+      "troparion": {
+        "tone": 4,
+        "text": "You gladdened Christ’s Church by your melodies / like an inspired heavenly trumpet. / You were enlightened by the Mother of God / and shone on the world as God’s poet. / We lovingly honor you, righteous Romanus."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You were adorned from childhood with the godly virtues of the Spirit; / you were a precious adornment of the Church of Christ, all-wise Romanus, / for you made it lovely with beautiful hymnody. / Therefore, we entreat you, grant your divine gift to those who desire it, / that we may cry out to you: “Rejoice, all-blessed Father, beauty of the Church.”"
+      }
+    },
+    {
+      "name": "Venerable Savva, Abbot of Vishera, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Savva, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Domninus of Thessalonica",
+      "troparion": {
+        "tone": 4,
+        "text": "Thy martyr Domnίnus, O Lord, /  through his suffering received an incorruptible crown from Thee, our God;  / for, possessed of Thy strength,  / he laid low the tyrants and shattered the powerless boldness of the demons.  / By his supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou shone forth in your splendor as a bright star,  / announcing Christ to this temporal world, O Martyr Domnίnus;  / vanquishing the snares of false gods,  / you revealed the true light to the faithful,  / and you always intercede on behalf of us all."
+      }
+    },
+    {
+      "name": "Martyr Michael, Abbot in Armenia, and 36 Fathers with him",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints Michael and his companions."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Michael and his companions, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable John (Koukouzelis) the Hymnographer of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gregory Domesticus of the Great Lavra, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gregory, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Kasperov",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, we Orthodox people celebrate joyously,  / sheltered by your coming, O Mother of God,  / and beholding your Most Pure Icon, we say tenderly:  / “Cover us with your revered veil and deliver us from all evil,  / entreating your Son, Christ God, to save our souls.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin is in the Church, and with the assembly of the Saints, /  invisibly prays to God for us.  / The Angels worship with the Hierarchs, the Apostles rejoice with the Prophets;  / and the Theotokos prays to the Pre-eternal God for our sake."
+      }
+    },
+    {
+      "name": "Saint Melchizedek I, Catholicos-Patriarch of All Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Melchizedek, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
 }

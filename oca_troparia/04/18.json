@@ -1,0 +1,82 @@
+{
+  "date": "2026-04-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Bright Saturday",
+      "troparion": {
+        "tone": 8,
+        "text": "(Hypakoe)\r\nBefore the dawn Mary and the women came /  and found the stone rolled away from the tomb. /  They heard the angelic voice: “Why do you seek among the dead as a Man  / the One Who is everlasting Light? /  Behold the clothes in the grave; go and proclaim to the world: /  ‘The Lord is risen; He has slain death, /  as He is the Son of God, saving the race of man.’”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You descended into the tomb, O Immortal,  / You destroyed the power of death. /  In victory You arose, O Christ God, /  proclaiming: “Rejoice!” to the Myrrhbearing Women, / granting peace to Your Apostles, and bestowing Resurrection on the fallen."
+      }
+    },
+    {
+      "name": "Venerable John, disciple of Venerable Gregory of Decapolis",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable John, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Blessed John, with the Lord’s Cross upon your shoulder, / you climbed to the summit of virtues. / In place of passing pleasures / you attained the glory of the Kingdom of Heaven."
+      }
+    },
+    {
+      "name": "Martyr Victor, and his companions, of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Victor and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Cosmas, Bishop of Chalcedon, and his fellow ascetic, Saint Auxentius",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Cosmas, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr John the New of Epirus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr John, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr John;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Euthymius, Enlightener of Karelia, Finland and the Righteous Anthony and Felix",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Euthymius, Anthony, and Felix, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Maximov” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "O Sovereign Lady,  / today the most glorious city of Vladimir rejoices exceedingly,  / joyously celebrating the Feast of your apparition to Saint Maximus;  / as we remember him now and beseeching you we cry out:  / “O Most Holy Sovereign Lady Theotokos,  / entreat your Son, that He strengthen the Orthodox Church,  / and that He preserve our souls in peace in the Orthodox Faith.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Turn your gaze toward us, O Theotokos praised by all, shine light into our darkened hearts, illumine your flock, O Most Pure one, for as the Mother of the Creator, whatever you wish, you are able to do, and you cry to those who entreat you, “I am with you, and no one can prevail against you.”1"
+      }
+    },
+    {
+      "name": "Saint Basil Ratishvili of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Basil your spirit rejoices with the Angels."
+      },
+      "kontakion": null
+    }
+  ]
+}

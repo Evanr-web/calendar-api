@@ -1,0 +1,90 @@
+{
+  "date": "2026-01-05",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Eve of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "Of old, the river Jordan / turned back before Elisha’s mantle at Elijah’s ascension. / The waters were parted in two / and the waterway became a dry path. / This is truly a symbol of baptism / by which we pass through this mortal life. / Christ has appeared in the Jordan to sanctify the waters!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "O Christ, in Thy compassion and infinite mercy, / Thou art coming as a man to be baptized in the Jordan, / in order to take away the many transgressions of us all, / clothing me in the garment of ancient glory / of which I was cruelly stripped bare."
+      }
+    },
+    {
+      "name": "Hieromartyr Theopemptus, Bishop of Nicomedia, and Martyr Theonas",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Theopemptus and Theonas, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Synkletika of Alexandria",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Mother;  / for you took up your cross and followed Christ; /  by so doing, you taught us to disregard the flesh, for it passes away;  / but to care instead for the soul, since it is immortal. /  Therefore, O Venerable Synklētikḗ, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nO divine Synklētikḗ, our righteous God-bearing Mother,  /  you shone forth as an ever-luminous lamp of virtues,  /  laying bare the dark devices of the Enemy;  /  and your light guided a multitude of wise virgins to the heavenly Bridal Chambers;  /  together with them, pray that we may be shown mercy."
+      }
+    },
+    {
+      "name": "Prophet Micah",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Micah, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Micah."
+      }
+    },
+    {
+      "name": "Saint Apollinaria of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Mother,  / for you took up your cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care instead for the soul, since it is immortal.  / Therefore, \r\nO holy Mother Apollinaria, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...”)\r\nOut of love for God, you despised the desire for rest, O Mother Apollarina  / and illuminating your soul with fasting,  / you completely vanquished your enemies;  / and by your intercession you destroyed the evil schemes of our adversaries."
+      }
+    },
+    {
+      "name": "Venerable Phosterius the Hermit",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Phosterius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Menas of Sinai",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Menas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Gregory of Crete",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Gregory, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Romanus the Martyr",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Romanus, rejoices with the angels."
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "date": "2026-04-01",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Mary of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what was according to the image;  / for you took up the Cross and followed Christ. /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal.  / Therefore, O Venerable Mary, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Having been a sinful woman,  /  you became a Bride of Christ through repentance. /  Having attained the angelic life,  /  you defeated demons by the weapon of the Cross;  /  therefore, O most glorious Mary you are a Bride of the Kingdom."
+      }
+    },
+    {
+      "name": "Venerable Euthymius of Suzdal",
+      "troparion": {
+        "tone": 3,
+        "text": "Like a shining star, you came from the east to the west,  / leaving your homeland, Nizhny Novgorod, and reaching the God-saved city of Suzdal,  / you founded a monastery there and gathered many monks,  / and received the gift of working miracles from God,  / O Father Euthymios, you were of one mind with Christ and an ascetic equal to the Venerable Sergius.  / With him, entreat Christ God to grant us health, salvation, and great mercy to our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Passing dry through many storms,  / you drowned your bodiless enemies with the streams of your tears, O divinely wise Euthymios, /  therefore, you received the gift of miracles,  / pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Martyr Abraham of Bulgaria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Abraham, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Abraham;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Gerontius the Canonarch of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gerontius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Makarios, Igoumen of Pelēketḗ",
+      "troparion": {
+        "tone": 4,
+        "text": "You imitated the zeal of Elias the Tishbite,  / and the characteristics of the Baptist;  / and with inspired words, O Father Makarios,  / you rebuked the impious Emperors, strengthening the faithful in piety.  / Therefore, having been tested by your afflictions, you went gloriously to God."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nToday the most revered memory of Makarios is celebrated joyously, /  for he struggled much and was exiled for the Church of Christ; /  for behold, the venerable icons are adorned; /  therefore, we cry out: /  “Rejoice, Godly-minded one, the foundation of piety.”"
+      }
+    },
+    {
+      "name": "Martyrs Gerontius and Basilides",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Gerontius and Basilides, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John Shavteli, Bishop of Gaenati and Saint Eulogius, Prophet and Fool-for-Christ of Salosi",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Barsanuphius of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  / for you took up the Cross and followed Christ. /  By so doing, you taught us to disregard the flesh, for it passes away; / but to care for the soul, since it is immortal.  /  Therefore, O Venerable Barsanouphios, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Father Barsanouphios: /  “Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

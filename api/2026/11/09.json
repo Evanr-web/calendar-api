@@ -32,5 +32,138 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs, Onesiphorus and Porphyrius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "The pair of glorious martyrs, Onesiphorus and Porphyrius, / endured their suffering with strength, / dashing down to the earth the arrogance of the enemy, / and shining with the grace of the uncreated Trinity; / together with the angels, they unceasingly pray for us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Onesiphorus and Porphyrius of Ephesus",
+  "oca_saints": [
+    {
+      "name": "Martyrs Onesiphorus and Porphyrius of Ephesus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, Onesiphorus and Porphyrius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "The pair of glorious martyrs, Onesiphorus and Porphyrius, / endured their suffering with strength, / dashing down to the earth the arrogance of the enemy, / and shining with the grace of the uncreated Trinity; / together with the angels, they unceasingly pray for us all."
+      }
+    },
+    {
+      "name": "Venerable Matrona, Abbess of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Mother, / for you took up the Cross and followed Christ. / By so doing, you taught us to disregard the flesh, for it passes away; / but to care instead for the soul, since it is immortal. / Therefore your spirit, O holy Mother Matróna, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You passed through the storm of life without faltering, chosen and godly Mother Matróna, / guided to the harbor of life, where you sing hymns to the Deliverer. / You ever pray that Christ may grant us grace and mercy; / you preserve the flock which you painstakingly gathered!"
+      }
+    },
+    {
+      "name": "Venerable Theoktίstē of the Isle of Lesbos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Theoctiste, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Onesiphorus the Confessor of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Onesiphorus, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Alexander of Thessalonica",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Alexander, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Alexander;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Anthony of Apamea",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Anthony, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anthony;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable John the Short, of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Eustolia of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Eustolia your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Eustolia, /  you illumined your soul with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Saint Sopatra of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Sopatra your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Sopatra, /  you illumined your soul\r\nwith fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Saint Nectarius Kephalas, Metropolitan of Pentapolis",
+      "troparion": {
+        "tone": 1,
+        "text": "O faithful, let us honor Nectarius the divine servant of Christ, / offspring of Silyvria and guardian of Aegina, / who appeared in these last times as a true friend of virtue, / pouring forth all manner of healing upon those who reverently cry: / Glory to Him who gave you strength! / Glory to Him who granted you a crown! / Glory to Him who through you grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Let us sing praises with gladness of heart / to the newly-shining star of Orthodoxy, the newly-built rampart of the Church. / Being glorified by the power of the Spirit, he pours forth the abundant grace of healings upon those who cry: / “Rejoice, Father Nectarius.”"
+      }
+    },
+    {
+      "name": "Venerable Euthymius, founder of Dochiariou Monastery (Mount Athos—10th c.), and Venerable Neophytus, Co-founder of the Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Euthymius and Neophytus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Quick to Hear” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us hasten to the Theotokos amid our misfortunes, and fall down now before her holy Icon, /  crying out with faith from the depths of our soul:  / “Hearken quickly to our prayer, O Virgin, /  inasmuch as you are called ‘Quick to Hear,’ /  since we your servants have you as a speedy helper in our needs.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “You sought the Heights...”)\r\nTempest-tossed upon the sea of life, we sink beneath the waves of the passions and temptations;  / therefore, stretch forth your hand to us, O Lady, as your Son did to Peter;  / and hasten to deliver us from misfortunes that we may cry out to you: “Rejoice, most good one, who are quick to hear.”"
+      }
+    }
+  ]
 }

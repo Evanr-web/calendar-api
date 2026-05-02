@@ -30,5 +30,62 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "O foremost of the Apostles and teachers of the inhabited earth, /  intercede with the Master of all /  to grant peace to the world and great mercy to our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Today Christ the Rock1 glorifies the rock of Faith  / and leader of the Apostles with highest honor.  / Together with Paul and the company of the Twelve,  / whose memory we celebrate with eagerness of faith, /  giving glory to Him Who glorified them.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul",
+  "oca_saints": [
+    {
+      "name": "The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul",
+      "troparion": {
+        "tone": 4,
+        "text": "O foremost of the Apostles and teachers of the inhabited earth, /  intercede with the Master of all /  to grant peace to the world and great mercy to our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today Christ the Rock1 glorifies the rock of Faith  / and leader of the Apostles with highest honor.  / Together with Paul and the company of the Twelve,  / whose memory we celebrate with eagerness of faith, /  giving glory to Him Who glorified them."
+      }
+    },
+    {
+      "name": "The Holy Glorious and All-Praised Leader of the Apostles, Peter",
+      "troparion": {
+        "tone": 4,
+        "text": "O foremost of the Apostles and teachers of the inhabited earth, /  intercede with the Master of all /  to grant peace to the world and great mercy to our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today Christ the Rock1 glorifies the rock of Faith  / and leader of the Apostles with highest honor.  / Together with Paul and the company of the Twelve,  / whose memory we celebrate with eagerness of faith, /  giving glory to Him Who glorified them."
+      }
+    },
+    {
+      "name": "The Holy Glorious and All-Praised Leader of the Apostles, Paul",
+      "troparion": {
+        "tone": 4,
+        "text": "O foremost of the Apostles and teachers of the inhabited earth, /  intercede with the Master of all /  to grant peace to the world and great mercy to our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today Christ the Rock1 glorifies the rock of Faith  / and leader of the Apostles with highest honor.  / Together with Paul and the company of the Twelve,  / whose memory we celebrate with eagerness of faith, /  giving glory to Him Who glorified them."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Kasperov",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, we Orthodox people celebrate joyously,  / sheltered by your coming, O Mother of God,  / and beholding your Most Pure Icon, we say tenderly:  / “Cover us with your revered veil and deliver us from all evil,  / entreating your Son, Christ God, to save our souls.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin is in the Church, and with the assembly of the Saints, /  invisibly prays to God for us.  / The Angels worship with the Hierarchs, the Apostles rejoice with the Prophets;  / and the Theotokos prays to the Pre-eternal God for our sake."
+      }
+    }
+  ]
 }

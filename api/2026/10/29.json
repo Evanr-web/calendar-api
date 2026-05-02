@@ -31,5 +31,86 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "You abandoned all earthly comforts, O Father Abramius, / living righteously in hope of things to come and receiving a sacred anointing. / Initiated into divine mysteries, you enlighten those who cry: / Glory to him who has strengthened you! / Glory to him who has granted you a crown! / Glory to him who through you works healing for all!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "You lived in the flesh on earth as an angel, / and through your ascetic life you became like a tree nourished by the waters of abstinence and flourished. / You have washed away stains with the streams of your tears / and so you have been revealed, Abramius, to be a god-like vessel of the Spirit.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia",
+  "oca_saints": [
+    {
+      "name": "Monastic Martyr Anastasia of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Anastasia, calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)Cleansed by the waters of virginity, and the blood of martyrdom, Anastasia,  / you grant healing of every illness to those in need,  / and salvation to those who come with love;  / for Christ, the ever-flowing fountain of grace, has given you power."
+      }
+    },
+    {
+      "name": "Venerable Abramius the Recluse, and his niece, Blessed Mary, of Mesopotamia",
+      "troparion": {
+        "tone": 1,
+        "text": "You abandoned all earthly comforts, O Father Abramius, / living righteously in hope of things to come and receiving a sacred anointing. / Initiated into divine mysteries, you enlighten those who cry: / Glory to him who has strengthened you! / Glory to him who has granted you a crown! / Glory to him who through you works healing for all!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You lived in the flesh on earth as an angel, / and through your ascetic life you became like a tree nourished by the waters of abstinence and flourished. / You have washed away stains with the streams of your tears / and so you have been revealed, Abramius, to be a god-like vessel of the Spirit."
+      }
+    },
+    {
+      "name": "Venerable Abramius, Archimandrite of Rostov",
+      "troparion": {
+        "tone": 1,
+        "text": "You abandoned all earthly comforts, O Father Abramius, / living righteously in hope of things to come and receiving a sacred anointing. / Initiated into divine mysteries, you enlighten those who cry: / Glory to him who has strengthened you! / Glory to him who has granted you a crown! / Glory to him who through you works healing for all!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You lived on earth as an angel in the flesh / and flourished as a well-planted tree, watered by abstinence and tears, / O Abramius, vessel of the Holy Spirit!"
+      }
+    },
+    {
+      "name": "Martyr Claudius, Asterius, Neon, and Theonilla of Aegæ in Cilicia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous Anna of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Anna, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Timothy of Esphigmenou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Timothy, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Timothy, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Saint Serapion of Zarzma",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Serapion, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

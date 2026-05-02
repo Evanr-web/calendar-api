@@ -1,0 +1,137 @@
+{
+  "date": "2026-07-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy Apostles of the Seventy and Deacons: Prochorus, Nicanor, Timon, and Parmenas",
+      "troparion": {
+        "tone": 3,
+        "text": "O holy apostle Prochorus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "You were holy deacons and eye-witnesses of the Word, / and chosen vessel of the faith, / O glorious Nicanor, Prochorus, Parmenas and Timon. / Therefore today we celebrate your sacred memory, / blessing you in gladness of heart."
+      }
+    },
+    {
+      "name": "Saint Pitirim, Bishop of Tambov",
+      "troparion": {
+        "tone": 4,
+        "text": "Instructor of faith and piety, Lamp of the Church,  / faithful image of those leading the monastic life, /  O most wise Hierarch Pitirim, you tended your flock devotedly and led it to Christ, /  therefore, adorned with a crown of glory from on High, /  you remain in spirit with us on earth,  / shining forth with miracles. /  Pray to Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Together let us praise Pitirim, an outstanding instructor of monastics and a kindly Hierarch for all people;  / an astonishing wonderworker, our tireless intercessor, and boast of the land of Tambov."
+      }
+    },
+    {
+      "name": "Venerable Moses, Wonderworker of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Moses, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Julian of Dalmatia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Julian, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Julian;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Eustathius (Eustace) of Apamea",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Eustathius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Eustathius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Paul, founder of the Xeropotamou Monastery on Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paul, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Appearance of the Smolensk “Directress” Icon of the Mother of God brought from Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls:  /  \"O Sovereign Lady, have compassion on us,  / help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.\""
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast protectress of Christians, /   most constant advocate before the Creator,  /   do not despise the voices of us who have sinned,  /   but in your goodness come speedily to help us, who cry to you in faith: /   \"Hasten to intercede for us, O Theotokos,  /   and speedily make supplication, for you always protect those who honor you.\""
+      }
+    },
+    {
+      "name": "Martyr Acacius of Apamea",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, / O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Acacius entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Melitina",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Melitina, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Melitina;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Irene Chrysovolantou",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Let us the faithful praise and worship the Word...”)\r\nYou did not obtain an earthly kingdom,  / but now Christ, your most comely Bridegroom, has\r\ndeemed you worthy of incorruptible crowns; /  for you dedicated yourself to Him with all your\r\nheart and soul,  / O Venerable Mother Irene, the glory of Chrysovalantou, our refuge and our help."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nLeaving behind the entire world with its temporal glory,  / you were wedded to Christ, the immortal and holy King,  / bringing to Him as a precious dowry your virginity and the trophies you have won over the demons through abstinence. /  O Venerable Mother Irene, entreat your Bridegroom to grant us mercy."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Greben",
+      "troparion": {
+        "tone": 8,
+        "text": "Today, like a beautiful sun, shining in the southern region of the Russian land,  / your Icon, which the right-believing Great Prince Dēmḗtrios brought to the city of Moscow, /  is revered by all, O Sovereign Lady.  / We faithful celebrate joyously at the coming of your honored Icon, fervently entreating: /  \"O Sovereign Lady Theotokos, pray to your Son, Christ our God, for our salvation.\""
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From your holy icon, O Virgin Theotokos,   / healings flow like many rivers;   / seeing this we cry out:   / \"O Most Holy Sovereign Lady Theotokos, do not forget your sinful servants,   / and pray to Christ God for our salvation.\""
+      }
+    },
+    {
+      "name": "Seraphim-Diveyevo Tenderness Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all those who are burdened with sins turn to the Theotokos with heartfelt contrition,  /  kissing her wonderworking Tenderness Icon and crying out with tears:  /  “O Sovereign Lady, accept the prayer of your unworthy servants /  and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Like the barren fig tree1  I, the accursed one, do not bear the fruit of humility at all,  /  and I fear being cut down, but beholding your wonderworking Tenderness Icon,  /  O Sovereign Lady, I sigh from my heart and cry out: /   “Have mercy on me, who am hard-hearted, O Merciful one.  /  Bless me and grant me spiritual and heartfelt humility.”"
+      }
+    },
+    {
+      "name": "Venerable George the Builder",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father George, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

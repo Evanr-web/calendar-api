@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "40 Holy Martyrs of Sebaste",
+      "troparion": {
+        "tone": 1,
+        "text": "For the sake of the sufferings of Your Saints, /  which they endured for You, O Lord,  / we entreat You to heal all our infirmities,  / O Lover of mankind."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "(Podoben: “When You fulfilled the dispensation for our sake...” - Ascension)\r\nLeaving all earthly armies, /  you cleaved to the Master in Heaven, O Forty prize-winners of the Lord;  / for passing through fire and water, O blessed Martyrs,  / as is meet, you received glory from Heaven, and a multitude of crowns."
+      }
+    },
+    {
+      "name": "Martyr Urpasianus of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Urpasianus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Urpasianus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Caesarius, brother of Saint Gregory the Theologian",
+      "troparion": {
+        "tone": 4,
+        "text": "You were meek, blameless, without malice,  /  and righteous, most wondrous Caesarius,  /  gracious and calm in spirit,  /  imposing  upon yourself the most secret patience,  /  and you were a martyr without bloodshed.  /  Therefore, we entreat you:  /  “By your prayers, beseech Christ God to grant us healing and great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Adorned with the true Faith,  / you shone forth with almsgiving and a virtuous life,  /  with chastity and righteousness. /  Therefore, we cry out: /  “O most blessed Caesarius, /  standing before Christ with your relatives, /  pray for all of us.”"
+      }
+    },
+    {
+      "name": "Righteous Tarasius of Liconium",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Tarasius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Vitalius of Castronovo",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Vitalius your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Vitalius, pray unceasingly for us all."
+      }
+    }
+  ]
+}

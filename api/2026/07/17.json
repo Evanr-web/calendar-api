@@ -30,5 +30,64 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "(Podoben: “Let us worship the Word...”)\r\nO glorious Marina, once betrothed to the Word,  / you renounced all worldly concerns and struggled as a beautiful virgin. /  You soundly trounced the invisible Enemy who appeared to you, O Champion,  / and now you are a wellspring of healing grace for the world.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today Marina crushes the head of the Enemy,1    / having received a crown of victory from Heaven,   / she bound and struck the one whom the Prophets could not restrain.   / Therefore, she became an adornment of the Martyrs,   / as well as their glory.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Great Martyr Marina (Margaret) of Antioch",
+  "oca_saints": [
+    {
+      "name": "Great Martyr Marina (Margaret) of Antioch",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Let us worship the Word...”)\r\nO glorious Marina, once betrothed to the Word,  / you renounced all worldly concerns and struggled as a beautiful virgin. /  You soundly trounced the invisible Enemy who appeared to you, O Champion,  / and now you are a wellspring of healing grace for the world."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today Marina crushes the head of the Enemy,1    / having received a crown of victory from Heaven,   / she bound and struck the one whom the Prophets could not restrain.   / Therefore, she became an adornment of the Martyrs,   / as well as their glory."
+      }
+    },
+    {
+      "name": "Venerable Irenarchus, Abbot of Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Irenarchus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of Venerable Lazarus of Mount Galesius near Ephesus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Lazarus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Royal Passionbearers Tsar Nicholas (Nikolai), Tsaritsa Alexandra, Tsarevich Aleksy, Grand Duchesses Olga, Tatiana, Maria, Anastasia",
+      "troparion": {
+        "tone": 1,
+        "text": "Most noble and sublime was your life and death, O Sovereigns; / wise Nicholas and blest Alexandra, we praise you, / acclaiming your piety, meekness, faith, and humility, / whereby you attained to crowns of glory in Christ our God, / with your five renowned and godly children of blessed fame. / O passion-bearers decked in purple, intercede for us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Royalty and martyrdom were joined together, O blessed ones, / in your death for righteousness and right belief, O wise Sovereigns, / Nicholas and Alexandra, with your five children. / Hence, Christ our God counted you worthy of thrones in Heaven; / and with twofold crowns of glory, / you reign forever, adorned with grace divine."
+      }
+    },
+    {
+      "name": "Venerable Leonid of Ustnedumsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Leonid, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

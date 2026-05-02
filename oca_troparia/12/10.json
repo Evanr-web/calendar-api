@@ -1,0 +1,69 @@
+{
+  "date": "2026-12-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Menas, Hermogenes, and Eugraphus, of Alexandria",
+      "troparion": {
+        "tone": 8,
+        "text": "Having slain the fiery ragings and fierce movements of the passions through their ascetic labors, / the Martyrs of Christ, Menas, Hermogenes, and Eugraphus, received grace to dispel the afflictions of the infirm and to work wonders both while alive and after death. / It is a truly great wonder that bare bones pour forth healing. / Glory to our only God and Creator."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The Lord snatched you from the temporal army making you a fellow inheritor of the eternal, O Menas; / together with Hermogenes and Eugraphus with whom you suffered, / you are granted an incorruptible crown."
+      }
+    },
+    {
+      "name": "Saint Joasaph, Bishop of Belgorod",
+      "troparion": {
+        "tone": 2,
+        "text": "O divinely-chosen Hierarch of Christ, Ioasaph,  / from childhood you were an extraordinary man of prayer.  / By your pious life, you appeared as a rule of faith and an example of mercy;  / and to those who come to you with faith, you gush forth abundant healing.  / Pray to Christ God that He may confirm our land in Orthodoxy, peace and piety, and save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Who can tell of the various struggles of your life? /  Who can count the various mercies of God which you manifested?  / Knowing well your boldness before the Most Pure Theotokos and the all-generous God, we call upon you with compunctionate hearts: /  \"Do not deprive us of your help and intercession, O Hierarch of Christ and wonderworker Ioasaph.\""
+      }
+    },
+    {
+      "name": "Martyr Gemellus of Paphlagonia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Gemellus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Gemellus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Thomas of Bithynia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Thomas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Righteous King John of Serbia, and his parents Righteous Stephen, Despot of Serbia, and Venerable\r\nAngelina of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what was according to the image; /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away;  / but to care for the soul, since it is immortal.  /  Therefore, O Venerable Angelina, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O victorious Leader...”)\r\nCome, let us praise John,  /  the newly glorified servant of God’s grace,  /  the glory of our Faith and our intercessor / who invites us to sing with grateful voices,   /  and to glorify Him Who glorifies His Saints, /  for he prays for those who honor his memory  /  and who sing to him: “Rejoice, O newly blossomed flower John.”"
+      }
+    },
+    {
+      "name": "Venerable Leontios of Achaia",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “Your tomb, O Savior...”)\r\nYou shone forth in asceticism, like gold in the furnace, with your divine teachings,  /  you enlightened the choirs of monastics who followed you, O God-bearer Leóntios,  /  and today, as we celebrate your radiant memory,  /  we ask you to intercede with the Lord for us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / Therefore, we beseech you, O our Father Leontius,  / always intercede for us who honor you."
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "date": "2026-10-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Macarius the Roman of Mesopotamia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle James, the Brother of the Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "As the Lord’s disciple you received the Gospel, O Just one;1  /  as a martyr you have unfailing courage; /  as the Brother of the Lord, you have boldness;  / as a hierarch, you are able to intercede.  / Entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up on the Cross...”)\r\nWhen God the Word, the Only-begotten of the Father, / came to dwell among us in these latter days,  / He declared you, O glorious James, to be the first shepherd and teacher of Jerusalem  / and a faithful steward of spiritual Mysteries.  / Therefore, we all honor you, O Apostle."
+      }
+    },
+    {
+      "name": "Translation of the relics of Blessed James of Borovichi, Wonderworker of Novgorod",
+      "troparion": {
+        "tone": 1,
+        "text": "Enlightened by Divine Grace,  /  after death you grant healing to those who come to you, most wise James, /  and now we honor the transfer of your precious relics, rejoicing in both soul and body. /  Therefore, we all cry:  / “Glory to Him Who gave you strength.  / Glory to Him Who crowned you. /  Glory to Him Who, through you, grants healing to all.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Like a bright star, O Father,  / you shone forth in the east, and came west, O blessed one, at the transfer of your relics. /  Now, like the rays of the sun, you radiate healing for those who come to the shrine of your relics.  / Pray to Christ God to save the Orthodox people who pray to you, that all may cry:  / “Rejoice, divinely-wise James.”"
+      }
+    },
+    {
+      "name": "Saint Ignatius, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Ignatius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Elisha of Lavreshev",
+      "troparion": {
+        "tone": 3,
+        "text": "O Venerable Father Elisha, you struggled wondrously with Saint Laurence.  / Emulating your teacher, you threw earthly glory and honor beneath the feet of Christ; /  therefore, the Lord has crowned you with the imperishable crown of His glory."
+      },
+      "kontakion": null
+    }
+  ]
+}

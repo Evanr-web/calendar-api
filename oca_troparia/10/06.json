@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Glorification of Saint Innocent, Metropolitan of Moscow, Enlightener of the Aleuts, Apostle to the Americas",
+      "troparion": {
+        "tone": 4,
+        "text": "You evangelized the northern people of America and Asia, / proclaiming the Gospel of Christ to the natives in their own tongues. / Holy Hierarch Father Innocent, / enlightener of Alaska and all America, / your ways were ordered by the Lord! / Pray to Him for the salvation of our souls in His heavenly Kingdom!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "A true celebration of the providence and grace of God / is your life, O Holy Father Innocent, Apostle to our land. / In hardships and dangers you toiled for the Gospel’s sake / and God delivered and preserved you unharmed. / From obscurity He highly exalted you as an example / that the Lord truly guides a man in the way he should go."
+      }
+    },
+    {
+      "name": "Holy, Glorious Apostle Thomas",
+      "troparion": {
+        "tone": 2,
+        "text": "You were a disciple of Christ, / and a member of the divine college of Apostles. / Having been weak in faith you doubted the Resurrection of Christ, / but by feeling the wounds you believed in His all-pure Passion: / pray now to Him, O all-praised Thomas, to grant us peace and great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Thomas, the faithful servant and disciple of Christ, / filled with divine grace, cried out from the depth of his love: / “You are my Lord and my God!”"
+      }
+    },
+    {
+      "name": "Monastic Martyr Macarius of Saint Anne Skete, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Macarius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Macarius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    }
+  ]
+}

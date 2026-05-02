@@ -1,0 +1,71 @@
+{
+  "date": "2026-02-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Haralambos, Bishop of Magnesia in Thessaly, the Martyrs Porphyrius and Baptus, and three women Martyrs",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You rose from the east like a star, hieromartyr Haralampus, / and enlightened the faithful with the brightness of your miracles. / Therefore we honor your holy contest!"
+      }
+    },
+    {
+      "name": "Princess Anna of Novgorod",
+      "troparion": {
+        "tone": 1,
+        "text": "Having shone as a heavenly star in the west,  / you were honored to accept the Orthodox Faith,  / and you were brought to the Russian land as a blessed fruit,  / O Holy Right-believing Princess Anna,  / and you loved Christ with all your heart, keeping His commandments and laws;  /  therefore, as we celebrate your holy memory today,  / we receive the forgiveness of our sins, by your prayers."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Novgorod rejoices on the radiant day of your blessed memory,  /  calling all the faithful to celebrate your memory with gladness;  / and now, spiritually triumphant, we praise and entreat you:  / “Holy Right-believing Princess Anna,  / as you stand before the Holy Trinity,  / pray for the deliverance of Novgorod and the entire Russian land from all troubles and tribulations,  / and for the salvation of us all.”"
+      }
+    },
+    {
+      "name": "Venerable Prochorus of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Prochorus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Longinus of Koryazhemsk, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Longinus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyrs Ennatha, Valentina and Paula, of Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lambs Ennatha, Valentina and Paula call out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through their prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martys Ennatha, Valentina and Paula,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Saint John Chimchimeli the Philosopher",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Ioannikios, Father Confessor of the Dormition Holy Mountain Hermitage",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ioannikios, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

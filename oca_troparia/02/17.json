@@ -1,0 +1,104 @@
+{
+  "date": "2026-02-17",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great Martyr Theodore the Tyro (Recruit)",
+      "troparion": {
+        "tone": 2,
+        "text": "Great are the accomplishments of faith,  / for the Holy Martyr Theodore rejoiced in the fount of flames as though at the waters of rest;1 /  for having been made a whole burnt offering in the fire, /  he was offered as a sweet bread to the Trinity.  /  By his entreaties, O Christ God, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Original melody)Having received the faith of Christ in your heart as a breastplate, /  you trampled upon inimical forces, O much-suffering champion, /  and you have been crowned eternally with a heavenly crown, as one invincible."
+      }
+    },
+    {
+      "name": "Hieromartyr Hermogenes, Patriarch of Moscow, Wonderworker of All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "You were the First Hierarch of the Russian land and a tireless intercessor before God.  / By laying down your life for the faith of Christ and for your flock, you delivered your land from lawlessness.  / Therefore we cry out to you: “Preserve us by your prayers, O Hieromartyr Ermogénes, our Father.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Exhausted by imprisonment and starvation, you remained faithful until death, O Blessed Ermogénes,  /  dispelling cowardice from the hearts of your people and calling all of them to a common struggle.   / In this way, you suppressed the rebellion of the wicked, and you strengthened your land as well,   / so that all of us may cry out to you: “Rejoice, intercessor for the Russian land.”"
+      }
+    },
+    {
+      "name": "Venerable Theodore the Silent of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodore, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Mariamne the sister of the Apostle Philip",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mothers,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mothers Mariamne and Perozhavra your spirits rejoice with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mothers Mariamne and Perozhavra, /  you illumined your souls with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of the Martyr Menas of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Menas, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Menas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Joseph of Dionysiou",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Joseph your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the Highest...”) Having divinely armed yourself with purity of soul and firmly grasping unceasing prayer as a\r\nspear,  /  you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Joseph: /  \r\n“Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Saint Auxibius Bishop of Soli, Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Auxibius , / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Theodore",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Theodore, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Theodore;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Finan of Lindisfarne",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Finan, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Theodore of Atchara",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Theodore, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

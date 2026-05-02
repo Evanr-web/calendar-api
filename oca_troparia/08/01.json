@@ -1,0 +1,58 @@
+{
+  "date": "2026-08-01",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Procession of the Honorable Wood of the Life-Giving Cross of the Lord (First of the three “Feasts of the Savior” in August)",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance! / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of the Cross, / preserve Your habitation!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily crucified for our sake, / grant mercy to those who are called by Your name; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the invincible trophy, Your weapon of peace!"
+      }
+    },
+    {
+      "name": "7 Holy Maccabee Martyrs",
+      "troparion": {
+        "tone": 7,
+        "text": "Let us praise the seven Maccabees, / with their mother Salome and their teacher Eleazar; / they were splendid in lawful contest / as guardians of the teachings of the Law. / Now as Christ’s holy martyrs they ceaselessly intercede for the world."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Seven pillars of the Wisdom of God / and seven lampstands of the divine Light, / all-wise Maccabees, greatest of the martyrs before the time of the martyrs, / with them ask the God of all to save those who honor you."
+      }
+    },
+    {
+      "name": "Martyr Solomonia, mother of the Holy Seven Maccabee Martyrs",
+      "troparion": {
+        "tone": 7,
+        "text": "Let us praise the seven Maccabees, / with their mother Salome and their teacher Eleazar; / they were splendid in lawful contest / as guardians of the teachings of the Law. / Now as Christ’s holy martyrs they ceaselessly intercede for the world."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Seven pillars of the Wisdom of God / and seven lampstands of the divine Light, / all-wise Maccabees, greatest of the martyrs before the time of the martyrs, / with them ask the God of all to save those who honor you."
+      }
+    },
+    {
+      "name": "Martyr Eleazar the Teacher of the Holy Seven Maccabee Martyrs",
+      "troparion": {
+        "tone": 7,
+        "text": "Let us praise the seven Maccabees, / with their mother Salome and their teacher Eleazar; / they were splendid in lawful contest / as guardians of the teachings of the Law. / Now as Christ’s holy martyrs they ceaselessly intercede for the world."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Seven pillars of the Wisdom of God / and seven lampstands of the divine Light, / all-wise Maccabees, greatest of the martyrs before the time of the martyrs, / with them ask the God of all to save those who honor you."
+      }
+    },
+    {
+      "name": "Nine Martyrs of Perge in Pamphilia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

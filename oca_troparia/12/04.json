@@ -1,0 +1,66 @@
+{
+  "date": "2026-12-04",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Glorification of the Priestmartyr Alexander Hotovitzky",
+      "troparion": {
+        "tone": 6,
+        "text": "In a time of fiery temptations for the Church of Russia, / you manifested Christ’s love to your flock through meekness and humility. / As a good pastor you laid down your life for Him. / Pray for us, Hieromartyr Alexander, that our souls may be illumined!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Hieromartyr Alexander, / you bore labors and illness upon your shoulders, / and joyfully took the narrow path of suffering for Christ, / through which you attained the heavenly Kingdom. / Entreat God the Savior to grant us mercy on the Day of Judgment!"
+      }
+    },
+    {
+      "name": "Greatmartyr Barbara and Martyr Juliana, at Heliopolis in Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "O most blessed Lamb Barbara, divinely illuminated by the light of the Three-sunned Trinity, you were strengthened in the font of Baptism, vanquishing the delusions of your ancestors, you confessed your faith in Christ. Therefore, revered by all, God gave you grace from above to heal diseases and every infirmity. Pray to Him, O Great Martyr, that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up…”)\r\nBy devoutly following Him Who is praised in Trinity, O revered Passion-Bearer, you forsook the shrines of the idols, and contested in the midst of the arena, O Barbara, not cowering before the tyrants' threats, you cried out in a loud voice: “I worship the Trinity in one Godhead.”"
+      }
+    },
+    {
+      "name": "Venerable John of Damascus",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father John, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Let us sing praises to John, worthy of great honor, / the composer of hymns, the star and teacher of the Church, the defender of her doctrines: / through the might of the Lord’s Cross he overcame heretical error / and as a fervent intercessor before God / he entreats that forgiveness of sins may be granted to all."
+      }
+    },
+    {
+      "name": "Saint John, Bishop of Polybotum",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gennadius, Archbishop of Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gennadius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Seraphim Archbishop of Phanarion and Neochorion",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nLet us praise Seraphim, the offspring of Agrapha,  / leader of Phanarion, and glory of Korona Monastery, /  for he struggled magnificently for Christ,  / and freely pours forth miracles,  / delivering from corrupting diseases, those who cry out with faith:  / “Glory to Him Who strengthened you.  / Glory to Him Who made you wondrous.  / Glory to Him Who, through you, grants healings for all.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Adornment of Agrapha and lamp of Phanarion,  / support of the faithful, and glory of Hierarchs,  / hasten now to intercede for us, O champion.  / Crush the evil machinations of demons, that we may celebrate your contest joyously,  / O praiseworthy Seraphim."
+      }
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "date": "2026-12-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Prophet Haggai",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Haggai, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Haggai."
+      }
+    },
+    {
+      "name": "Martyr Marinus of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Marinus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Marinus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Theophanó the Wonderworker, wife of Emperor Leo the Wise",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up on the Cross...”)\r\nPreferring heavenly things to the earthly, O Theophanó,  / while on earth you lived an angelic life; /  therefore, you were found worthy of heavenly gifts.  / As you stand before the King of all with the Angelic hosts,  / and the choirs of the Saints, entreat Him to grant us mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nCelebrating your most radiant Feast today, O Theophanó,  / we cry aloud to you most devoutly:  / “Preserve your servants, who sing to you, from all dangers.”"
+      }
+    },
+    {
+      "name": "Venerable Sophia of Suzdal, the Wonderworker",
+      "troparion": {
+        "tone": 4,
+        "text": "Clearly, you were adorned with heavenly beauty, O Venerable Sophia,  / for you struggled in feats of fasting, inheriting the Kingdom of Heaven,  /  and you entered the Heavenly Bridal Chamber in order to delight in the comeliness of Christ.  /  Entreat Him to protect the city of Suzdal from pagan attacks and from civil war,  /  and to grant our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Having escaped the darkness of the passions, O divinely-wise Sophia,  / and having come to Christ the Unsetting Sun, you put carnal wisdom to death;  / through fasting, abstinence and prayers,  you proved to be an equal of the Angels,  / for while living on earth you drove away unclean spirits from people,  / and bestowed various healings, delivering them from many troubles and evils. /  O Venerable Sophia,  /  pray for the salvation of our souls."
+      }
+    }
+  ]
+}

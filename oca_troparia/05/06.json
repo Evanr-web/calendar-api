@@ -1,0 +1,74 @@
+{
+  "date": "2026-05-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Midfeast of Pentecost",
+      "troparion": {
+        "tone": 8,
+        "text": "In the middle of the Feast, O Savior, / fill my thirsting soul with the waters of godliness, as You did cry to all: / If anyone thirst let him come to me and drink! / O Christ God, Fountain of our life, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Christ God, the Creator and Master of all / cried to all in the midst of the Feast of the law: / Come and draw the water of immortality! / We fall before You and faithfully cry: / Grant us Your bounties, for You are the Fountain of our life!"
+      }
+    },
+    {
+      "name": "Righteous Job the Long-Suffering",
+      "troparion": {
+        "tone": 1,
+        "text": "As an indestructible pillar of courage, / you repulsed the attacks of Belial and remained unmoved in temptation. / Therefore, O wise Job, / the Church praises you as a model of endurance and an example of virtue; / and she is made radiant by your great deeds."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You were true and just, pious, blameless and holy, O glorious servant of \tGod. / You enlightened the world by your perseverance, much-afflicted Job. / Therefore, we all honor and praise your divinely-wise memory."
+      }
+    },
+    {
+      "name": "Venerable Micah, disciple of Venerable Sergius of Radonezh",
+      "troparion": {
+        "tone": 4,
+        "text": "Having taken the Lord's yoke* upon your shoulders, /  you followed Christ with your teacher, the venerable Sergius,  / with whom you were deemed worthy to behold the Most Holy Theotokos, /  and hear her sweet voice promise that she would not depart from that place. / Pray, O venerable Micah, for those who revere your holy memory."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Come, assemblies of monastics and choirs of those who fast,  / joining together let us praise blessed Micah,  / the companion in fasting of venerable Sergius, /  with whom he stands before the Holy Trinity  /  and prays that our souls be saved."
+      }
+    },
+    {
+      "name": "Martyr Barbarus the Soldier, and those with him, in Morea",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Barbarus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Barbarus in Thessaly, who was a robber",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Barbarus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Barbarus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Savva, first Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Savva, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Seraphim of Labodeia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Seraphim, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

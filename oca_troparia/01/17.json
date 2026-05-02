@@ -1,0 +1,49 @@
+{
+  "date": "2026-01-17",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable and God-bearing Father Anthony the Great",
+      "troparion": {
+        "tone": 4,
+        "text": "By emulating the ways of Elias the zealot,  / and following the straight paths of the Baptist,  / O Father Anthony, you made the desert a city, /  and upheld the world by your prayers.  / Therefore, entreat Christ God that our souls be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou rejected the tumults of this life and lived a life of stillness,  / emulating the Baptist in every way, most righteous one.  / Therefore, we honor you with him, Father Anthony,  / the foundation of the Fathers."
+      }
+    },
+    {
+      "name": "Venerable Anthony of Dymsk, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anthony, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Anthony of Chernoezero",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anthony, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Anthony of Krasny Kholm",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anthony, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Achilles",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Achilles, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

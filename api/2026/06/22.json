@@ -30,5 +30,86 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "By sharing in the ways of the Apostles,  /  you became a successor to their throne.  /  Through the practice of virtue, you found the way to divine contemplation, O divinely-inspired one:   /  by rightly dividing the Word of truth, you defended the Faith, even to the shedding of your blood.  /  O Hieromartyr Eusebios, entreat Christ God to save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one, /  you abolished the sacrifices of idolatry and showed yourself as the protector of your flock.  / Therefore, we cry fervently to you: /  “By your intercessions, deliver us from all misfortunes, O Eusebios our Father.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Eusebius, Bishop of Samosata",
+  "oca_saints": [
+    {
+      "name": "Hieromartyr Eusebius, Bishop of Samosata",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles,  /  you became a successor to their throne.  /  Through the practice of virtue, you found the way to divine contemplation, O divinely-inspired one:   /  by rightly dividing the Word of truth, you defended the Faith, even to the shedding of your blood.  /  O Hieromartyr Eusebios, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one, /  you abolished the sacrifices of idolatry and showed yourself as the protector of your flock.  / Therefore, we cry fervently to you: /  “By your intercessions, deliver us from all misfortunes, O Eusebios our Father.”"
+      }
+    },
+    {
+      "name": "Martyrs Zeno and his servant, Zenas, of Philadelphia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Zeno and Zenas, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Galacteon, Juliana, and Saturninus, of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Galacteon, Juliana, and Saturninus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Alban, Protomartyr of Britain",
+      "troparion": {
+        "tone": 4,
+        "text": "In his struggle your holy martyr Alban, / gained the crown of life, O Christ our God. / For strengthened by you and in purity of heart, / he spoke boldly before the judges of this world, / offering up his head to you, the Judge of all!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Alban;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Nikḗtas of Remesiana",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Niketas, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Niketas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Nikḗtas the Dacian",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Niketas, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Niketas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Gregory, Metropolitan of Wallachia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gregory, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
 }

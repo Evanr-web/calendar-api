@@ -29,5 +29,78 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "You arrived by your mother's prayers, bearing the name “God has heard.” /  You were called by the Lord from infancy, O revered Prophet Samuel,  /  you shepherded the rebellious people well and became the founder of the kingdom of Israel;  /  entreat the True God for us who honor you with faith /   that He may save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "O great Samuel, who anointed the holy God-seer David,  / hasten to ask that we may be anointed with the peace of the Holy Spirit, / and to be strangers to evil, as David was for Saul's tormented soul.1",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Prophet Samuel",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 1,
+        "text": "In giving birth you preserved your virginity, / in falling asleep you did not forsake the world, O Theotokos. / You were translated to life, O Mother of Life, / and by your prayers, you deliver our souls from death."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Neither the tomb, nor death could hold the Theotokos, / who is constant in prayer and our firm hope in her intercessions. / For being the Mother of Life, / she was translated to life by the One who dwelt in her virginal womb."
+      }
+    },
+    {
+      "name": "Prophet Samuel",
+      "troparion": {
+        "tone": 5,
+        "text": "You arrived by your mother's prayers, bearing the name “God has heard.” /  You were called by the Lord from infancy, O revered Prophet Samuel,  /  you shepherded the rebellious people well and became the founder of the kingdom of Israel;  /  entreat the True God for us who honor you with faith /   that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O great Samuel, who anointed the holy God-seer David,  / hasten to ask that we may be anointed with the peace of the Holy Spirit, / and to be strangers to evil, as David was for Saul's tormented soul.1"
+      }
+    },
+    {
+      "name": "Hieromartyr Philip, Bishop of Heraclea and with him the Martyrs Severus, Memnon, and 37 Soldiers in Thrace",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Heliodorus and Dosa of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Heliodorus and Dosa, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Lucius",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Lucius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Lucius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Holy New Martyr Theokhares at Neopolis in Asia Minor",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYour Martyr Theokhárēs, O Lord,  / by his contest has received an incorruptible crown from You, our God; /  for, possessed of Your strength, /  he laid the tyrants low and shattered the powerless boldness of the demons.  / By his supplications, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high...”)\r\nYou shone forth in your splendor as a bright star,  / proclaiming Christ to this temporal world, O Martyr\r\nTheokhárēs, /  vanquishing the snares of false gods, /  you revealed the true light to the faithful,  / and you\r\nalways intercede on behalf of us all."
+      }
+    }
+  ]
 }

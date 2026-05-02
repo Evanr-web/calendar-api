@@ -30,5 +30,56 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "With zeal, you followed Christ the Master, / who in His goodness, appeared on earth to mankind. / Summoning you from the custom house, / He revealed you as a chosen apostle: / the proclaimer of the Gospel to the whole world! / Therefore, divinely eloquent Matthew, / we honor your precious memory! / Entreat merciful God that He may grant our souls remission of transgressions.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "Casting aside the bonds of the custom house for the yoke of justice, / you were revealed as an excellent merchant, rich in wisdom from on high. / You proclaimed the word of truth / and roused the souls of the slothful / by writing of the hour of Judgment.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Apostle and Evangelist Matthew",
+  "oca_saints": [
+    {
+      "name": "Apostle and Evangelist Matthew",
+      "troparion": {
+        "tone": 3,
+        "text": "With zeal, you followed Christ the Master, / who in His goodness, appeared on earth to mankind. / Summoning you from the custom house, / He revealed you as a chosen apostle: / the proclaimer of the Gospel to the whole world! / Therefore, divinely eloquent Matthew, / we honor your precious memory! / Entreat merciful God that He may grant our souls remission of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Casting aside the bonds of the custom house for the yoke of justice, / you were revealed as an excellent merchant, rich in wisdom from on high. / You proclaimed the word of truth / and roused the souls of the slothful / by writing of the hour of Judgment."
+      }
+    },
+    {
+      "name": "Saint Fulvian (in Baptism Matthew), Prince of Ethiopia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Fulvianus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Sergius of Malopinega",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Sergius your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Sergius, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Hypatius of Gangra",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Hypatius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
 }

@@ -1,0 +1,85 @@
+{
+  "date": "2026-01-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Xenophon, his wife, Mary, and their two sons, Arcadius and John, of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Venerable Xenophon and his family."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...“)\r\nYou kept the commandments of the Master vigilantly, 1 together with your wife and children, /  and gladly distributed your wealth to the poor, O blessed one.  / Therefore, you have inherited divine joy."
+      }
+    },
+    {
+      "name": "Translation of the relics of Venerable Theodore,  Abbot of Studion",
+      "troparion": {
+        "tone": 8,
+        "text": "Guide of Orthodoxy, teacher of piety and purity, luminary of the world, /  God-inspired adornment of\r\nmonastics, O most wise Theodore, /  you have enlightened everyone with your teachings, O harp of the Spirit; /  pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYour truly ascetical life equalled that of the Angels,  / you were made radiant by contesting with your foes, /  and you were seen to dwell with the Angels, /  O Theodore blessed by God, pray unceasingly with them to Christ God for all of us."
+      }
+    },
+    {
+      "name": "Saint Xenophon of Robeika",
+      "troparion": {
+        "tone": 4,
+        "text": "You appeared as a beautiful growth in the wilderness, O Venerable Father,  / for from your youth you chose a life of purity.  / Following your Spiritual Father, your mind was turned toward heavenly things by his teaching;  / you dwelt in the wilderness and established a monastery,  /  and you were a most wise shepherd to your flock,  / but to Novgorod, its boast and its strength.  / Therefore Christ, like a bright lamp, has enriched you with miracles and glorified you.  /  O Xenophon, our Father,  /  pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Ananias the Presbyter, Peter, and seven soldiers, in Phoenicia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Simeon “the Ancient” of Mount Sinai",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simeon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Joseph, Bishop of Thessalonica, and brother of Saint Theodore of Studion",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Joseph, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Joseph, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Theodore of Ajareli",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Theodore your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Theodore, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Paula",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Mother, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  / By so doing, you taught us to disregard the flesh, for it passes away;  /  but to care for the soul, since it is immortal.  /  Therefore, O Venerable Paula, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Mother Paula:  /  “Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

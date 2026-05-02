@@ -1,0 +1,82 @@
+{
+  "date": "2026-02-27",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Repose of Saint Raphael, Bishop of Brooklyn",
+      "troparion": {
+        "tone": 1,
+        "text": "Your proclamation has gone forth throughout North America, / calling the scattered sheep into the unity of the church. / hearing your voice, they responded to your teaching, / and through your writings you instructed them in piety. / Now guided by your example, O Father Raphael, / we sing hymns of praise unto Christ our God. / Glory to Him Who gave you strength! / Glory to Him Who granted you a crown! / Glory to Him Who, through you, grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You were a guardian and a defender of the Church’s teaching; / you protected your flock from false doctrines and confirmed them in the true faith. / O holy father Raphael, son of Syria and glory of North America, / always intercede before the Lord that our souls may be saved."
+      }
+    },
+    {
+      "name": "Venerable Prokopios the Confessor of Decapolis",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nHaving advanced in asceticism, O Father Prokopios,  / you went from strength to strength.  / By venerating the icon of Christ, you were shown as one comparable to the Martyrs.  / With them, intercede for those who cry to you:  / “Glory to Him Who has strengthened you.  / Glory to Him Who has crowned you. /  Glory to Him, Who through you, works healings for all.”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Special Melody: “You appeared today...”)\r\nO most glorious Prokopios, /  initiate of heavenly Mysteries, /  the Church honors you today as a morning star which dispels all the gloom of heresy."
+      }
+    },
+    {
+      "name": "Venerable Titus the Presbyter of the Kiev Near Caves",
+      "troparion": {
+        "tone": 1,
+        "text": "In the love of the living brethren,  / you beheld the Hater of good1 who defeated you, turning you toward enmity, /  but knowing your previous works, the Lord, the fountain of love,  / turned you once more toward brotherly love, in which you lived, O God pleaser.  / Pray for us, that we may live in brotherly love."
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "O Titus, you emulated the Lord's humility, /  for as a priest you humbled yourself before the proud Deacon Evagrius without malice; /  therefore, you not only received the continuance of your earthly life from the Angel who healed you,  / but also the enjoyment of eternal life;  / as you rejoice in it, deliver us from harsh anger and vindictiveness."
+      }
+    },
+    {
+      "name": "Venerable Titus the Soldier, of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Titus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Thalelaios the Hermit of Syria",
+      "troparion": {
+        "tone": 1,
+        "text": "O Thallélaios, you conquered idolatrous error by your martyric contest. /  You are a treasury of healing, freely curing all who run to your church with faith, and who cry out with love: “Glory to Him Who strengthened you. /  Glory to Him Who made you wondrous.  / Glory to Him Who, through you, works healings for all.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You were a fellow contestant with the martyrs, O Thallélaios,  /  and you became a soldier of the King of Glory,  /  trampling upon the pride of the idolaters by your trials and torments.  /  Therefore, we praise your memory."
+      }
+    },
+    {
+      "name": "Saints Asclepius and James of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Asclepius and James, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Julian, Eunos, Beza, and Mekaro of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Leander of Seville",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Leander, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

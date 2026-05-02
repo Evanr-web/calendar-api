@@ -32,5 +32,70 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "Your life was a foundation of repentance / and a model of compunction, / an image of consolation and spiritual perfection, / equal to the angels, O venerable one. / You persevered in prayer, fasting and tears, O Father John; / intercede with Christ God for our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "Imitating the life of the angels and forsaking all earthly things, / you fled to Christ, O venerable one. / Protecting yourself with His commandments, / you were shown to be an unshakable pillar against the attacks of the enemy. / Therefore, we cry to you: “Rejoice, O Father John, most brilliant light!”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Translation of the relics of Venerable John, Abbot of Rila, Bulgaria",
+  "oca_saints": [
+    {
+      "name": "Prophet Joel",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Joel, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Joel."
+      }
+    },
+    {
+      "name": "Martyr Varus, and seven Monastic Martyrs with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Seeing the host of holy passion-bearers suffering under the law,  / you courageously revealed your strength,  / and voluntarily hastened to suffer, desiring to die for Christ;  / accepting the reward of your victorious martyrdom, O Varus,  / pray for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Following Christ, O Martyr Varus, you drank of His cup;1  /  you received the crown of martyrdom and you rejoice with the Angels. /  Pray unceasingly for our souls."
+      }
+    },
+    {
+      "name": "Translation of the relics of Venerable John, Abbot of Rila, Bulgaria",
+      "troparion": {
+        "tone": 1,
+        "text": "Your life was a foundation of repentance / and a model of compunction, / an image of consolation and spiritual perfection, / equal to the angels, O venerable one. / You persevered in prayer, fasting and tears, O Father John; / intercede with Christ God for our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Imitating the life of the angels and forsaking all earthly things, / you fled to Christ, O venerable one. / Protecting yourself with His commandments, / you were shown to be an unshakable pillar against the attacks of the enemy. / Therefore, we cry to you: “Rejoice, O Father John, most brilliant light!”"
+      }
+    },
+    {
+      "name": "Hieromartyr Sadoc (Sadoth), Bishop of Persia, and 128 Martyrs with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Prochorus of Pcinja",
+      "troparion": {
+        "tone": 1,
+        "text": "O dweller of the desert and angel in the body, / you were shown to be a wonderworker, our Godbearing Father Prochorus. / You received heavenly gifts through fasting, vigil, and prayer; / healing the sick and the souls of those drawn to you by faith. / Glory to Him who gave you strength! / Glory to Him who granted you a crown! / Glory to Him who through you grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Boldly revealing a great victory and burning with heavenly love, / you disdained the corruptible king and rejected all earthly pleasures; / taking up your abode on Mount Kozjak, / you ascended from it to the King of kings in heaven. / O Prochorus, ceaselessly intercede for us all!"
+      }
+    }
+  ]
 }

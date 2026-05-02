@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-22",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Averkios the Wonderworker, Bishop of Hieropolis, Equal of the Apostles",
+      "troparion": {
+        "tone": 5,
+        "text": "You emulated the zeal of the Apostles /  and shone forth like a morning star, / and your works revealed your God-given power: /  you guided the erring to God, /  O Hierarch Averkios."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As first fruits of our nature...”)\r\nThe Church of all the faithful honors you,  /  as a great Hierarch and equal of the Apostles.  /  O blessed one worthy of all praise. /  By your intercessions /  preserve the Church victorious, calm and unshaken by heresy, O most wondrous Averkios."
+      }
+    },
+    {
+      "name": "7 Holy Youths “Seven Sleepers” of Ephesus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received their incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Those who renounced the perishing comforts of this world, / preferring the eternal things of Heaven, / were incorrupt after death and rose from the dead / and buried the snares of the devils! / O Faithful, let us then honor them, singing a hymn of praise to Christ!"
+      }
+    },
+    {
+      "name": "Hieromartyr Alexander, Bishop of Adrianopolis, and the Martyrs Heraclius, Anna, Elizabeth, Theodota, and Glyceria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Commemoration of the Kazan Icon of the Mother of God and the deliverance from the Poles",
+      "troparion": {
+        "tone": 4,
+        "text": "O fervent Protectress, / Mother of the Lord Most High; / you intercede for all before your Son Christ our God, / granting salvation to all who seek refuge in your protection. / Protect us all, O Queen and Sovereign Lady, / for we are stricken with grief and wounded by sin. / With tears we stand before your pure Icon, / praying with contrite souls and humble hearts. / All our hope we place in you, / May we be delivered from evil. / Grant to all what is expedient, / and save all, O Virgin Theotokos: / For you are the Holy Protection of your servants!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Let us run to the gracious and quiet haven / the fervent helper, ardent and eager to save all. / Let us run to the Virgin’s protection and hasten to repentance. / The pure Theotokos grants us unfailing mercy / she comes to help all, delivering her faithful servants from tribulations!"
+      }
+    },
+    {
+      "name": "Saints Paul and Theodore of Rostov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Paul and Theodore, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Lot of Egypt",
+      "troparion": {
+        "tone": 1,
+        "text": "You were shown as a citizen of the desert,  /  an Angel in the flesh, and a wonderworker, O our God-bearing Father Lot.  /  Through fasting, vigil, and prayer you obtained heavenly gifts, /   and you healed the sick and the souls of those who have recourse to you with faith.  /  Glory to Him Who gave you strength.Glory to Him Who crowned you.  /  Glory to Him Who, through you, works healings for all."
+      },
+      "kontakion": null
+    }
+  ]
+}

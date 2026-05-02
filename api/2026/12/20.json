@@ -31,5 +31,108 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 2,
+    "text": "Great are the accomplishments of faith,  / for the Three Holy Youths rejoiced in the source of the flame, as if by restful waters,1 /  and the Prophet Daniel appeared  / as a shepherd of lions as of sheep.  / By their prayers, O Christ God, save our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 1,
+    "text": "(For when the Sunday before the Nativity falls on December 20-24)Be glad, O Bethlehem! Prepare yourself, O Ephratha;  /  for the Lamb is on her way to give birth to the Great Shepherd she carries in her womb.  /  The God-bearing Fathers will rejoice, beholding Him,  /  and with the shepherds, they will praise the Virgin who nurses Him.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Sunday before the Nativity",
+  "oca_saints": [
+    {
+      "name": "Sunday before the Nativity",
+      "troparion": {
+        "tone": 2,
+        "text": "Great are the accomplishments of faith,  / for the Three Holy Youths rejoiced in the source of the flame, as if by restful waters,1 /  and the Prophet Daniel appeared  / as a shepherd of lions as of sheep.  / By their prayers, O Christ God, save our souls."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "(For when the Sunday before the Nativity falls on December 20-24)Be glad, O Bethlehem! Prepare yourself, O Ephratha;  /  for the Lamb is on her way to give birth to the Great Shepherd she carries in her womb.  /  The God-bearing Fathers will rejoice, beholding Him,  /  and with the shepherds, they will praise the Virgin who nurses Him."
+      }
+    },
+    {
+      "name": "Forefeast of the Nativity of our Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Bethlehem, for Eden has been opened to all! /  Adorn yourself, O Ephratha, for the Tree of Life blossoms forth from the Virgin in the cave! /  Her womb is a spiritual paradise planted with the Divine Fruit; / if we eat of it, we shall live forever and not die like Adam. /  Christ is born to raise up again what fell in former times, His image."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin comes to the cave /  to give birth ineffably to the pre-eternal Word. /  Hearing this, rejoice, O inhabited earth!  /  With the angels and the shepherds glorify /  the pre-eternal God, Whose will it was to appear as a young child!"
+      }
+    },
+    {
+      "name": "Hieromartyr Ignatius the God-Bearer, Bishop of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, even to the shedding of your blood. / Hieromartyr Ignatius, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "The stirring celebration of your victorious fight / is an announcement of the One who is to be born of the Virgin. / In your eagerness to possess Him forever, / you hastened to be devoured by the wild beasts. / Therefore, O glorious Ignatius, you were called the bearer of God!"
+      }
+    },
+    {
+      "name": "Venerable Ignatius, Archimandrite of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Ignatius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Philogonius, Bishop of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Philogonius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Daniel II, Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Daniel, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Repose of Saint John of Kronstadt",
+      "troparion": {
+        "tone": 4,
+        "text": "With the apostles your message has gone out to the ends of the world, / and with the confessors you suffered for Christ! / You are like the hierarchs through your preaching of the word; / with the righteous you are radiant with the grace of God. / The Lord has exalted your humility above the heavens / and given us your name as a source of miracles. / O wonder-worker, living in Christ for ever, / have mercy on those beset by troubles; / and hear us when we cry out in faith, O our beloved shepherd John!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "This day the pastor of Kronstadt / appears before the throne of God / praying fervently on behalf of the faithful / to the chief pastor Christ, who has promised: / “I will build my church, and the powers of death shall not prevail against it!”"
+      }
+    },
+    {
+      "name": "Icon of the Mother of God the “Rescuer of the Drowning”",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Thou Who wast raised up...”)\r\nLet us, who are sinful and humble, now flee fervently to the Theotokos,  / bowing down to her, crying out in repentance from the depths of our soul:  / Hasten, O Sovereign Lady, help us and take pity on us,  / for we are perishing from a multitude of transgressions.  / Do not turn your servants away empty-handed, for we have you as our only hope."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast Protectress of Christians,  / constant advocate before the Creator,  / do not despise the entreaties of us sinners,  / but in your goodness hasten to help us who cry out to you with faith: /  Speedily hear our petition and intercede for us, O Theotokos,  / for you always protect those who honor you."
+      }
+    },
+    {
+      "name": "New-martyr John of Thasos",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr John, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr John;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

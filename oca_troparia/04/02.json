@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Titus the Wonderworker",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nForsaking the tumult of life;  / you lived your life quietly, O wise one,  /  and then you went to God,  /  O Venerable Wonderworker Titus, our Father."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “You appeared today...”)\r\nYou purified yourself through prayer and abstinence  /  and shone forth with grace and virtue.  /  Thus, you bring joy to us who sing to you:  / “Rejoice, O Titus, / adornment of the Fathers.”"
+      }
+    },
+    {
+      "name": "Martyrs Amphianus and Edesius of Lycia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Amphianus and Edesius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Polycarp of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Polycarp, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Polycarp;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint George Matskevereli of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father George, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyr Theodora of Tyre",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Theodora, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Theodora,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    }
+  ]
+}

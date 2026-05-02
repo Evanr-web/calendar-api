@@ -30,5 +30,75 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "O Andrew, as the First-called of the Apostles  / and brother of their Leader,  /  entreat the Master of all  / to grant peace to the world  /  and to our souls great mercy.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “Neither the tomb, nor death could hold…” (Kontakion for the Dormition)\r\nLet us praise Andrew, the divine preacher,  /  the namesake of courage,  /  the first-called of the Savior’s disciples  /  and the kinsman of Peter.  /  As he once called to his brother, now he cries out to us:  /  “Come, for we have found Him whom the world desires!”1",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Apostle Andrew, the Holy and All-Praised First-Called",
+  "oca_saints": [
+    {
+      "name": "Venerable Sebastian Dabovich",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints Sebastian and Mardarije."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Apostle and Enlightener of America,  / born in San Francisco, first one born in America to become a priest.  / Fiery preacher of Christ’s Word among the peoples of America,  /  you traveled throughout the country preaching truth and love,  /  confirming many souls in the Orthodox Faith, and building many churches to the glory of God;  / poor in body but rich in the Spirit, O Father Sebastian of Jackson and Apostle of All America,  / entreat the Lord Whom you served with your whole heart,  / to grant us your last spoken wish: the everlasting Kingdom of Heaven."
+      }
+    },
+    {
+      "name": "Apostle Andrew, the Holy and All-Praised First-Called",
+      "troparion": {
+        "tone": 4,
+        "text": "O Andrew, as the First-called of the Apostles  / and brother of their Leader,  /  entreat the Master of all  / to grant peace to the world  /  and to our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Neither the tomb, nor death could hold…” (Kontakion for the Dormition)\r\nLet us praise Andrew, the divine preacher,  /  the namesake of courage,  /  the first-called of the Savior’s disciples  /  and the kinsman of Peter.  /  As he once called to his brother, now he cries out to us:  /  “Come, for we have found Him whom the world desires!”1"
+      }
+    },
+    {
+      "name": "Saint Frumentius, Archbishop of Abyssinia, Ethiopia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Frumentius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Entrance of the Apostle Andrew into Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Andrew, first-called of the Apostles / and brother of the foremost disciple, / entreat the Master of all / to grant peace to the world / and to our souls great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Let us praise Andrew, the herald of God, / the namesake of courage, / the first-called of the Savior’s disciples / and the brother of Peter. / As he once called to his brother, he now cries out to us: / “Come, for we have found the One whom the world desires!”"
+      }
+    },
+    {
+      "name": "Hierarch Peter, first Catholicos of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Peter, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hierarch Samuel, Second Catholicos of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Samuel, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
 }

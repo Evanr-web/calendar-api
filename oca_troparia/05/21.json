@@ -1,0 +1,58 @@
+{
+  "date": "2026-05-21",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "The Ascension of our Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "O Christ God, You have ascended in Glory, / granting joy to Your disciples by the promise of the Holy Spirit. / Through the blessing they were assured / that You are the Son of God, / the Redeemer of the world!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "When You had fulfilled the dispensation for our sake, / and united earth to heaven: / You ascended in glory, O Christ our God, / not being parted from those who love You, / but remaining with them and crying: / “I am with you and no one will be against you!”"
+      }
+    },
+    {
+      "name": "Equal of the Apostles and Emperor Constantine with his Mother Helen",
+      "troparion": {
+        "tone": 8,
+        "text": "Having seen the image of Your Cross in the heavens,  / like Paul you did not receive your call from men. /  O Lord, Your Apostle among kings, the Emperor Constantine,  / has placed the Imperial City in Your hand; /  always preserve it in peace, through the intercessions of the Theotokos, O only lover of mankind."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today Constantine and his mother Helen / reveal the precious Cross, / the weapon of the faithful / against their enemies. / For our sakes, it has been shown to be a great sign, and fearsome in battle."
+      }
+    },
+    {
+      "name": "Venerable Cassian the Greek of Uglich",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Cassian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Meeting of the Vladimir Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Today the most glorious city of Moscow rejoices radiantly, / for it receives your wonderworking Icon as a ray of the sun, O Lady. / Now, having recourse to it, we pray to you and cry: / O most wondrous Lady Theotokos, / pray to Christ our God, Who was incarnate of you, / that this city and all cities and countries be kept safe from all the assaults of the enemy, / and that our souls may be saved, for He is merciful."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O victorious Leader of triumphant hosts, /  you have delivered us from evils by the coming of your honorable Icon, O Lady Theotokos,  /  radiantly we celebrate the festival of your meeting, and as usual we cry to you / Rejoice, O Unwedded Bride."
+      }
+    },
+    {
+      "name": "“Tenderness” Icon of the Mother of God from the Pskov Caves",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all of us, who are burdened with sins, fall on our knees before the Theotokos,  /  bowing before her wonderworking Icon of Tenderness,  /  kissing it and crying aloud with tears: / “O Sovereign Lady, accept the prayer of your unworthy servants,  /  and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Lady.  /  Help us, for in you do we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    }
+  ]
+}

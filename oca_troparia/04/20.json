@@ -1,0 +1,109 @@
+{
+  "date": "2026-04-20",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Theodore Trichinas “the Hair-Shirt Wearer” and Hermit Near Constantinople",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Father Theodore, / you were a temple of abstinence and a vessel of dispassion; / you served God by your works, / and were found worthy of His gifts. / Now pray to Christ our God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "God-bearing Theodore, / treasury of virtue, storehouse of grace / and adornment of monks; / pray for the forgiveness of our sins and for our salvation, / for you are the protector of the faithful."
+      }
+    },
+    {
+      "name": "Venerable Alexander, Abbot of Oshevensk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Alexander, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Childmartyr Gabriel of Bialystok",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Gabriel, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Gabriel;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Blessed Gregory, Patriarch of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gregory, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Anastasius, Abbot of Sinai",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anastasius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Betran, Bishop of Lesser Scythia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Betran, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theotimus, Bishop of Lesser Scythia",
+      "troparion": null,
+      "kontakion": {
+        "tone": 8,
+        "text": "Since you are a pillar of the Church of Christ, you have overthrown\nthe heresy of Arius, O wise Theotimus; /  therefore, our God has adorned you,\nO most blessed hierarch Theotimus. / By your prayers, O all-holy one;\nguard the entire flock and the city of Tomis."
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Nikolai of Zhicha",
+      "troparion": {
+        "tone": 8,
+        "text": "O golden-tongued preacher proclaiming the risen Christ, / everlasting guide of the cross-bearing Serbian people, / resounding harp of the Holy Spirit, and dear to monastics who rejoice in you, / pride and boast of the priesthood, teacher of repentance, master for all nations, / guide of those in the army of Christ as they pray to God, / Holy Nikolai teacher in America and pride of the Serbian people, / with all the saints, implore the only Lover of mankind / to grant us peace and joy in his heavenly kingdom!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Born at Lelich in Serbia, / you served as archpastor at the church of Saint Nahum in Ochrid. / You presided on the throne of Saint Savva at Zhicha, / teaching the people of God and enlightening them with the Gospel, / bringing them to repentance and love for Christ. / And for His sake you endured suffering at Dachau. / Therefore, Nicholai, we glorify you as one newly well pleasing to God."
+      }
+    },
+    {
+      "name": "Saint Joseph of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Joseph your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Joseph, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Apostle Zacchaeus",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Zacchaeus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Athanasius of Meteora",
+      "troparion": {
+        "tone": 3,
+        "text": "You are an unshakable pillar, a steadfast wall,   / a battlement and protection for your flock, O wise Athanasios.   / Shelter us beneath the wings of your intercessions with Christ God,  /  O Righteous Father,  /  for we lovingly praise and glorify your memory."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high...”)\r\nDesiring the things of Heaven, you took up your abode on high;   / disdaining earthly things, you wove a basket   / whereby you lifted up a multitude of monastics to the heights of dispassion,  /  and offered them as an acceptable gift to Christ our God."
+      }
+    }
+  ]
+}

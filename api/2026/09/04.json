@@ -30,5 +30,143 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "You guarded the mighty works of faith in your heart, / therefore, you did not fear the tyrant; / preserve us as well, Hieromartyr Babylas, good servant of Christ.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Babylas, Bishop of Antioch, and those with him",
+  "oca_saints": [
+    {
+      "name": "Martyr Gorazd of Prague, Bohemia and Moravo-Cilezsk",
+      "troparion": {
+        "tone": 4,
+        "text": "Orthodox leader and restorer of the Moravian Church, / Godly chief shepherd, Father Gorazd! / With joy, you suffered for the Truth. / Pray to our gracious God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Amid currents of uncertainty, you remained in truth like the hardest diamond, / and you preached to your native land Orthodoxy -- the way of salvation. / After a God-favored life as a teacher of the Gospel, O high priest and shepherd, / you patiently and bravely received the martyrs’ crown from Christ the Savior. / O Martyr, Enlightener, Father Gorazd, pray for us in the Kingdom of God."
+      }
+    },
+    {
+      "name": "Hieromartyr Babylas, Bishop of Antioch, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You guarded the mighty works of faith in your heart, / therefore, you did not fear the tyrant; / preserve us as well, Hieromartyr Babylas, good servant of Christ."
+      }
+    },
+    {
+      "name": "Holy Prophet and God-seer Moses",
+      "troparion": {
+        "tone": 2,
+        "text": "You ascended to the heights of the virtues, Prophet Moses; / therefore, you were deemed worthy to see the glory of God. / Having received the grace-filled tablets of the Law, / and bearing the grace of the writing within yourself, / you were the honorable praise of prophets, / and a great mystery of piety."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "The choir of prophets rejoices with Moses and Aaron today, / for the fulfillment of their prophecy is in our midst. / The Cross, by which You have saved us, shines forth today. / By their prayers, O Christ God, have mercy on us."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Saint Joasaph, Bishop of Belgorod",
+      "troparion": {
+        "tone": 2,
+        "text": "O divinely-chosen Hierarch of Christ, Ioasaph,  / from childhood you were an extraordinary man of prayer.  / By your pious life, you appeared as a rule of faith and an example of mercy;  / and to those who come to you with faith, you gush forth abundant healing.  / Pray to Christ God that He may confirm our land in Orthodoxy, peace and piety, and save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Who can tell of the various struggles of your life? /  Who can count the various mercies of God which you manifested?  / Knowing well your boldness before the Most Pure Theotokos and the all-generous God, we call upon you with compunctionate hearts: /  \"Do not deprive us of your help and intercession, O Hierarch of Christ and wonderworker Ioasaph.\""
+      }
+    },
+    {
+      "name": "Martyr Hermione, daughter of Saint Philip the Deacon",
+      "troparion": {
+        "tone": 2,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nO pure one, you were an unsullied virgin, remaining chaste, and wedded to the Word,   / Who was born of the Pure Virgin, according to the flesh;  /  thus you received divine grace for the labors of godliness,  /  to enlighten those in error;   / therefore, O Hermione, Christ has glorified you."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "(Podoben: “The Angelic choirs...”)\r\nAs the fruitful offspring and unfading flower of Philip, /  renowned among the holy Deacons, /  you received divine grace, O most wondrous Hermione;  / and you contended as a virgin,  / offering your pure struggles to Christ our God Who glorified you."
+      }
+    },
+    {
+      "name": "Martyr Babylas of Nicomedia and 84 children with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Babylas and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Theodore, Mianus, Julian, Kion, and Centurionus, of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Unburnt Bush” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "O Christ God, Who showed Moses  /  an image of Your Most Pure Mother /  in the Bush that burned yet was not consumed,  /  for she herself was not consumed /  when she received in her womb the fire of Divinity.  / She remained incorrupt after her pure childbearing.  /  By her prayers, O greatly merciful one, /  deliver us from the flame of passions,  /  and preserve your people from all harm."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nYour flock reveres you, O inspired one, as a beholder of the Incarnation of God, /  and as one who wrote of the mystery of His condescension. /   Since you are a mediator worthy of God,  /  free us from every danger that we may cry to you: \"Rejoice, divinely-speaking Moses.\""
+      }
+    },
+    {
+      "name": "Second finding of the relics of Saint Metrophanes, Bishop of Voronezh",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Metrophanes, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Peter, Metropolitan of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Peter, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Peter, Metropolitan of Dabro-Bosnia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Peter, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Igoumen Parthenios of Kiziltash Monastery",
+      "troparion": {
+        "tone": 4,
+        "text": "Zealot of the Orthodox Faith, glory and honor of monastics,  / you received a martyric death at the hands of the impious Tatars.  / O Venerable Martyr and wondrous Passion-bearer Parthenios,  / entreat Christ God  / to grant us peace and great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Christ chose you out of the world, /  so that you might glorify His name before men.  / Perfectly fulfilling the Lord's commandments, /  you served God and your neighbor, showing true obedience to Christ;  / therefore you were slain by wicked men. /  O Venerable Father Parthenios,  / entreat Christ God for the salvation of our souls."
+      }
+    },
+    {
+      "name": "Venerable Simeon the Wonderworker",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Simeon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

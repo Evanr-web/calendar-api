@@ -1,0 +1,104 @@
+{
+  "date": "2026-05-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Commemoration of the Founding of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "The city of the Theotokos / dedicates its foundation as an offering to the Theotokos. / For it has been established to remain in Her, / and it lives and is strengthened through Her, / crying out to Her, / “Hail, the hope of all the ends of the earth.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Mocius the Presbyter of Amphipolis in Macedonia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Mocius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Equals of the Apostles and Teachers of the Slavs, Cyril and Methodius",
+      "troparion": {
+        "tone": 4,
+        "text": "Divinely-wise Cyril and Methodius, / equals-to-the-apostles and teachers of the Slavs, / entreat the Master of all / to strengthen all nations in Orthodoxy and unity of mind, / to grant peace to the world and to save our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Let us honor the sacred pair, who translated divine scripture / pouring forth a fountain of divine knowledge from which we still draw today. / Now as you stand before the throne of the Most-high / we call you blessed, Cyril and Methodius, / as you fervently pray for our souls."
+      }
+    },
+    {
+      "name": "Venerable Sophronius the Recluse of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sophronius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Joseph, Metropolitan of Astrakhan",
+      "troparion": {
+        "tone": 6,
+        "text": "You fought the good fight,1  crowning your life with torments for the truth,  / you have moved to the heavenly abodes,  / where, before the Throne of the Holy Trinity, O Hierarch Joseph,  / you pray for the city of Astrakhan, and for our earthly homeland to be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You shone as a bright star in Astrakhan, where you were born and raised,  / and for your faithfulness to God, you suffered a martyric death.  / Honoring your martyrdom, we cry to you:  / “O Hierarch Joseph, who were killed by the rebels, pray to Christ God for our souls.”"
+      }
+    },
+    {
+      "name": "Saint Nikodemos, Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of abstinence.  /  Therefore, through humility, you attained the heights;  /  and through poverty, riches.  /  O Hierarch Nikodemos our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You ascended to the heights of the virtues, through which you approached God;  / O Hierarch Nikodemos,  / pray for us who lovingly glorify you as a pastor and teacher."
+      }
+    },
+    {
+      "name": "New Martyr Dioscorus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Dioscorus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Dioscorus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "New Martyr Argyrus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Argyrus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Argyrus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Blessed Christopher, called Christesia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Christopher, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Holy Monastic Martyrs Olympia and Euphrosynē",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lambs Olympia and Euphrosynē, O Jesus, / call out to You in a loud voice: / I love You, O my bridegroom, / and in seeking You, I endure suffering. / In Baptism I was crucified so that I might reign in You, / and died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love. / By their prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Olympia and Euphrosynē, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    }
+  ]
+}

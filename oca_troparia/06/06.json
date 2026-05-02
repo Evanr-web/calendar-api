@@ -1,0 +1,82 @@
+{
+  "date": "2026-06-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Bessarion, Wonderworker of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the venerable Bessarion and Hilarion the New."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You imitated the powers on high, venerable Bessarion, / living by example the life of those who take flight. / Led by steadfast desire to the heavenly good things of Christ the King, / you put passing things from your mind and attained to Him. / Entreat Him without ceasing for the sake of us all!"
+      }
+    },
+    {
+      "name": "Venerable Hilarion the New, Abbot of the Dalmatian Monastery",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of the venerable Bessarion and Hilarion the New."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You imitated the powers on high, venerable Hilarion, / living by example the life of those who take flight. / Led by steadfast desire to the heavenly good things of Christ the King, / you put passing things from your mind and attained to Him. / Entreat Him without ceasing for the sake of us all!"
+      }
+    },
+    {
+      "name": "Saint Jonah, Bishop of Perm",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Jonah, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Paisius, Abbot of Uglich",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paisius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Jonah, Abbot of Klimetzk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Jonah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Virgin Martyrs Archelais, Thekla, and Susanna, at Salerno",
+      "troparion": {
+        "tone": 1,
+        "text": "As reasonable lambs, you were guided by Christ, the Chief Shepherd, / along the path of martyrdom. / You finished your course and kept the faith; / therefore, honored Archelais, Thekla, and Susanna, / with joyful hearts, we magnify Christ today, as we honor your holy memory!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Pimenov Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,   /  and let us fall down in repentance, crying out from the depths of our souls:  /  O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Sovereign Lady.  /  Help us, for in you we hope,  / \r\nand of you we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Martyr Gelasius",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Gelasius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Gelasius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

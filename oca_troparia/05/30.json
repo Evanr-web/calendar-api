@@ -1,0 +1,28 @@
+{
+  "date": "2026-05-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Memorial Saturday",
+      "troparion": {
+        "tone": 8,
+        "text": "Only Creator, with wisdom profound, You mercifully order all things, / and give that which is needed to all men: / Give rest, O Lord, to the souls of Your servants who have fallen asleep, / for they have placed their trust in You, our Maker and Fashioner, and our God."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "With the saints give rest, O Christ, to the souls of Your servants, / where there is neither sickness nor sorrow, and no more sighing, / but life everlasting."
+      }
+    },
+    {
+      "name": "Venerable Isaac, Founder of Dalmátos Monastery at Constantinople",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nAppearing as an example of abstinence, and a support of the Church,  / O Isaac, adornment of the Fathers,  / your life was radiant with virtues,  / and you clearly expounded the word of Orthodoxy.  / O Venerable Father, entreat Christ God that He may grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As first-fruits...”)\r\nAs a faithful servant of God, you were inflamed with zeal for the Church of Christ, /  holding the reins of the Emperor Valens, /  you prophetically foretold His death in a fire because of his closure of the churches. /  Therefore, always pray for us who honor you, O Venerable Father Isaac."
+      }
+    }
+  ]
+}

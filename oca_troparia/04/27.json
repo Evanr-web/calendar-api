@@ -1,0 +1,25 @@
+{
+  "date": "2026-04-27",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Simeon, kinsman of the Lord, second Bishop of Jerusalem",
+      "troparion": {
+        "tone": 1,
+        "text": "The Church glorifies you as a kinsman of Christ, O Hierarch Simeon,  / and as a steadfast martyr, for\r\ncourageously you destroyed all deceptions and preserved the Faith.  / Therefore, we celebrate your\r\nholy memory today,  / and by your prayers, we receive the remission of our sins."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As one who has become a citizen of Zion on high, / you had been ordained to the throne of Zion below. / You guided your flock to the heavenly sheepfold, blessed Simeon, / and for the sake of Christ, you were crucified, / imitating His passion."
+      }
+    },
+    {
+      "name": "Venerable Stephen, Abbot of the Kiev Far Caves, and Bishop of Vladimir, in Volhynia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Stephen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

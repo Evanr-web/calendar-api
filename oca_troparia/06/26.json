@@ -1,0 +1,74 @@
+{
+  "date": "2026-06-26",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint David of Thessaloniki",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable David, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "We bless you, servant of God David; / you are like the angels and estranged from earthly things. / Now you rejoice in divine gifts. / Grant us to share in them also, O holy and righteous Father!"
+      }
+    },
+    {
+      "name": "Saint Dionysius, Archbishop of Suzdal",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Dionysius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of Saint Tikhon of Luchov, Kostroma",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Tikhon, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint John, Bishop of the Goths in the Crimea",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Appearance of the Tikhvin Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Today, O Sovereign Lady, your most honored Icon has shone upon us in the Heavens like a most radiant sun,  / enlightening the world with rays of mercy, which Russia has received most reverently as a Divine gift from on high;  / and it glorifies you, O Mother of God, as the Queen of all, /  and joyfully magnifies Christ our God, Who was born of you. /  Pray to Him, O Lady Theotokos, that He may preserve all Christian cities and countries unharmed from all the machinations of the Enemy, /  and that He may save those who with faith bow down before His divine image and your most pure Icon, /  O Virgin who knew not wedlock."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O people, let us have recourse to the Virgin Theotokos and Queen, thanking Christ God; /  and, gazing tenderly at her wonderworking Icon, let us come and cry out to her:  / \"O Sovereign Lady Mary, you visited this land by the wondrous appearance of your sacred image;  / preserve all Christians in peace and well-being and make all of them heirs of the heavenly life,  / for we cry out to you with faith: \"Rejoice, O Virgin, salvation of the world.\""
+      }
+    },
+    {
+      "name": "“Seven Lakes” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls:  /  “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast protectress of Christians, /  most constant advocate before the Creator,  /  do not despise the voices of us who have sinned,  /  but in your goodness come speedily to help us, who cry to you in faith:  /  “Hasten to intercede for us, O Theotokos,  /  and speedily make supplication, for you always protect those who honor you.”"
+      }
+    },
+    {
+      "name": "New Martyr David of Saint Anne's Skete",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable David, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted David, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    }
+  ]
+}

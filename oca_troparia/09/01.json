@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-01",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Church New Year",
+      "troparion": {
+        "tone": 2,
+        "text": "O Creator of the universe, / Thou didst appoint times by Thy power; / bless the crown of this year with Thy goodness, O Lord. / Preserve in safety Thy rulers and cities: /  and through the intercessions of the Theotokos, save us!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O Creator and Master of time and the ages, / Triune and Merciful God of all: / grant blessings for the course of this year, / and in Thy boundless mercy save those who worship Thee and cry out in fear: / “O Savior, grant blessings to all mankind!”"
+      }
+    },
+    {
+      "name": "Saint Simeon Stylites, the Elder",
+      "troparion": {
+        "tone": 1,
+        "text": "You were a pillar of patient endurance, / having imitated the forefathers, O Venerable One: / Job in suffering, and Joseph in temptations. / You lived like the bodiless ones while yet in the flesh, O Simeon, our Father. / Beseech Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Seeking the things of the Highest, / and having made your pillar a fiery chariot, you were joined to the heights. / Therefore, you have become a companion to the angels, O Venerable One, / and with them you are praying incessantly to Christ God for us all."
+      }
+    },
+    {
+      "name": "Venerable Martha, mother of Saint Simeon Stylites",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile,  /  and your longing for God brought forth fruits in abundance.  /  By the radiance of miracles you illumined the whole universe!  /  Our Mother Martha, pray to Christ God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Aithalas of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Aithalas, O Lord,  /  through his sufferings has received an incorruptible crown from You, our God.  /  For having Your strength, he laid low his adversaries,  /  and shattered the powerless boldness of demons.  /  Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Aithalas;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Holy Forty Women Martyrs and Martyr Ammon the Deacon, their teacher, at Heraclea in Thrace",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord,  /  through their sufferings have received incorruptible crowns from You, our God.  /  For having Your strength, they laid low their adversaries,  /  and shattered the powerless boldness of demons.  /  Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Callista and her brothers, Evodius and Hermogenes, at Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord,  /  through their sufferings have received incorruptible crowns from You, our God.  /  For having Your strength, they laid low their adversaries,  /  and shattered the powerless boldness of demons.  /  Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Chernigov-Gethsemane” Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Most Pure Sovereign Lady Theotokos, the hope of all Christians,  / since we have no other hope but you,  / Most Pure Sovereign Lady Theotokos and Mother of Christ my God;  / therefore have mercy and deliver me from all my afflictions,  / and entreat your merciful Son and God, /  that He may have mercy on my unfortunate soul and deliver me from eternal torment,  / and vouchsafe me His Heavenly Kingdom."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Meletius the New",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile,  /  and your longing for God brought forth fruits in abundance.  /  By the radiance of miracles you illumined the whole universe!  /  Our Father Meletius, pray to Christ God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

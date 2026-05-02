@@ -1,0 +1,63 @@
+{
+  "date": "2026-07-01",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy Wonderworking Unmercenary Physicians Cosmas and Damian at Rome",
+      "troparion": {
+        "tone": 8,
+        "text": "Holy unmercenaries and wonderworkers, Cosmas and Damian, visit our / infirmities. / Freely you have received; freely give to us."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Having received the grace of healing, / you grant healing to those in need. / Glorious wonder workers and physicians, Cosmas and Damian, / visit us and put down the insolence of our enemies, / and bring healing to the world through your miracles."
+      }
+    },
+    {
+      "name": "Martyr Potitus at Naples",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Potitus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Potitus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Peter of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Peter, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Angelina of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Angelina your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Angelina, /  you illumined your soul with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Translation of the relics of Venerable John of Rila from Trnovo to Rila",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Leontius of Rădăuţi",
+      "troparion": {
+        "tone": 8,
+        "text": "Spending your entire life in spiritual endeavors, / and being found worthy to be a\r\nbishop, / you served the Church of Christ with humility and in the fear of God. / Holy\r\nHierarch Leontius, entreat the Lord to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

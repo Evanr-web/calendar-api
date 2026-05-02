@@ -1,0 +1,85 @@
+{
+  "date": "2026-12-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Prophet Zephaniah",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Zephaniah, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You have been revealed by the Spirit of God to be brilliant, Prophet Zephaniah, /  for you proclaimed the coming of God: / “Rejoice greatly, O Daughter of Zion! / Proclaim Him, O Jerusalem! / Behold, your King is coming to save mankind!”"
+      }
+    },
+    {
+      "name": "Venerable Savva, Igoumen of Zvenigorod, Disciple of Venerable Sergius of Radonezh",
+      "troparion": {
+        "tone": 8,
+        "text": "You appeared as a beautiful growth in the wilderness, O Venerable one,  /  for from your youth you chose a life of purity.  /  Following your Spiritual Father, by his teaching your mind was turned to heavenly things,  / and you appeared as a most wise shepherd of your flock.  / Therefore, Christ, like a beautiful lamp, has enriched you with miracles.  / O Savva, our Father, pray for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Inflamed with love for the Lord,  / you forsook bodily passions through abstinence and became an unwaning lamp of the Divine light,  / enlightening with miraculous rays all who come to the shrine of your relics,  / O Venerable Savva, our Father."
+      }
+    },
+    {
+      "name": "Saint Theodoulus, Eparch of Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodoulus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable John the Silent of Saint Sabbas Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Theodore, Archbishop of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles,  /  you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O divinely-inspired one; by rightly dividing the word of truth without error, you defended the Faith,  / even to the shedding of your blood. /  O Hieromartyr Theodore,  entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: \"You were lifted up...\")\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one,  / you abolished the sacrifices of idolatry and showed yourself to be a protector of your flock. /  Therefore, we cry fervently to you:  / “By your intercessions, deliver us from all misfortunes, O Theodore our Father.”"
+      }
+    },
+    {
+      "name": "Monastic Martyr Cosmas of Saint Anne Skete, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Cosmas, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Cosmas, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable George of Cernica",
+      "troparion": {
+        "tone": 4,
+        "text": "O Venerable Father George,  /  as a follower of the monastic Fathers and doer of hesychastic virtues, unceasing prayer, and the reviver of Romanian monasticism,  / entreat Christ God to grant us great mercy."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Angelos of Chios",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Angelos, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Angelos;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

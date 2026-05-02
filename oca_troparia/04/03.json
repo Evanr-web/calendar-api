@@ -1,0 +1,60 @@
+{
+  "date": "2026-04-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Niketas the Confessor, Abbot of Medikion",
+      "troparion": {
+        "tone": 4,
+        "text": "You were a firm pillar and an undaunted guardian of sacred tradition, O Nicetas; / you were adorned with holy dispassion and became an illustrious confessor of the Faith. / Accept the prayers of those who cry to you, / interceding for them with Christ our God."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You acquired a heavenly mind and life, / shining as brightly as the sun in the splendor of your deeds! / Father Nicetas, you enlighten those in the darkness of life guiding them all to God. / Pray without ceasing for us all!"
+      }
+    },
+    {
+      "name": "Holy Virgin Martyr Theodosίa of Tyre",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nThrough your struggles in the contest,  / you offered the God-given gift of your virginity to the Word;  / therefore, He brought you to the heavenly Bridal Chamber.  /  O prize-winner, intercede with the Master of all,  / that He may deliver us from all manner of misfortunes."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nAs a pure virgin and prize-winner,   / you were spiritually betrothed to the King of Heaven,   / O all-praised Theodosίa, entreat Him for the salvation of our souls"
+      }
+    },
+    {
+      "name": "Martyr Irene",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Irene calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Illyricus of Mount Myrsinon in the Peloponnesus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Illyricus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Elpidephorus, Dius, Bithonius, and Galycus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Unfading Flower” Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Rejoice, O Bride of God,  / rejoice, mystical rod which blossomed the Unfading Flower;1 /  rejoice, O Sovereign Lady,  / through whom we are filled with joy and inherit life."
+      },
+      "kontakion": null
+    }
+  ]
+}

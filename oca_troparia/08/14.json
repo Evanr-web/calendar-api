@@ -1,0 +1,63 @@
+{
+  "date": "2026-08-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Dormition of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Dance with joy, O peoples! / Clap your hands with gladness! / Gather today with fervor and jubilation; / sing with exultation. / The Mother of God is about to rise in glory, / ascending from earth to heaven. / We ceaselessly praise her in song as truly Theotokos."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today the universe dances with joy at your glorious memorial, / and cries out to you, O Mother of God: / “Rejoice, O Virgin, pride of Christians!”"
+      }
+    },
+    {
+      "name": "Prophet Micah",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Micah, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Micah."
+      }
+    },
+    {
+      "name": "Translation of the relics of Venerable Theodosius of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodosius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Arcadius of Novotorsk",
+      "troparion": {
+        "tone": 4,
+        "text": "Guided by your spiritual mentor, the Venerable Father Ephraim, an excellent zealot of obedience,  / O Father Arcadius, you fled from worldly vanity and were a superb monk;  / working diligently, you have received a crown of heavenly glory from Christ God. /  And now, together with the Venerable Father Ephraim, /  pray for us before the Throne of the Most High,  / that we may be delivered from all troubles and sorrows,  / and for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "By directing your mind to the depths of the knowledge of God,  / you ascended to the heavenly abodes,  / and your life was equal to that of an angel, O Father Arcadius.  / You were obedient to your spiritual guide and teacher, the Venerable Ephraim, in all things.  / And now, standing with him before the Throne of the Master Christ,  / pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Hieromartyr Marcellus, Bishop of Apamea",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Marcellus, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Nazarius, Metropolitan of Kutaisi-Gaenati, and his companions, of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Nazarius, and those with him, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

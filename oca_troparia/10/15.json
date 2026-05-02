@@ -1,0 +1,68 @@
+{
+  "date": "2026-10-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Euthymius the New of Thessalonica, and Monk of Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Euthymius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Crossing dryshod through the storms of life, / venerable and divinely wise Euthymius, / you mightily drowned the bodiless foe in the streams of your tears; / you received the gift of miracles to heal all sufferings. / Unceasingly pray for us all."
+      }
+    },
+    {
+      "name": "Martyr Lucian the Presbyter of Antioch",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Lucian, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "We honor you with hymns of glory, / Lucian, the radiant star. / You first became radiant by your detachment from the things of this world; / then you were raised up by your struggle. / Unceasingly pray for us all."
+      }
+    },
+    {
+      "name": "Saint John, Bishop of Suzdal",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Lucian the Presbyter of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Lucian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Sarbelius and Bebaia of Edessa",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Sarbelius and Bebaia, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Sabinus, Bishop of Catania",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Sabinus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Multiplier of Wheat” Icon of the Mother of God",
+      "troparion": {
+        "tone": 3,
+        "text": "O Most Pure Virgin Mary, Mother of the King of heaven and earth, /  you look lovingly upon those who love your Son, Christ our God,  / and upon those who labor in His name for eternal salvation, /  and you give them all that is abundant for their enjoyment.  / You were shown to be a Multiplier of bread for them,  / delivering them from all want and constraint,  / and providing for these, your servants,  / deliverance from eternal torment and eternal life."
+      },
+      "kontakion": null
+    }
+  ]
+}

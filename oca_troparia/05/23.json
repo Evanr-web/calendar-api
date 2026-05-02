@@ -1,0 +1,60 @@
+{
+  "date": "2026-05-23",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Michael the Confessor, Bishop of Synnada",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you dedicated your life to God, / and you were proclaimed shepherd and hierarch of Christ, holy Michael. / You endured afflictions and exile / because you honored the icon of Christ; / now you pour forth healings for us all."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a most honorable hierarch and champion of true piety, / undaunted by fear of the notorious tyrant, / you conquered his heretical opposition, freely proclaiming in a loud voice: / “I venerate the icon of Christ and of His all-pure Mother!” / Therefore, we honor you, O Michael!"
+      }
+    },
+    {
+      "name": "Venerable Euphrosyne, Abbess of Polotsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Euphrosynē, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Paisius, Abbot of Galich",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paisius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Michael “the Black-Robed” of Saint Savva Monastery",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Michael, rejoices with the angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Holy Myrrh-bearer Mary, the wife of Cleopas",
+      "troparion": {
+        "tone": 2,
+        "text": "When You proclaimed “Rejoice” to the Myrrhbearers,  / You caused the lamentation of the first mother Eve to cease by Your Resurrection; O Christ God;  / You bade Your Apostles to preach:  /  “The Savior is risen from the tomb.”"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Leontius, Bishop of Rostov",
+      "troparion": {
+        "tone": 4,
+        "text": "Successor of the Apostles and faithful intercessor with God,  / by your virtues you rose to the height of Heaven,  / and lovingly you devoted yourself to Him Who loved you,  / and brought an unbelieving people to faith.  / Therefore, now rejoicing together with the Angels,  / you stand before the glorious Throne of Christ God, the King of all.  / O Hierarch Leontius, pray that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Because of the purity of your life, /  the All-Seeing Lord has given His light to your soul,  / in order to explain your teaching to many, O Venerable Leontius."
+      }
+    }
+  ]
+}

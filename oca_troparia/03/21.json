@@ -1,0 +1,60 @@
+{
+  "date": "2026-03-21",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "4th Saturday of Great Lent: Memorial Saturday",
+      "troparion": {
+        "tone": 8,
+        "text": "Only Creator, with wisdom profound, You mercifully order all things, / and give that which is needed to all men: / Give rest, O Lord, to the souls of Your servants who have fallen asleep, / for they have placed their trust in You, our Maker and Fashioner, and our God."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "With the saints give rest, O Christ, to the souls of Your servants, / where there is neither sickness nor sorrow, and no more sighing, / but life everlasting."
+      }
+    },
+    {
+      "name": "Saint James the Confessor, Bishop of Catania",
+      "troparion": {
+        "tone": 5,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nShining forth with purity, you rightly divided the inspired Word of truth /  as a Hierarch and a minister of God the Word.  / By your virtuous struggle you revealed and confirmed the grace granted to you, O James,  / instructing all to venerate the Icon of the Savior, /  with Whom you intercede for us all."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You excelled in the gifts of the priesthood, O Confessor,  / and through your labors You became illustrious in confessing the Faith.  / Since you are a fruitful branch of Christ the True Vine,  / grant the new wine of forgiveness and salvation to those who cry to you: “Rejoice, O Father James!”"
+      }
+    },
+    {
+      "name": "Saint Cyril, Bishop of Catania",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Cyril, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Thomas, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Thomas, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Seraphim of Vyritsa",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Seraphim, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Serapion, Bishop of Thmuis in Lower Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Serapion, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

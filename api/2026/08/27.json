@@ -30,5 +30,86 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pimen, pray to Christ our God to save our souls!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Hieromartyr Kuksha and Venerable Pimen of the Kiev Near Caves",
+  "oca_saints": [
+    {
+      "name": "Venerable Pimen the Great",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / Our Father Pimen, pray to Christ God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The memorial of your illustrious struggles / delights the souls of the devout today, / Pimen, our venerable father, wise in God."
+      }
+    },
+    {
+      "name": "Hieromartyr Kuksha and Venerable Pimen of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pimen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Hosius the Confessor, Bishop of Córdoba",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Hosius, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Liberius, Pope of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Liberius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Pimen of Palestine",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Pimen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Anthusa",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Anthusa, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anthusa;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Caesarius, Bishop of Arles",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Caesarius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Phanourius",
+      "troparion": {
+        "tone": 4,
+        "text": "A heavenly song of praise is chanted radiantly upon the earth / the company of angels now joyfully celebrates an earthly festival, / and from on high with hymns they praise your contests, / and from below, the church proclaims the heavenly glory / which you have found by your labors and struggles, / O glorious Phanourius."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You saved the priests from an ungodly captivity, / and broke their bonds by divine power, O godly-minded one; / you bravely put to shame the audacity of the tyrants, / and made glad the orders of the angels, O great martyr. / Therefore, we honor you, O divine warrior, glorious Phanourius."
+      }
+    }
+  ]
 }

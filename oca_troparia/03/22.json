@@ -1,0 +1,63 @@
+{
+  "date": "2026-03-22",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "4th Sunday of Great Lent: St John Climacus (of the Ladder)",
+      "troparion": {
+        "tone": 1,
+        "text": "Dweller of the desert and angel in the body,  / you were shown to be a wonderworker, our God-bearing Father John.  /  You received heavenly gifts through fasting, vigil, and prayer:  /  healing the sick and the souls of those drawn to you by faith. /  Glory to Him who gave you strength.  /  Glory to Him who granted you a crown.  / Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “The Angelic Choir...”)\r\nThe Lord truly set you on the height of abstinence,  / O our instructor and Father John,  / as an unerring star, guiding the ends of the earth by your light."
+      }
+    },
+    {
+      "name": "Hieromartyr Basil of Ancyra",
+      "troparion": {
+        "tone": 3,
+        "text": "Through the inspiration of the Holy Spirit you worthily received the anointing of the priesthood, O Basil. / You offered your martyr’s contest / as a royal sacrifice to the King of the Ages. / Righteous Father, entreat Christ God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "As a priest of the King of Glory, / you also became a holy warrior by your contest. / You shamed the counsels of the lawless / and received the enjoyment of the heavenly Kingdom, / blessed hieromartyr of Christ, Basil."
+      }
+    },
+    {
+      "name": "Martyr Drosίs, daughter of Emperor Trajan",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Drosis, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Isaac the Confessor, Founder of the Dalmatian Monastery at Constantinople",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / enlightener of the universe and adornment of hierarchs: / all-wise father Isaac, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Euthymius of Prodromou, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Euthymius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Euthymius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Martyrs Kalliniki and Basilissa",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lambs Kalliniki and Basilissa call out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through their prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    }
+  ]
+}

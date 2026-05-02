@@ -1,0 +1,39 @@
+{
+  "date": "2026-07-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Holy Great Prince Vladimir (Basil in Baptism), Equal of the Apostles, and Enlightener of Rus'",
+      "troparion": {
+        "tone": 4,
+        "text": "Holy Prince Vladimir, / you were like a merchant in search of fine pearls. / By sending servants to Constantinople for the Orthodox Faith, you found Christ, the priceless pearl. / He appointed you to be another Paul, / washing away in baptism your physical and spiritual blindness. / We celebrate your memory, / asking you to pray for all Orthodox Christians and for us, your spiritual children."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Most glorious Vladimir, in your old age you imitated the great apostle Paul: / He abandoned childish things, while you forsook the idolatry of your youth. / Together with him you reached the fullness of divine wisdom: / You were adorned with the purity of holy baptism. / Now as you stand before Christ our Savior, pray that all Orthodox Christians may be saved."
+      }
+    },
+    {
+      "name": "Saint Quiricus (Kḗrykos) and his mother Julitta",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up on the Cross...”)\r\nThe glorious Martyr Julitta, Christ's rational lamb,  / stood with her three-year-old child Quiricus at the judgment seat,  / and proclaimed the true Faith of the Christians  / with authority and great boldness,  / nor were they intimidated by the threats of the tyrants;  / now in Heaven, wearing precious crowns,  / they rejoice as they stand before Christ."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nChrist's Martyr Julitta, holding Quiricus in her arms,  / rejoices courageously in her martyric contest crying out:  / “Christ is the boast of the martyrs.”"
+      }
+    },
+    {
+      "name": "Martyr Aboudimos of the Isle of Tenedos",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Aboudimos, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Aboudimos;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
+}

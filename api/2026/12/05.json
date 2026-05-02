@@ -29,5 +29,91 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "With the streams of your tears you cultivated the barrenness of the desert;  /  and by your sighs from the\r\ndepths, you bore fruit a hundredfold in your labors.  /  You became a luminary, shining upon the world with\r\nmiracles. /  O our righteous Father Savva, intercede with Christ God that our souls be saved.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "(Podoben: “O Victorious Leader...”)\r\nFrom your youth you were offered to God  as an unblemished1 sacrifice because of your virtue,  / having been dedicated to Him before your birth, O blessed Savva.  /  You were an adornment of monastics and a praiseworthy citizen of the desert.  / Therefore, we cry to you:  “Hail, greatly renowned Father.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Savva the Sanctified",
+  "oca_saints": [
+    {
+      "name": "Venerable Savva the Sanctified",
+      "troparion": {
+        "tone": 8,
+        "text": "With the streams of your tears you cultivated the barrenness of the desert;  /  and by your sighs from the\r\ndepths, you bore fruit a hundredfold in your labors.  /  You became a luminary, shining upon the world with\r\nmiracles. /  O our righteous Father Savva, intercede with Christ God that our souls be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)\r\nFrom your youth you were offered to God  as an unblemished1 sacrifice because of your virtue,  / having been dedicated to Him before your birth, O blessed Savva.  /  You were an adornment of monastics and a praiseworthy citizen of the desert.  / Therefore, we cry to you:  “Hail, greatly renowned Father.”"
+      }
+    },
+    {
+      "name": "Saint Gurias, Archbishop of Kazan",
+      "troparion": {
+        "tone": 3,
+        "text": "Because of your virtuous and noble life, the most generous God raised you to the throne of the God-saved kingdom of Kazan  / and enlightened the Tatar people by your teachings, O Saint Gurίas.  / You brought many to Christ's chosen flock, and lived a godly life, giving aid to the poor; /  and after your glorification, your body, which lay hidden for many years, wondrously appeared from the depths of the earth, /  and your coffin was filled with fragrant myrrh for all those who come with faith to receive this myrrh at the shrine of your revered relics,  / which pour forth healing for all.  / O Holy Hierarch Gurίas, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Anastasius the Fuller of Salona in Dalmatia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Anastasius, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anastasius;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Karion (Cyrion) and his son, Venerable Zachariah, of Egypt",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers Karion and Zachariah, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Nectarius of Bitolya and Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nectarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Philotheus of Karyes, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Philotheus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyrs of Karyes",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Fathers, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Saint Crispina",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Crispina calls out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    }
+  ]
 }

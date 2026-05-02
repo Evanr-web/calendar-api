@@ -1,0 +1,50 @@
+{
+  "date": "2026-05-22",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Basiliscus, Bishop of Comana",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Basiliscus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "You were shown to be strong and courageous in suffering; / you were revealed to be a wonder-worker in miracles! / You openly bore the name of Christ, putting the tyrant to shame! / Therefore we honor you, most honored Basiliscus, / ever crying: “Rejoice, splendid adornment of the martyrs!”"
+      }
+    },
+    {
+      "name": "Saint John-Vladimir, Prince of Bulgaria, Greatmartyr, and Miracle-worker",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr John, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr John;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Monastic Martyr Paul of the Lavra, Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Paul, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Paul, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Blessed James of Borovichi, Wonderworker of Novgorod",
+      "troparion": {
+        "tone": 1,
+        "text": "Enlightened by Divine Grace,  /  after death you grant healing to those who come to you, most wise James, /  and now we honor the transfer of your precious relics, rejoicing in both soul and body. /  Therefore, we all cry:  / “Glory to Him Who gave you strength.  / Glory to Him Who crowned you. /  Glory to Him Who, through you, grants healing to all.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Like a bright star, O Father,  / you shone forth in the east, and came west, O blessed one, at the transfer of your relics. /  Now, like the rays of the sun, you radiate healing for those who come to the shrine of your relics.  / Pray to Christ God to save the Orthodox people who pray to you, that all may cry:  / “Rejoice, divinely-wise James.”"
+      }
+    }
+  ]
+}

@@ -30,5 +30,78 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Prepare, O Bethlehem, for Eden has been opened to all! /  Adorn yourself, O Ephratha, for the Tree of Life blossoms forth from the Virgin in the cave! /  Her womb is a spiritual paradise planted with the Divine Fruit; / if we eat of it, we shall live forever and not die like Adam. /  Christ is born to raise up again what fell in former times, His image.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "(Podoben: “Today the Virgin...”)\r\nToday the Virgin comes to the cave to give birth ineffably to the Pre-Eternal Word.  / Hear the glad tidings and rejoice, O inhabited earth.  /  With the Angels and the shepherds,  / glorify Him Who for our sake wills to appear as a young child –  / God before the ages.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Forefeast of the Nativity of our Lord",
+  "oca_saints": [
+    {
+      "name": "Forefeast of the Nativity of our Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Bethlehem, for Eden has been opened to all! /  Adorn yourself, O Ephratha, for the Tree of Life blossoms forth from the Virgin in the cave! /  Her womb is a spiritual paradise planted with the Divine Fruit; / if we eat of it, we shall live forever and not die like Adam. /  Christ is born to raise up again what fell in former times, His image."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nToday the Virgin comes to the cave to give birth ineffably to the Pre-Eternal Word.  / Hear the glad tidings and rejoice, O inhabited earth.  /  With the Angels and the shepherds,  / glorify Him Who for our sake wills to appear as a young child –  / God before the ages."
+      }
+    },
+    {
+      "name": "10 Holy Martyrs of Crete",
+      "troparion": {
+        "tone": 3,
+        "text": "Let us show forth our great praise of Crete / that brought forth these precious Christians: the pearls of Christ! / And these blessed ten, the offspring of martyrs, / who though few in number, overcame all the deceits of powerful demons. / Therefore these martyrs of Christ have been crowned with victory!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "The noble struggle of the martyrs / shines forth as the morning star, / shedding brilliant light for us / on the One who was born in the cave / to whom the Virgin gave birth without human seed."
+      }
+    },
+    {
+      "name": "Repose of Saint Theoktistos, Archbishop of Novgorod",
+      "troparion": {
+        "tone": 3,
+        "text": "You were an excellent servant of the Wisdom of God the Word,  / a true emulator of the Angelic life,  / a true follower of the Divine lover of purity,  / sharing a throne with the Hierarchs, living with monastics, splendor of pastors,  / and glory of Novgorod the Great, /  O Venerable Hierarch Theóktistos, our Father, /  entreat the Word of God, Whom you served during your lifetime,  / for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O splendor of Hierarchs, and divinely inspired adornment of Great Novgorod for the people who dwell in it,  / in the pastures of the life-bearing law of the Lord; /  therefore, you were vouchsafed to dwell in the assembly of the Saints,  / and have kept your holy memory pure for many years; /  revering you from the bottom of our hearts, we cry out to you:  / “Rejoice, O Hierarch Theóktistos our Father, the glory and strength of Great Novgorod.”"
+      }
+    },
+    {
+      "name": "Saint Niphon, Bishop of Constantia, Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "You were chosen by God as the shepherd and herald of the Church,  /  and taught repentance to the fallen.  /  By your prayers you revealed the deceit of the demons,  / and your countenance shone like that of Moses.  / O Father Nḗphon, pray to Christ God for those who honor you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You subdued the flesh with the fear of God,  / and soared to the heights of knowledge.  / You attained your desire, O blessed Nḗphon.  /  Intercede with Christ God for those who honor you."
+      }
+    },
+    {
+      "name": "Saint Paul, Bishop of Neocaesarea",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Paul, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Nahum of Ochrid, disciple of Saints Cyril and Methodius, Equal of the Apostles",
+      "troparion": {
+        "tone": 4,
+        "text": "Forsaking the world, you were united with Christ, /  crucifying the flesh, and living in the Spirit,  / most blessed Nahum, you sought the apostolic path and led countless Bulgarians to the Faith.  / Therefore, by your prayers, /  deliver us from temptation."
+      },
+      "kontakion": null
+    }
+  ]
 }

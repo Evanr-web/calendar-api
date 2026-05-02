@@ -1,0 +1,66 @@
+{
+  "date": "2026-12-21",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Nativity of our Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Bethlehem, for Eden has been opened to all! /  Adorn yourself, O Ephratha, for the Tree of Life blossoms forth from the Virgin in the cave! /  Her womb is a spiritual paradise planted with the Divine Fruit; / if we eat of it, we shall live forever and not die like Adam. /  Christ is born to raise up again what fell in former times, His image."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "He who holds the earth in the hollow of His hand / now is beheld in Bethlehem wrapped in swaddling bands. / We offer pre-festal hymns to His Mother, who maternally rejoices / having held to her bosom the Son of God."
+      }
+    },
+    {
+      "name": "Virgin Martyr Juliana of Nicomedia, and 500 men and 130 women with her",
+      "troparion": {
+        "tone": 4,
+        "text": "All-blameless bride and venerable trophy-bearer, / you are wedded to the Word of the immortal Father, O glorious Juliana. / For having wisely disdained your mortal bridegroom, / you strove beyond nature to destroy the serpent, / and now you delight in the joys of your Bridegroom!"
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "You were a beautiful virgin, wise Juliana, / and as your soul was wounded with divine love, / your body was also pierced with the wounds of martyrdom adorning you as a bride of Christ and His martyr. / Now as you dwell in the heavenly bridal chamber, / you pray for us all."
+      }
+    },
+    {
+      "name": "Repose of Saint Peter, Metropolitan of Moscow, Wonderworker of All Russia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Peter, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Right-believing Princess Juliana of Vyazma",
+      "troparion": {
+        "tone": 2,
+        "text": "Living devoutly according to the Law, and adorned with good deeds,  /  you appeared as a hard diamond, O Holy Right-believing Princess Juliana,  /  despising perishable glory and bodily beauty, /  you defeated the insidious Enemy, and you were martyred for the sake of chastity. /  Therefore, you were crowned by Christ God with an imperishable and eternal crown,  /  and now you rejoice in the assembly of the Martyrs.  /  Therefore, we cry out to you:  /  “Entreat Christ God for all of us, who with faith and love revere your sufferings.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today let us sing to God, the Benefactor of all,  / Who glorified the divinely-wise Juliana in Russia,  /  that by her prayers He may grant to our souls  / the forgiveness of sins and great mercy."
+      }
+    },
+    {
+      "name": "Martyr Themistocles of Myra in Lycia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Themistocles, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Themistocles;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Macarius the Faster, Abbot of the Khakhuli Monastery",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

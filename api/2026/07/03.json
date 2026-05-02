@@ -29,5 +29,134 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Like a fragrant hyacinth of the Church of Christ, O all-blessed Hyacinth, / you radiate grace to the ends of the world. / By the brilliance of your confession of faith, / you were illustrious in contest in emulation of God the Word / and you ever illumine those who acclaim you.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Come, you faithful, / plait a crown of unfading hyacinths today for the Martyr Hyacinth, / and let us cry to Him: / “Rejoice, glory of martyrs.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyr Hyacinth of Caesarea, in Cappadocia, and those with him",
+  "oca_saints": [
+    {
+      "name": "Martyr Hyacinth of Caesarea, in Cappadocia, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Like a fragrant hyacinth of the Church of Christ, O all-blessed Hyacinth, / you radiate grace to the ends of the world. / By the brilliance of your confession of faith, / you were illustrious in contest in emulation of God the Word / and you ever illumine those who acclaim you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Come, you faithful, / plait a crown of unfading hyacinths today for the Martyr Hyacinth, / and let us cry to Him: / “Rejoice, glory of martyrs.”"
+      }
+    },
+    {
+      "name": "Translation of the relics of Hieromartyr Philip, Metropolitan of Moscow",
+      "troparion": {
+        "tone": 8,
+        "text": "O foremost pillar of Orthodoxy / and defender of the truth, / the new confessor Philip laid down his life for his flock / therefore having boldness before Christ our God / pray for this city and people who honor your holy memory."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Anatolius of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anatolius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Anatolius the Recluse of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anatolius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Basil, Bishop of Ryazan",
+      "troparion": {
+        "tone": 4,
+        "text": "At first you were honored with the episcopal dignity at Murom, but were unjustly banished.  / You climbed\r\nonto your mantya as if it were a light ship; /  and as one without a body, you made your way supernaturally\r\nover the water, /  guided by the Providence of the Most High, and by the intercession of the Mother of God,\r\nyou reached the God-saved city of Ryazan. /  There you accepted your hierarchal throne, and your God-given\r\nflock of Ryazan.  / You have done well, O Hierarch and Father Basil.  / Entreat Christ God that our souls may\r\nbe saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O Hierarch Basil, you shone in the city of Murom like a bright star,  /  and upon the water you reached the city of Ryazan; /   you helped the Church of God well by enlightening the people with your teaching and your life.  /  Even now, remember your children who pray to you, our good teacher, /   and entreat Christ God and His Most Pure Mother for us, /   that with grateful souls we may cry to you:  /  \"Rejoice, O Christ-pleaser and fervent intercessor with God for us."
+      }
+    },
+    {
+      "name": "Venerable Longinus, Wonderworker of Yarenga, Solovki",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Longinus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Νikόdēmos, Abbot of Kozhe Lake",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Νikόdēmos, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Mark and Mocius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Mark and Mocius, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Alexander, founder of the Monastery of the “Unsleeping Ones”",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Alexander, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Anatolius, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Anatolius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Gerasimus the New of Carpenision",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The entire world has found you to be a great champion in times of peril...”1)\r\nO gift of honor to the Church,  / divinely bright flame of Evrytania, and boast of the New Martyrs, /  you longed for Christ through asceticism and confessed God by martrydom.  / O Monastic Martyr Gerasimos, /  through the intercessions of the Mother of God, entreat Him that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high...”)\r\nYou were made manifest by your splendor as a bright star,  / proclaiming Christ to the temporal world, O Martyr Gerasimos,  / and by vanquishing the allurement of false gods,  / you granted true light to the faithful, /  always interceding on behalf of us all."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God the “Milk-Giver” of the Hilandar Monastery on Mount Athos",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nWe bow down and glorify your holy Icon, O Virgin Milk-Giver, as the tabernacle of your glory;   /  from it you mystically gush forth the milk of immaterial gifts,   /  and you nourish the hearts and souls of the faithful who cry out to you:  / “Glory to your majesty, O Pure One.  /  Glory to your miracles.  /  Glory to your inexpressible kindness toward us.”"
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "Having purified the perception of our souls,  /  we behold on the Icon a wondrous mystery:  /  the Creator of the Universe and the Lord of the Powers on High is held in your embrace,   / and as a Child He nurses at your breast;   /  with fear and joy we fall down before you   / and our Savior Who was born of you, and let us cry out,  /  “Rejoice, O Sovereign Lady, the nourisher of our life.”1"
+      }
+    },
+    {
+      "name": "Saint George the God-Bearer",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father George, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

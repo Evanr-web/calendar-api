@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-16",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Longinus the Centurion, who stood at the Cross of the Lord",
+      "troparion": {
+        "tone": 1,
+        "text": "Longinus, you beheld the King of Glory / who was nailed to the Cross, yet shone on those in darkness. / You were enlightened by His rays and became a martyr / and save those who cry: / Glory to Him who gave you strength! / Glory to Him who granted you a crown! / Glory to Him who through you grants healing to all!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The Church rejoices in gladness / on the day of the commemoration of the ever-memorable athlete Longinus! / She cries out: “You are my strength and support, O Christ!”"
+      }
+    },
+    {
+      "name": "Venerable Longinus the Gatekeeper of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Longinus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Longinus of Yarenga",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Longinus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Longinus of Asistavi",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Longinus, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Longinus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Eupraxia, Princess of Pskov",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Mother,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Mother Eupraxia your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Having received the grace...“)\r\nBecause of your love of God you forsook a bed for rest, O Mother Eupraxia, /  you illumined your soul with fasting, thoroughly vanquishing your enemies; /  but by your intercessions destroy the evil designs of our adversaries."
+      }
+    },
+    {
+      "name": "Saint Domna of Tomsk",
+      "troparion": {
+        "tone": 1,
+        "text": "Hearing the voice of Thine Apostle Paul say: “We are fools for Christ;”  /  Thy handmaiden Mother Domna, O Christ God, was a fool on earth for Thy sake;  /  therefore, honoring her memory,  /  we entreat Thee: “O Lord, save our souls!”"
+      },
+      "kontakion": null
+    }
+  ]
+}

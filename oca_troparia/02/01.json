@@ -1,0 +1,93 @@
+{
+  "date": "2026-02-01",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Sunday of the Publican and the Pharisee Beginning of the Lenten Triodion",
+      "troparion": null,
+      "kontakion": {
+        "tone": 4,
+        "text": "Let us flee from the pride of the Pharisee! / And learn humility from the Publican’s tears! / Let us cry to our Savior, / have mercy on us, / only merciful One!"
+      }
+    },
+    {
+      "name": "Forefeast of the Meeting of our Lord in the Temple",
+      "troparion": {
+        "tone": 1,
+        "text": "The celestial choir of heavenly angels / bends down to the earth / and sees the First-born of all creation / being carried into the Temple as a babe / by a Mother who has not known man, / and in amazement sings with us / a pre-festal hymn."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "The Word, unseen with the Father, / now is seen in the flesh, ineffably born of the Virgin, / and is given into the arms of the priest and Elder. / Let us worship Him, our True God."
+      }
+    },
+    {
+      "name": "Martyr Tryphon of Lampsacus Near Apamea in Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Tryphon, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "By the power of the Trinity you destroyed polytheism to the ends of the earth, / and you were honored by Christ, all-glorious Tryphon; / having conquered tyrants through Christ the Savior, / you received your crown of martyrdom and the gift of divine healing, for you are invincible."
+      }
+    },
+    {
+      "name": "Martyrs Perpetua, a woman of Carthage, and the Catechumens: Saturus, Revocatus, Saturninus, Secundulus and Felicitas",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Peter the Hermit of Galatia Near Antioch, in Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Peter, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Vendemianus the Hermit of Bithynia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Vendemianus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Brigid (Bridget) of Ireland",
+      "troparion": {
+        "tone": 1,
+        "text": "O holy Brigid, you became sublime through your humility, / and flew on the wings of your longing for God. / When you arrived in the eternal City and appeared before your Heavenly Bridegroom, / wearing the crown of virginity, / you kept your promise / to remember those who have recourse to you. / You shower grace upon the world, and multiply miracles. / Intercede with Christ our God that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The holy virgin Brigid full of divine wisdom, / went with joy along the way of evangelical childhood, / and with the grace of God/ attained in this way the summit of virtue. / She now bestows blessings upon those who come to her with faith. / O holy Virgin, intercede with Christ our God / that He may have mercy on our souls."
+      }
+    },
+    {
+      "name": "Saint Tryphon, Bishop of Rostov",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Tryphon, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Tryphon, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Seririol of Wales",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Seririol your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the Highest...”) Having divinely armed yourself with purity of soul and firmly grasping unceasing prayer as a\r\nspear,  /  you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Seririol: /  \r\n“Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

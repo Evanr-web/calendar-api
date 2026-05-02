@@ -1,0 +1,58 @@
+{
+  "date": "2026-03-17",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Alexis the Man of God",
+      "troparion": {
+        "tone": 4,
+        "text": "You budded from a famous and glorious root; / you blossomed from a royal and illustrious city, O supremely wise Alexis; / you disdained everything on earth as corruptible and fleeting, / and you hastened to Christ the Master. / Always entreat Him to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today with hymns and praise / we celebrate the feast of Alexis the blessed and we cry aloud: / Rejoice, gladsome adornment of the righteous!"
+      }
+    },
+    {
+      "name": "Venerable Macarius the Wonderworker, Abbot of Kalyazin",
+      "troparion": {
+        "tone": 8,
+        "text": "You deadened your carnal mind by abstinence and vigil. / The place watered by the sweat of your labors proclaims your admonitions like God’s trumpet. / After your repose your relics pour forth healings. / Therefore we cry to you: pray to Christ our God that our souls may be saved!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You desired the life of heaven / and delighted in abstinence, labors and sweat. / You bridled the flesh and received the grace to work wonders. / You appear as a radiant light, O righteous Father Macarius. / Therefore the Church of Christ glorifies you!"
+      }
+    },
+    {
+      "name": "Martyr Marinus",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Marinus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Marinus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Saint Patrick, Bishop of Armagh, Enlightener of Ireland",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Bishop Patrick, / faithful shepherd of Christ’s royal flock, / you filled Ireland with the radiance of the Gospel: / The mighty strength of the Trinity! / Now that you stand before the Savior, / pray that He may preserve us in faith and love!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious leader...”)\r\nLet us come together joyously to praise the luminary of Ireland, /  the most brilliant emulator and equal of the Apostles;  / for having found boldness before the Lord, /  he beseeches Him to free from all their sorrows those who cry out: “Rejoice, Father Patrick.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Gabriel the Lesser",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Gabriel, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    }
+  ]
+}

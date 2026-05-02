@@ -1,0 +1,52 @@
+{
+  "date": "2026-04-21",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Januarius, Bishop of Benevento, and his companions, at Pozzuoli",
+      "troparion": {
+        "tone": 3,
+        "text": "Naples has found you a champion in dangers, / O Januarius, our glorious father. / You delivered her from plague, famine and affliction, / and from the fire of Vesuvius. / With faith and love we venerate you and honor your holy relics!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "The Master has given you to Naples, O holy one, / as a precious treasure and fountain of healings. / You are a guardian and protector of the faithful, / and you avert the evils of Vesuvius’ fire. / Therefore we cry to you in faith: / Rejoice, O Januarius, / our father and protector!"
+      }
+    },
+    {
+      "name": "Hieromartyr Theodore of Perge in Pamphylia, his mother, Philippa, and Martyrs Dioscorus, Socrates, and Dionysius",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles,   /  you became a successor to their throne.   / Through the practice of virtue, you found the way to divine contemplation, O divinely-inspired one; by rightly dividing the word of truth without error, you defended the Faith,   / even to the shedding of your blood.  /  O Hieromartyr Theodore, entreat Christ God to save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom, O divinely-wise one,  / you abolished the sacrifices of idolatry and showed yourself to be a protector of your flock.  / Therefore, we cry fervently to you:  / “By your intercessions, deliver us from all misfortunes,  / O Theodore our Father.”"
+      }
+    },
+    {
+      "name": "Martyrs Isaac, Apollos, and Quadratus, of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Isaac, Apollos, and Quadratus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Maximian, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Maximian, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "The Recovery of the Relics of Saint Theodore of Sanaxar",
+      "troparion": {
+        "tone": 4,
+        "text": "From your youth you loved Christ with filial love,  / and desiring to serve only the Lord, /  you have chosen the good part, which shall not be taken away by death.1  /  You devoted yourself to the one thing needful, and to the Giver of Life,  / and you were found worthy to receive from Him the gifts of divine teaching and spiritual discernment,  /  guiding all who have recourse to you, seeking the salvation of their souls, /  O divinely-wise Elder Theodore of Sanaxar."
+      },
+      "kontakion": null
+    }
+  ]
+}

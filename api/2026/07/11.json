@@ -30,5 +30,100 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "Giving your mind the wings of divine understanding, / you soared above visible creation seeking God the Creator of all. / When you had found Him, you received rebirth through baptism. / As one who enjoys the Tree of Life, / you remain eternally incorrupt, ever-glorious Olga.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "Today let us praise God the Benefactor of all, / who glorified divinely-wise Olga, / that through her prayers, He may grant our souls remission of sins.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Equal-to-the-Apostles Blessed Great Princess Olga (in Holy Baptism Helen)",
+  "oca_saints": [
+    {
+      "name": "Greatmartyr Euphemia the All-praised",
+      "troparion": {
+        "tone": 3,
+        "text": "You brought joy to the Orthodox / and shame to the defenders of heresy, / for you confirmed what the Fathers of the Fourth Council had correctly taught. / Glorious martyr Euphemia, fair virgin of Christ, / entreat Christ God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "For the sake of Christ your Bridegroom / you underwent struggles in both martyrdom and faith. / Now intercede with the Mother of God / that heresies and the insolent enemies of the Orthodox be placed underfoot. / You received and guarded that which was defined by the six hundred and thirty God-bearing Fathers, / all-praised Euphemia."
+      }
+    },
+    {
+      "name": "Equal-to-the-Apostles Blessed Great Princess Olga (in Holy Baptism Helen)",
+      "troparion": {
+        "tone": 1,
+        "text": "Giving your mind the wings of divine understanding, / you soared above visible creation seeking God the Creator of all. / When you had found Him, you received rebirth through baptism. / As one who enjoys the Tree of Life, / you remain eternally incorrupt, ever-glorious Olga."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today let us praise God the Benefactor of all, / who glorified divinely-wise Olga, / that through her prayers, He may grant our souls remission of sins."
+      }
+    },
+    {
+      "name": "Hieromartyr Kindeos the Presbyter of Pamphylia",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Kindeos, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Rzhevsk",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls: /  “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Lady. / Help us, for in you we hope, / and of you we boast, for we are your servants. / Let us not be put to shame."
+      }
+    },
+    {
+      "name": "New Monastic Martyr Νikόdēmos of Albania",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Νikόdēmos, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Νikόdēmos, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Transfer of the Relics of Saint Barbara",
+      "troparion": {
+        "tone": 8,
+        "text": "Let us honor the holy martyr Barbara, / for as a bird she escaped the snares of the enemy, / and destroyed them through the help and defense of the Cross."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Singing the praises of the Trinity, / you followed God by enduring suffering; / you renounced the multitude of idols, / O holy martyr Barbara. / In your struggles, you were not frightened by the threats of your torturers, but cried out in a loud voice: / “I worship the Trinity in one God-head.”"
+      }
+    },
+    {
+      "name": "Venerable Arcadius of Novotorsk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arcadius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Finding of the Relics of Saint Hilarion, Archbishop of Verey",
+      "troparion": {
+        "tone": 4,
+        "text": "O Hilarion, warrior of Christ,  /  glory and boast of the Church of Russia,  / you confessed Christ before the perishing world,  / you strengthened the Church by your blood,  /  and having acquired divine understanding,  / you proclaimed to the faithful:  / Without the Church there is no salvation!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "O Hilarion, Hieromartyr of Christ, you were not afraid of the servants of the coming Antichrist,  /  but confessed Christ courageously and laid down your life for God's Church,  /  O adornment of the New Martyrs of Russia, and boast of Holy Russia, / you are the glory and confirmation of our Church."
+      }
+    }
+  ]
 }

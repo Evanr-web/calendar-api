@@ -1,0 +1,106 @@
+{
+  "date": "2026-10-30",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Hieromartyr Zenobios and his sister Zenobia, of Aegæ in Cilicia",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nO glorious Zenobios and pure Zenobia,  / as siblings united in godliness,  / you contested together, and obtained incorruptible crowns;  / you are also worthy of everlasting glory,  / for together you shine forth upon those in the world with the grace of healing."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “As to creation's Planter...”)\r\nWith God-inspired hymns, let us honor the two Martyrs and preachers of piety,  /  Zenobios and the glorious Zēnobίa,  /  who lived and suffered together  / and through martyrdom,  /  they have obtained incorruptible crowns."
+      }
+    },
+    {
+      "name": "Apostle Tertius of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Tertius, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Mark of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Mark, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Justus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Justus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Artemas of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Artemas, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Marcian, Bishop of Syracuse",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Marcian, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Eutropia of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Eutropia, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Eutropia;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Anastasia of Thessalonica",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Anastasia, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Anastasia;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Dragutin (Theoctistus in Monasticism) of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theoctistus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Helen of Serbia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Helen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Ozeryana Icon of the Mother of God",
+      "troparion": {
+        "tone": 3,
+        "text": "With the certainty of your intercession for us, O Sovereign Lady,  /  and the merciful appearance of your Ozeryanskaya Icon,  /  before which we pour out our souls in prayer, we cry out to you with faith:  /  “O Merciful one, behold your people:  /  we beseech you to assuage all our tribulations and sorrows, /  grant blessed consolation to our hearts and the eternal salvation of our souls, O Most Pure one.”"
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "O Merciful Mother, do not reject our tears and lamentations,  /  but in your compassion, /   accept the petitions of your people who pray before your Icon, /   strengthen their faith, fill them with humility of heart,  /  and help them to bear the cross of earthly life, /   because whatever you wish, you are able to do."
+      }
+    }
+  ]
+}

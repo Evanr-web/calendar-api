@@ -29,5 +29,70 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Prophet and Forerunner of the coming of Christ, / although we cannot praise you worthily, / we honor you in love at your nativity, / for by it you ended your father’s silence and your mother’s barrenness, / proclaiming to the world the incarnation of the Son of God!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today the formerly barren woman gives birth to Christ’s Forerunner, / who is the fulfillment of every prophecy; / for in the Jordan, / when he laid his hand on the One foretold by the prophets, / he was revealed as Prophet, Herald, and Forerunner of God the Word.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Nativity of the Holy Glorious Prophet, Forerunner and Baptist, John",
+  "oca_saints": [
+    {
+      "name": "Nativity of the Holy Glorious Prophet, Forerunner and Baptist, John",
+      "troparion": {
+        "tone": 4,
+        "text": "Prophet and Forerunner of the coming of Christ, / although we cannot praise you worthily, / we honor you in love at your nativity, / for by it you ended your father’s silence and your mother’s barrenness, / proclaiming to the world the incarnation of the Son of God!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the formerly barren woman gives birth to Christ’s Forerunner, / who is the fulfillment of every prophecy; / for in the Jordan, / when he laid his hand on the One foretold by the prophets, / he was revealed as Prophet, Herald, and Forerunner of God the Word."
+      }
+    },
+    {
+      "name": "Venerable Anthony, Abbot of Dymsk, Novgorod",
+      "troparion": {
+        "tone": 4,
+        "text": "You were a zealot of virtue, a desert dweller, and ascetic of faith in Christ our God,  / and by fasting and labors you deadened carnal lusts.  / O namesake of Anthony the Great, /  you emulated his life and built a divine church in his name;  / now together with the venerable Anthony, /  beseech the Savior of all,  / that He may make us victorious over the lusts of the flesh, /  and temples of the Holy Spirit, /  according to His great mercy."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "You were a peer and emulator of Venerable Barlaam,  / and when you attained true obedience to him, you were shown to be worthy of him,  / and you shepherded his flock until the time,  / when having been zealous for his virtues, you attained the same age;  / and loving silence, you were shown to be pleasing to the Lord,  / and became the first Superior in the wilderness at Lake Dymsk;  / therefore, we cry out to you: /  “With Saint Barlaam, O Father Anthony,  / entreat God for us, so He may grant us to please Him as you did,  / an image of obedience and a zealot for stillness.”"
+      }
+    },
+    {
+      "name": "Seven Martyred Brothers: Orentius, Pharnacius, Eros, Firmus, Firminus, Cyriacus, and Longinus, in Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Athanasius Parios",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Go quickly before...”)\r\nPiously adorned with every kind of wisdom, O divinely-inspired teacher of the Church,  / and\r\none of most upright life, you were seen as a bright pillar, O Father Athanasios.  / Wherefore, the\r\nisland of Paros boasts of your glory and we honor your gifts."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared today...”)\r\nYou shone forth from Paros like a new star,  / and you enlightened the faithful by your holy\r\nteachings,  / through the inspiration of grace, as a divinely-speaking sage, O Athanasios."
+      }
+    },
+    {
+      "name": "Venerable Barlaam of Khutin",
+      "troparion": {
+        "tone": 3,
+        "text": "Exhausting your body by sleeping on the earth, praying, and keeping vigil, O Venerable one,  / you dispelled all carnal thoughts  / and become a copious stream of healing for those who come to you with faith;  / O Barlaam, our Father,  / pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a second Elijah, O Father, you brought down rain from the heavens,  /  for he brought down fire and astonished the king,   / but you pleased your people and instituted a festival.  /  Great Novgorod takes pride in you, having your relics in itself,   / preserving it unshaken by enemies, so that we may cry out to you:   / “Rejoice, Venerable Barlaam, our Father.”"
+      }
+    }
+  ]
 }

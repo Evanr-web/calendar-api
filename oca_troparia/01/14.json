@@ -1,0 +1,104 @@
+{
+  "date": "2026-01-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Leavetaking of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 1,
+        "text": "When You, O Lord were baptized in the Jordan / the worship of the Trinity was made manifest / for the voice of the Father bore witness to You / and called You His beloved Son. / And the Spirit, in the form of a dove, / confirmed the truthfulness of His word. / O Christ, our God, You have revealed Yourself / and have enlightened the world, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today You have shown forth to the world, O Lord, / and the light of Your countenance has been marked on us. / Knowing You, we sing Your praises. / You have come and revealed Yourself, / O unapproachable Light."
+      }
+    },
+    {
+      "name": "Saint Savva I, first Archbishop of Serbia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Savva, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Savva, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Holy Monastic Fathers slain at Sinai and Raithu",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers,  /  always act with kindness towards us;  /  do not take Your mercy from us,  / but direct our lives in peace  / through the prayers of these Saints."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFleeing from the world's confusion and turbulence,  / you passed over to a state of serenity,  /  crowned with the blood of martyrdom and the pains of your ascetical contests.  / Therefore, you were shown to dwell with the Martyrs and the Venerable Fathers."
+      }
+    },
+    {
+      "name": "Saint Nino (Nina), Equal of the Apostles, Enlightener of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "O handmaiden of the Word of God,  / who equaled the first-called Apostle Andrew in preaching,  / and emulated the other Apostles;  / enlightener of Iberia and lyre of the Holy Spirit,  / Holy equal of the Apostles Nina, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Come, all of you, let us sing praises today to the one chosen by Christ,  / the equal of the Apostles, the preacher of God's Word,  / the wise bearer of good tidings, who brought the people of Kartli to the path of life and truth;  / she is the disciple of the Mother of God,  / our zealous intercessor and unsleeping guardian, /  the all-praised Nina."
+      }
+    },
+    {
+      "name": "Saint Joseph Analytinus of Raithu",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joseph, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Theodulus, son of Venerable Nilus of Sinai",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theodulus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Stephen, Abbot of Khenolakkos Monastery, near Chalcedon",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Stephen, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Kentigern, first Bishop of Glasgow, Scotland",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Kentigern, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Kentigern, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Meletios, Bishop of Ryazan",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Meletios, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Platon, the first Bishop of Estonia, and all the New Martyrs of Estonia",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nLet all the faithful honor Platon, the illustrious Hierarch,  / the august prize-winner, and divinely-honored leader of Estonia, with hymns and spiritual songs; /  for he bestows gifts upon the faithful who cry to him:  / \"Glory to Him Who gave you strength. /  Glory to Him Who crowned you.  / Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You have appeared today...”)\r\nToday Estonia celebrates the Hierarch Platon, /  and with him, the devout and courageous New Martyrs /  who\r\nglorified Christ as the Lover of mankind."
+      }
+    }
+  ]
+}

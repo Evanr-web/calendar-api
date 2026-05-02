@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint John [Maximovitch], Archbishop of Shanghai and San Francisco",
+      "troparion": {
+        "tone": 5,
+        "text": "Your care for your flock in its sojourn prefigured your prayers,  / which you always offer up for the whole world.  / Thus we believe, having come to know your love, O holy hierarch and wonderworker John.  / Wholly sanctified by God through the ministry of the all-pure Mysteries, /  and ever strengthened by them yourself,  / you hastened to the suffering, O healer, easing their afflictions.  / Hasten now to help us, who honor you with all our heart."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Your heart went out to all who entreat you with love, O hierarch John,  / and who remember the struggle of your life, and thy painless and easy repose,  / O faithful servant of the all-pure Directress.*"
+      }
+    },
+    {
+      "name": "The Placing of the Honorable Robe of the Most Holy Mother of God at Blachernae",
+      "troparion": {
+        "tone": 8,
+        "text": "Ever-Virgin Theotokos, protectress of mankind, you have given your people a powerful legacy: / the robe and sash of your most honored body, which remained incorrupt throughout your seedless childbearing; for through you time and nature are renewed! / Therefore we implore you: “Grant peace to your people and to our souls great mercy!”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "O Pure One, full of the grace of God, / you have given your sacred robe as a garment of incorruption to all the faithful, / with it you covered your holy body, O divine protection of all mankind. / We celebrate its enshrinement in Blachernae with love and we cry aloud with awe: / “Rejoice, O Virgin, boast of Christians.”"
+      }
+    },
+    {
+      "name": "Saint Photius, Metropolitan of Kiev",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Photius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Juvenal, Patriarch of Jerusalem",
+      "troparion": {
+        "tone": 4,
+        "text": "O successor of the Brother of the Lord on the archpastoral throne of the holy city of Jerusalem,  / you are worthy of praise.  / With the divinely-wise Fathers of Chalcedon  / you expounded the Incarnation of the Son of God,  / Who came to renew the world and to deify all men,  / united with Him in His Church. O Hierarch Father Juvenal,  / now as you stand before the throne of Father of Lights in the Kingdom, /  pray for those who lovingly honor you,  / and may the peace and mercy of the Savior be with us."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God of Akhtyr",
+      "troparion": {
+        "tone": 4,
+        "text": "Most blessed Virgin, pure Mother of God,  / standing before the Cross of your Son and our God,  / you endured great sorrow and received from Him the grace to comfort those in sorrow.  / Therefore, gazing reverently upon your most pure Icon and seeing you depicted on it,  / before the Cross of the Savior,  / with breaking hearts we cry out to you:  / “O fervent protectress good and merciful.  / Hasten to deliver us from all adversity, need, and sickness, and save our souls,  / that we may always glorify you with thanksgiving.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Let us turn, O believers, to the gracious source of mercy and bounty,  /  the miraculous Icon of the Most Pure Virgin,   / for it has been given to us from on high for the healing of souls and bodies,   / and we venerate it with love, crying out to the Theotokos:   / “O All-praised Mother, All-merciful Queen,  /  protect and preserve us from all evil things by your maternal intercession before God.”"
+      }
+    },
+    {
+      "name": "Icon of the Mother of God of Theodotiev",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls:  /  “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions.  /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Steadfast protectress of Christians, /  most constant advocate before the Creator,  /  do not despise the voices of us who have sinned,  /  but in your goodness come speedily to help us, who cry to you in faith:  /  “Hasten to intercede for us, O Theotokos,  /  and speedily make supplication, for you always protect those who honor you.”"
+      }
+    },
+    {
+      "name": "Saint Stephen the Great",
+      "troparion": {
+        "tone": 2,
+        "text": "O right-believing Prince Stephen, /   the Church of Christ had you as a fearless defender of the true Faith;  /  for this reason all the people have called you great, good, and holy, and have honored you.  /  By your prayers to God, we always have you as the strengthener of our Orthodox Faith and the protector of our country."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "By truly loving God, O glorious Stephen, you built holy churches and monasteries; /  you helped the poor\r\nand forgave those who wronged you.  / Because of your deeds, God endowed you with wisdom and the\r\npower to overcome the enemies of your country and of the Christian Faith.  / Therefore, we honor you\r\nand call you Father."
+      }
+    }
+  ]
+}

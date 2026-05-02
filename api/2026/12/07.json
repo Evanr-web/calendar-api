@@ -30,5 +30,97 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 1,
+    "text": "Let us all honor the glorious Hierarch Ambrose,  /  the namesake of ambrosia, the instructor of Italy,  /  the protector of Christ's Church, and leader of Milan,  /  a son of his diocese, and the greatest supporter of the poor, /   for he intercedes with the Lord to have mercy on our souls.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "(Podoben: “The Divine Faith...”)\r\nShining forth with godly doctrines, you drove off the darkness of the deception of Arius,  /  O shepherd and initiate of the sacred mysteries.  / You worked miracles by the power of the Spirit, /  wisely healing various passions; / O Righteous Father Ambrose, entreat Christ God to grant us great mercy.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Ambrose, Bishop of Milan",
+  "oca_saints": [
+    {
+      "name": "Saint Ambrose, Bishop of Milan",
+      "troparion": {
+        "tone": 1,
+        "text": "Let us all honor the glorious Hierarch Ambrose,  /  the namesake of ambrosia, the instructor of Italy,  /  the protector of Christ's Church, and leader of Milan,  /  a son of his diocese, and the greatest supporter of the poor, /   for he intercedes with the Lord to have mercy on our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nShining forth with godly doctrines, you drove off the darkness of the deception of Arius,  /  O shepherd and initiate of the sacred mysteries.  / You worked miracles by the power of the Spirit, /  wisely healing various passions; / O Righteous Father Ambrose, entreat Christ God to grant us great mercy."
+      }
+    },
+    {
+      "name": "Venerable Anthony, Abbot of Siya, Novgorod",
+      "troparion": {
+        "tone": 1,
+        "text": "You renounced the world in favor of the spirit, / seeking the one God with your whole heart, O Anthony. / You retreated to a far wilderness, near waters, / in tears and labors living the angelic life. / You gathered a multitude of monks in your wisdom. / Visit them and cease not to implore the Holy Trinity / to deliver us from evil / And to save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "From your youth you exhausted your flesh by fasting and prayer, / and taking up your cross, you followed Christ. / Having joyfully completed your journey to heaven, / you stand with the saints before the Holy Trinity. / Now visit your flock and remember those who honor you, / that all the faithful may cry out in thanksgiving: / Rejoice, O wise and righteous Anthony, guide of desert-dwellers!"
+      }
+    },
+    {
+      "name": "Venerable Nilus of Stolbensk Lake",
+      "troparion": {
+        "tone": 4,
+        "text": "You appeared as a bright light on the island of Lake Seliger. / From your youth you took Christ’s cross on your shoulder. / You followed him zealously, O Father Nilus, / and by your purity you approached the divine likeness. / You were enriched with the gift of miracles; / and now we run to your relics compunctionately crying: / Entreat Christ our God that he may save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Leaving your fatherland you made your wilderness dwelling on the island of Lake Seliger. / Living in hardship and amazing men by your virtues, / you received Christ’s gift of working wonders. / Remember us who honor your holy memory, / that we may cry to you: Rejoice, O Father Nilus!"
+      }
+    },
+    {
+      "name": "Venerable John the Faster of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father John, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Athenodorus of Mesopotamia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Athenodorus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Athenodorus;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Paul the Obedient",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paul, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Philothea of Thrace, Protectress of Romania",
+      "troparion": {
+        "tone": 8,
+        "text": "The blessed Philothea cries out to her Lord with great love, / offering to Him the martyrdom which she endured for Him. / She was buried with Him in Baptism that she might rise with Him, / so, by her sufferings, she died that she might live in Him. / Having given the pure oblation of her life to Christ, now she reigns with Him in glory. / By her prayers, O Christ God, in Thy mercy, save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O blessed Philothea, from your youth you offered yourself, / because of your great virtue, as a pure and spotless sacrifice unto God, Who truly knew you before your birth. / You were an adornment of virgins and of the inhabitants of the Bridal Chamber, worthy of praise. / Therefore, we\r\ncry to you: Hail, ever-memorable virgin."
+      }
+    },
+    {
+      "name": "Venerable Gregory, founder of Grigoriou Monastery, Mount Athos",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Gregory, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

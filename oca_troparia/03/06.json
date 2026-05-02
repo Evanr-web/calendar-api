@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-06",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "42 Martyrs of Ammoria in Phrygia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your forty-two holy martyrs, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Forty-two holy martyrs of Ammoria, / you contended for the sake of Christ on earth; / you were revealed as crown-bearing martyrs, / and have been received into the life of the joy of heaven. / Since you overthrew all the wiles of the enemy / by your sufferings and the blood of your wounds, / you continually send down from on high remission of sins to those who praise you."
+      }
+    },
+    {
+      "name": "Monastic Martyrs Conon and his son, Conon, of Iconium",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints Conon and Conon."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Conon and Conon, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Arcadius of Cyprus",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Arcadius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Icon of the Mother of God “the Blessed Heaven”",
+      "troparion": {
+        "tone": 6,
+        "text": "What shall we call you, O full of grace? /  Heaven? for you have shone forth the Sun of Righteousness. / \r\nParadise? for you have brought forth the Flower of immortality.  / Virgin? for you have remained incorrupt. / \r\nPure Mother? for you have held in your holy embrace your Son, the God of all.  / Entreat Him to save our\r\nsouls.1"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Sovereign Lady.  / Help us, for in you do we hope, /  and of you do we boast, for we are your servants.  / Let us not be put to shame."
+      }
+    }
+  ]
+}

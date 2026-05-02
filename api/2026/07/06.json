@@ -30,5 +30,80 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 5,
+    "text": "From your youth you followed the angelic life / and were therefore filled with many godly gifts. / O Sisoes, emulator of the angels, / in the hour of your going forth from this life, / you shone resplendently as the sun / revealing your glory and illuminating our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "In asceticism you were revealed to be an earthly angel, / continually enlightening the thoughts of the faithful with divine signs. / Therefore we honor you with faith, venerable Sisoes.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Venerable Sisoes the Great",
+  "oca_saints": [
+    {
+      "name": "Venerable Sisoes the Great",
+      "troparion": {
+        "tone": 5,
+        "text": "From your youth you followed the angelic life / and were therefore filled with many godly gifts. / O Sisoes, emulator of the angels, / in the hour of your going forth from this life, / you shone resplendently as the sun / revealing your glory and illuminating our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "In asceticism you were revealed to be an earthly angel, / continually enlightening the thoughts of the faithful with divine signs. / Therefore we honor you with faith, venerable Sisoes."
+      }
+    },
+    {
+      "name": "Venerable Sisoes the Schemamonk of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Sisoes, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Uncovering of the relics of Holy Princess Juliana Olshanskaya",
+      "troparion": null,
+      "kontakion": {
+        "tone": 8,
+        "text": "We know you as a living temple of God, magnificently adorned with virginal purity,   / O Holy and Righteous Virgin Princess Juliana;   / therefore, lovingly honoring your holy relics, we entreat you, the constant intercessor for our desires:   /  “Bring your prayers for us to the Lord,   / and free us from all our troubles, by your intercession at the Throne of the Most High,   / so we may cry out to you: ‘Rejoice, Holy Virgin Juliana, the beautiful bride of Christ.’”"
+      }
+    },
+    {
+      "name": "Martyr Marinus, his wife Martha, their children, and those with them at Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Isaurius the Deacon of Apollonia in Macedonia and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Isaurius, and those with him, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Confessor and Wonderworker Quintus of Phrygia",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  / for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away; /  but to care for the soul, since it is immortal.  /  Therefore, O Holy Confessor Quintus, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Finding delight in abstinence, /  you subdued the desires of the flesh. /  Revealed as one nurtured in the Faith,  / you blossomed like the Tree of Life in Paradise,  / O Holy Father Quintus."
+      }
+    },
+    {
+      "name": "Martyr Lucy, and those with her, at Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Lucy and her companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls"
+      },
+      "kontakion": null
+    }
+  ]
 }

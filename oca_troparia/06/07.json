@@ -1,0 +1,107 @@
+{
+  "date": "2026-06-07",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Synaxis of All Saints",
+      "troparion": {
+        "tone": 4,
+        "text": "Adorned in the blood of Your Martyrs throughout all the world,  / as if clothed in purple and linen, /  through them Your Church cries out to You, O Christ God:  / “Bestow Your bounties upon Your people,  / grant peace to Your habitation, and great mercy to our souls.”"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Original Melody)\r\nAs the first fruits of nature offered to the Planter of all creation, O Lord,  / the inhabited earth brings the God-bearing Martyrs. /  By their supplications, and the intercession of the Theotokos, /  preserve Your Church in profound peace, O greatly Merciful One."
+      }
+    },
+    {
+      "name": "Icon of the Mother of God “The Unbreakable Wall”",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us, sinful and humbled, now run earnestly to the Theotokos, /  and let us fall down in repentance, crying from the depths of our soul: /  \"Help us, O Sovereign Lady, and have compassion on us. /  Make haste, for we perish from the multitude of our sins. /  Do not turn your servants empty away, for we have you as our only hope."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Sovereign Lady.  /  Help us, for in you\r\ndo we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    },
+    {
+      "name": "\"Seven Arrows\" Icon of the Mother of God",
+      "troparion": {
+        "tone": 5,
+        "text": "Soften our evil hearts, O Theotokos, and repel the attacks of those who hate us,  /  and loosen all the rigidity of our soul.  /  For beholding your holy image,  /  we are filled with compunction by your compassion and loving kindness toward us,  /  and we kiss your wounds; /   for we are terrified by the darts with which we wound you.  /  O Compassionate Mother,  /  do not let us perish because of our hardness of heart, /   or our neighbor's hardness of heart,  /  for you are truly the Softener of Evil Hearts."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "By your grace, O Sovereign Lady, /   soften the hearts of evildoers,  /  send down benefactors who will preserve them from all evil;  /  with gratitude and zeal, we pray to you before your revered icons."
+      }
+    },
+    {
+      "name": "Hieromartyr Theodotus, Bishop of Ancyra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Theodotus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)\r\nYou struggled well, O Theodotus, / together with your fellow athletes and passion-bearing virgins. / You have received crowns of honor. / Therefore, unceasingly pray to Christ God for us all."
+      }
+    },
+    {
+      "name": "Hieromartyr Marcellinus, Pope of Rome, and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Sisinius the Deacon of Rome and those with him",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Kyriake, Kaleria, and Mary of Caesarea, in Palestine",
+      "troparion": {
+        "tone": 1,
+        "text": "As reasonable lambs, you were guided by Christ, the Chief Shepherd, / along the path of martyrdom. / You finished your course and kept the faith; / therefore, honored Kyra, Valerie, and Mary, / with joyful hearts, we magnify Christ today, as we honor your holy memory!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Passion-bearers Kyra, Valerie and Mary, / you loved the faithful promises of  God; / you clung to the faith of Christ, / looking for eternal life and the blessedness of Paradise! / You endured torture with steadfastness / and bowed your necks beneath the sword. / Therefore, you have been crowned by the hand of the Lord / and glorious is your memory. / Entreat Christ God, the Judge of the contest, / on behalf of those who honor your struggles with faith!"
+      }
+    },
+    {
+      "name": "Martyr Zēnaίda (Zenais) of Caesarea in Palestine",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Zēnaίda, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Zēnaίda;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable Daniel of Sketis",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Daniel, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Potamiani of Alexandria",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed..”)\r\nYour lamb Potamiani,  /  O Jesus, cries out in a loud voice:  /  “I love You, my Bridegroom,  / and seeking You, I endure suffering. /  In Your Baptism I was crucified and buried with You, I suffer for Your sake that I might reign with You,  /  and I die for You that I might live with You.  /  Accept me, who with love sacrifice myself for You, as an unblemished offering  / for I have offered myself with love.”  / By her prayers,  O most merciful One, save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the things on high..”)\r\nFinding your most revered temple to be a source of healing for our souls, /  we the faithful cry out to you with a loud voice: /  “O most renowned Virgin Martyr Potamiani,  /  entreat Christ God unceasingly on behalf of us all.”"
+      }
+    }
+  ]
+}

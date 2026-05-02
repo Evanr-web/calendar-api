@@ -1,0 +1,41 @@
+{
+  "date": "2026-06-18",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Leontius and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "You confounded the wicked plans of tyrants / and exposed the godless worship of the pagan Greeks. / You illumined all mankind with the knowledge of God by your teachings of true piety, divinely-wise martyr. / Therefore, Leontius, we lovingly honor your memory."
+      }
+    },
+    {
+      "name": "Venerable Leontius of the Kiev Far Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Leontius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Leontius the Hagiorite",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Leontius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Bogolyubov” Icon of the Mother of God",
+      "troparion": null,
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin appears before her Son,  / stretching out her hands toward Him;  / the Holy Prince Andrew \r\nrejoices,  / and the land of Russia celebrates with him, /  for the Theotokos prays unceasingly to God for us."
+      }
+    }
+  ]
+}

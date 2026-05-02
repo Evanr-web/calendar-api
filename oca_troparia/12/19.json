@@ -1,0 +1,60 @@
+{
+  "date": "2026-12-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Boniface at Tarsus in Cilicia, and Righteous Aglaϊa of Rome",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nFervently, you followed the renowned Martyrs /  steadfastly confessing Christ before unbelievers, O wise Boniface.  /  You returned your relics to the august Aglaϊa /   as an imperishable treasure; /   from them flow healing and mercy for the world."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Be quick to anticipate...”)\r\nYou offered yourself voluntarily as a blameless sacrifice  /  to Him Who is about to be born of the Virgin for your sake,  /  O Saint, and wise crown-bearer Boniface."
+      }
+    },
+    {
+      "name": "Venerable Elias of Murom, Wonderworker of the Kiev Near Caves",
+      "troparion": {
+        "tone": 3,
+        "text": "Today the Russian land rejoices,  / glorifying its warrior and wonderworker Elias of Muromets,  / for he abides in the Church Triumphant,  / and is its kinsman in the Church Militant, /  asking the Lord for help against the visible and invisible enemies of Holy Russia,  / so that the Russian people may glorify and honor Christ God without hindrance."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a great luminary of the Russian land,  / you appeared as an invincible commander of the Heavenly King,  / and divinely inspired adornment of monastics.  / And now, standing with the Angels before the Throne of God,  / entreat the Master Christ, the Creator of all,  / that we may be delivered from all troubles and sorrows,  / that those who honor your holy memory may cry to you: “Rejoice, Venerable Elias, our Father.”"
+      }
+    },
+    {
+      "name": "Martyrs Elias, Probus, and Ares in Cilicia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Elias, Probus, and Ares, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Boniface the Merciful, Bishop of Ferentino",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Boniface, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Gregory, Archbishop of Omirits",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Gregory, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable George the Scribe, and Venerable Savva, of Khakhuli",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy fathers George and Savva, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

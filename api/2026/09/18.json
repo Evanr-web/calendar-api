@@ -29,5 +29,97 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "We have you as a friend and helper, / gracious advocate Eumenius: / For compassion flowed from you / and you pour forth healing on the Church. / Protect those who honor you.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "Radiant with divine light, O blessed one, / illumine us who lovingly praise your precious and glorious passing; / hierarch father Eumenius, / unceasingly intercede for us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Eumenius, Bishop of Gortyna",
+  "oca_saints": [
+    {
+      "name": "Afterfeast of the Elevation of the Cross",
+      "troparion": {
+        "tone": 1,
+        "text": "O Lord, save Your people, / and bless Your inheritance. / Grant victories to the Orthodox Christians / over their adversaries. / And by virtue of Your Cross, / preserve Your habitation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "As You were voluntarily raised upon the cross for our sake, / grant mercy to those who are called by Your Name, O Christ God; / make all Orthodox Christians glad by Your power, / granting them victories over their adversaries, / by bestowing on them the Invincible trophy, Your weapon of Peace."
+      }
+    },
+    {
+      "name": "Saint Eumenius, Bishop of Gortyna",
+      "troparion": {
+        "tone": 4,
+        "text": "We have you as a friend and helper, / gracious advocate Eumenius: / For compassion flowed from you / and you pour forth healing on the Church. / Protect those who honor you."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Radiant with divine light, O blessed one, / illumine us who lovingly praise your precious and glorious passing; / hierarch father Eumenius, / unceasingly intercede for us all."
+      }
+    },
+    {
+      "name": "Martyr Ariádnē of Phrygia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Ariadne calls out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Sophia, Irene, and Castor of Egypt",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Sophia, Irene, and Castor, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Greatmartyr Prince Bidzini and Martyrs Princes Elizabar and Shalvi, of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“The Healer” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "From your holy icon, O Lady Theotokos, / salvation and healing is granted abundantly to all those who come to you with love and faith; / visit also my infirmity and show mercy to my soul, O Good One, / and heal my body by your grace."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Lady. / Help us, for in you we hope, / and of you we boast, for we are your servants. / Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Venerable Euphrosynē of Suzdal",
+      "troparion": {
+        "tone": 4,
+        "text": "The land of Suzdal rejoiceth in your holy memory, /  while believers assemble in your all-honorable temple, where now your most glorious memory is celebrated.  / O venerable Euphrosynē, pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "By filling the pure vessel of virginity with the oil of prayers and love,  / thou didst kindle an unquenchable lamp in thy heart, O venerable one;  / and being vigilant, thou didst go forth to meet the Heavenly Bridegroom with them,  / and wast accepted into His Bridal Chamber, /  where now thou abidest with the angels and the saints, we entreat thee:  / pray unto Christ God, to deliver us from the fate of the foolish virgins.*\r\n\r\n* Matthew 15:1-13"
+      }
+    },
+    {
+      "name": "Venerable Hilarion of Optina",
+      "troparion": {
+        "tone": 7,
+        "text": "Despising all the good things of this world,   / you received spiritual peace in your heart,   / and by abhoring earthly pleasures, you were enriched with heavenly gifts.  /  Therefore, you protected Christ's flock by driving away the darkness of schism.   / Save us by your prayers, O divinely-enlightened Elder Hilarion."
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "Fellow participant in the spiritual mysteries of the Optina Elders, /  and co-inheritor of the land of the Sovereign Lady, /  you blossomed like a prolific tree in the garden of the wilderness  / and, like a good shepherd, you strengthened the flock of Christ.  / Now entreat Christ God to preserve us in Orthodoxy and in piety,  / and to strengthen all who revere you with love."
+      }
+    }
+  ]
 }

@@ -1,0 +1,68 @@
+{
+  "date": "2026-02-15",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Sunday of Meatfare of the Last Judgment",
+      "troparion": null,
+      "kontakion": {
+        "tone": 1,
+        "text": "When You, O God, shall come to earth with glory, / all things shall tremble / and the river of fire shall flow before Your judgment seat; / the books shall be opened and the hidden things disclosed! / Then deliver me from the unquenchable fire, / and make me worthy to stand at Your right hand, Most Righteous Judge!"
+      }
+    },
+    {
+      "name": "Apostle Onesimus of the Seventy",
+      "troparion": {
+        "tone": 3,
+        "text": "Holy Apostle Onesimus, / entreat the merciful God, / to grant our souls forgiveness of transgressions."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Like a beam of light you shone on the world, / illumined by Paul, the all-radiant sun, whose rays enlighten the world. / Therefore we honor you, glorious Onesimus."
+      }
+    },
+    {
+      "name": "Venerable Paphnutius the Recluse of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Paphnutius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Paphnutius and Euphrosynē of Alexandria",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Paphnutius, rejoices with the angels."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Eusebius the Hermit of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Eusebius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Vil'na Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "O Most Pure Virgin Theotokos,  / most blessed and speedy intercessor for all the faithful, /  before your holy wonderworking Icon,  / we pray that by it, just as before, you may grant protection to the city of Moscow; /  so now mercifully deliver us from all our troubles and misfortunes and save our souls, for you are compassionate.1"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "To you, O Champion Leader, /  we your servants dedicate a feast of victory and thanksgiving, / as those rescued from sufferings, O Theotokos;  / but since you possess invincible might, free us from all dangers,  / that we may cry to you: “Rejoice, unwedded Bride.”"
+      }
+    },
+    {
+      "name": "Saint Anthimus of Chios",
+      "troparion": {
+        "tone": 3,
+        "text": "O new boast of Orthodoxy, newly-adorned flower of chastity, / you had the same name as Saint Anthimos of Nicomedia, as well as his virtues and way of life. / O new seal and splendor of monastics, Father Anthimos, / the boast of all Chios, / intercede with Christ God that He may grant us great mercy."
+      },
+      "kontakion": null
+    }
+  ]
+}

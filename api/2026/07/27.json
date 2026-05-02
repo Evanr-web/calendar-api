@@ -31,5 +31,45 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "O holy prizewinner and Healer Panteleimon, / intercede with the merciful God, / that He grant unto our souls the forgiveness of our offenses.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 5,
+    "text": "Since you are an emulator of the Merciful One and have received from Him the grace of healing,  / \r\nO Passion-bearer and Martyr of Christ God;  /  by your prayers, heal our spiritual infirmities, /  always\r\ndriving away the temptations of the Enemy  /  from those who cry unceasingly: “Save us, O Lord.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Greatmartyr and Healer Panteleimon",
+  "oca_saints": [
+    {
+      "name": "Greatmartyr and Healer Panteleimon",
+      "troparion": {
+        "tone": 3,
+        "text": "O holy prizewinner and Healer Panteleimon, / intercede with the merciful God, / that He grant unto our souls the forgiveness of our offenses."
+      },
+      "kontakion": {
+        "tone": 5,
+        "text": "Since you are an emulator of the Merciful One and have received from Him the grace of healing,  / \r\nO Passion-bearer and Martyr of Christ God;  /  by your prayers, heal our spiritual infirmities, /  always\r\ndriving away the temptations of the Enemy  /  from those who cry unceasingly: “Save us, O Lord.”"
+      }
+    },
+    {
+      "name": "Venerable Anthousa the Confessor",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Anthusa, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Clement of Ochrid, Equal of the Apostles, Bishop of Greater Macedonia, and his companions Nahum, Savva, Gorazd and Angelar",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Clement, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
 }

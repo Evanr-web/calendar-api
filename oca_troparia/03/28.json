@@ -1,0 +1,82 @@
+{
+  "date": "2026-03-28",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "5th Saturday of Great Lent: of the Akathist to the Theotokos",
+      "troparion": {
+        "tone": 8,
+        "text": "When the archangel understood the mysterious command, / he came to the house of Joseph with haste and proclaimed to the unwedded Lady: / The One Who bowed the heavens by His condescension / is contained wholly and without change in you! / As I behold Him in your womb, taking the form of a servant, I am frightened, but cry: / Rejoice, unwedded Bride!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Victorious leader of triumphant hosts, / we your servants, delivered from evil, sing our grateful thanks to you, Theotokos! / As you possess invincible might set us free from every calamity, / so that we may sing: Rejoice, unwedded Bride!"
+      }
+    },
+    {
+      "name": "Venerable Hilarion the New, Abbot of Pelekete",
+      "troparion": {
+        "tone": 5,
+        "text": "Adorned with gladness of soul / as a pure vessel of the wisdom of Christ, / you were a reflection of the life in God. / Therefore you are resplendent with the light of virtues, / O Father Hilarion, / and you guide us unerringly to the salvation of our souls!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Righteous Hilarion, like a fruitful olive tree that has blossomed, / with your oil you mystically make radiant those who sing to you: / “Rejoice, unwavering rule of the righteous!”"
+      }
+    },
+    {
+      "name": "Venerable Stephen, Wonderworker, Abbot of Triglia",
+      "troparion": {
+        "tone": 8,
+        "text": "Champion of Orthodoxy, teacher of purity and of true worship, / the enlightener of the universe and the adornment of hierarchs: / all-wise father Stephen, your teachings have gleamed with light upon all things. / Intercede before Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Monastic Martyr Eustratius of the Kiev Near Caves",
+      "troparion": {
+        "tone": 1,
+        "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable Eustratius, rejoices with the angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Eustratius, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Venerable Hilarion of Pskov, Lake Gdov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hilarion, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyred brothers Barachisius and Jonah, and those with them, in Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Boyan, Prince of Bulgaria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Boyan, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Boyan;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Venerable John, Bishop of Manglisi",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father John, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

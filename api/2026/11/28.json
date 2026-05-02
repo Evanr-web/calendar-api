@@ -30,5 +30,100 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Trained in asceticism on the mountain, / with the weapon of the Cross you destroyed the spiritual assaults of the hostile powers, all-blessed one; / Again you bravely prepared for combat / and slew Copronymus with the sword of faith; / for both struggles you have been crowned by God, monk-martyr Stephen of eternal memory.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 8,
+    "text": "Lovers of the feasts, from the heart with hymns let us praise in faith / godlike Stephen the lover of the Trinity, / for he honored the fair icon of the Master and of His Mother. / Now let us rejoice together and cry out to him with love: / “Rejoice, ever glorious Father.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Monastic Martyr and Confessor Stephen the New",
+  "oca_saints": [
+    {
+      "name": "Monastic Martyr and Confessor Stephen the New",
+      "troparion": {
+        "tone": 4,
+        "text": "Trained in asceticism on the mountain, / with the weapon of the Cross you destroyed the spiritual assaults of the hostile powers, all-blessed one; / Again you bravely prepared for combat / and slew Copronymus with the sword of faith; / for both struggles you have been crowned by God, monk-martyr Stephen of eternal memory."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Lovers of the feasts, from the heart with hymns let us praise in faith / godlike Stephen the lover of the Trinity, / for he honored the fair icon of the Master and of His Mother. / Now let us rejoice together and cry out to him with love: / “Rejoice, ever glorious Father.”"
+      }
+    },
+    {
+      "name": "Monastic Martyrs and Confessors Auxentius, Basil, Gregory, another Gregory, John, Andrew, Peter and many others",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As venerable and proven ascetics, as honorable and renowned martyrs,  / and as models of the desert life, O most exalted Fathers, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Martyr Anna",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Anna calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "As a venerable and proven ascetic, as an honorable and renowned martyr,  / and as a model of the desert life, O most exalted Anna, /  we sing hymns of praise to you,  / for you have trampled upon serpents."
+      }
+    },
+    {
+      "name": "Martyr Irenarchus and Seven Women Martyrs at Sebaste",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Theodore, Archbishop of Rostov",
+      "troparion": {
+        "tone": 5,
+        "text": "From your youth, O most wise one, you labored diligently,  / and with the blessing of the Holy Spirit  / you built the great Monastery of the Most Holy Theotokos in honor of her Nativity;  / and with the streams of your tears you drowned the bodiless enemies  / and immersing your life in chastity you were joined to the assembly of Angels, /  O Venerable Father Theodore, /  with them you pray to Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Theodore,  / divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity, as you stand before God with the Angels, /  pray unceasingly for all of us."
+      }
+    },
+    {
+      "name": "Martyr Timothy and his companions, at Tiberiopolis",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Timothy and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Metropolitan Seraphim (Chichagov)",
+      "troparion": {
+        "tone": 5,
+        "text": "Loving the Heavenly King more than an earthly one, /  you appeared as a fiery servant of the Holy Trinity,  / keeping the instructions of Saint John of Kronstadt in your heart,  /  you received manifold gifts from God for the benefit of the people of God,  / and you were vouchsafed to suffer, /  even unto the shedding of your blood. O Hieromartyr Seraphim,  /  entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Named for the wonderworker of Sarov, you loved him fervently,  / proclaiming the ascetical contests and miracles of that world by your writings;  / you moved faithfully for his glorification,  / and you were vouchsafed a blessed visit from the Venerable one himself.  / O Hieromartyr Seraphim, dwelling with him now in the Heavenly palaces,  /  entreat Christ God that we may partake of seraphic joy."
+      }
+    },
+    {
+      "name": "Martyr Hristo of Bulgaria",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Hristo, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Hristo;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

@@ -30,5 +30,48 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Mary was of David’s seed, / so she went with Joseph to register in Bethlehem. / She bore in her womb the Fruit not sown by man. / The time for the birth was at hand. / Since there was no room at the inn, / the cave became a beautiful palace for the Queen. / Christ is born, raising up the image that fell of old.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today the Virgin comes to the cave / to give birth to the Eternal Word. / Hear the glad tidings and rejoice, O universe! / Glorify with the angels and the shepherds / the Eternal God, who is willing to appear as a little child!",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Eve of the Nativity of our Lord",
+  "oca_saints": [
+    {
+      "name": "Eve of the Nativity of our Lord",
+      "troparion": {
+        "tone": 4,
+        "text": "Mary was of David’s seed, / so she went with Joseph to register in Bethlehem. / She bore in her womb the Fruit not sown by man. / The time for the birth was at hand. / Since there was no room at the inn, / the cave became a beautiful palace for the Queen. / Christ is born, raising up the image that fell of old."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Virgin comes to the cave / to give birth to the Eternal Word. / Hear the glad tidings and rejoice, O universe! / Glorify with the angels and the shepherds / the Eternal God, who is willing to appear as a little child!"
+      }
+    },
+    {
+      "name": "Nun-Martyr Eugenia of Rome",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “Your confession of the Divine Faith...”)\r\nInspired by the Divine Spirit, you sang the praises of God,  / receiving the light of divine knowledge, O Eugenia, Christ's beautiful virgin. /  You shone forth in the choirs of monastics,  / and in your contest you triumphed over the Enemy. /  O glorious Martyr, entreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nFleeing from the passing glory of this world, you longed for Christ, /  preserving the nobility of your soul unharmed, /  O godly-wise Martyr, all-praised Eugenia."
+      }
+    },
+    {
+      "name": "Venerable Nicholas the Monk of Bulgaria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Nicholas, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

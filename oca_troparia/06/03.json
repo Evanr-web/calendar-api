@@ -1,0 +1,36 @@
+{
+  "date": "2026-06-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Martyr Lucillian and those who suffered with him at Byzantium",
+      "troparion": {
+        "tone": 1,
+        "text": "By your faith, you shone like a radiant star in the dark night of error; / you fought the good fight and slew the crafty enemy, O Lucillian. / Together with venerable Paula and the four martyred children / entreat Christ our God to save our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "You attained the dignity of the martyrs of Christ / through the torments that you courageously endured, O Lucillian. / Together with Paula and the four martyred children, / you sing to the Creator: / “Like sheep we are slaughtered for love of You, O Savior.”"
+      }
+    },
+    {
+      "name": "Hieromartyr Lucian, Bishop of Beauvais, and those with him in France",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Kevin of Glendalough",
+      "troparion": {
+        "tone": 8,
+        "text": "In you, O Father, was preserved with exactness what was according to the image;  /  for you took up the Cross and followed Christ.  /  By so doing, you taught us to disregard the flesh, for it passes away; / but to care for the soul, since it is immortal.  /  Therefore, O Venerable Kevin, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul / and firmly grasping unceasing prayer as a spear, you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Kevin: /  “Always intercede for those who honor you.”"
+      }
+    }
+  ]
+}

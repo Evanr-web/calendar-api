@@ -30,5 +30,116 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Trained in asceticism on the mountain, / with the weapon of the Cross you destroyed the spiritual assaults of the hostile powers, all-blessed one; / Again you bravely prepared for combat / and slew Copronymus with the sword of faith; / for both struggles you have been crowned by God, monk-martyr Andrew of eternal memory.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 3,
+    "text": "Today the Queen of cities / celebrates the radiant feast of your light-bearing memory, / and invites every city and country to join her. / She rejoices for she has gained a great treasure: / your body which sustained many struggles, martyr Andrew, beacon of Orthodoxy.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Monastic Martyr Andrew of Crete",
+  "oca_saints": [
+    {
+      "name": "Prophet Hosea",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Hosea, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Enlightened by the Spirit, your pure heart became the dwelling place of most splendid prophecy; / for you saw things far off as if they were near.  / Therefore, we honor you, blessed and glorious Prophet Hosea."
+      }
+    },
+    {
+      "name": "Monastic Martyr Andrew of Crete",
+      "troparion": {
+        "tone": 4,
+        "text": "Trained in asceticism on the mountain, / with the weapon of the Cross you destroyed the spiritual assaults of the hostile powers, all-blessed one; / Again you bravely prepared for combat / and slew Copronymus with the sword of faith; / for both struggles you have been crowned by God, monk-martyr Andrew of eternal memory."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today the Queen of cities / celebrates the radiant feast of your light-bearing memory, / and invites every city and country to join her. / She rejoices for she has gained a great treasure: / your body which sustained many struggles, martyr Andrew, beacon of Orthodoxy."
+      }
+    },
+    {
+      "name": "Venerable Anthony, Abbot of Leokhnov, Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anthony, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs and Unmercenaries Cosmas and Damian in Cilicia, and their brothers, Leontius, Anthimus, and Eutropius",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the relics of Saint Lazarus “of the Four Days in the Tomb”, Bishop of Kiteia, Cyprus",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Lazarus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“A Virgin Before and After Giving Birth” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let us sinners and wretched people now run most earnestly to the Theotokos,  /  and let us fall down in repentance, crying out from the depths of our souls: /   “O Sovereign Lady, have compassion on us,  /  help us, and come quickly, for we are perishing from a multitude of transgressions. /  Do not turn your servants away empty-handed, for we have you as our only hope.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope, but you, O Sovereign Lady.  /  Help us, for in you do we hope, /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    },
+    {
+      "name": "“Deliverer” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Like a bright star, your Holy Deliverer Icon shone forth with Divine miracles, /   illuminating those who are in the darkness of sorrows with the beams of your grace and mercy.  /  Therefore, All-Good Virgin,  /  grant us deliverance from troubles, /   the healing of spiritual and physical diseases, salvation, and great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "O Most Holy Lady, those who are in need turn to your Icon with faith, /  after being delivered from calamities by your protection;  / but as the Mother of Christ God, deliver us from cruel calamities, both temporal and eternal,  / that we may cry out to you: “Rejoice, our deliverer from every trouble.”"
+      }
+    },
+    {
+      "name": "Saint Joseph, Catholicos of Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Joseph, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Kozman",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Kozman, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Kozman;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Martyr Susanna, Queen of Georgia",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr Susanna, O Lord, / through her sufferings has received an incorruptible crown from You, our God. / For having Your strength, she laid low her adversaries, / and shattered the powerless boldness of demons. / Through her intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr Susanna;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    }
+  ]
 }

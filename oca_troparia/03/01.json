@@ -1,0 +1,87 @@
+{
+  "date": "2026-03-01",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "1st Sunday of Great Lent: Sunday of Orthodoxy",
+      "troparion": {
+        "tone": 2,
+        "text": "We venerate Your most pure image, O Good One, / and ask forgiveness of our transgressions, O Christ God. / Of Your own will You were pleased to ascend the Cross in the flesh / to deliver Your creatures from bondage to the enemy. / Therefore with thanksgiving we cry aloud to You: / You have filled all with joy, O our Savior, / by coming to save the world."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "No one could describe the Word of the Father; / but when He took flesh from you, O Theotokos, He accepted to be described, / and restored the fallen image to its former state by uniting it to divine beauty. / We confess and proclaim our salvation in word and images."
+      }
+    },
+    {
+      "name": "Martyr Eudokia of Heliopolis",
+      "troparion": {
+        "tone": 8,
+        "text": "With an upright mind you bound your soul to the love of Christ. / As a disciple of the Word you turned from corruption and all that passes away, / for you were not moved by earthly beauty. / First you mortified the passions through fasting, then you put the enemy to shame by your suffering. / Therefore, Christ has granted you a two-fold crown. / Glorious Eudokia, venerable passion-bearer, entreat Christ God that our souls may be saved!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You contended well in your suffering, all-praised one; / even after your death you bless us, pouring out wonders on us. / In faith we run to your divine temple, / and as we celebrate your feast, we entreat you, venerable martyr Eudokia, / that we be delivered from spiritual afflictions and may receive the grace of miracles."
+      }
+    },
+    {
+      "name": "Venerable Martyrius of Zelenets, Pskov",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Martyrius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Nestor, Tribimius, and those with them",
+      "troparion": {
+        "tone": 1,
+        "text": "We beseech You, O Lord, for the sake of the sufferings of Your Saints,  / which they endured for Your sake,  / show compassion unto us, and heal all our infirmities, /  O Lover of mankind."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “You sought the heights...”)\r\nO divine Martyrs, you appeared as bright beacons, /  illumining all of creation with the radiance of your miracles, /  always entreating Christ God on behalf of us all, /  thereby delivering us from all our maladies,  / and driving away the most profound darkness of ignorance."
+      }
+    },
+    {
+      "name": "Martyr Antonina of Nicea, in Bithynia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Antonina, O Jesus, / calls out to You in a loud voice: / I love You, O my bridegroom, / and in seeking You, I endure suffering. / In Baptism I was crucified so that I might reign in You, / and died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love. / By her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Marcellus and Anthony of Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Marcellus and Anthony, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Domnina the Younger of Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Domnina, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Agapius of Vatopedi",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Agapius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint David, Bishop of Wales",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father David, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    }
+  ]
+}

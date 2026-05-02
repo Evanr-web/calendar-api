@@ -29,5 +29,99 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 4,
+    "text": "Your holy martyrs Sergius and Bacchus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “Seeking the highest...”)Having courageously confronted the enemy, / you brought an end to his guiles, and received from on high the crown of victory. / Illustrious martyrs, Sergius and Bacchus, / with one heart you cry aloud: / “How good and pleasant it is to dwell with God.”",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Martyrs Sergius and Bacchus in Syria",
+  "oca_saints": [
+    {
+      "name": "Martyrs Sergius and Bacchus in Syria",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs Sergius and Bacchus, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the highest...”)Having courageously confronted the enemy, / you brought an end to his guiles, and received from on high the crown of victory. / Illustrious martyrs, Sergius and Bacchus, / with one heart you cry aloud: / “How good and pleasant it is to dwell with God.”"
+      }
+    },
+    {
+      "name": "Venerable Sergius, Abbot of Nurma, disciple of Venerable Sergius of Radonezh, Vologda",
+      "troparion": {
+        "tone": 8,
+        "text": "Aflame with spiritual desire, you watered your soul with copious streams of your tears, /  and groaning from the depths, your heart was wounded by unceasing prayer.  / Standing all night before the Master Christ, you brought forth many fruits of virtue.  / Therefore, you pleased God, appearing brightly to the world, and radiant with miracles.  / O Sergius our Father, and fervent intercessor before God, /  always entreat Him for us, that He may save our souls."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "As a beautiful star rising from the Holy Mountain,  / you enlightened the entire world with the beauty of your miracles;  / for taking up the Cross of Christ, you followed Him by enduring tribulations in the wilderness,  / exhausting your body with prayers and repentance, vigils, and a harsh life. /  Therefore, Christ gave you the gift of miracles.  / Entreat Him on our behalf, and remember us your children that we may cry out to you, /  “Rejoice, Sergius our Father, dweller in the wilderness.”"
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Martinian, Abbot of Belozersk",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Martinian, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs Julian the Presbyter and Caesarius the Deacon at Terracina",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Julian and Caesarius."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Pelagia of Tarsus",
+      "troparion": {
+        "tone": 4,
+        "text": "Your lamb Pelagia calls out to You, O Jesus, in a loud voice:  /  “I love You, my Bridegroom, and in seeking You I endure suffering.  /  In Baptism I was crucified so that I might reign in You,  /  and I died so that I might live with You.  /  Accept me as a pure sacrifice,  /  for I have offered myself in love.”  /  Through her prayers, save our souls, since You are merciful."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Polychronius the Presbyter",
+      "troparion": {
+        "tone": 1,
+        "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne. / Through the practice of virtue, / you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, / you defended the Faith, even to the shedding of your blood. / Hieromartyr Polychronius entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "99 Martyred Fathers of Crete",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of your holy fathers."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "“Tenderness” Icon of the Mother of God",
+      "troparion": {
+        "tone": 4,
+        "text": "Let all of us, who are burdened with sins, fall on our knees before the Theotokos,  /  bowing before her wonderworking Icon of Tenderness,  /  kissing it and crying aloud with tears: / “O Sovereign Lady, accept the prayer of your unworthy servants,  /  and grant to us who ask, your great mercy.”"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "We have no other help, we have no other hope but you, O Lady.  /  Help us, for in you do we hope,  /  and of you do we boast, for we are your servants.  /  Let us not be put to shame."
+      }
+    },
+    {
+      "name": "Venerable Joseph the Elder and Wonderworker of Khevi, Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joseph, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

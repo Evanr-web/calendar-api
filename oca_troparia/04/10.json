@@ -1,0 +1,55 @@
+{
+  "date": "2026-04-10",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Great and Holy Friday",
+      "troparion": {
+        "tone": 4,
+        "text": "By Your precious blood,  / You have redeemed us from the curse of the law.  /  By being nailed to the cross and pierced by a spear,  /  You have poured forth immortality upon men.  /  O our Savior, glory to You!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Come, let us all sing the praises of Him who was crucified for us, / for Mary said when she beheld Him upon the tree: / Though You endure the cross, You are my Son and my God!"
+      }
+    },
+    {
+      "name": "Martyr Terence and 40 others beheaded at Carthage",
+      "troparion": {
+        "tone": 4,
+        "text": "A chosen army of athletes from Africa contested nobly for the faith. / They were of one mind and heart / and of one accord in their struggles. / Now they intercede that we all may be saved."
+      },
+      "kontakion": {
+        "tone": 1,
+        "text": "Let us celebrate the memory of Terence and his companions / and draw near to receive healing. / For with grace and power of the Spirit / they heal the sicknesses of our souls."
+      }
+    },
+    {
+      "name": "Martyrs James (Jacob) the Presbyter, and Azadanes and Abdicius, Deacons, of Persia",
+      "troparion": {
+        "tone": 4,
+        "text": "O God of our Fathers, / always act with kindness towards us; / take not Your mercy from us, / but guide our lives in peace / through the prayers of Saints James, Azadanes, and Abdikius."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyrs of the Kvabtakhevi Monastery in Georgia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Hieromartyr Patriarch Gregory V of Constantinople",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nLet us the faithful honor the offspring of Dēmētsána and leader of Byzantium, /   as an all-glorious Martyr of Christ,  /  that we may receive forgiveness for our faults, crying aloud to God:  /  “Glory to Him Who strengthened you.  /  Glory to Him Who crowned you.  /  Glory to Him Who glorified you in Heaven, O Saint.”"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nGathering together today in the city of Athens,   /  all you true sons of Greece,  /  let us celebrate Patriarch Gregory joyously, with divine songs."
+      }
+    }
+  ]
+}

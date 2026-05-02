@@ -1,0 +1,79 @@
+{
+  "date": "2026-02-14",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Memorial Saturday of Meatfare",
+      "troparion": {
+        "tone": 8,
+        "text": "Only Creator, with wisdom profound, You mercifully order all things, / and give that which is needed to all men: / Give rest, O Lord, to the souls of Your servants who have fallen asleep, / for they have placed their trust in You, our Maker and Fashioner, and our God."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "With the saints give rest, O Christ, to the souls of Your servants, / where there is neither sickness nor sorrow, and no more sighing, / but life everlasting."
+      }
+    },
+    {
+      "name": "Venerable Auxentius of Bithynia",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “When the stone had been sealed...”)\r\nO citizen of the desert and angel in the body,  /  you were shown to be a wonderworker, our God-bearing Father Auxentios;  /  through fasting, vigil, and prayer, you received heavenly gifts,  /  healing the sick, and the souls of those who run to you with faith.  / Glory to Him Who strengthened you.  / Glory to Him Who crowned you. / Glory to Him Who, through you, works healing for all!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "Delighting in abstinence, O divinely wise one,  / since you curbed the desires of the flesh, /  your faith was seen to increase;  / and you blossomed as a plant in the midst of Paradise, /  most sacred Father Auxentios."
+      }
+    },
+    {
+      "name": "Repose of Saint Cyril, Equal of the Apostles and Teacher of the Slavs",
+      "troparion": {
+        "tone": 4,
+        "text": "Wisdom was your sister from birth; / you loved her, O voice of God, as a pure virgin / who adorned your soul and mind as a precious jewel, / so revealing you, O blessed man, to be another Cyril: / Wise in name and understanding!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Isaac the Recluse of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Isaac, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Translation of the Relics of Martyrs Michael and his councilor, Theodore, of Chernígov",
+      "troparion": {
+        "tone": 3,
+        "text": "Blessed and revered Equals of the Apostles,  / you received crowns from Christ,  / for you were worthy of them, O godly-wise Michael and wondrous Theodore,  / entreat Him to grant peace to the world  / and great mercy to our souls."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Having shone in Russia as luminaries,  / you repulsed the torments with rays of glory, O honored martyrs Michael and Theodore;  / therefore you cried out,  / “Nothing shall separate us from the love of Christ” (Romans 8:39)."
+      }
+    },
+    {
+      "name": "Venerable Maron the Hermit of Syria",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Maron, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Abraham, Bishop of Charres, Mesopotamia",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Abraham, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Saint Hilarion the New of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Hilarion, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

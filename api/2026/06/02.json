@@ -29,5 +29,73 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 3,
+    "text": "Through your inspired confession, / you gained victory for the Church, holy Hierarch Nicephorus. / You suffered unjust exile / because of your reverence for the icon of God the Word. / Righteous Father, entreat Christ our God to grant us His great mercy.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "(Podoben: “Today You have shown forth...”)\r\nSince you have received from God in heaven / a crown of victory, glorious Nicephorus, / save those who faithfully honor you as a hierarch of Christ and a teacher.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Nikephoros the Confessor, Patriarch of Constantinople",
+  "oca_saints": [
+    {
+      "name": "Postfeast of Pentecost — 3rd Day of the Trinity",
+      "troparion": {
+        "tone": 8,
+        "text": "Blessed are You O Christ Our God / You have revealed the fishermen as most wise / by sending down upon them the Holy Spirit / through them You drew the world into Your net / O Lover of Man, Glory to You!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "When the most High came down and confused the tongues, / He divided the nations; / but when he distributed the tongues of fire / He called all to unity. / Therefore, with one voice, we glorify the All-holy Spirit!"
+      }
+    },
+    {
+      "name": "Saint Nikephoros the Confessor, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 3,
+        "text": "Through your inspired confession, / you gained victory for the Church, holy Hierarch Nicephorus. / You suffered unjust exile / because of your reverence for the icon of God the Word. / Righteous Father, entreat Christ our God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nSince you have received from God in heaven / a crown of victory, glorious Nicephorus, / save those who faithfully honor you as a hierarch of Christ and a teacher."
+      }
+    },
+    {
+      "name": "New Martyr John the New of Sochi, who suffered at Belgrade",
+      "troparion": {
+        "tone": 3,
+        "text": "Your holy martyr John, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nYou appeared as a bright star announcing Christ with your radiance,  / which is repulsive to this world, O Martyr John;  / extinguishing the allure of false gods,  / you enlighten the faithful, /  always interceding for us all."
+      }
+    },
+    {
+      "name": "Uncovering of the relics of Venerable Juliana, Princess of Vyazma",
+      "troparion": {
+        "tone": 2,
+        "text": "Living devoutly according to the Law, and adorned with good deeds,  /  you appeared as a hard diamond, O Holy Right-believing Princess Juliana,  /  despising perishable glory and bodily beauty, /  you defeated the insidious Enemy, and you were martyred for the sake of chastity. /  Therefore, you were crowned by Christ God with an imperishable and eternal crown,  /  and now you rejoice in the assembly of the Martyrs.  /  Therefore, we cry out to you:  /  “Entreat Christ God for all of us, who with faith and love revere your sufferings.”"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Today let us sing to God, the Benefactor of all,  / Who glorified the divinely-wise Juliana in Russia,  /  that by her prayers He may grant to our souls  / the forgiveness of sins and great mercy."
+      }
+    },
+    {
+      "name": "Venerable Erasmus of Ochrid",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Erasmus, pray to Christ our God to save our souls!"
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Erasmus, pray unceasingly for us all."
+      }
+    }
+  ]
 }

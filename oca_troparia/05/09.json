@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-09",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Prophet Isaiah",
+      "troparion": {
+        "tone": 4,
+        "text": "With a great voice like that of a trumpet, / you proclaimed the coming of Christ to the world. / You were revealed as a swiftly-writing scribe of the things to come; / therefore, we acclaim you with hymns, / most illustrious prophet Isaiah."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Endowed with the gift of prophecy, / prophet-martyr Isaiah, herald of God, / you made clear to all the incarnation of Christ / by proclaiming with a great voice: / “Behold, the Virgin shall conceive in her womb.”"
+      }
+    },
+    {
+      "name": "Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Go quickly before...”)\r\nAdorned with garments woven from the blood of your martyrdom,  / you stand before the Lord, the King of Heaven, O revered Christopher;  / therefore, with the choirs of Angels and Martyrs,  / you sing the Thrice-Holy Hymn with the sweetest melodies; /  by your intercessions, save your servants."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "You were terrifying both in might and countenance:  / and willingly suffered temptation from your persecutors; /  those men and women who sought to arouse the fire of lust in you,  / but they followed you to martyrdom.  / Therefore, you are our strong protector, O Great Martyr Christopher."
+      }
+    },
+    {
+      "name": "Translation of the relics of Saint Nicholas the Wonderworker from Myra to Bari",
+      "troparion": {
+        "tone": 4,
+        "text": "The day of radiant solemnity has come;  / the city of Bari rejoices, and with it the whole world exults with hymns and spiritual songs;  / for today is the sacred Feast  / of the transfer of the precious and healing relics of the Hierarch and wonderworker Nicholas.  / For, like the never-setting Sun, he shines with brilliant beams of light, /  driving away the darkness of temptations and misfortunes from those who cry out with faith: /  “Save us, O Nicholas, as our great intercessor.”"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin...”)\r\nYour relics have moved like a star from the East to the West, O Hierarch Nicholas; /  and the sea has been sanctified by your passage.  / The city of Bari receives grace through you,  / for you have shone forth for us  / as a wonderworker, illustrious, most wondrous, and merciful."
+      }
+    },
+    {
+      "name": "Repose of Venerable Shio the Anchorite of Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Shio, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Joseph of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Joseph, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

@@ -29,5 +29,67 @@
     "vespers": false,
     "matins": false,
     "compline": false
-  }
+  },
+  "troparion_en": {
+    "tone": 8,
+    "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Philip your spirit rejoices with the Angels.",
+    "source": "OCA"
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Philip, pray unceasingly for us all.",
+    "source": "OCA"
+  },
+  "matched_oca_saint": "Saint Philip, Abbot of Irap Near Novgorod",
+  "oca_saints": [
+    {
+      "name": "Holy, All-Praised Apostle Philip",
+      "troparion": {
+        "tone": 3,
+        "text": "The universe is well adorned and Ethiopia exults, as though graced with a crown;  / for it is made radiant by you, and celebrates your memorial joyously;  / for you spoke of God, teaching everyone to believe in Christ,  / and have completed your course in a manner worthy of the Gospel.  / Therefore, Ethiopia boldly stretches forth its hands to God.  / Pray that He grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "Podoben: “As Creation's Planter...”)\r\nPhilip, Your disciple and friend, the emulator of Your sufferings,  /   who spoke with God, proclaimed You as God to all the world.  /   By his supplications, and through the intercession of the Theotokos,  /   preserve Your Church, and every city, O most merciful One."
+      }
+    },
+    {
+      "name": "Saint Philip, Abbot of Irap Near Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Philip your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Philip, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Gregory Palamas, Archbishop of Thessalonica",
+      "troparion": {
+        "tone": 8,
+        "text": "O luminary of Orthodoxy, support and teacher of the Church,  / ideal of monks and invincible\r\nchampion of theologians, /  O wonderworker Gregory, boast of Thessalonika and herald of grace, / \r\nalways intercede for all of us that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “O Victorious Leader...”)Holy and divine instrument of wisdom,  / radiant and harmonious trumpet of theology, /  we praise you in song, O divinely-speaking Gregory.  / As a mind standing before the Primal Mind, guide our minds to Him, Father, /  so that we may cry aloud to you: “Rejoice, herald of grace.”"
+      }
+    },
+    {
+      "name": "New Hieromartyr Demetrius (Benevolenskii) of Tver",
+      "troparion": {
+        "tone": 4,
+        "text": "By sharing in the ways of the Apostles, / you became a successor to their throne. / Through the practice of virtue, you found the way to divine contemplation, O inspired one of God; / by teaching the word of truth without error, you defended the Faith, / even to the shedding of your blood. / Hieromartyr Demetrius, entreat Christ God to save our souls."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "New Martyr Constantine of Hydra",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr, Constantine, O Lord, / through his sufferings has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
 }

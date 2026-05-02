@@ -1,0 +1,93 @@
+{
+  "date": "2026-10-11",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Commemoration of the Holy Fathers of the Seventh Ecumenical Council",
+      "troparion": {
+        "tone": 8,
+        "text": "Most glorious art Thou, O Christ our God,  / Who hast established the Holy Fathers as luminaries on the earth. /  By them Thou hast guided us on the path of the True Faith. /  O Most Merciful One, glory to Thee!"
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "The Son, Who shone forth ineffably from the Father,  /  was born of a woman, in two natures.  /  Beholding Him, we do not deny the image of His form,  /  but depicting it piously, we revere it with faith.  /  Therefore, the Church, holding the True Faith,  /  venerates the Icon of Christ's Incarnation."
+      }
+    },
+    {
+      "name": "Venerable Philotheus, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Philotheus, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Apostle Philip of the Seventy, One of the Seven Deacons",
+      "troparion": {
+        "tone": 3,
+        "text": "Filled with divine grace, / you served God the Word as a deacon of the Church, O Apostle Philip. / By the working of miracles and by signs from God / you enlightened the multitudes of Samaria. / O blessed one, entreat Christ our God to grant us His great mercy."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nInspired by the All-Holy Spirit, / you enlightened the entire world by your teachings and resplendent miracles, / Apostle Philip, sacred initiate."
+      }
+    },
+    {
+      "name": "Saint Theophanes the Confessor and Hymnographer, Bishop of Nicea",
+      "troparion": {
+        "tone": 5,
+        "text": "Having attained an angelic state, / you sounded forth as a golden trumpet of revelation / and nourished the chosen people with your words. / The singing of your hymns gladdens the Church, / for which you struggled, O Theophanes."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)\r\nYou dawned on the Church like a second sun, venerable Theophanes, / enlightening her with the beams of your teachings / as a priest of Christ our God."
+      }
+    },
+    {
+      "name": "Venerable Theophanes the Faster of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Theophanes, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Leonid of Optina",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Leonid, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Synaxis of the Venerable Fathers of Optina",
+      "troparion": {
+        "tone": 6,
+        "text": "O lamps of the Orthodox Faith, unshakable pillars of monasticism,  /  intercessors for the land of Russia, Venerable Elders of Optina,  /  who acquired the love of Christ and devoted your lives to your children; /  entreat the Lord that your earthly homeland may be established in Orthodoxy and piety, and that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Truly wondrous is God in His Saints, Who revealed the Hermitage of Optina as a garden of eldership, /  where the God-enlightened Fathers, knowing the secrets of the human heart, became valiant protectors of the people of God;  /  for they set those burdened by sin on the path of repentance,  /  enlightening those whose faith was wavering with the light of Christ's teachings,  /  and teaching them the wisdom of God,  /  they felt compassion for the sick and healed them.  /  Now, in God's glory, they pray unceasingly for our souls."
+      }
+    },
+    {
+      "name": "Virgin Martyrs Zenaΐda and Philonίlla, of Tarsus in Cilicia",
+      "troparion": {
+        "tone": 1,
+        "text": "O rational lambs of Christ the Lamb and Shepherd, /  you were led to martyrdom, finishing the course of your life and preserving your faith.  / Therefore, we celebrate your holy memory today with joyful souls,  / for you are worthy of admiration and are glorified by Christ."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "Having obtained your all-holy temple as a source of healing for our souls, /   all the faithful cry out to you: /   “O Virgin Martyr Zenaΐda, whose name is glorious, /   never cease to entreat Christ God for all of us.”"
+      }
+    },
+    {
+      "name": "Venerable Ethelburga",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy mother Ethelburga, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}

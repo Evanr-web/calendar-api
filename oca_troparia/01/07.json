@@ -1,0 +1,61 @@
+{
+  "date": "2026-01-07",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Afterfeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 1,
+        "text": "When You, O Lord were baptized in the Jordan  / the worship of the Trinity was made manifest  / for the voice of the Father bore witness to You  / and called You His beloved Son.  / And the Spirit, in the form of a dove,  / confirmed the truthfulness of His word.  / O Christ, our God, You have revealed Yourself  / and have enlightened the world, glory to You!"
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today You have shown forth to the world, O Lord, / and the light of Your countenance has been marked on us. / Knowing You, we sing Your praises. / You have come and revealed Yourself, / O unapproachable Light."
+      }
+    },
+    {
+      "name": "Synaxis of the Holy Glorious Prophet, Forerunner and Baptist John",
+      "troparion": {
+        "tone": 2,
+        "text": "The memory of the righteous is celebrated with hymns of praise, / but the Lord’s testimony is sufficient for you, O Forerunner. / You were shown in truth to be the most honorable of the prophets, / for you were deemed worthy to baptize in the streams of the Jordan Him whom they foretold. / Therefore, having suffered for the truth with joy, / you proclaimed to those in hell God who appeared in the flesh, / who takes away the sin of the world, and grants us great mercy."
+      },
+      "kontakion": {
+        "tone": 6,
+        "text": "The river Jordan trembled and was driven back filled with fear at Your coming in the flesh, / while John drew back in awe as he fulfilled the ministry of a prophet. / The ranks of angels stood amazed, / when they beheld You in the flesh being baptized in the streams. / And we, who were in darkness, are filled with light as we praise You, / who have appeared to enlighten all."
+      }
+    },
+    {
+      "name": "Saint Pakhomios of Keno Lake",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word…”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  / and you became a luminary of the world, radiant with miracles, O Pakhomios our Father.  /  Intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul  /  and firmly grasping unceasing prayer as a spear, you have slain the armies of demons.  /  Therefore, we beseech you, O Father Pakhomios:   /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Saint Brannock of Braunton",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Brannock your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Brannock, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Cedd of Lastingham",
+      "troparion": {
+        "tone": 4,
+        "text": "The truth of things revealed you to your flock as a rule of faith,  /  a model of meekness, and a teacher of temperance.  /  Therefore, through humility, you attained the heights;  /  and through poverty, riches.  /  O Hierarch Cedd, our Father, entreat Christ God that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Cedd, divine thunder, spiritual trumpet, planter of faith, and pruner of heresies,  / great favorite of the Trinity, /  as you stand before God with the Angels,  / pray unceasingly for all of us."
+      }
+    }
+  ]
+}

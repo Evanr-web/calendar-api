@@ -1,0 +1,118 @@
+{
+  "date": "2026-01-19",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Venerable Macarius the Great of Egypt",
+      "troparion": {
+        "tone": 1,
+        "text": "You were shown to be a citizen of the desert, /  an angel in the body, and a wonderworker, O Makarios our God-bearing Father;  / receiving heavenly gifts through fasting, vigil, and prayer,  / healing the infirmities and the souls of those who come to you with faith.  / Glory to Him Who strengthened you.  / Glory to Him Who crowned you.  / Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “You appeared today...”)\r\nTruly, the Lord has appointed you as an abode of abstinence, /  and as an unerring star, enlightening the ends of the earth, /  O Venerable Makarios, the Father of Fathers."
+      }
+    },
+    {
+      "name": "Venerable Macarius of Alexandria",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father, /  for taking up your cross, you followed after Christ. / By so doing, you taught us to disregard the flesh, for it passes away,  /  but to care instead for the soul, since it is immortal. /  Therefore, most venerable Father Makarios, your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “Seeking the Highest...”)\r\nHaving divinely armed yourself with purity of soul and firmly grasping unceasing prayer as a spear,  /  you have slain the armies of the demons.  /  Therefore, we beseech you, O Father Makarios:  /  “Always intercede for those who honor you.”"
+      }
+    },
+    {
+      "name": "Saint Mark, Archbishop of Ephesus",
+      "troparion": {
+        "tone": 4,
+        "text": "By your profession of faith, O all-praised Mark / the Church has found you to be a zealot for truth. / You fought for the teaching of the Fathers; / you cast down the darkness of boastful pride. / Intercede with Christ God to grant forgiveness to those who honor you!"
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Clothed with invincible armor, O blessed one, / you cast down rebellious pride, / you served as the instrument of the Comforter, / and shone forth as the champion of Orthodoxy. / Therefore we cry to you: “Rejoice, Mark, the boast of the Orthodox!”"
+      }
+    },
+    {
+      "name": "Venerable Macarius the Faster, of the Kiev Near Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Venerable Macarius the Deacon of the Kiev Caves",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Macarius, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Opening of the Relics of Venerable Savva of Storozhev, or Zvenigorod",
+      "troparion": {
+        "tone": 8,
+        "text": "In you the image was preserved with exactness, O Father,  / for taking up your cross, you followed after Christ.  / By so doing, you taught us to disregard the flesh, for it passes away,  / but to care instead for the soul, since it is immortal.  / Therefore, most venerable Father Savva your spirit rejoices with the Angels."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with the purity of your soul,  / and firmly grasping unceasing prayer as a spear, you pierced the armies of demons.  / O our Father Savva, pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Venerable Makarios the Roman of Novgorod",
+      "troparion": {
+        "tone": 8,
+        "text": "(Podoben: “Come, let us worship the Word...”)\r\nWith the streams of your tears, you cultivated the barrenness of the desert,  / and by your sighings from the depths, your labors bore fruit a hundredfold,  / and you became a luminary of the world, radiant with miracles.  / O Makarios our Father, intercede with Christ God for the salvation of our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Having left your homeland, O blessed one,  / you settled in the wilderness on an island in the marshes of Lezna, /  and there you shone forth in a life of severity;  / and having astounded many by your life, you received the gift of miracles from Christ.  / Remember us who revere your memory as we cry to you: “Rejoice, Makarios our Father.”"
+      }
+    },
+    {
+      "name": "Virgin Martyr Euphrasia of Nicomedia",
+      "troparion": {
+        "tone": 4,
+        "text": "(Podoben: “Joseph was amazed...”)\r\nYour lamb Euphrasia, / calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, / and in seeking You, I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nFinding your most revered temple to be a source of healing for our souls,  / we the faithful cry out to You with a loud voice:  / “O most renowned Virgin Martyr Euphrasia,  / entreat Christ God unceasingly on behalf of us all.”"
+      }
+    },
+    {
+      "name": "Saint Arsenius, Archbishop of Kerkyra",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Arsenius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “You sought the heights...”)\r\nO Hierarch Arsenius, divine thunder, spiritual trumpet, /   planter of faith and pruner of heresies, great favorite of the Trinity, /   while standing with the Angels before God,  /  pray unceasingly for us all."
+      }
+    },
+    {
+      "name": "Saint Anthony, founder of Monasticism in Georgia",
+      "troparion": {
+        "tone": 8,
+        "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Anthony, pray to Christ our God to save our souls!"
+      },
+      "kontakion": null
+    },
+    {
+      "name": "The transfer of the relics of Saint Gregory the Theologian",
+      "troparion": {
+        "tone": 1,
+        "text": "The sweet-sounding shepherd’s pipe of your theology / overpowered the trumpeting of the orators; / for having searched the depths of the Spirit / eloquence was also bestowed upon you. / Pray to Christ God, Father Gregory, / that our souls may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "By words of theology you unraveled the complex webs of the orators, / glorious Gregory, / and adorned the Church with the robe of Orthodoxy woven from on high. / Wearing it, she cries out with us, her children: / “Rejoice, O Father, supreme mind of theology.”"
+      }
+    }
+  ]
+}

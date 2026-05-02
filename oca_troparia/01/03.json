@@ -1,0 +1,58 @@
+{
+  "date": "2026-01-03",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Forefeast of the Theophany of our Lord and Savior Jesus Christ",
+      "troparion": {
+        "tone": 4,
+        "text": "Prepare, O Zebulon, / and adorn yourself, O Naphtali; / River Jordan, cease flowing / and receive with joy the Master coming to be baptized. / Adam, rejoice with our First Mother / and do not hide yourself as you did of old in Paradise; / for having seen you naked, / He has appeared to clothe you with the first garment. / Christ has appeared to renew all creation."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "Today the Lord enters the Jordan and cries out to John: / “Do not be afraid to baptize me. / For I have come to save Adam, the first-formed man.”"
+      }
+    },
+    {
+      "name": "Holy Prophet Malachi",
+      "troparion": {
+        "tone": 2,
+        "text": "We celebrate the memory / of Your prophet Malachi, O Lord; / through him we entreat You, / save our souls."
+      },
+      "kontakion": {
+        "tone": 4,
+        "text": "(Podoben: “Today You have shown forth...”)Endowed with the gift of prophecy, O Malachi, / you clearly proclaimed the saving coming of Christ to the world. / His brightness has brought light to the whole universe."
+      }
+    },
+    {
+      "name": "Martyr Gordius at Caesarea, in Cappadocia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyr Gordius, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!"
+      },
+      "kontakion": {
+        "tone": 8,
+        "text": "(Podoben: “The universe offers You...”)Holy Gordius, the earth has received the sweat of your labors; / the blood you shed has made the universe rejoice. / Save by your prayers those who sing of your glory in faith, / fittingly honoring you, divine and glorious martyr, worthy of all praise."
+      }
+    },
+    {
+      "name": "Venerable Genevieve of Paris",
+      "troparion": {
+        "tone": 1,
+        "text": "O Shepherdess and guardian of the flock at Nanterre against the horde of wolves and the Scourge of God,1 /  you are the protector of the city of Paris.   / O Saint Geneviève, do not forget to preserve your spiritual flock even now,  / from Heaven where you live after death."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Discovery of the Relics of the Holy Great Martyr Ephraim",
+      "troparion": {
+        "tone": 1,
+        "text": "(Podoben: “O citizen of the desert...”)\r\nYou shone forth like the sun on Mount Amómon, O God-bearer,  /  and through martyrdom you departed unto God.  /  You endured the invasion of the barbarians, O Ephraim, Great Martyr of Christ.  /  Therefore, you gush forth grace forever to those who devoutly call upon you.  /  Glory to Him Who gave you strength.  /  Glory to Him Who magnified you.  /  Glory to Him Who, through you, grants healing to all."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "(Podoben: “Today the Virgin gives birth...”)\r\nYou contested on Mount Amómon, O godly-minded one,  /  and in this you followed the path of martyrdom.  /  Therefore, the Giver of Life has appropriately crowned you with double crowns.1  /  O Hieromartyr Ephraim,  /  we entreat you earnestly to have mercy upon those who honor you."
+      }
+    }
+  ]
+}

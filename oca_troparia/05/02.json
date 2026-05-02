@@ -1,0 +1,55 @@
+{
+  "date": "2026-05-02",
+  "source": "oca.org",
+  "saints": [
+    {
+      "name": "Saint Matrona of Moscow",
+      "troparion": {
+        "tone": 2,
+        "text": "Today, O faithful, let us glorify the divinely-wise blessed Eldress Matrona,   / who blossomed in the land of Tula and who gloriously adorned the city of Moscow;  /  for she, not knowing the light of day,   / was illumined by the light of Christ and was enriched with the gift of healing.  /  Having been a migrant and a wanderer on earth,   / now, in the heavenly Bridal Chamber, she stands before God's throne and prays for our souls."
+      },
+      "kontakion": {
+        "tone": 7,
+        "text": "Called to serve Christ from your mother’s womb, O righteous Matrona,  /  you walked the path of sorrows and tribulations, /  showing steadfast faith and piety,  /  you were well pleasing to God. /  Therefore, honoring your memory, we pray to you:  /  Help us to abide in the love of God, O blessed eldress!"
+      }
+    },
+    {
+      "name": "Saint Athanasius the Great, Patriarch of Alexandria",
+      "troparion": {
+        "tone": 3,
+        "text": "(Podoben: “The Divine Faith...”)\r\nYou were a pillar of Orthodoxy, O Hierarch Athanasios,  /  supporting the Church with divine doctrines;  / you\r\nproclaimed the Son to be of one Essence with the Father,  /  putting Arius to shame.  /  O Righteous Father,\r\nentreat Christ God to grant us great mercy."
+      },
+      "kontakion": {
+        "tone": 2,
+        "text": "(Podoben: “With the streams of your blood...”)\r\nHaving planted the dogmas of Orthodoxy, /  you cut out the thorns of false doctrine,  / and multiplied the\r\nseed of faith with the rain of the Spirit;  / therefore, we praise you O righteous Athanasios."
+      }
+    },
+    {
+      "name": "Translation of the Relics of the Holy Passionbearers Boris and Gleb (in Baptism Roman and David—1072 and 1115)",
+      "troparion": {
+        "tone": 2,
+        "text": "Righteous passion-bearers and true fulfillers of the Gospel of Christ, / chaste Boris and guileless Gleb, / you did not resist the attacks of your brother, the enemy, / when he killed your bodies but could not touch your souls. / Therefore, let the evil lover of power mourn / while you rejoice with the angels standing before the Holy Trinity. / Pray that those who honor your memory may be pleasing to God, / and that all Orthodox Christians may be saved."
+      },
+      "kontakion": {
+        "tone": 3,
+        "text": "Today your most glorious memory shines forth, / noble participants in the passion of Christ, holy Boris and Gleb, / for you call us together to sing praises to Christ our God! / Praying to Him before your sacred images, / we receive the gift of healing by your prayers, / for you are indeed divine healers."
+      }
+    },
+    {
+      "name": "Saint Athanasius of Lubensk, Patriarch of Constantinople",
+      "troparion": {
+        "tone": 4,
+        "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Athanasius, / entreat Christ our God / that our souls may be saved."
+      },
+      "kontakion": null
+    },
+    {
+      "name": "Martyr Hesperus with his wife and sons at Attalia",
+      "troparion": {
+        "tone": 4,
+        "text": "Your holy martyrs, O Lord, / through their sufferings have received an incorruptible crown from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!"
+      },
+      "kontakion": null
+    }
+  ]
+}
