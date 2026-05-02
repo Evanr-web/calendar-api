@@ -1,0 +1,520 @@
+{
+  "year": 2026,
+  "month": 6,
+  "monthName": {
+    "en": "June",
+    "uk": "Червень"
+  },
+  "days": [
+    {
+      "date": "2026-06-01",
+      "dayOfWeek": 1,
+      "tone": 7,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 2-ий по Зісланні Святого Духа.; Святого мученика Юстина, філософа, і тих, що з ним",
+      "saints_en": "Monday of the Holy Spirit. St. Martyr Justin the Philosopher, and those with him",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-02",
+      "dayOfWeek": 2,
+      "tone": 7,
+      "fastCode": "01d",
+      "fast": "Week 1 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого отця нашого Никифора, ісповідника",
+      "saints_en": "St. Nicephorus the Confessor",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-03",
+      "dayOfWeek": 3,
+      "tone": 7,
+      "fastCode": "01d",
+      "fast": "Week 1 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого мученика Лукиліяна і тих, що з ним",
+      "saints_en": "St. Martyr Lucillian and those with him",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-04",
+      "dayOfWeek": 4,
+      "tone": 7,
+      "fastCode": "01d",
+      "fast": "Week 1 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "🕀 Торжественне поклоніння пречистим Тайнам Тіла і Крови Господа нашого Ісуса Христа; Святого отця нашого Митрофана, патріарха Царгородського",
+      "saints_en": "St. Metrophanes, Patriarch of Constantinople",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-05",
+      "dayOfWeek": 5,
+      "tone": 7,
+      "fastCode": "01d",
+      "fast": "Week 1 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого священномученика Доротея, єпископа Тирського; Святого мученика Косми, пресвітера вірменського",
+      "saints_en": "Hieromartyr Dorotheus, Bishop of Tyre. St. Martyr Cosmas, Armenian Presbyter",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-06",
+      "dayOfWeek": 6,
+      "tone": 7,
+      "fastCode": "01d",
+      "fast": "Week 1 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Висаріона, чудотворця; Преподобного Іларіона Нового, ігумена Далматської обителі, ісповідника",
+      "saints_en": "Ven. Bessarion the Wonderworker. Ven. Hilarion the New, Hegumen of the Dalmatian Monastery, Confessor",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-07",
+      "dayOfWeek": 7,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 2-га по Зісланні Святого Духа.; Всіх святих українського народу. Глас 1. Єв. 2.; Св. священномученика Теодота (Богдана), єпископа Анкирського",
+      "saints_en": "1st Sunday after Pentecost. Sunday of All Saints. Hieromartyr Theodotus (Bohdan), Bishop of Ancyra",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-08",
+      "dayOfWeek": 1,
+      "tone": 8,
+      "fastCode": "02d",
+      "fast": "Week 2 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Тиждень 3-ій по Зісланні Святого Духа.; 🕃 Перенесення мощів святого великомученика Теодора Тирона",
+      "saints_en": "Translation of the Relics of St. Great Martyr Theodore Tyro",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-09",
+      "dayOfWeek": 2,
+      "tone": 8,
+      "fastCode": "02d",
+      "fast": "Week 2 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Святого отця нашого Кирила, архиєпископа Олександрійського",
+      "saints_en": "St. Cyril, Archbishop of Alexandria",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-10",
+      "dayOfWeek": 3,
+      "tone": 8,
+      "fastCode": "02d",
+      "fast": "Week 2 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого священномученика Тимотея, єпископа Пруського",
+      "saints_en": "Hieromartyr Timothy, Bishop of Prusa",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-11",
+      "dayOfWeek": 4,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕂 Свв. апостолів Вартоломея й Варнави",
+      "saints_en": "Solemn Veneration of the Most Pure Mysteries of the Body and Blood of our Lord Jesus Christ. Sts. Apostles Bartholomew & Barnabas",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-12",
+      "dayOfWeek": 5,
+      "tone": 8,
+      "fastCode": "02d",
+      "fast": "Week 2 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕀 Празник Найсолодшого Господа Бога і Спаса нашого Ісуса Христа; 🕃 Преподобного отця нашого Онуфрія Великого; Преподобного отця нашого Петра Афонського",
+      "saints_en": "Ven. Onuphrius the Great. Ven. Peter of Athos",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-13",
+      "dayOfWeek": 6,
+      "tone": 8,
+      "fastCode": "02d",
+      "fast": "Week 2 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Сострадання Пресвятої Богородиці; Святої мучениці Акилини; Святого Трифилія, єпископа Левкусії Кипрської; Преподобного отця нашого Антонія Падуанського",
+      "saints_en": "St. Martyr Aquilina. St. Triphyllius, Bishop of Leucosia in Cyprus. Ven. Anthony of Padua",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-14",
+      "dayOfWeek": 7,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 3-тя по Зісланні Святого Духа. Глас 2. Єв. 3.; Святого пророка Єлисея; Святого отця нашого Методія, патріарха Царгородського",
+      "saints_en": "2nd Sunday after Pentecost. All Saints of the Ukrainian Nation. St. Prophet Elisha. St. Methodius, Patriarch of Constantinople",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-15",
+      "dayOfWeek": 1,
+      "tone": 1,
+      "fastCode": "03d",
+      "fast": "Week 3 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 4-ий по Зісланні Святого Духа.; Святого пророка Амоса; Преподобного Єроніма, пресвітера Стридонського",
+      "saints_en": "St. Prophet Amos. Ven. Jerome, Presbyter of Stridon",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-16",
+      "dayOfWeek": 2,
+      "tone": 1,
+      "fastCode": "03d",
+      "fast": "Week 3 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого отця нашого і чудотворця Тихона Аматунтського",
+      "saints_en": "St. Tychon the Wonderworker of Amathous",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-17",
+      "dayOfWeek": 3,
+      "tone": 1,
+      "fastCode": "03d",
+      "fast": "Week 3 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святих мучеників Мануїла, Савела й Ісмаїла; Преподобного отця нашого Іпатія, ігумена Руфеніанського",
+      "saints_en": "Sts. Martyrs Manuel, Sabel & Ishmael. Ven. Hypatius, Hegumen of Rufinianum",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-18",
+      "dayOfWeek": 4,
+      "tone": 1,
+      "fastCode": "03d",
+      "fast": "Week 3 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого мученика Леонтія",
+      "saints_en": "St. Martyr Leontius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-19",
+      "dayOfWeek": 5,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕂 Святого апостола Юди, брата Господнього",
+      "saints_en": "Feast of the Most Sweet Lord, God and Savior Jesus Christ, Lover of Mankind. St. Apostle Jude, Brother of the Lord",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-20",
+      "dayOfWeek": 6,
+      "tone": 1,
+      "fastCode": "03d",
+      "fast": "Week 3 after Pentecost",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "Святого священномученика Методія, єпископа Патарського",
+      "saints_en": "Compassion of the Most Holy Theotokos. Hieromartyr Methodius, Bishop of Patara",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-21",
+      "dayOfWeek": 7,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 4-та по Зісланні Святого Духа. Глас 3. Єв. 4.; Святого мученика Юліана Тарсійського",
+      "saints_en": "3rd Sunday after Pentecost. St. Martyr Julian of Tarsus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-22",
+      "dayOfWeek": 1,
+      "tone": 2,
+      "fastCode": "04d",
+      "fast": "Week 4 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 5-ий по Зісланні Святого Духа.; Святого священномученика Євсевія, єпископа Самосатського",
+      "saints_en": "Hieromartyr Eusebius, Bishop of Samosata",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-23",
+      "dayOfWeek": 2,
+      "tone": 2,
+      "fastCode": "04d",
+      "fast": "Week 4 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святої мучениці Агрипіни",
+      "saints_en": "St. Martyr Agrippina",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-24",
+      "dayOfWeek": 3,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Різдво чесного і славного пророка, предтечі і хрестителя Господнього Івана",
+      "saints_en": "Nativity of the Honorable and Glorious Prophet, Forerunner and Baptist of the Lord, John",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-25",
+      "dayOfWeek": 4,
+      "tone": 2,
+      "fastCode": "04d",
+      "fast": "Week 4 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святої преподобномучениці Февронії",
+      "saints_en": "Ven. Protomartyr Febronia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-26",
+      "dayOfWeek": 5,
+      "tone": 2,
+      "fastCode": "04d",
+      "fast": "Week 4 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Давида, що в Солуні; Блаженного священномученика Андрія Іщака, пресвітера; Блаженних священномученика Миколи Конрада, пресвітера, і мученика Володимира Прийми, співця",
+      "saints_en": "Ven. David of Thessalonica. Blessed Hieromartyr Andrew Ishchak, Presbyter. Blessed Hieromartyr Mykola Konrad, Presbyter, and Martyr Volodymyr Pryima, Cantor",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-27",
+      "dayOfWeek": 6,
+      "tone": 2,
+      "fastCode": "04d",
+      "fast": "Week 4 after Pentecost",
+      "rankCode": "*",
+      "rank": "Special",
+      "saints_uk": "🕁 Блаженного священномученика Миколая Чарнецького і двадцяти чотирьох співмучеників; блаженного священномученика Омеляна Ковча; Преподобного отця нашого Сампсона, приятеля подорожніх й убогих",
+      "saints_en": "Blessed Hieromartyr Mykola Charnetsky and Twenty-Four Fellow Martyrs; Blessed Hieromartyr Omelian Kovch. Ven. Sampson the Hospitable",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-28",
+      "dayOfWeek": 7,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя 5-та по Зісланні Святого Духа. Глас 4. Єв. 5.; 🕃 Перенесення мощів святих безсрібників Кира і Івана",
+      "saints_en": "4th Sunday after Pentecost. Translation of the Relics of Sts. Unmercenaries Cyrus & John",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-29",
+      "dayOfWeek": 1,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "Тиждень 6-ий по Зісланні Святого Духа.; 🕀 Святих славних і всехвальних первоверховних апостолів Петра й Павла",
+      "saints_en": "Sts. Glorious and All-Praised Chief Apostles Peter & Paul",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-06-30",
+      "dayOfWeek": 2,
+      "tone": 3,
+      "fastCode": "05d",
+      "fast": "Week 5 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "🕂 Собор святих славних і всехвальних дванадцяти апостолів; Блаженного священномученика Василія Величковського",
+      "saints_en": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles. Blessed Hieromartyr Vasyl Velychkovsky",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    }
+  ]
+}

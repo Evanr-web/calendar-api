@@ -1,0 +1,537 @@
+{
+  "year": 2026,
+  "month": 3,
+  "monthName": {
+    "en": "March",
+    "uk": "Березень"
+  },
+  "days": [
+    {
+      "date": "2026-03-01",
+      "dayOfWeek": 7,
+      "tone": 5,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 2-га Великого посту. Глас 5. Єв. 5.; Святої преподобномучениці Євдокії.",
+      "saints_en": "1st Sunday of Great Lent, Sunday of Orthodoxy. Ven. Protomartyr Eudocia",
+      "troparion": "Правильністю розумною душу твою прив’язала єси до любові Христової,* тлінне, гарне, дочасне забуттям пробігла єси як учениця Слова. Перше постом пристрасті умертвила,* а відтак стражданням ворога осор",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-02",
+      "dayOfWeek": 1,
+      "tone": 5,
+      "fastCode": "02p",
+      "fast": "Great Lent (Week 2)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 3-ій Великого посту.; Св. священномученика Теодота (Богдана), єпископа Киринейського.",
+      "saints_en": "Hieromartyr Theodotus (Bohdan), Bishop of Cyrenia",
+      "troparion": "I звичаїв апостолів причасником і їх намісником стався ти,* знайшов ти шлях, богонатхненний, як дійти до видіння.* Задля того слово істини справляючи,* і задля віри пострадав ти аж до крови, священном",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-03",
+      "dayOfWeek": 2,
+      "tone": 5,
+      "fastCode": "02p",
+      "fast": "Great Lent (Week 2)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Євтропія, Клеоніка й Василиска",
+      "saints_en": "Sts. Martyrs Eutropius, Cleonicus & Basiliscus",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-04",
+      "dayOfWeek": 3,
+      "tone": 5,
+      "fastCode": "02p",
+      "fast": "Great Lent (Week 2)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Герасима, що на Йордані",
+      "saints_en": "Ven. Gerasimus of the Jordan",
+      "troparion": "В постах – безплотне, у чуваннях – сильне,* в спокусах – непереможне і в молитвах – безупинне,* у всьому ж – зібране життя провадячи,* богоносний отче Герасиме,* ангелів здивував єси і бісівські полчи",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-05",
+      "dayOfWeek": 4,
+      "tone": 5,
+      "fastCode": "02p",
+      "fast": "Great Lent (Week 2)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Конона",
+      "saints_en": "St. Martyr Conon",
+      "troparion": "Як дівственника предивного і мученика непохитного,* блаженного страдника, що владу проти бісів прийняв,* Конона піснями возхвалімо і до нього закличмо:* «Моли Христа, щоб спас душі наші».",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "dayOfWeek": 5,
+      "tone": 5,
+      "fastCode": "02p",
+      "fast": "Great Lent (Week 2)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. сорока двох мучеників, що в Аморії",
+      "saints_en": "Sts. Forty-Two Martyrs of Amorium",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-07",
+      "dayOfWeek": 6,
+      "tone": 5,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота заупокійна.; Свв. священномучеників, що були єпископами в Херсонесі: Василія, Єфрема, Капітона, Євгенія, Етерія й інших; Блаженного священномученика Леоніда-Леонтія Федорова.",
+      "saints_en": "Memorial Saturday. Hieromartyrs and Bishops of Chersonesus: Basil, Ephrem, Capiton, Eugene, Etherius, and others. Blessed Hieromartyr Leonid-Leontiy Fedorov",
+      "troparion": "Боже отців наших,* що чиниш завжди з нами по Твоїй кротості,* не віддали милости Твоєї від нас,* але молитвами їх у мирі направ життя наше.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-08",
+      "dayOfWeek": 7,
+      "tone": 6,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 3-тя Великого посту, Хрестопоклонна. Глас 6. Єв. 6.; Преподобного отця нашого й ісповідника Теофілакта, єпископа Нікомидійського",
+      "saints_en": "2nd Sunday of Great Lent. Ven. Confessor Theophylact, Bishop of Nicomedia",
+      "troparion": "Приховано пожив ти, прехвальний,* та Христос явив тебе як світило на свічнику мисленному* і вручив тобі скрижалі навчань духовних,* якими і нас озори.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-09",
+      "dayOfWeek": 1,
+      "tone": 6,
+      "fastCode": "03p",
+      "fast": "Great Lent (Week 3)",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Тиждень 4-ий Великого посту.; 🕂 Свв. сорока мучеників, замучених у Севастійському озері",
+      "saints_en": "Sts. Forty Martyrs who suffered in the Lake of Sebastia",
+      "troparion": "Страстоносці всечесні, сорок Христових воїнів, непохитні лицарі,* ви, що перейшли крізь вогонь і воду,* стали співгромадянами ангелів.* З ними же моліться Христові за тих, що з вірою вас хвалять:* Сла",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-10",
+      "dayOfWeek": 2,
+      "tone": 6,
+      "fastCode": "03p",
+      "fast": "Great Lent (Week 3)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Кодрата і тих, що з ним: Кипріана, Ніки, Галини та інших",
+      "saints_en": "St. Martyr Codratus and those with him: Cyprian, Nice, Galina, and others",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-11",
+      "dayOfWeek": 3,
+      "tone": 6,
+      "fastCode": "03p",
+      "fast": "Great Lent (Week 3)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. отця нашого Софронія, патріарха Єрусалимського.",
+      "saints_en": "St. Sophronius, Patriarch of Jerusalem",
+      "troparion": "Православ’я наставнику, благочестя і чистоти вчителю,* вселенної світильнику, архиєреїв окрасо богонатхнена,* Софроніє премудрий, вченнями твоїми всіх просвітив єси,* трубо духовна, моли Христа Бога,*",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "dayOfWeek": 4,
+      "tone": 6,
+      "fastCode": "03p",
+      "fast": "Great Lent (Week 3)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого й ісповідника Теофана Сигріанського; Св. отця нашого Григорія Двоєслова, папи Римського.",
+      "saints_en": "Ven. Confessor Theophanes of Sigiane. St. Gregory the Dialogist, Pope of Rome",
+      "troparion": "",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "dayOfWeek": 5,
+      "tone": 6,
+      "fastCode": "03p",
+      "fast": "Great Lent (Week 3)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Перенесення мощів св. отця нашого Никифора, патріарха Царгородського.",
+      "saints_en": "Translation of the Relics of St. Nicephorus, Patriarch of Constantinople",
+      "troparion": "В терпінні твоїм отримав ти відплату свою,* отче преподобний,* в молитвах безупинно терпівши,* бідних возлюбивши і їх пригостивши,* молися ж Христу Богові, Никифоре милостивий, блаженний,* щоб спаслис",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "dayOfWeek": 6,
+      "tone": 6,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота заупокійна.; Преподобного отця нашого Венедикта.",
+      "saints_en": "Memorial Saturday. Ven. Benedict",
+      "troparion": "В тобі, отче, дбайливо зберігся образ,* бо прийнявши хрест, ти пішов слідом за Христом* і ділом навчав ти погорджувати тілом, бо воно проминає,* а дбати про душу – єство безсмертне.* Тим-то з ангелами",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "dayOfWeek": 7,
+      "tone": 7,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 4-та Великого посту. Глас 7. Єв. 7.; Св. мученика Агапія і з ним шести мучеників.",
+      "saints_en": "3rd Sunday of Great Lent, Sunday of the Veneration of the Cross. St. Martyr Agapius and six Martyrs with him",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "dayOfWeek": 1,
+      "tone": 7,
+      "fastCode": "04p",
+      "fast": "Great Lent (Week 4)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 5-ий Великого посту.; Свв. мучеників Савина й Папи.",
+      "saints_en": "Sts. Martyrs Sabinus & Papas",
+      "troparion": "Мученик Твій, Господи, Савин* у стражданнях своїх прийняв вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, мучителів подолав,* сокрушив і демонів зухвальства безсильні.* його молитвами с",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-17",
+      "dayOfWeek": 2,
+      "tone": 7,
+      "fastCode": "04p",
+      "fast": "Great Lent (Week 4)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Олексія, чоловіка Божого.",
+      "saints_en": "Ven. Alexius, Man of God",
+      "troparion": "Возвисившись до чесноти і ум очистивши,* бажане і остаточне осягнув єси.* Безстрастям же прикрасивши життя своє* і піст особливий прийнявши совістю чистою,* в молитвах як безплотний перебуваючи,* возс",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-18",
+      "dayOfWeek": 3,
+      "tone": 7,
+      "fastCode": "04p",
+      "fast": "Great Lent (Week 4)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. отця нашого Кирила, архиєпископа Єрусалимського",
+      "saints_en": "St. Cyril, Archbishop of Jerusalem",
+      "troparion": "Правилом віри і образом лагідности,* учителем повздержности явила тебе твоєму стаду всіх речей істина.* Ради цього придбав ти смиренням високе, убогістю – багате,* отче, священноначальнику Кириле.* Мо",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-19",
+      "dayOfWeek": 4,
+      "tone": 7,
+      "fastCode": "04p",
+      "fast": "Great Lent (Week 4)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Великого канону; Свв. мучеників Хризанта й Дарії.",
+      "saints_en": "Sts. Martyrs Chrysanthus & Daria",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* Їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-20",
+      "dayOfWeek": 5,
+      "tone": 7,
+      "fastCode": "04p",
+      "fast": "Great Lent (Week 4)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобних отців наших, яких убили сарацини в обителі Св. Сави",
+      "saints_en": "Ven. Fathers slain by the Saracens at the Lavra of St. Sabbas",
+      "troparion": "Боже отців наших,* що чиниш завжди з нами по Твоїй кротості,* не віддали милости Твоєї від нас,* але молитвами їх у мирі направ життя наше.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-21",
+      "dayOfWeek": 6,
+      "tone": 7,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота акафістова; Преподобного отця нашого й ісповідника Якова, єпископа Катанського.",
+      "saints_en": "Memorial Saturday. Ven. Confessor James, Bishop of Catania",
+      "troparion": "Православ’я наставнику, благочестя і чистоти вчителю,* вселенної світильнику, архиєреїв окрасо богонатхнена,* Якове премудрий,* вченнями твоїми всіх просвітив єси,* трубо духовна, моли Христа Бога,* щ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-22",
+      "dayOfWeek": 7,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 5-та Великого посту. Глас 8. Єв. 8.; Прп. Івана Ліствичника.; Св. священномученика Василія, пресвітера Анкирського.",
+      "saints_en": "4th Sunday of Great Lent, of Ven. John of the Ladder. Hieromartyr Basil, Presbyter of Ancyra",
+      "troparion": "I звичаїв апостолів причасником і їх намісником стався ти,* знайшов ти шлях, богонатхненний, як дійти до видіння.* Задля того слово істини справляючи,* і задля віри постраждав ти аж до крови, священно",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-23",
+      "dayOfWeek": 1,
+      "tone": 8,
+      "fastCode": "05p",
+      "fast": "Great Lent (Week 5)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 6-ий Великого посту.; Св. преподобномученика Нікона і двохсот учнів його, з ним замучених.",
+      "saints_en": "Ven. Protomartyr Nicon and 200 of his disciples martyred with him",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* Їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-24",
+      "dayOfWeek": 2,
+      "tone": 8,
+      "fastCode": "05p",
+      "fast": "Great Lent (Week 5)",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Передсвяття Благовіщення Пресвятої Богородиці; Преподобного отця нашого Захарії; Св. отця нашого Артемона, єпископа Селевкії Пісідійської.",
+      "saints_en": "Forefeast of the Annunciation of the Most Holy Theotokos. Ven. Zachariah. St. Artemon, Bishop of Seleucia in Pisidia",
+      "troparion": "Днесь всесвітньої радости початки* передпразденственне оспівати веліють.* Ось бо Гавриїл приходить, несучи Діві благовість,* і до Неї кличе:* Радуйся, Благодатна, Господь з Тобою.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "dayOfWeek": 3,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Благовіщення Пресвятої Владичиці нашої Богородиці і Приснодіви Марії; Блаженного священномученика Омеляна Ковча, пресвітера",
+      "saints_en": "Annunciation of our Most Holy Lady, the Theotokos and Ever-Virgin Mary. Blessed Hieromartyr Omelian Kovch, Presbyter",
+      "troparion": "Днесь спасіння нашого начало* і від віку таїнства явління.* Син Божий сином Діви стається* і Гавриїл благодать благовістує.* Тому й ми з ним до Богородиці закличмо:* Радуйся, Благодатна, Господь з Тоб",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-26",
+      "dayOfWeek": 4,
+      "tone": 8,
+      "fastCode": "05p",
+      "fast": "Great Lent (Week 5)",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "Віддання Благовіщення; 🕃 Собор архангела Гавриїла.",
+      "saints_en": "Great Canon. Synaxis of the Archangel Gabriel. Leave-taking of the Annunciation",
+      "troparion": "Небесних воїнств архистратиги,* молимо вас завжди ми, недостойні,* щоб ви вашими молитвами огородили нас* покровом крил духовної вашої слави,* охороняючи нас, що усильно припадаємо і кличемо:* Від бід",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-27",
+      "dayOfWeek": 5,
+      "tone": 8,
+      "fastCode": "05p",
+      "fast": "Great Lent (Week 5)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святої матері нашої Матрони, що в Солуні.",
+      "saints_en": "St. Matrona of Thessalonica",
+      "troparion": "",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-28",
+      "dayOfWeek": 6,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота Лазарева; Преподобного отця нашого Іларіона Нового; Св. Стефана, чудотворця.",
+      "saints_en": "Saturday of the Akathist. Ven. Hilarion the New. St. Stephen the Wonderworker",
+      "troparion": "Боже отців наших,* що чиниш завжди з нами по Твоїй кротості,* не віддали милости Твоєї від нас,* але молитвами їх у мирі направ життя наше.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-29",
+      "dayOfWeek": 7,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 6-та Великого посту, квітна.; 🕀 Вхід Господній в Єрусалим.; Преподобного отця нашого Марка, єпископа Аретусійського, і Кирила диякона, та інших, що з ним постраждали при Юліані, мучителеві.",
+      "saints_en": "5th Sunday of Great Lent, of Ven. Mary of Egypt. Ven. Mark, Bishop of Arethusa, & Cyril the Deacon, and others who suffered with him under Julian",
+      "troparion": "Боже отців наших,* що чиниш завжди з нами по Твоїй кротості,* не віддали милости Твоєї від нас,* але молитвами їх у мирі направ життя наше.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-30",
+      "dayOfWeek": 1,
+      "tone": 1,
+      "fastCode": "06p",
+      "fast": "Great Lent (Week 6)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Великий понеділок; Преподобного отця нашого Івана, автора «Ліствиці»",
+      "saints_en": "Ven. John, Author of the Ladder",
+      "troparion": "Як драбину божественну, Йоане преподобний,* знайшли ми чесноти твої божественні,* які до небес возводять нас.* Ти бо був чеснот уособлення,* тому моли Христа Бога, щоб спас душі наші.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-03-31",
+      "dayOfWeek": 2,
+      "tone": 1,
+      "fastCode": "06p",
+      "fast": "Great Lent (Week 6)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Великий вівторок; Преподобного отця нашого Іпатія, єпископа Гангрського.",
+      "saints_en": "Ven. Hypatius, Bishop of Gangra",
+      "troparion": "",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    }
+  ]
+}

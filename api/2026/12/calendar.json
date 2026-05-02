@@ -1,0 +1,537 @@
+{
+  "year": 2026,
+  "month": 12,
+  "monthName": {
+    "en": "December",
+    "uk": "Грудень"
+  },
+  "days": [
+    {
+      "date": "2026-12-01",
+      "dayOfWeek": 2,
+      "tone": 1,
+      "fastCode": "27d",
+      "fast": "Week 27 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. пророка Наума",
+      "saints_en": "St. Prophet Nahum",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-02",
+      "dayOfWeek": 3,
+      "tone": 1,
+      "fastCode": "27d",
+      "fast": "Week 27 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. пророка Аввакума; Блаженного священномученика Івана Слезюка, єпископа",
+      "saints_en": "St. Prophet Habakkuk. Blessed Hieromartyr Ivan Sleziuk, Bishop",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-03",
+      "dayOfWeek": 4,
+      "tone": 1,
+      "fastCode": "27d",
+      "fast": "Week 27 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. пророка Софонії",
+      "saints_en": "St. Prophet Zephaniah",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-04",
+      "dayOfWeek": 5,
+      "tone": 1,
+      "fastCode": "27d",
+      "fast": "Week 27 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Святої великомучениці Варвари; Преподобного отця нашого Івана Дамаскина",
+      "saints_en": "St. Great Martyr Barbara. Ven. John of Damascus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-05",
+      "dayOfWeek": 6,
+      "tone": 1,
+      "fastCode": "27d",
+      "fast": "Week 27 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "5🕂 Преподобного й богоносного отця нашого Сави Освященного",
+      "saints_en": "Ven. and God-Bearing Sabbas the Sanctified",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-06",
+      "dayOfWeek": 7,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "*",
+      "rank": "Special",
+      "saints_uk": "Неділя 28-ма по Зісланні Святого Духа. Глас 3. Єв. 6.; 🕁 Св. отця нашого Миколая, архиєпископа Мир Ликійських, чудотворця",
+      "saints_en": "27th Sunday after Pentecost. St. Nicholas, Archbishop of Myra in Lycia, Wonderworker",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-07",
+      "dayOfWeek": 1,
+      "tone": 2,
+      "fastCode": "28d",
+      "fast": "Week 28 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 29-ий по Зісланні Святого Духа.; Св. отця нашого Амвросія, єпископа Медіоланського",
+      "saints_en": "St. Ambrose, Bishop of Milan",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-08",
+      "dayOfWeek": 2,
+      "tone": 2,
+      "fastCode": "28d",
+      "fast": "Week 28 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Патапія.",
+      "saints_en": "Ven. Patapius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-09",
+      "dayOfWeek": 3,
+      "tone": 2,
+      "fastCode": "28d",
+      "fast": "Week 28 after Pentecost",
+      "rankCode": "*",
+      "rank": "Special",
+      "saints_uk": "🕁 Непорочне Зачаття Пресвятої Богородиці св. Анною.",
+      "saints_en": "Immaculate Conception of the Most Holy Theotokos by St. Anna",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-10",
+      "dayOfWeek": 4,
+      "tone": 2,
+      "fastCode": "28d",
+      "fast": "Week 28 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Мини, Єрмогена і Євграфа.",
+      "saints_en": "Sts. Martyrs Menas, Hermogenes & Eugraphus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-11",
+      "dayOfWeek": 5,
+      "tone": 2,
+      "fastCode": "28d",
+      "fast": "Week 28 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Даниїла Стовпника.",
+      "saints_en": "Ven. Daniel the Stylite",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-12",
+      "dayOfWeek": 6,
+      "tone": 2,
+      "fastCode": "28d",
+      "fast": "Week 28 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Преподобного отця нашого Спиридона, чудотворця, єпископа Трімитійського.",
+      "saints_en": "Ven. Spyridon the Wonderworker, Bishop of Trimythous",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-13",
+      "dayOfWeek": 7,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Неділя 29-та по Зісланні Святого Духа, святих Праотців. Глас 4. Єв. 7.; 🕂 Свв. мучеників Євстратія, Авксентія, Євгенія, Мардарія й Ореста; Святої мучениці Лукії, діви.",
+      "saints_en": "28th Sunday after Pentecost. Sts. Martyrs Eustratius, Auxentius, Eugene, Mardarius & Orestes. St. Martyr Lucy the Virgin",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-14",
+      "dayOfWeek": 1,
+      "tone": 3,
+      "fastCode": "29d",
+      "fast": "Week 29 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 30-ий по Зісланні Святого Духа.; Свв. мучеників Тирса, Левкія, Филимона, Аполлонія й Каленика.",
+      "saints_en": "Sts. Martyrs Thyrsus, Leucius, Philemon, Apollonius & Callinicus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-15",
+      "dayOfWeek": 2,
+      "tone": 3,
+      "fastCode": "29d",
+      "fast": "Week 29 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. отця нашого Стефана ісповідника, архиєпископа Сурозького; Св. священномученика Єлевтерія.; Преподобного отця нашого Павла, що в Латрі.",
+      "saints_en": "St. Stephen the Confessor, Archbishop of Surozh. Hieromartyr Eleutherius. Ven. Paul of Latros",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-16",
+      "dayOfWeek": 3,
+      "tone": 3,
+      "fastCode": "29d",
+      "fast": "Week 29 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. пророка Аггея.",
+      "saints_en": "St. Prophet Haggai",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-17",
+      "dayOfWeek": 4,
+      "tone": 3,
+      "fastCode": "29d",
+      "fast": "Week 29 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. пророка Даниїла; Свв. трьох отроків: Ананії, Азарії й Мисаїла.",
+      "saints_en": "St. Prophet Daniel. Sts. Three Youths: Ananias, Azarias & Misael",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-18",
+      "dayOfWeek": 5,
+      "tone": 3,
+      "fastCode": "29d",
+      "fast": "Week 29 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Севастіана і тих, що з ним.",
+      "saints_en": "St. Martyr Sebastian and those with him",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-19",
+      "dayOfWeek": 6,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота перед Різдвом.; Св. мученика Боніфатія.",
+      "saints_en": "Saturday before the Nativity. St. Martyr Boniface",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-20",
+      "dayOfWeek": 7,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя перед Різдвом Христовим, Святих Отців. Глас 5. Єв. 8.; 🕃 Передсвяття Різдва Господа Бога і Спаса нашого Ісуса Христа; Св. священномученика Ігнатія Богоносця.",
+      "saints_en": "Sunday before the Nativity, of the Holy Fathers. Forefeast of the Nativity of our Lord, God and Savior Jesus Christ. Hieromartyr Ignatius the God-Bearer",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-21",
+      "dayOfWeek": 1,
+      "tone": 4,
+      "fastCode": "30d",
+      "fast": "No fast",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 31-ий по Зісланні Святого Духа.; Передсвяття Різдва Христового.; Святої мучениці Юліанії.",
+      "saints_en": "Forefeast of the Nativity of Christ. St. Martyr Juliana",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-22",
+      "dayOfWeek": 2,
+      "tone": 4,
+      "fastCode": "30d",
+      "fast": "No fast",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Передсвяття Різдва Христового.; Святої великомучениці Анастасії.",
+      "saints_en": "Forefeast of the Nativity of Christ. St. Great Martyr Anastasia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-23",
+      "dayOfWeek": 3,
+      "tone": 4,
+      "fastCode": "30d",
+      "fast": "No fast",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Передсвяття Різдва Христового.; Свв. десятьох мучеників, що в Криті.",
+      "saints_en": "Forefeast of the Nativity of Christ. Sts. Ten Martyrs of Crete",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-24",
+      "dayOfWeek": 4,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Навечір'я Різдва Христового; Святої преподобномучениці Євгенії.",
+      "saints_en": "Eve of the Nativity of Christ. Ven. Protomartyr Eugenia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-25",
+      "dayOfWeek": 5,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Різдво Господа Бога і Спаса нашого Ісуса Христа; Утр.: Єв. – Мт. 2 зач.; 1, 18-25.; Літ.: Ап. – Гал. 209 зач.; 4, 4-7. Єв. – Мт. 3 зач.; 2, 1-12.",
+      "saints_en": "Nativity of our Lord, God and Savior Jesus Christ",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-26",
+      "dayOfWeek": 6,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "Субота по Різдві Христовому.; 🕃 Собор Пресвятої Богородиці; Св. священномученика Євтимія, єпископа Сардійського.",
+      "saints_en": "Saturday after the Nativity. Synaxis of the Most Holy Theotokos. Hieromartyr Euthymius, Bishop of Sardis",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-27",
+      "dayOfWeek": 7,
+      "tone": 5,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя по Різдві Христовому. Пам'ять святих і праведних Йосифа Oбручника, Давида, царя, і Якова, брата Божого. Глас 6. Єв. 9.; 🕃 Св. апостола, первомученика й архидиякона Стефана; Преподобного отця нашого й ісповідника Теодора Начертанного, брата Теофана, творця канонів.",
+      "saints_en": "Sunday after the Nativity. Commemoration of the Holy and Righteous Joseph the Betrothed, David the King & James the Brother of God. St. Apostle, Protomartyr and Archdeacon Stephen. Ven. Confessor Theodore",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-28",
+      "dayOfWeek": 1,
+      "tone": 5,
+      "fastCode": "31d",
+      "fast": "Meat permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 32-ий по Зісланні Святого Духа.; Свв. двадцяти тисяч мучеників, спалених у Нікомидії; Блаженного священномученика Григорія Хомишина, єпископа Станіславівського.",
+      "saints_en": "Sts. Twenty Thousand Martyrs burned at Nicomedia. Blessed Hieromartyr Hryhoriy Khomyshyn, Bishop of Stanyslaviv",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-29",
+      "dayOfWeek": 2,
+      "tone": 5,
+      "fastCode": "31d",
+      "fast": "Meat permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. немовлят, за Христа вбитих у Вифлеємі; Преподобного отця нашого Маркелла, ігумена монастиря невсипущих.",
+      "saints_en": "Holy Innocents, the Children slain for Christ in Bethlehem. Ven. Marcellus, Hegumen of the Monastery of the Unsleeping Ones",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-30",
+      "dayOfWeek": 3,
+      "tone": 5,
+      "fastCode": "31d",
+      "fast": "Meat permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святої мучениці Анісії; Преподобного Зотика, пресвітера і кормителя сиріт.",
+      "saints_en": "St. Martyr Anysia. Ven. Zoticus, Presbyter and Feeder of Orphans",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-12-31",
+      "dayOfWeek": 4,
+      "tone": 5,
+      "fastCode": "31d",
+      "fast": "Meat permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Віддання Різдва Христового.; Преподобної матері нашої Меланії Римлянки.",
+      "saints_en": "Ven. Melania of Rome. Leave-taking of the Nativity of Christ",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    }
+  ]
+}

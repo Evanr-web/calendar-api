@@ -1,0 +1,520 @@
+{
+  "year": 2026,
+  "month": 9,
+  "monthName": {
+    "en": "September",
+    "uk": "Вересень"
+  },
+  "days": [
+    {
+      "date": "2026-09-01",
+      "dayOfWeek": 2,
+      "tone": 4,
+      "fastCode": "14d",
+      "fast": "Week 14 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "🕂 Початок індикту, нового року; Пам'ять преподобного отця нашого Симеона Стовпника і матері його Марти; Собор Пресвятої Богородиці, що в Міясинах; Літ.: Новоліттю: Ап. – 1 Тим. 282 зач.; 2, 1-7. Єв. – Лк. 13 зач.; 4, 16-22.",
+      "saints_en": "Beginning of the Indiction, the New Year. Commemoration of Ven. Simeon the Stylite and his Mother Martha. Synaxis of the Most Holy Theotokos at Miasena",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-02",
+      "dayOfWeek": 3,
+      "tone": 4,
+      "fastCode": "14d",
+      "fast": "Week 14 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Маманта; Преподобного отця нашого Івана Посника, патріарха Царгородського",
+      "saints_en": "St. Martyr Mamas. Ven. John the Faster, Patriarch of Constantinople",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-03",
+      "dayOfWeek": 4,
+      "tone": 4,
+      "fastCode": "14d",
+      "fast": "Week 14 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. священномученика Антима, єпископа Нікомидійського; Преподобного отця нашого Теоктиста, співпосника великого Євтимія.",
+      "saints_en": "Hieromartyr Anthimus, Bishop of Nicomedia. Ven. Theoktistos, Companion of Ven. Euthymius the Great",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-04",
+      "dayOfWeek": 5,
+      "tone": 4,
+      "fastCode": "14d",
+      "fast": "Week 14 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. священномученика Вавили, єпископа Антіохійського; Св. пророка й боговидця Мойсея.",
+      "saints_en": "Hieromartyr Babylas, Bishop of Antioch. St. Prophet and God-Seer Moses",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-05",
+      "dayOfWeek": 6,
+      "tone": 4,
+      "fastCode": "14d",
+      "fast": "Week 14 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Свв. пророка Захарії та праведної Єлисавети, батьків чесного Івана Предтечі; Преподобної матері нашої Терези з Калькутти",
+      "saints_en": "Sts. Prophet Zechariah & Righteous Elizabeth, Parents of the Honorable John the Forerunner. Ven. Teresa of Calcutta",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-06",
+      "dayOfWeek": 7,
+      "tone": 5,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя 15-та по Зісланні Святого Духа. Гл. 6. Єв. 4.; 🕃 Спогад про чудо, яке було в Колосах, тобто в Хонах, від архистратига Михаїла.; Св. мученика Євдоксія і тих, що з ним.; Преподобного отця нашого Архипа.",
+      "saints_en": "14th Sunday after Pentecost. Commemoration of the Miracle at Colossae (Chonae) by the Archangel Michael. St. Martyr Eudoxius and those with him. Ven. Archippus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-07",
+      "dayOfWeek": 1,
+      "tone": 5,
+      "fastCode": "15d",
+      "fast": "Week 15 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Тиждень 16-ий по Зісланні Святого Духа.; 🕃 Передсвяття Різдва Пресвятої Богородиці.; Св. мученика Созонта.",
+      "saints_en": "Forefeast of the Nativity of the Most Holy Theotokos. St. Martyr Sozon",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-08",
+      "dayOfWeek": 2,
+      "tone": 5,
+      "fastCode": "15d",
+      "fast": "Week 15 after Pentecost",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Різдво Пресвятої Владичиці нашої Богородиці і Приснодіви Марії",
+      "saints_en": "Nativity of our Most Holy Lady, the Theotokos and Ever-Virgin Mary",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-09",
+      "dayOfWeek": 3,
+      "tone": 5,
+      "fastCode": "15d",
+      "fast": "Week 15 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Свв. і праведних богоотців Йоакима й Анни; Св. мученика Северіана",
+      "saints_en": "Sts. Righteous Ancestors of God, Joachim & Anna. St. Martyr Severian",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-10",
+      "dayOfWeek": 4,
+      "tone": 5,
+      "fastCode": "15d",
+      "fast": "Week 15 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучениць Минодори, Митродори й Німфодори; Вечірня: катизма чергова. На «Господи взиваю» – 6 стихир: свята – 3 і мчцц. – 3. Слава, І нині: свята. На стиховні: стихири свята. Тропар мчцц., Слава, І нині: свята. Відпуст середній з помин. служби свята і мчцц.; Утреня: по «Бог Господь»: тропар свята (2), Слава: мчцц., І нині: свята. Катизми чергові і сідальний свята. Псалом 50. Канон свята і мчцц. По 9-ій – світильний мчцц. Слава, І нині: світильний свята. Стиховня – вся свята. Тропар мчцц., Слава, І нині: свята.; Часи: тропар свята, також на 3-му і 9-му ще Слава: мчцц., кондаки – поперемінно, тобто: на 1-му і 6-му – свята, на 3-му і 9-му – мчцц.; Літургія: антифони повсякденні. Тропар свята, Слава, І нині: кондак свята. Прокімен, алилуя – свята. Ап. – Еф. 216 зач.; 1, 1-9. Єв. – Мр. 30 зач.; 7, 24-30. Замість «Достойно» – ірмос 9-ї пісні канону свята з приспівом. Причасний – свята.",
+      "saints_en": "Sts. Martyrs Menodora, Metrodora & Nymphodora",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-11",
+      "dayOfWeek": 5,
+      "tone": 5,
+      "fastCode": "15d",
+      "fast": "Week 15 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобної матері нашої Теодори Олександрійської.",
+      "saints_en": "Ven. Theodora of Alexandria",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-12",
+      "dayOfWeek": 6,
+      "tone": 5,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота перед Воздвиженням; Віддання Різдва Пресвятої Богородиці; Св. священномученика Автонома",
+      "saints_en": "Saturday before the Exaltation. Hieromartyr Autonomus. Leave-taking of the Nativity of the Most Holy Theotokos",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-13",
+      "dayOfWeek": 7,
+      "tone": 6,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "Неділя 16-та по Зісланні Святого Духа, перед Воздвиженням. Гл. 7. Єв. 5.; 🕃 Пам'ять оновлення храму Святого Воскресіння Христа і Бога нашого; Передсвяття Воздвиження чесного й животворного Хреста; Св. священномученика Корнилія, сотника.; Вечірня: «Блажен муж». На «Господи, взиваю» 10 стихир: 4 Октоїха, 3 Оновлення, 3 передсв; Сл: Оновлення, І нині: догмат 7-го гл. Вхід. Прокімен дня. Три читання свята: 1 Цар. 8, 22-23, 27-30, Прип, 3. 19-34, Прип. 9, 1-11. Стиховня: стихири недільні, Сл.: Оновлення, І нині: передсв. По «Отче наш»: тропар воскресний, Сл.: Оновлення, І нині: передсв. Відпуст великий недільний.; Утреня: по «Бог Господь» тропар воскресний (2), Сл.: Оновлення, І нині: передсв. Катизми чергові зі сідальними Оновлення, також полієлей, і «Ангельський собор», мала єктенія з виголосом «Бо благословиться» й іпакой 7-го гласу. Степенна, прокімен чергового гласу. Єв. – Лк. 113 зач.; 24, 12-35. Пс. 50. Канон воскресний, Богородиці, Оновлення та передсв. Катавасія чергова «Хрест накреслив». По 3-ій – кондак-ікос і сідал. Оновлення, Сл. і нині: сідал. передсв. По 6-ій – конд.-ікос недільний. По 9-ій – світил. недільний, Сл.: Оновлення, І нині: передсв. Хвалитних стихир 8: 4 недільних октоїха чергового гласу, 4 Оновлення з двома окремими приспівами, Сл.: Оновлення, І нині: передсв. По вел. славослов'ї тропар «Сьогодні спасання світу». Відпуст великий недільний.; Часи: на всіх – тропар воскресний, Сл.: на 1-му та 6-му – тропар Оновлення; на 3-му та 9-му – передсв. Кондаки: на 1-му та 9-му – воскресний; на 3-му – Оновлення; на 6-му – передсв.; Літургія: антифони: два перших – воскресні, а третій – звичайний з воскресним приспівом, а також і «Прийдіте, поклонімся». Тропар воскресний, Оновлення і передсв., кондак недільний, Сл.: кондак Оновлення, І нині: конд. передсв.; прокімен, алилуя і причасний – спочатку неділі перед Воздвиженням, а тоді Оновлення. Перед Воздвиж.: Ап. – Гал. 215 зач.; 6, 11-18. Єв. – Ів. 9 зач.; 3, 13-17. Оновлення: Ап. – Євр. 307 зач.; 3, 1-4. Єв. – Мт. 67 зач.; 16, 13-19.",
+      "saints_en": "Sunday before the Exaltation. Commemoration of the Dedication of the Church of the Holy Resurrection of Christ our God. Forefeast of the Exaltation of the Precious and Life-Giving Cross. Hieromartyr Cornelius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-14",
+      "dayOfWeek": 1,
+      "tone": 6,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "Тиждень 17-ий по Зісланні Святого Духа.; 🕀 Всесвітнє Воздвиження чесного й животворного Хреста.",
+      "saints_en": "Universal Exaltation of the Precious and Life-Giving Cross",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-15",
+      "dayOfWeek": 2,
+      "tone": 6,
+      "fastCode": "16d",
+      "fast": "Week 16 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Святого великомученика Микити.",
+      "saints_en": "St. Great Martyr Nicetas",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-16",
+      "dayOfWeek": 3,
+      "tone": 6,
+      "fastCode": "16d",
+      "fast": "Week 16 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Святої великомучениці Євфимії всехвальної.",
+      "saints_en": "St. Great Martyr Euphemia the All-Praised",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-17",
+      "dayOfWeek": 4,
+      "tone": 6,
+      "fastCode": "16d",
+      "fast": "Week 16 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святої мучениці Софії і трьох її дочок: Віри, Надії й Любові.",
+      "saints_en": "St. Martyr Sophia and her three daughters: Faith, Hope & Love",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-18",
+      "dayOfWeek": 5,
+      "tone": 6,
+      "fastCode": "16d",
+      "fast": "Week 16 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Євменія, єпископа Гортинського, чудотворця.",
+      "saints_en": "Ven. Eumenius, Bishop of Gortyna, Wonderworker",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-19",
+      "dayOfWeek": 6,
+      "tone": 6,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота по Воздвиженні; Свв. мучеників Трофима, Савватія й Доримедонта",
+      "saints_en": "Saturday after the Exaltation. Sts. Martyrs Trophimus, Sabbatius & Dorymedon",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-20",
+      "dayOfWeek": 7,
+      "tone": 7,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя 17-та по Зісланні Святого Духа, по Воздвиженні. Глас 8. Єв. 6.; 🕃 Свв. мучеників та ісповідників – великого князя Михаїла та боярина його Теодора, чернігівських чудотворців; 🕃 Св. великомученика Євстатія і тих, що з ним",
+      "saints_en": "Sunday after the Exaltation. Sts. Martyrs and Confessors, Grand Prince Michael and his Boyar Theodore, Wonderworkers of Chernihiv. St. Great Martyr Eustathius and those with him",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-21",
+      "dayOfWeek": 1,
+      "tone": 7,
+      "fastCode": "17d",
+      "fast": "Week 17 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 18-ий по Зісланні Святого Духа.; Віддання Воздвиження чесного й животворного Хреста; Св. апостола Кодрата, що в Магнисії.",
+      "saints_en": "St. Apostle Codratus of Magnesia. Leave-taking of the Exaltation of the Precious and Life-Giving Cross",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-22",
+      "dayOfWeek": 2,
+      "tone": 7,
+      "fastCode": "17d",
+      "fast": "Week 17 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. священномученика Фоки, єпископа Синопійського; Св. пророка Йони; Преподобного Йони, пресвітера.",
+      "saints_en": "Hieromartyr Phocas, Bishop of Sinope. St. Prophet Jonah. Ven. Jonah the Presbyter",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-23",
+      "dayOfWeek": 3,
+      "tone": 7,
+      "fastCode": "17d",
+      "fast": "Week 17 after Pentecost",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "🕃 Зачаття чесного славного пророка, предтечі і хрестителя Господнього Івана",
+      "saints_en": "Conception of the Honorable, Glorious Prophet, Forerunner and Baptist of the Lord, John",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-24",
+      "dayOfWeek": 4,
+      "tone": 7,
+      "fastCode": "17d",
+      "fast": "Week 17 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Святої первомучениці й рівноапостольної Теклі.",
+      "saints_en": "St. Protomartyr and Equal-to-the-Apostles Thecla",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-25",
+      "dayOfWeek": 5,
+      "tone": 7,
+      "fastCode": "17d",
+      "fast": "Week 17 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобної матері нашої Євфросинії.",
+      "saints_en": "Ven. Euphrosyne",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-26",
+      "dayOfWeek": 6,
+      "tone": 7,
+      "fastCode": "17d",
+      "fast": "Week 17 after Pentecost",
+      "rankCode": "*",
+      "rank": "Special",
+      "saints_uk": "🕁 Переставлення св. апостола і євангелиста Івана Богослова",
+      "saints_en": "Repose of St. Apostle and Evangelist John the Theologian",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-27",
+      "dayOfWeek": 7,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 18-та по Зісланні Святого Духа. Глас 1. Єв. 7.; Св. мученика Калістрата і тих, що з ним; Преподобного отця нашого Ніла, основника й ігумена монастиря Гроттаферратського",
+      "saints_en": "17th Sunday after Pentecost. St. Martyr Callistratus and those with him. Ven. Nilus, Founder and Hegumen of the Monastery of Grottaferrata",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-28",
+      "dayOfWeek": 1,
+      "tone": 8,
+      "fastCode": "18d",
+      "fast": "Week 18 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Тиждень 19-ий по Зісланні Святого Духа.; + Преподобного отця нашого й ісповідника Харитона; Святої мучениці Людмили і св. В'ячеслава, князя чеського; Собор преподобних отців Печерських, що спочивають у ближніх печерах преподобного Антонія; Блаженного священномученика Никити Будки, єпископа",
+      "saints_en": "Ven. Confessor Chariton. St. Martyr Ludmila & St. Wenceslaus, Prince of Bohemia. Synaxis of the Ven. Fathers of the Kyiv Caves Who Repose in the Near Caves of Ven. Anthony. Blessed Hieromartyr Mykyta",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-29",
+      "dayOfWeek": 2,
+      "tone": 8,
+      "fastCode": "18d",
+      "fast": "Week 18 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Преподобного отця нашого Киріака, самітника.",
+      "saints_en": "Ven. Cyriacus the Hermit",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-09-30",
+      "dayOfWeek": 3,
+      "tone": 8,
+      "fastCode": "18d",
+      "fast": "Week 18 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. священномученика Григорія, єпископа Великої Вірменії.",
+      "saints_en": "Hieromartyr Gregory, Bishop of Greater Armenia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    }
+  ]
+}

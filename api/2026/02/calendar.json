@@ -1,0 +1,486 @@
+{
+  "year": 2026,
+  "month": 2,
+  "monthName": {
+    "en": "February",
+    "uk": "Лютий"
+  },
+  "days": [
+    {
+      "date": "2026-02-01",
+      "dayOfWeek": 7,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя про блудного сина. Глас 1. Єв. 1.; 🕃 Передсвяття Стрітення Господа Бога і Спаса нашого Ісуса Христа; Святого мученика Трифона.",
+      "saints_en": "Sunday of the Publican and the Pharisee. Forefeast of the Meeting of our Lord, God and Savior Jesus Christ. St. Martyr Tryphon",
+      "troparion": "Небесний хор небесних ангелів, * приникши на землю, * бачить, як Мати, що не знала мужа, * вносить до храму Первородного всієї тварі, * що прийшов як немовля, * і тому з нами співає передпразденственн",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-02",
+      "dayOfWeek": 1,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Стрітення Господа Бога і Спаса нашого Ісуса Христа",
+      "saints_en": "Meeting of our Lord, God and Savior Jesus Christ",
+      "troparion": "Радуйся, благодатна Богородице Діво,* бо з Тебе засяло Сонце правди – Христос Бог наш,* що просвічує тих, що в темряві.* Веселися й Ти, старче праведний,* Ти прийняв в обійми визволителя душ наших, що",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-03",
+      "dayOfWeek": 2,
+      "tone": 1,
+      "fastCode": "35d",
+      "fast": "Fish permitted",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Святого і праведного Симеона Богоприємця і Анни, пророчиці.",
+      "saints_en": "St. and Righteous Simeon the God-Receiver & Anna the Prophetess",
+      "troparion": "Симеон старець радіє днесь,* прийнявши на свої руки немовля, споконвічного Бога,* і від узів плоті звільнення просить:* Бо мої очі − каже – побачили спасіння світу.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-04",
+      "dayOfWeek": 3,
+      "tone": 1,
+      "fastCode": "35d",
+      "fast": "Fish permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Ісидора Пилусіотського",
+      "saints_en": "Ven. Isidore of Pelusium",
+      "troparion": "В тобі, отче, дбайливо зберігся образ,* бо, прийнявши хрест, ти пішов слідом за Христом* і ділом навчав ти погорджувати тілом, бо воно проминає,* а дбати про душу – єство безсмертне.* Тим-то з ангелам",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-05",
+      "dayOfWeek": 4,
+      "tone": 1,
+      "fastCode": "35d",
+      "fast": "Fish permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святої мучениці Агафії",
+      "saints_en": "St. Martyr Agatha",
+      "troparion": "Агниця Твоя, Ісусе, Агафія,* кличе великим голосом:* Тебе, жениху мій, люблю і, Тебе шукаючи, страдаю,* і разом з Тобою розпинаюся, і погребуюся хрещенням Твоїм,* і терплю ради Тебе, щоб і царствувати",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-06",
+      "dayOfWeek": 5,
+      "tone": 1,
+      "fastCode": "35d",
+      "fast": "Fish permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Відання Стрітення.; Преподобного отця нашого Вукола, єпископа Смирнського; Святого священномученика Сілвана, єпископа Ємеського, і тих, що з ним",
+      "saints_en": "Ven. Bucolus, Bishop of Smyrna. Hieromartyr Silvanus, Bishop of Emesa, and those with him",
+      "troparion": "Правилом віри і образом лагідности, учителем повздержности* явила тебе твоєму стаду всіх речей істина.* Ради цього придбав Ти смиренням високе, убогістю – багате,* отче, священноначальнику Вуколе.* Мо",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-07",
+      "dayOfWeek": 6,
+      "tone": 1,
+      "fastCode": "35d",
+      "fast": "Fish permitted",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота заупокійна.; Преподобного отця нашого Партенія, єпископа Лампсакійського; Блаженного священномученика Петра Вергуна, пресвітера",
+      "saints_en": "Ven. Parthenius, Bishop of Lampsacus. Blessed Hieromartyr Peter Verhun, Presbyter",
+      "troparion": "Боже отців наших,* що чиниш завжди з нами по Твоїй кротості,* не віддали милости Твоєї від нас,* але молитвами їх у мирі направ життя наше.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-08",
+      "dayOfWeek": 7,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя м'ясопусна, про Страшний суд. Глас 2. Єв. 2.; 🕃 Святого великомученика Теодора Стратилата; Святого пророка Захарії Серповидця",
+      "saints_en": "Sunday of the Prodigal Son. St. Great Martyr Theodore Stratelates. St. Prophet Zechariah of the Sickle-Vision",
+      "troparion": "Через переможне слово істини, страстотерпче,* став ти воєводою предобрим царя небесного, Теодоре,* бо зброєю віри мужньо озброївшись і перемігши демонські полки,* переможцем явився ти, страждальче,* т",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-09",
+      "dayOfWeek": 1,
+      "tone": 2,
+      "fastCode": "00m",
+      "fast": "Fast-free week",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень сиропусний.; Св. мученика Никифора",
+      "saints_en": "Meatfare Week. Leave-taking of the Meeting of the Lord. St. Martyr Nicephorus",
+      "troparion": "Мученик Твій, Господи, Никифор,* у стражданнях своїх прийняв вінець нетлінний від Тебе, Бога нашого,* мавши бо кріпость Твою, він мучителів подолав,* сокрушив і демонів зухвальства безсильні.* Його мо",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-10",
+      "dayOfWeek": 2,
+      "tone": 2,
+      "fastCode": "00m",
+      "fast": "Fast-free week",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого мученика Харалампія",
+      "saints_en": "St. Martyr Charalampius",
+      "troparion": "Мученик Твій, Господи, Харлампій,* у стражданнях своїх прийняв вінець нетлінний від Тебе, Бога нашого,* мавши бо кріпость Твою, він мучителів подолав,* сокрушив і демонів зухвальства безсильні.* Його ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-11",
+      "dayOfWeek": 3,
+      "tone": 2,
+      "fastCode": "00m",
+      "fast": "Fast-free week",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого священномученика Власія, єпископа Севастійського",
+      "saints_en": "Hieromartyr Blaise, Bishop of Sebastia",
+      "troparion": "I обичаїв апостолів причасником і їх намісником стався Ти,* знайшов Ти шлях, богонатхненний, як дійти до видіння.* Задля того слово істини справляючи,*  задля віри пострадав Ти аж до крови, священному",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-12",
+      "dayOfWeek": 4,
+      "tone": 2,
+      "fastCode": "00m",
+      "fast": "Fast-free week",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого отця нашого Мелетія, архиєпископа Антіохійського",
+      "saints_en": "St. Meletius, Archbishop of Antioch",
+      "troparion": "Правилом віри і образом лагідности, учителем повздержности* явила тебе Твоєму стаду всіх речей істина.* Ради цього придбав ти смиренням високе, убогістю – багате,* отче, священноначальнику Мелетіє.* М",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-13",
+      "dayOfWeek": 5,
+      "tone": 2,
+      "fastCode": "00m",
+      "fast": "Fast-free week",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Мартиніана; Святих жінок Зої і Фотини (Світлани)",
+      "saints_en": "Ven. Martinianus. Sts. Women Zoe & Photina (Svetlana)",
+      "troparion": "Полум’я спокус потоком сліз погасив ти, блаженний,* і світські печалі і напади звірів приструнивши, взивав єси:* «Прославлений єси, Всесильний, від вогню і бурі спас Ти мене».",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-14",
+      "dayOfWeek": 6,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Субота сиропусна.; 🕂 Переставлення преподобного отця нашого Константина, філософа, у монахах Кирила, учителя слов'янського; Преподобного отця нашого Авксентія; Преподобного Марона, пустинника, чудотворця",
+      "saints_en": "Memorial Saturday. Repose of Ven. Constantine the Philosopher, in monasticism Cyril, Teacher of the Slavs. Ven. Auxentius. Ven. Maron the Hermit, Wonderworker",
+      "troparion": "Від пелен Ти старанно премудрість сестрою собі вчинив, богонатхненний,* побачивши пресвітлу, як діву чисту, яку Ти прийняв і привів,* і нею, наче намистом золотим, свою душу і ум прикрасив;* Ти показа",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-15",
+      "dayOfWeek": 7,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя сиропусна, прощення. Глас 3. Єв. 3.; Св. апостола Онисима",
+      "saints_en": "Meatfare Sunday, of the Last Judgment. St. Apostle Onesimus",
+      "troparion": "Апостоле святий Онисиме,* моли милостивого Бога,* щоб відпущення прогрішень подав душам нашим.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-16",
+      "dayOfWeek": 1,
+      "tone": 3,
+      "fastCode": "00s",
+      "fast": "Dairy permitted (Cheesefare)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Початок св. Великого посту. Строгий піст.; Свв. мучеників Памфила, єрея, Порфирія і тих, що з ними.",
+      "saints_en": "Cheesefare Week. Sts. Martyrs Pamphilus the Priest, Porphyrius, and those with them",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* Їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-17",
+      "dayOfWeek": 2,
+      "tone": 3,
+      "fastCode": "00s",
+      "fast": "Dairy permitted (Cheesefare)",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. великомученика Теодора Тирона.",
+      "saints_en": "St. Great Martyr Theodore Tyro",
+      "troparion": "Великі віри сповнення,* в джерелі вогню, як на водах упокоєння, святий мученик Теодор радувався.* Обпалившись бо вогнем, як хліб солодкий Тройці принісся.* Його молитвами, Христе Боже, спаси душі наші",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-18",
+      "dayOfWeek": 3,
+      "tone": 3,
+      "fastCode": "00s",
+      "fast": "Dairy permitted (Cheesefare)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. отця нашого Лева, папи Римського.",
+      "saints_en": "St. Leo, Pope of Rome",
+      "troparion": "Православ’я наставнику, благочестя і чистоти учителю,* вселенної світильнику, архиєреїв окрасо богонатхнена, Леве премудрий,* вченнями твоїми всіх просвітив єси, трубо духовна,* моли Христа Бога, щоб ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-19",
+      "dayOfWeek": 4,
+      "tone": 3,
+      "fastCode": "00s",
+      "fast": "Dairy permitted (Cheesefare)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. апостола Архипа.",
+      "saints_en": "St. Apostle Archippus",
+      "troparion": "Павлів ученику і апостоле Христа, Архипе,* Євангелія глашатаю і колосян учителю,* побиття камінням прийнявши як окрасу многоцінну,* якою вінець мучеництва прикрасивши,* увійшов ти у радість царства, у",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-20",
+      "dayOfWeek": 5,
+      "tone": 3,
+      "fastCode": "00s",
+      "fast": "Dairy permitted (Cheesefare)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Лева, єпископа Катанського.",
+      "saints_en": "Ven. Leo, Bishop of Catania",
+      "troparion": "Правилом віри і образом лагідности, учителем повздержности* явила Тебе Твоєму стаду всіх речей істина.* Ради цього придбав ти смиренням високе, убогістю – багате,* отче, священноначальнику Леве.* Моли",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-21",
+      "dayOfWeek": 6,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Влкмч. Теодора Тирона; Преподобного отця нашого Тимотея, що в Символах; Св. отця нашого Євстатія, архиєпископа Великої Антіохії",
+      "saints_en": "Cheesefare Saturday, of All Venerable Fathers Who Shone in Asceticism. Ven. Timothy of Symbola. St. Eustathius, Archbishop of Great Antioch",
+      "troparion": "Боже отців наших,* що чиниш завжди з нами по Твоїй кротості,* не віддали милости Твоєї від нас,* але молитвами їх у мирі направ життя наше.",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-22",
+      "dayOfWeek": 7,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 1-ша Великого посту, Православ'я. Глас 4. Єв. 4.; Віднайдення чесних мощів святих мучеників, що в Євгенії",
+      "saints_en": "Cheesefare Sunday, of Forgiveness. Finding of the Relics of Sts. Martyrs at Eugenius",
+      "troparion": "Мученики Твої, Господи,* у стражданнях своїх прийняли вінці нетлінні від Тебе, Бога нашого.* Мавши бо кріпость Твою, вони мучителів подолали,* сокрушили і демонів зухвальства безсильні.* їх молитвами ",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-23",
+      "dayOfWeek": 1,
+      "tone": 4,
+      "fastCode": "01p",
+      "fast": "Great Lent (Week 1)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 2-ий Великого посту.; Св. священномученика Полікарпа, єпископа Смирнського.",
+      "saints_en": "Beginning of the Holy Great Lent. Hieromartyr Polycarp, Bishop of Smyrna",
+      "troparion": "I обичаїв апостолів причасником*, і їх намісником стався ти,* знайшов ти шлях, богонатхненний,* як дійти до видіння.* Задля того слово істини справляючи,* і задля віри постраждав ти аж до крови, свяще",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-24",
+      "dayOfWeek": 2,
+      "tone": 4,
+      "fastCode": "01p",
+      "fast": "Great Lent (Week 1)",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "🕂 Перше і друге знайдення чесної голови св. славного пророка, предтечі і хрестителя Господнього Івана.",
+      "saints_en": "First and Second Finding of the Precious Head of the Holy, Glorious Prophet, Forerunner and Baptist of the Lord, John",
+      "troparion": "Із землі засяяла Предтечі глава, * проміння випускає нетління, оздоровлення вірним; * з висот збирає множество ангелів, * на низах скликує людський рід, * щоб одноголосну славу возсилати Христу Богові",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "dayOfWeek": 3,
+      "tone": 4,
+      "fastCode": "01p",
+      "fast": "Great Lent (Week 1)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. отця нашого Тарасія, архиєпископа Царгородського.",
+      "saints_en": "St. Tarasius, Archbishop of Constantinople",
+      "troparion": "Правилом віри і образом лагідности, учителем повздержности* явила Тебе твоєму стаду всіх речей істина.* Ради цього придбав ти смиренням високе, убогістю – багате,* отче, священноначальнику Тарасію.* М",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "dayOfWeek": 4,
+      "tone": 4,
+      "fastCode": "01p",
+      "fast": "Great Lent (Week 1)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. отця нашого Порфирія, єпископа Газького; Блаженної Едігни.",
+      "saints_en": "St. Porphyrius, Bishop of Gaza. Blessed Edigna",
+      "troparion": "Працю і страждання твої за благочестя* хто висловить, отче?* Вдень і вночі бо не переставав ти трудитися,* поки Газу від нечисті не очистив і благочестя насадив єси.* Тому, як завжди, ти є заступником",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "dayOfWeek": 5,
+      "tone": 4,
+      "fastCode": "01p",
+      "fast": "Great Lent (Week 1)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого й ісповідника Прокопія Декаполіта",
+      "saints_en": "Ven. Confessor Procopius of Decapolis",
+      "troparion": "Потоками сліз твоїх неродючу пустиню управив* і з глибини зітханнями в трудах приніс стократні плоди,* і був ти світильником вселенної, сіяючи чудесами, Прокопію, отче наш.* Моли Христа Бога, щоб спас",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "dayOfWeek": 6,
+      "tone": 4,
+      "fastCode": "01p",
+      "fast": "Great Lent (Week 1)",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Субота заупокійна.; Преподобного отця нашого й ісповідника Василія, співпосника Прокопового.",
+      "saints_en": "Commemoration of Great Martyr Theodore Tyro. Ven. Confessor Basil, companion of Procopius",
+      "troparion": "Пустинним жителем і в тілі ангелом,* і чудотворцем показав Ти себе, богоносний отче наш, Василію.* Постом, чуванням, молитвою небесні дарування прийнявши,* зціляєш недужих і душі, що з вірою прибігают",
+      "services": {
+        "vespers": true,
+        "matins": true,
+        "compline": true
+      }
+    }
+  ]
+}

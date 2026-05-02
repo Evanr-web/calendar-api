@@ -1,0 +1,537 @@
+{
+  "year": 2026,
+  "month": 8,
+  "monthName": {
+    "en": "August",
+    "uk": "Серпень"
+  },
+  "days": [
+    {
+      "date": "2026-08-01",
+      "dayOfWeek": 6,
+      "tone": 7,
+      "fastCode": "09d",
+      "fast": "Week 9 after Pentecost",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "Початок Успенського посту; 🕃 Похід із чесним Деревом чесного і животворного Хреста; Свв. сімох мучеників Макавеїв, і матері їх Соломії, і старця Єлеазара; Преподобного отця нашого Альфонса Лігуорі",
+      "saints_en": "Procession of the Precious Wood of the Precious and Life-Giving Cross. Sts. Seven Maccabee Martyrs, their Mother Solomone & Elder Eleazar. Ven. Alphonsus Liguori. Beginning of the Dormition Fast",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-02",
+      "dayOfWeek": 7,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Неділя 10-та по Зісланні Святого Духа. Глас 1. Єв. 10.; 🕃 Перенесення мощів св. первомученика й архидиякона Стефана.",
+      "saints_en": "9th Sunday after Pentecost. Translation of the Relics of the Holy Protomartyr and Archdeacon Stephen",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-03",
+      "dayOfWeek": 1,
+      "tone": 8,
+      "fastCode": "10d",
+      "fast": "Week 10 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 11-ий по Зісланні Святого Духа.; Преподобних отців наших Ісаакія, Далмата й Фавста.",
+      "saints_en": "Ven. Isaac, Dalmatus & Faustus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-04",
+      "dayOfWeek": 2,
+      "tone": 8,
+      "fastCode": "10d",
+      "fast": "Week 10 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. сімох отроків, що в Ефесі; Святої преподобномучениці Євдокії",
+      "saints_en": "Sts. Seven Youths of Ephesus. Ven. Protomartyr Eudocia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-05",
+      "dayOfWeek": 3,
+      "tone": 8,
+      "fastCode": "10d",
+      "fast": "Week 10 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Передсвяття Переображення Господа нашого Ісуса Христа; Св. мученика Євсигнія",
+      "saints_en": "Forefeast of the Transfiguration of our Lord Jesus Christ. St. Martyr Eusignius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-06",
+      "dayOfWeek": 4,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Святе Переображення Господа Бога і Спаса нашого Ісуса Христа",
+      "saints_en": "Holy Transfiguration of our Lord, God and Savior Jesus Christ",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-07",
+      "dayOfWeek": 5,
+      "tone": 8,
+      "fastCode": "10d",
+      "fast": "Week 10 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. преподобномученика Дометія",
+      "saints_en": "Ven. Protomartyr Dometius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-08",
+      "dayOfWeek": 6,
+      "tone": 8,
+      "fastCode": "10d",
+      "fast": "Week 10 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. Еміліяна, ісповідника, єпископа Кизицького.",
+      "saints_en": "St. Emilian the Confessor, Bishop of Cyzicus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-09",
+      "dayOfWeek": 7,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Неділя 11-та по Зісланні Святого Духа. Глас 2. Єв. 11.; 🕂 Св. апостола Матія",
+      "saints_en": "10th Sunday after Pentecost. St. Apostle Matthias",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-10",
+      "dayOfWeek": 1,
+      "tone": 1,
+      "fastCode": "11d",
+      "fast": "Week 11 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 12-ий по Зісланні Святого Духа.; Св. мученика й архидиякона Лаврентія",
+      "saints_en": "St. Martyr and Archdeacon Laurence",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-11",
+      "dayOfWeek": 2,
+      "tone": 1,
+      "fastCode": "11d",
+      "fast": "Week 11 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика й архидиякона Євпла",
+      "saints_en": "St. Martyr and Archdeacon Euplus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-12",
+      "dayOfWeek": 3,
+      "tone": 1,
+      "fastCode": "11d",
+      "fast": "Week 11 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Фотія й Аникити",
+      "saints_en": "Sts. Martyrs Photius & Anicetas",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-13",
+      "dayOfWeek": 4,
+      "tone": 1,
+      "fastCode": "11d",
+      "fast": "Week 11 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Віддання Преображення.; Преподобного отця нашого Максима Ісповідника",
+      "saints_en": "Ven. Maximus the Confessor. Leave-taking of the Transfiguration",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-14",
+      "dayOfWeek": 5,
+      "tone": 1,
+      "fastCode": "11d",
+      "fast": "Week 11 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "🕂 Перенесення чесних мощів преподобного Теодосія, ігумена Печерського; 🕃 Передсвяття Успіння Пресвятої Богородиці; Св. пророка Міхея.",
+      "saints_en": "Translation of the Relics of Ven. Theodosius, Hegumen of the Caves. Forefeast of the Dormition of the Most Holy Theotokos. St. Prophet Micah",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-15",
+      "dayOfWeek": 6,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Успіння Пресвятої Владичиці нашої Богородиці і Приснодіви Марії",
+      "saints_en": "Dormition of our Most Holy Lady, the Theotokos and Ever-Virgin Mary",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-16",
+      "dayOfWeek": 7,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "Неділя 12-та по Зісланні Святого Духа. Глас 3. Єв. 1.; 🕃 Перенесення з Едеси до Царгороду нерукотворного образа Господа Бога і Спаса нашого Ісуса Христа, названого святим обрусом; Св. мученика Діомида",
+      "saints_en": "11th Sunday after Pentecost. Translation from Edessa to Constantinople of the Not-Made-by-Hands Image of our Lord, God and Savior Jesus Christ",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-17",
+      "dayOfWeek": 1,
+      "tone": 2,
+      "fastCode": "12d",
+      "fast": "Week 12 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 13-ий по Зісланні Святого Духа.; Св. мученика Мирона.",
+      "saints_en": "St. Martyr Myron",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-18",
+      "dayOfWeek": 2,
+      "tone": 2,
+      "fastCode": "12d",
+      "fast": "Week 12 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "🕂 Спомин освячення Патріаршого собору Воскресіння Христового в Києві; Свв. мучеників Флора й Лавра; Службу свв. мчч. Флора і Лавра співаємо на Повечер'ї.",
+      "saints_en": "Commemoration of the Consecration of the Patriarchal Cathedral of the Resurrection of Christ in Kyiv. Sts. Martyrs Florus & Laurus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-19",
+      "dayOfWeek": 3,
+      "tone": 2,
+      "fastCode": "12d",
+      "fast": "Week 12 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Андрія Стратопедарха – сотника, і тих, що з ним.",
+      "saints_en": "St. Martyr Andrew Stratelates and those with him",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-20",
+      "dayOfWeek": 4,
+      "tone": 2,
+      "fastCode": "12d",
+      "fast": "Week 12 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. пророка Самуїла.",
+      "saints_en": "St. Prophet Samuel",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-21",
+      "dayOfWeek": 5,
+      "tone": 2,
+      "fastCode": "12d",
+      "fast": "Week 12 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. апостола Тадея; Святої мучениці Васси.",
+      "saints_en": "St. Apostle Thaddaeus. St. Martyr Bassa",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-22",
+      "dayOfWeek": 6,
+      "tone": 2,
+      "fastCode": "12d",
+      "fast": "Week 12 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Агатоніка і тих, що з ним; Блаженного священномученика Симеона Лукача.",
+      "saints_en": "St. Martyr Agathonicus and those with him. Blessed Hieromartyr Symeon Lukach",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-23",
+      "dayOfWeek": 7,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 13-та по Зісланні Святого Духа. Глас 4. Єв. 2.; Віддання Успіння Пресвятої Богородиці; Св. мученика Луппа; Св. священномученика Іринея, єпископа Ліонського",
+      "saints_en": "12th Sunday after Pentecost. St. Martyr Lupus. Hieromartyr Irenaeus, Bishop of Lyon. Leave-taking of the Dormition of the Most Holy Theotokos",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-24",
+      "dayOfWeek": 1,
+      "tone": 3,
+      "fastCode": "13d",
+      "fast": "Week 13 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 14-ий по Зісланні Святого Духа.; Св. священномученика Євтиха.",
+      "saints_en": "Hieromartyr Eutychius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-25",
+      "dayOfWeek": 2,
+      "tone": 3,
+      "fastCode": "13d",
+      "fast": "Week 13 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Повернення мощів св. апостола Вартоломея; Св. апостола Тита",
+      "saints_en": "Return of the Relics of St. Apostle Bartholomew. St. Apostle Titus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-26",
+      "dayOfWeek": 3,
+      "tone": 3,
+      "fastCode": "13d",
+      "fast": "Week 13 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Адріана й Наталії",
+      "saints_en": "Sts. Martyrs Adrian & Natalia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-27",
+      "dayOfWeek": 4,
+      "tone": 3,
+      "fastCode": "13d",
+      "fast": "Week 13 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Пімена; Блаженних преподобномучениць Лаврентії Герасимів і Олімпії Біди",
+      "saints_en": "Ven. Pimen. Blessed Venerable Martyrs Laurentia Herasymiv & Olympia Bida",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-28",
+      "dayOfWeek": 5,
+      "tone": 3,
+      "fastCode": "13d",
+      "fast": "Week 13 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Собор преподобних отців Печерських, що спочивають у дальніх печерах; Преподобного Мойсея Мурина; Св. отця нашого Августина, єпископа Іппонського; Св. мученика Гебре Михаїла, пресвітера ефіопського.",
+      "saints_en": "Synaxis of the Ven. Fathers of the Kyiv Caves Who Repose in the Far Caves. Ven. Moses the Ethiopian. St. Augustine, Bishop of Hippo. St. Martyr Gebre Michael, Ethiopian Presbyter",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-29",
+      "dayOfWeek": 6,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Усікновення чесної голови чесного і славного пророка, предтечі і хрестителя Івана",
+      "saints_en": "Beheading of the Precious Head of the Honorable and Glorious Prophet, Forerunner and Baptist John",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-30",
+      "dayOfWeek": 7,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 14-та по Зісланні Святого Духа. Глас 5. Єв. 3.; Свв. отців наших патріархів Царгородських: Олександра, Івана й Павла Нового.",
+      "saints_en": "13th Sunday after Pentecost. Sts. Patriarchs of Constantinople: Alexander, John & Paul the New",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-08-31",
+      "dayOfWeek": 1,
+      "tone": 4,
+      "fastCode": "14d",
+      "fast": "Week 14 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Тиждень 15-ий по Зісланні Святого Духа.; 🕂 Положення чесного пояса Пресвятої Владичиці нашої Богородиці",
+      "saints_en": "Placing of the Precious Cincture of our Most Holy Lady the Theotokos",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    }
+  ]
+}

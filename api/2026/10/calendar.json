@@ -1,0 +1,537 @@
+{
+  "year": 2026,
+  "month": 10,
+  "monthName": {
+    "en": "October",
+    "uk": "Жовтень"
+  },
+  "days": [
+    {
+      "date": "2026-10-01",
+      "dayOfWeek": 4,
+      "tone": 8,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "#",
+      "rank": "Great Feast",
+      "saints_uk": "🕀 Покров Пресвятої Богородиці; Св. апостола Ананії, одного із сімдесятьох; Преподобного отця нашого Романа Сладкопівця.",
+      "saints_en": "Protection of the Most Holy Theotokos. St. Apostle Ananias, One of the Seventy. Ven. Romanos the Melodist",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-02",
+      "dayOfWeek": 5,
+      "tone": 8,
+      "fastCode": "18d",
+      "fast": "Week 18 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. священномученика Кипріана; Святої мучениці Юстини; Св. Андрія, Христа ради юродивого.",
+      "saints_en": "Hieromartyr Cyprian. St. Martyr Justina. St. Andrew, Fool-for-Christ",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-03",
+      "dayOfWeek": 6,
+      "tone": 8,
+      "fastCode": "18d",
+      "fast": "Week 18 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. священномученика Діонісія Ареопагіта.",
+      "saints_en": "Hieromartyr Dionysius the Areopagite",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-04",
+      "dayOfWeek": 7,
+      "tone": 1,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 19-та по Зісланні Святого Духа. Глас 2. Єв. 8.; Св. священномученика Єротея, єпископа Атенського; Преподобного отця нашого Франциска Асизького",
+      "saints_en": "18th Sunday after Pentecost. Hieromartyr Hierotheus, Bishop of Athens. Ven. Francis of Assisi",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-05",
+      "dayOfWeek": 1,
+      "tone": 1,
+      "fastCode": "19d",
+      "fast": "Week 19 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 20-ий по Зісланні Святого Духа.; Святої мучениці Харитини",
+      "saints_en": "St. Martyr Charitina",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-06",
+      "dayOfWeek": 2,
+      "tone": 1,
+      "fastCode": "19d",
+      "fast": "Week 19 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "+ Св. і славного апостола Томи; Утр.: Єв. – Ів. 67 зач.; 21, 15-25.; Літ.:",
+      "saints_en": "St. Glorious Apostle Thomas",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-07",
+      "dayOfWeek": 3,
+      "tone": 1,
+      "fastCode": "19d",
+      "fast": "Week 19 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Свв. мучеників Сергія і Вакха.",
+      "saints_en": "Sts. Martyrs Sergius & Bacchus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-08",
+      "dayOfWeek": 4,
+      "tone": 1,
+      "fastCode": "19d",
+      "fast": "Week 19 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобної матері нашої Пелагії",
+      "saints_en": "Ven. Pelagia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-09",
+      "dayOfWeek": 5,
+      "tone": 1,
+      "fastCode": "19d",
+      "fast": "Week 19 after Pentecost",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "+ Св. апостола Якова Алфеєвого; Преподобного отця нашого Андроніка і дружини його Атанасії.",
+      "saints_en": "St. Apostle James of Alphaeus. Ven. Andronicus and his wife Athanasia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-10",
+      "dayOfWeek": 6,
+      "tone": 1,
+      "fastCode": "19d",
+      "fast": "Week 19 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Євлампія і Євлампії.",
+      "saints_en": "Sts. Martyrs Eulampius & Eulampia",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-11",
+      "dayOfWeek": 7,
+      "tone": 2,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 20-та по Зісланні Святого Духа. Свв. Отців Сьомого Вселенського Собору. Глас 3. Єв. 9.; Св. апостола Филипа, одного із семи дияконів; Преподобного Теофана Начертанного, єпископа Нікейського і творця канонів",
+      "saints_en": "19th Sunday, of the Holy Fathers of the Seventh Ecumenical Council. St. Apostle Philip, One of the Seven Deacons. Ven. Theophanes the Branded, Bishop of Nicaea and Hymnographer",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-12",
+      "dayOfWeek": 1,
+      "tone": 2,
+      "fastCode": "20d",
+      "fast": "Week 20 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Тиждень 21-ий по Зісланні Святого Духа.; Свв. мучеників Прова, Тараха й Андроніка; Преподобного отця нашого Косми Святоградця, єпископа Маюмського і творця канонів; Пам'ять св. отця нашого Мартина Милостивого, єпископа Турського.",
+      "saints_en": "Sts. Martyrs Probus, Tarachus & Andronicus. Ven. Cosmas of the Holy City, Bishop of Maiuma and Hymnographer. Commemoration of St. Martin the Merciful, Bishop of Tours",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-13",
+      "dayOfWeek": 2,
+      "tone": 2,
+      "fastCode": "20d",
+      "fast": "Week 20 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Карпа, Папили й Агатоніки.",
+      "saints_en": "Sts. Martyrs Carpus, Papylus & Agathonica",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-14",
+      "dayOfWeek": 3,
+      "tone": 2,
+      "fastCode": "20d",
+      "fast": "Week 20 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Свв. мучеників Назарія, Гервасія, Протасія й Келсія; 🕃 Преподобної матері нашої Параскеви Терновської; Блаженного священномученика Романа Лиска, пресвітера.",
+      "saints_en": "Sts. Martyrs Nazarius, Gervasius, Protasius & Celsus. Ven. Parasceva of Tarnovo. Blessed Hieromartyr Roman Lysko, Presbyter",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-15",
+      "dayOfWeek": 4,
+      "tone": 2,
+      "fastCode": "20d",
+      "fast": "Week 20 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Преподобного отця нашого Євтимія Нового; Св. преподобномученика Лук'яна, пресвітера Великої Антіохії.",
+      "saints_en": "Ven. Euthymius the New. Ven. Protomartyr Lucian, Presbyter of Great Antioch",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-16",
+      "dayOfWeek": 5,
+      "tone": 2,
+      "fastCode": "20d",
+      "fast": "Week 20 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Лонгина, сотника.",
+      "saints_en": "St. Martyr Longinus the Centurion",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-17",
+      "dayOfWeek": 6,
+      "tone": 2,
+      "fastCode": "20d",
+      "fast": "Week 20 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. пророка Осії; Св. преподобномученика Андрія Критського.",
+      "saints_en": "St. Prophet Hosea. Ven. Protomartyr Andrew of Crete",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-18",
+      "dayOfWeek": 7,
+      "tone": 3,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "+",
+      "rank": "Commemoration",
+      "saints_uk": "Неділя 21-ша по Зісланні Святого Духа. Глас 4. Єв. 10.; + Св. апостола і євангелиста Луки.",
+      "saints_en": "20th Sunday after Pentecost. St. Apostle and Evangelist Luke",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-19",
+      "dayOfWeek": 1,
+      "tone": 3,
+      "fastCode": "21d",
+      "fast": "Week 21 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "Тиждень 22-ий по Зісланні Святого Духа.; Св. пророка Йоїла.; Св. мученика Уара.; 🕃 Преподобного отця нашого Івана Рильського.",
+      "saints_en": "St. Prophet Joel. St. Martyr Varus. Ven. John of Rila",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-20",
+      "dayOfWeek": 2,
+      "tone": 3,
+      "fastCode": "21d",
+      "fast": "Week 21 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Св. великомученика Артемія.",
+      "saints_en": "St. Great Martyr Artemius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-21",
+      "dayOfWeek": 3,
+      "tone": 3,
+      "fastCode": "21d",
+      "fast": "Week 21 after Pentecost",
+      "rankCode": "&",
+      "rank": "Polyeleos",
+      "saints_uk": "🕃 Преподобного отця нашого Іларіона Великого.",
+      "saints_en": "Ven. Hilarion the Great",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-22",
+      "dayOfWeek": 4,
+      "tone": 3,
+      "fastCode": "21d",
+      "fast": "Week 21 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Святого отця нашого Івана Павла ІІ, папи; Св. рівноапостольного Аверкія, єпископа Єрапольського, чудотворця; Свв. сімох отроків, що в Ефесі.",
+      "saints_en": "St. John Paul II, Pope. St. Equal-to-the-Apostles Abercius, Bishop of Hierapolis, Wonderworker. Sts. Seven Youths of Ephesus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-23",
+      "dayOfWeek": 5,
+      "tone": 3,
+      "fastCode": "21d",
+      "fast": "Week 21 after Pentecost",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "🕃 Св. апостола Якова, брата Господнього.",
+      "saints_en": "St. Apostle James, Brother of the Lord",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-24",
+      "dayOfWeek": 6,
+      "tone": 3,
+      "fastCode": "21d",
+      "fast": "Week 21 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Арети і тих, що з ним",
+      "saints_en": "St. Martyr Arethas and those with him",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-25",
+      "dayOfWeek": 7,
+      "tone": 4,
+      "fastCode": "***",
+      "fast": "Feast day",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Неділя 22-га по Зісланні Святого Духа. Глас 5. Єв. 11.; Свв. мучеників і нотарів Маркіяна й Мартирія.",
+      "saints_en": "21st Sunday after Pentecost. Sts. Martyrs and Notaries Marcian & Martyrius",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-26",
+      "dayOfWeek": 1,
+      "tone": 4,
+      "fastCode": "22d",
+      "fast": "Week 22 after Pentecost",
+      "rankCode": "*",
+      "rank": "Special",
+      "saints_uk": "Тиждень 23-ій по Зісланні Святого Духа.; 🕁 Св. і славного великомученика Димитрія Мироточця",
+      "saints_en": "St. Glorious Great Martyr Demetrius the Myrrh-Streamer",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-27",
+      "dayOfWeek": 2,
+      "tone": 4,
+      "fastCode": "22d",
+      "fast": "Week 22 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Св. мученика Нестора; Свв. мучениць Капетоліни і рабині її Єротиїди.",
+      "saints_en": "St. Martyr Nestor. Sts. Martyrs Capitolina and her servant Erotheis",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-28",
+      "dayOfWeek": 3,
+      "tone": 4,
+      "fastCode": "22d",
+      "fast": "Week 22 after Pentecost",
+      "rankCode": "@",
+      "rank": "Feast",
+      "saints_uk": "🕃 Святої мучениці Параскеви, що в Іконії, названої «П'ятниця»; Свв. мучеників Терентія й Неоніли; Преподобного отця нашого Стефана Саваїта, творця канонів.",
+      "saints_en": "St. Martyr Parasceva of Iconium, called \"Friday\". Sts. Martyrs Terentius & Neonilla. Ven. Stephen the Sabbaite, Hymnographer",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-29",
+      "dayOfWeek": 4,
+      "tone": 4,
+      "fastCode": "22d",
+      "fast": "Week 22 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Переставлення преподобного отця нашого Аврамія, архимандрита, Ростовського чудотворця; Святої преподобномучениці Анастасії Римлянки; Преподобного отця нашого Аврамія Затворника",
+      "saints_en": "Ven. Abramius, Archimandrite, Wonderworker of Rostov. Ven. Protomartyr Anastasia of Rome. Ven. Abramius the Recluse",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-30",
+      "dayOfWeek": 5,
+      "tone": 4,
+      "fastCode": "22d",
+      "fast": "Week 22 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. мучеників Зиновія й Зиновії, сестри його; Блаженного священномученика Олексія Зарицького, пресвітера.",
+      "saints_en": "Sts. Martyrs Zenobius & Zenobia his sister. Blessed Hieromartyr Oleksiy Zarytsky, Presbyter",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    },
+    {
+      "date": "2026-10-31",
+      "dayOfWeek": 6,
+      "tone": 4,
+      "fastCode": "22d",
+      "fast": "Week 22 after Pentecost",
+      "rankCode": "-",
+      "rank": "Ordinary",
+      "saints_uk": "Свв. апостолів Стахія, Амплія і тих, що з ними; Св. мученика Єпімаха.",
+      "saints_en": "Sts. Apostles Stachys, Amplias, and those with them. St. Martyr Epimachus",
+      "troparion": "",
+      "services": {
+        "vespers": false,
+        "matins": false,
+        "compline": false
+      }
+    }
+  ]
+}
