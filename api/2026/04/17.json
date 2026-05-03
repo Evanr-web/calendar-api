@@ -42,8 +42,8 @@
   },
   "kontakion_en": {
     "tone": 8,
-    "text": "O most favored by God, you confer on me the healing of your grace from your inexhaustible Fountain.  / Therefore, since you gave birth incomprehensibly to the Word, /  I implore you to refresh me with the dew of your grace that I might cry to you: Hail, O Water of salvation.",
-    "source": "OCA"
+    "text": "With his searching hand, Thomas explored Your life-giving side, O Christ God. For when You entered while the doors were shut, he called out to You with the rest of the Apostles: You are my Lord and my God!",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Bright Friday: The Life Giving Fountain of the Mother of God",
   "oca_saints": [
@@ -131,18 +131,17 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 13,
-      "reference": "5, 1-11",
-      "display": "Acts 5, 1-11"
+      "display": "Acts 5:1-11",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 17,
-      "reference": "5, 30-6, 2",
-      "display": "John 5, 30-6, 2"
+      "display": "John 5:30-6:2",
+      "source": "iPraises"
     }
+  },
+  "troparion_en": {
+    "tone": 7,
+    "text": "While the tomb was sealed, O Christ God, You dawned as life from the sepulcher, and while the doors were shut, You came to Your disciples, the Resurrection of all, renewing a right spirit in us through them, according to Your great mercy.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   }
 }

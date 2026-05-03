@@ -33,13 +33,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "O Dorotheus, wise hierarch of Christ, / you received the light of wisdom as a gift from the Father of lights. / You increased the talents given to you / and in your old age contested beyond the bounds of nature. / And now, O Hieromartyr, you even intercede for our souls!",
-    "source": "OCA"
+    "text": "Having shared the way of life of the apostles,* and having become a successor to their thrones,* labouring you found the divinely inspired way to contemplation.* Therefore, forthrightly ministering the word of truth,* you shed your blood for the faith, O hieromartyr, Dorotheus.* Intercede with Christ our God for the salvation of our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 5,
-    "text": "You were resplendent, O blessed Dorotheus, / with virtues brighter than the sun and with your sufferings! / You shine forth and enlighten the land, / dispelling the darkness of idolatry and base heresy. / Therefore, we celebrate your memory with splendor!",
-    "source": "OCA"
+    "tone": 4,
+    "text": "Having piously lived among the hierarchs,* and having trod the path of suffering,* you extinguished the sacrifices to idols* and were a defender for your flock, O godly one.* Therefore, venerating you, we sincerely cry to you:* “Rescue us from dangers by your prayers, O our father, Dorotheus.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Hieromartyr Dorotheus, Bishop of Tyre",
   "oca_saints": [
@@ -127,18 +127,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 90,
-      "reference": "5, 17-6, 2",
-      "display": "Romans 5, 17-6, 2"
+      "display": "Romans 5:17-6:2",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 31,
-      "reference": "9, 14-17",
-      "display": "Matthew 9, 14-17"
+      "display": "Matthew 9:14-17",
+      "source": "iPraises"
     }
   }
 }

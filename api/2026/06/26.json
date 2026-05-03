@@ -34,13 +34,13 @@
   },
   "troparion_en": {
     "tone": 8,
-    "text": "The image of God was truly preserved in you, O Father, / for you took up the Cross and followed Christ. / By so doing you taught us to disregard the flesh for it passes away / but to care instead for the soul, since it is immortal. / Therefore your spirit, venerable David, rejoices with the angels.",
-    "source": "OCA"
+    "text": "The divine image was faithfully preserved in you, O father,* for taking up the Cross you followed Christ.* By your deeds you have taught us to see beyond flesh, which passes,* and care for the soul, a thing immortal.* and so, O Venerable David,* your spirit rejoices with the angels.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 2,
-    "text": "We bless you, servant of God David; / you are like the angels and estranged from earthly things. / Now you rejoice in divine gifts. / Grant us to share in them also, O holy and righteous Father!",
-    "source": "OCA"
+    "text": "Divinely armed with purity of spirit* and mightily wielding the lance of unceasing prayers,* you overcame the powers of demons,* Venerable David, pray without ceasing for all of us.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Saint David of Thessaloniki",
   "oca_saints": [
@@ -115,18 +115,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 120,
-      "reference": "16, 1-16",
-      "display": "Romans 16, 1-16"
+      "display": "Romans 16:1-16",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 50,
-      "reference": "13, 4-9",
-      "display": "Matthew 13, 4-9"
+      "display": "Matthew 13:3-9",
+      "source": "iPraises"
     }
   }
 }

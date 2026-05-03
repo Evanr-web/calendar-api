@@ -42,13 +42,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Enlisted by the King of the Ages, / you spurned the earthly king and his army to boldly preach Christ our God. / Therefore, you have completed your contest and shine forth as His glorious martyr. / Entreat Him to save our souls, for we honor you, blest Isidore.",
-    "source": "OCA"
+    "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 4,
-    "text": "You have been revealed as a great guide to the world through your prayers, O holy one. / Therefore, we praise you today, / divinely-wise martyr, glorious Isidore.",
-    "source": "OCA"
+    "tone": 6,
+    "text": "When you had fulfilled Your plan for us* and united things on earth with those in heaven,* You ascended in glory, O Christ our God,* in no way distant, but remaining inseparable,* You cried to those who love You:* I am with You and there is none against you.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyrs Isidore and Myrope of Chios",
   "oca_saints": [
@@ -156,18 +156,29 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 1,
-      "reference": "1, 1-12",
-      "display": "Acts 1, 1-12"
+      "display": "Acts 1:1-12",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Лк.",
-      "book_en": "Luke",
-      "pericope": 114,
-      "reference": "24, 36-53",
-      "display": "Luke 24, 36-53"
+      "display": "Luke 24:36-53",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 4,
+      "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+      "source": "iPraises"
+    },
+    {
+      "tone": 4,
+      "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+      "source": "iPraises"
+    },
+    {
+      "tone": 4,
+      "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+      "source": "iPraises"
+    }
+  ]
 }

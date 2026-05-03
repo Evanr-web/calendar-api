@@ -131,5 +131,11 @@
         "text": "(Podoben: “You sought the heights...”)\r\nHaving divinely armed yourself with purity of soul /  and firmly grasping unceasing prayer as a spear, you slew the hordes of demons.  /  Therefore, we beseech you, O Father Barsanouphios: /  “Always intercede for those who honor you.”"
       }
     }
-  ]
+  ],
+  "readings": {
+    "gospel": {
+      "display": "Matthew 26:6-16",
+      "source": "iPraises"
+    }
+  }
 }

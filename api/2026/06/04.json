@@ -184,18 +184,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "1 Кор.",
-      "book_en": "1 Corinthians",
-      "pericope": 149,
-      "reference": "11, 23-32",
-      "display": "1 Corinthians 11, 23-32"
+      "display": "1 Corinthians 11:23-32",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Йо.",
-      "book_en": "Йо",
-      "pericope": 23,
-      "reference": "6, 48-54",
-      "display": "Йо 6, 48-54"
+      "display": "John 6:48-54",
+      "source": "iPraises"
     }
   }
 }

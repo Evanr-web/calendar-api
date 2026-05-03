@@ -35,8 +35,8 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "In truth you were revealed to your flock as a rule of faith, / an image of humility and a teacher of abstinence; / your humility exalted you; / your poverty enriched you. / Hierarch Father Triphyllius, / entreat Christ our God / that our souls may be saved.",
-    "source": "OCA"
+    "text": "Your lamb, Aquilina, O Jesus, cries in a loud voice:* “You, O my Bridegroom, I love; and, seeking You, I undergo martyrdom.* And with You I am crucified and buried in Your baptism,* and I suffer for Your sake that I may reign with You.* And I die on Your behalf that I may live in You.* Receive me as a spotless sacrifice,* sacrificed for You with love.”* Through her intercession in Your mercy save our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Saint Triphyllius, Bishop of Leucosia (Nicosia), Cyprus",
   "oca_saints": [
@@ -140,18 +140,17 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Флп.",
-      "book_en": "Philippians",
-      "pericope": null,
-      "reference": "240; 2, 5-11; Єв",
-      "display": "Philippians 240; 2, 5-11; Єв"
+      "display": "Romans 3:28-4:3",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": null,
-      "reference": "61; 19, 25-27",
-      "display": "John 61; 19, 25-27"
+      "display": "Matthew 7:24-8:4",
+      "source": "iPraises"
     }
+  },
+  "kontakion_en": {
+    "tone": 2,
+    "text": "We, all the faithful, have found your shrine to be a place of spiritual healing,* and we cry aloud to you: “O glorious virgin martyr, Aquilina,* pray unceasingly to Christ our God for all of us!”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   }
 }

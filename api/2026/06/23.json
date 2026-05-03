@@ -32,13 +32,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Your lamb Agrippina calls out to You, O Jesus, in a loud voice: / \"I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, / and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.\" / Through her prayers save our souls, since You are merciful.",
-    "source": "OCA"
+    "text": "Your lamb, Agrippina, O Jesus, cries in a loud voice:* “You, O my Bridegroom, I love; and, seeking You, I undergo martyrdom.* And with You I am crucified and buried in Your baptism,* and I suffer for Your sake that I may reign with You.* And I die on Your behalf that I may live in You.* Receive me as a spotless sacrifice,* sacrificed for You with love.”* Through her intercession in Your mercy save our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 4,
-    "text": "(Podoben: “Today You have shown forth...”)\r\nThe day has come on which the Church commemorates your radiant contest and martyrdom. / She calls upon all to cry to you with gladness: / “Rejoice, all-honored virgin-martyr Agrippina.”",
-    "source": "OCA"
+    "tone": 2,
+    "text": "We, all the faithful, have found your shrine to be a place of spiritual healing,* and we cry aloud to you: “O glorious virgin martyr, Agrippina,* pray unceasingly to Christ our God for all of us!”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyr Agrippina of Rome",
   "oca_saints": [
@@ -132,18 +132,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 114,
-      "reference": "14, 9-18",
-      "display": "Romans 14, 9-18"
+      "display": "Romans 14:9-18",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 46,
-      "reference": "12, 14-16",
-      "display": "Matthew 12, 14-16"
+      "display": "Matthew 12:14-16, 22-30",
+      "source": "iPraises"
     }
   }
 }

@@ -124,18 +124,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 44,
-      "reference": "20, 16-18",
-      "display": "Acts 20, 16-18"
+      "display": "Acts 20:16-18, 28-36",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 56,
-      "reference": "17, 1-13",
-      "display": "John 17, 1-13"
+      "display": "John 17:1-13",
+      "source": "iPraises"
     }
   }
 }

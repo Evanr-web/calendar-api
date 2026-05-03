@@ -43,13 +43,13 @@
   },
   "troparion_en": {
     "tone": 8,
-    "text": "By Divine command, the Holy Nine Martyrs from various cities were united in a single alliance, and courageously suffered martyrdom for Christ;  / by your patience, the invisible enemy1  was defeated,  / the wicked princes and tormentors were put to shame,  / the spiritual fire of love for God was kindled, and the material fire which tormented you was cooled.  / Therefore, grace has been given unto you by Christ God to heal the plague,  / and we pray that you will save us from it, and from other afflictions, by your protection.",
-    "source": "OCA"
+    "text": "At the mid-point of the Feast, O Saviour,* water my thirsty soul with streams of true godliness;* for You cried out to all: Let any who thirst, come to Me and drink.* O Source of Life, Christ our God, glory to You!",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 2,
-    "text": "The steadfast and most radiant Nine Martyrs,  / confessing the three-sunned2 God at His judgment seat they cried out: /  “We offer to You our blood, our souls, and our bodies, as an unblemished sacrifice, O Master.”",
-    "source": "OCA"
+    "tone": 4,
+    "text": "At the mid-point of the Feast according to the Law,* Maker of all things and Master,* You said to those present, O Christ God:* Come, and draw the water of immortality.* And so we fall before You crying out with faith: Grant us Your mercies , for You are the source of our life.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Nine Martyrs at Cyzicus: Theognes, Rufus, Antipater, Theostichus, Artemas, Magnus, Theodotus, Thaumasius, and Philemon",
   "oca_saints": [
@@ -121,18 +121,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 34,
-      "reference": "14, 6-18",
-      "display": "Acts 14, 6-18"
+      "display": "Acts 14:6-18",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 26,
-      "reference": "7, 14-30",
-      "display": "John 7, 14-30"
+      "display": "John 7:14-30",
+      "source": "iPraises"
     }
   }
 }

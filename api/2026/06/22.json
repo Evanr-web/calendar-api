@@ -33,13 +33,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "By sharing in the ways of the Apostles,  /  you became a successor to their throne.  /  Through the practice of virtue, you found the way to divine contemplation, O divinely-inspired one:   /  by rightly dividing the Word of truth, you defended the Faith, even to the shedding of your blood.  /  O Hieromartyr Eusebios, entreat Christ God to save our souls.",
-    "source": "OCA"
+    "text": "Having shared the way of life of the apostles,* and having become a successor to their thrones,* labouring you found the divinely inspired way to contemplation.* Therefore, forthrightly ministering the word of truth,* you shed your blood for the faith, O hieromartyr, Eusebius.* Intercede with Christ our God for the salvation of our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 4,
-    "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  / O divinely-wise one, /  you abolished the sacrifices of idolatry and showed yourself as the protector of your flock.  / Therefore, we cry fervently to you: /  “By your intercessions, deliver us from all misfortunes, O Eusebios our Father.”",
-    "source": "OCA"
+    "text": "Having piously lived among the hierarchs,* and having trod the path of suffering,* you extinguished the sacrifices to idols* and were a defender for your flock, O godly one.* Therefore, venerating you, we sincerely cry to you:* “Rescue us from dangers by your prayers, O our father, Eusebius.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Hieromartyr Eusebius, Bishop of Samosata",
   "oca_saints": [
@@ -114,18 +114,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 109,
-      "reference": "12, 4-5",
-      "display": "Romans 12, 4-5"
+      "display": "Romans 12:4-5, 15-21",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 45,
-      "reference": "12, 9-13",
-      "display": "Matthew 12, 9-13"
+      "display": "Matthew 12:9-13",
+      "source": "iPraises"
     }
   }
 }

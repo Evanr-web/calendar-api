@@ -32,13 +32,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Your holy martyr Leontius and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
-    "source": "OCA"
+    "text": "Your martyr, Leontius, O Lord,* by his passion acquired the crown of incorruptibility from You, our God.* For possessing Your power he overcame the torturers* and shattered the feeble insolence of demons.* By his supplications, save our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 3,
-    "text": "You confounded the wicked plans of tyrants / and exposed the godless worship of the pagan Greeks. / You illumined all mankind with the knowledge of God by your teachings of true piety, divinely-wise martyr. / Therefore, Leontius, we lovingly honor your memory.",
-    "source": "OCA"
+    "tone": 2,
+    "text": "As a bright and unerring star you appeared to the world* proclaiming with your rays the Sun, that is, Christ, O martyr, Leontius,* and you have extinguished all error.* But to us you give light, praying without ceasing for all of us.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyrs Leontius, Hypatius, and Theodulus at Tripoli in Syria",
   "oca_saints": [
@@ -80,18 +80,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 106,
-      "reference": "11, 13-24",
-      "display": "Romans 11, 13-24"
+      "display": "Romans 11:13-24",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 43,
-      "reference": "11, 27-30",
-      "display": "Matthew 11, 27-30"
+      "display": "Matthew 11:27-30",
+      "source": "iPraises"
     }
   }
 }

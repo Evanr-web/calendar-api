@@ -31,14 +31,14 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 3,
-    "text": "God called you to the sacred priesthood / as a worthy servant of the Holy Trinity. / You shone forth with the grace of godliness / strengthening the Church by many miracles. / Righteous Tikhon, entreat Christ our God to grant us His great mercy.",
-    "source": "OCA"
+    "tone": 4,
+    "text": "You first crucified yourself to the world by becoming poor among the living.* Then like a true shepherd, you put your life at the disposal of your flock.* Enriching your sheep with miracles, you became a bright light for the Church of Amathis.* By shedding light on it, you saved it from the fog of deceit, O father Tychon.* By our prayers enlighten us today as we praise you.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 3,
-    "text": "(Podoben: “Today the Virgin...”)Through your ascetic labors, you shone forth, O beloved of God, / and received from on high the power of the Comforter / to destroy the idols of delusion, / and to save people, / to cast out demons and to heal the sick. / Therefore, venerable Tikhon, / we honor you as a friend of God.",
-    "source": "OCA"
+    "text": "You persevered in fasting through your love for God,* and heaven sent you the power to expose the lies of idols,* to save the people and cast out devils,* to heal illness by the power of the Comforter.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Saint Tikhon, Bishop of Amathus in Cyprus",
   "oca_saints": [
@@ -99,11 +99,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 104,
-      "reference": "10, 11-11, 2",
-      "display": "Romans 10, 11-11, 2"
+      "display": "Romans 10:11-11:2",
+      "source": "iPraises"
+    },
+    "gospel": {
+      "display": "Matthew 11:16-20",
+      "source": "iPraises"
     }
   }
 }

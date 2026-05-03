@@ -32,13 +32,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Your lamb Febronia, calls out to You, O Jesus, in a loud voice: / “I love You, my Bridegroom, and in seeking You I endure suffering. / In baptism I was crucified so that I might reign in You, and I died so that I might live with You. / Accept me as a pure sacrifice, / for I have offered myself in love.” / Through her prayers save our souls, since You are merciful.",
-    "source": "OCA"
+    "text": "O Prophet and forerunner of the coming of Christ,* we, who lovingly honour you are at a loss to praise you worthily;* for your mother’s barrenness and your father’s silence* were both ended by your honoured and glorious birth,* and the incarnation of the Son of God* is preached to the whole world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 6,
-    "text": "“Most sweet Jesus, my Bridegroom, / it is not hard for me to follow You;” cried Febronia, / “the sweetness of Your love gives wings of hope to my soul, / the beauty of Your mercy has sweetened my heart; / may I drain the cup of sufferings in imitation of You, / so that You may count me worthy to be among the wise virgins: / those who dance with You in Your bridal chamber.” / Therefore, venerable passion-bearer, as we honor the struggles of your labors we entreat you: / “Pray that we not find the doors of the bridal chamber locked to us.”",
-    "source": "OCA"
+    "tone": 2,
+    "text": "We, all the faithful, have found your shrine to be a place of spiritual healing,* and we cry aloud to you: “O glorious virgin martyr, Febronia,* pray unceasingly to Christ our God for all of us!”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Virgin Martyr Febronia of Nisibis",
   "oca_saints": [
@@ -138,18 +138,26 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 118,
-      "reference": "15, 17-29",
-      "display": "Romans 15, 17-29"
+      "display": "Romans 15:17-29",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 49,
-      "reference": "12, 46-13, 3",
-      "display": "Matthew 12, 46-13, 3"
+      "display": "Matthew 12:46-13:3",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 4,
+      "text": "Your lamb, Febronia, O Jesus, cries in a loud voice:* “You, O my Bridegroom, I love; and, seeking You, I undergo martyrdom.* And with You I am crucified and buried in Your baptism,* and I suffer for Your sake that I may reign with You.* And I die on Your behalf that I may live in You.* Receive me as a spotless sacrifice,* sacrificed for You with love.”* Through her intercession in Your mercy save our souls.",
+      "source": "iPraises"
+    }
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 3,
+      "text": "She who once was barren gives birth today to the Forerunner of Christ,* who will fulfil every prophecy.* In the Jordan he placed his hand upon the One Whom the prophets foretold* and thus was shown to be the prophet, the herald,* and the Forerunner of the Word of God.",
+      "source": "iPraises"
+    }
+  ]
 }

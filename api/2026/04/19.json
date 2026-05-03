@@ -147,18 +147,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 16,
-      "reference": "6, 1-7",
-      "display": "Acts 6, 1-7"
+      "display": "Acts 6:1-7",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мр.",
-      "book_en": "Mark",
-      "pericope": 69,
-      "reference": "15, 43-16, 8",
-      "display": "Mark 15, 43-16, 8"
+      "display": "Mark 15:43-16:8",
+      "source": "iPraises"
     }
   }
 }

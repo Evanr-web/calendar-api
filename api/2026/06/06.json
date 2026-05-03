@@ -122,18 +122,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 84,
-      "reference": "3, 19-26",
-      "display": "Romans 3, 19-26"
+      "display": "Romans 3:19-26",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 20,
-      "reference": "7, 1-8",
-      "display": "Matthew 7, 1-8"
+      "display": "Matthew 7:1-8",
+      "source": "iPraises"
     }
   }
 }

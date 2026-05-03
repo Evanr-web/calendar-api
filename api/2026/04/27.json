@@ -71,5 +71,15 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "readings": {
+    "epistle": {
+      "display": "Acts 10:1-16",
+      "source": "iPraises"
+    },
+    "gospel": {
+      "display": "John 6:56-69",
+      "source": "iPraises"
+    }
+  }
 }

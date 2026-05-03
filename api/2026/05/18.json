@@ -43,13 +43,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Your holy martyr Theodotus and his companions, O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
-    "source": "OCA"
+    "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 2,
-    "text": "(Podoben: “Seeking the highest...”)\r\nYou struggled well,  O Theodotus, / together with your fellow athletes and the passion-bearing virgins. / You have all received crowns of honor. / Therefore, unceasingly pray to Christ God for us all.",
-    "source": "OCA"
+    "tone": 6,
+    "text": "When you had fulfilled Your plan for us* and united things on earth with those in heaven,* You ascended in glory, O Christ our God,* in no way distant, but remaining inseparable,* You cried to those who love You:* I am with You and there is none against you.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyr Theodotus of Ancyra, and with him the seven Virgin Martyrs: Alexandra, Tecusa, Claudia, Phaine, Euphraisa, Matrona, and Julia, who suffered under Decius",
   "oca_saints": [
@@ -102,18 +102,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 45,
-      "reference": "21, 8-14",
-      "display": "Acts 21, 8-14"
+      "display": "Acts 21:8-14",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 49,
-      "reference": "14, 27-15 7",
-      "display": "John 14, 27-15 7"
+      "display": "John 14:27-15:7",
+      "source": "iPraises"
     }
   }
 }

@@ -46,9 +46,9 @@
     "source": "OCA"
   },
   "kontakion_en": {
-    "tone": 2,
-    "text": "You know that this is the last hour, O wretched soul, / and fear the cutting of the fig tree. / Work diligently therefore at the talent given to you / keep watch and pray: / Let us not remain outside the bridal chamber of Christ.",
-    "source": "OCA"
+    "tone": 8,
+    "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant resurrection to the fallen.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Great and Holy Tuesday",
   "oca_saints": [
@@ -126,18 +126,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 4,
-      "reference": "2, 14-21",
-      "display": "Acts 2, 14-21"
+      "display": "Acts 2:14-21",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Лк.",
-      "book_en": "Luke",
-      "pericope": 113,
-      "reference": "24, 12-35",
-      "display": "Luke 24, 12-35"
+      "display": "Luke 24:12-35",
+      "source": "iPraises"
     }
   }
 }

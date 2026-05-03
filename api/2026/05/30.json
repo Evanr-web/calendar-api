@@ -42,13 +42,13 @@
   },
   "troparion_en": {
     "tone": 8,
-    "text": "Only Creator, with wisdom profound, You mercifully order all things, / and give that which is needed to all men: / Give rest, O Lord, to the souls of Your servants who have fallen asleep, / for they have placed their trust in You, our Maker and Fashioner, and our God.",
-    "source": "OCA"
+    "text": "Blessed are You, O Christ our God who revealed the fishermen as most wise* by sending them the Holy Spirit;* through them You caught the entire world.* Loving Master, glory to You.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 8,
-    "text": "With the saints give rest, O Christ, to the souls of Your servants, / where there is neither sickness nor sorrow, and no more sighing, / but life everlasting.",
-    "source": "OCA"
+    "text": "When the Most high descended and confused the tongues,* He parted the nations.* He called all to unity;* and with one voice* we glorify the all-Holy Spirit.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Memorial Saturday",
   "oca_saints": [
@@ -77,18 +77,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 79,
-      "reference": "1, 7-12",
-      "display": "Romans 1, 7-12"
+      "display": "Romans 1:7-12",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 15,
-      "reference": "5, 42-48",
-      "display": "Matthew 5, 42-48"
+      "display": "Matthew 5:42-48",
+      "source": "iPraises"
     }
   }
 }

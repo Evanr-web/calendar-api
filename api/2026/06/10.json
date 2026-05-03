@@ -31,14 +31,14 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 1,
-    "text": "By sharing in the ways of the Apostles, /  you became a successor to their throne.  /  Through the practice of virtue,  /  you found the way to divine contemplation, O divinely inspired one; /  by rightly dividing the word of truth without error, /  you defended the Faith, even to the shedding of your blood.  / O Hieromartyr Timothy entreat Christ God to save our souls.",
-    "source": "OCA"
+    "tone": 4,
+    "text": "Having shared the way of life of the apostles,* and having become a successor to their thrones,* labouring you found the divinely inspired way to contemplation.* Therefore, forthrightly ministering the word of truth,* you shed your blood for the faith, O hieromartyr, Timothy.* Intercede with Christ our God for the salvation of our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 4,
-    "text": "(Podoben: “You were lifted up...”)\r\nAs one who lived piously among Hierarchs and who underwent martyrdom,  /  O divinely-wise one,  /  you abolished the sacrifices of idolatry and showed yourself to be a protector of your flock.  /  Therefore, we cry fervently to you: /  “By your intercessions, deliver us from all misfortunes, O Timothy our Father.”",
-    "source": "OCA"
+    "text": "Having piously lived among the hierarchs,* and having trod the path of suffering,* you extinguished the sacrifices to idols* and were a defender for your flock, O godly one.* Therefore, venerating you, we sincerely cry to you:* “Rescue us from dangers by your prayers, O our father, Timothy.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Hieromartyr Timothy, Bishop of Prusa",
   "oca_saints": [
@@ -132,18 +132,31 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 96,
-      "reference": "8, 2-13",
-      "display": "Romans 8, 2-13"
+      "display": "Romans 8:2-13",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 36,
-      "reference": "10, 16-22",
-      "display": "Matthew 10, 16-22"
+      "display": "Matthew 10:16-22",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 1,
+      "text": "Receiving a fiery tongue in the power of the Spirit, to all you preached the Word that has come in the flesh.* For its sake, O Bartholomew, you were beheaded* and Barnabas endured stoning.* Together you form an adornment* for the choir of apostles.* And so we feast your memorial* and ask you to pray Christ God* to grant us forgiveness of sins.",
+      "source": "iPraises"
+    }
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 4,
+      "text": "You have appeared to the world like a brilliant sun,* O apostle Bartholomew.* With the rays of your teaching and awesome miracles* you lead to the Light all who honour you.",
+      "source": "iPraises"
+    },
+    {
+      "tone": 3,
+      "text": "You became the Lord’s true servant, O Barnabas,* shown to be the foremost of the Seventy.* With Paul you set your teaching in a clear light* making known to all the Saviour who is Christ.* Therefore, we feast your memory with hymns, O apostle.",
+      "source": "iPraises"
+    }
+  ]
 }

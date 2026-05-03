@@ -31,14 +31,14 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 1,
-    "text": "With all reverence let us praise a light of the world, / the great orator and champion of the Mother of God. / For by his fiery teachings / he burned up the heresy of Nestorius; / therefore, let us cry out to him: / “Divine Cyril, intercede with Christ to strengthen the Orthodox Faith.”",
-    "source": "OCA"
+    "tone": 4,
+    "text": "The truth of your deeds made you for your flock a rule of faith* and an image of meekness,* a teacher of continence.* And so you gained the heights through humility,* riches through poverty,* father and bishop, Cyril.* Intercede with Christ, our God,* for the salvation of our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 6,
-    "text": "You have openly poured out upon us the depth of the teachings of theology, / drawing from the well-springs of the Savior; / you drowned heresies / and saved your flock unharmed from triple waves. / Blessed and venerable Cyril, / you are shown to be a guide for all lands, revealing things divine",
-    "source": "OCA"
+    "tone": 2,
+    "text": "O thunder of justice, spiritual trumpet,* planter of faith and destroyer of heresies,* servant of the Trinity, great hierarch Cyril,* forever standing in the company of the angels,* pray without ceasing for all of us.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Saint Cyril, Archbishop of Alexandria",
   "oca_saints": [
@@ -110,18 +110,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 95,
-      "reference": "7, 14-8, 2",
-      "display": "Romans 7, 14-8, 2"
+      "display": "Romans 7:14-8:2",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 35,
-      "reference": "10, 9-15",
-      "display": "Matthew 10, 9-15"
+      "display": "Matthew 10:9-15",
+      "source": "iPraises"
     }
   }
 }

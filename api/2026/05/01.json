@@ -182,18 +182,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 27,
-      "reference": "10, 44-11,10",
-      "display": "Acts 10, 44-11,10"
+      "display": "Acts 10:44-11:10",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 30,
-      "reference": "8, 21-30",
-      "display": "John 8, 21-30"
+      "display": "John 8:21-30",
+      "source": "iPraises"
     }
   }
 }

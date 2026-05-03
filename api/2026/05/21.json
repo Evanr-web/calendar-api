@@ -41,13 +41,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "O Christ God, You have ascended in Glory, / granting joy to Your disciples by the promise of the Holy Spirit. / Through the blessing they were assured / that You are the Son of God, / the Redeemer of the world!",
-    "source": "OCA"
+    "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 6,
-    "text": "When You had fulfilled the dispensation for our sake, / and united earth to heaven: / You ascended in glory, O Christ our God, / not being parted from those who love You, / but remaining with them and crying: / “I am with you and no one will be against you!”",
-    "source": "OCA"
+    "tone": 3,
+    "text": "Today Constantine and Helen his mother reveal the cross,* the all-precious wood which shames those who refuse to believe.* Rulers with faith possess it as a weapon against foes;* a glorious standard frightful in battle revealed for the sake of all.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "The Ascension of our Lord",
   "oca_saints": [
@@ -106,18 +106,26 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 48,
-      "reference": "25, 13-19",
-      "display": "Acts 25, 13-19"
+      "display": "Acts 25:13-19; Galatians 1:11-19",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 55,
-      "reference": "16, 23-33",
-      "display": "John 16, 23-33"
+      "display": "John 16:23-33; John 10:1-8",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 8,
+      "text": "After seeing the image of Your cross in the heavens, O Lord,* and receiving like Paul the summons that was not from men,* Your apostle among kings entrusted into Your hands the imperial city.* Always save it in peace by the prayers of the Mother of God,* only Lover of mankind.",
+      "source": "iPraises"
+    }
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 6,
+      "text": "When you had fulfilled Your plan for us* and united things on earth with those in heaven,* You ascended in glory, O Christ our God,* in no way distant, but remaining inseparable,* You cried to those who love You:* I am with You and there is none against you.",
+      "source": "iPraises"
+    }
+  ]
 }

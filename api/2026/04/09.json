@@ -46,9 +46,9 @@
     "source": "OCA"
   },
   "kontakion_en": {
-    "tone": 2,
-    "text": "(Podoben: “Seeking the things on high...”)\r\nWith his hands the betrayer receives the Bread. / With his hands he secretly receives the silver, / the price of Him who fashioned man with His hands; / so the servant and deceiver Judas remains depraved.",
-    "source": "OCA"
+    "tone": 8,
+    "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant resurrection to the fallen.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Great and Holy Thursday",
   "oca_saints": [
@@ -112,18 +112,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 6,
-      "reference": "2, 38-43",
-      "display": "Acts 2, 38-43"
+      "display": "Acts 2:38-43",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 8,
-      "reference": "3, 1-15",
-      "display": "John 3, 1-15"
+      "display": "John 3:1-15",
+      "source": "iPraises"
     }
   }
 }

@@ -125,18 +125,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 103,
-      "reference": "10, 1-10",
-      "display": "Romans 10, 1-10"
+      "display": "Romans 10:1-10",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 27,
-      "reference": "8, 28-9, 1",
-      "display": "Matthew 8, 28-9, 1"
+      "display": "Matthew 8:28-9:1",
+      "source": "iPraises"
     }
   }
 }

@@ -128,18 +128,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 93,
-      "reference": "6, 18-23",
-      "display": "Romans 6, 18-23"
+      "display": "Romans 6:18-23; 8:28-39",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 25,
-      "reference": "8, 5-13",
-      "display": "Matthew 8, 5-13"
+      "display": "Matthew 8:5-13; 5:1-16",
+      "source": "iPraises"
     }
   }
 }

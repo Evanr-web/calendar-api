@@ -100,18 +100,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 86,
-      "reference": "4, 4-12",
-      "display": "Romans 4, 4-12"
+      "display": "Romans 4:4-12",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 22,
-      "reference": "7, 15-21",
-      "display": "Matthew 7, 15-21"
+      "display": "Matthew 7:15-21",
+      "source": "iPraises"
     }
   }
 }

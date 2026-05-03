@@ -32,13 +32,13 @@
   },
   "troparion_en": {
     "tone": 1,
-    "text": "Divinely we praise you, O Jude, as a faithful witness, / knowing you to be the brother of Christ. / You trampled on delusion, / and so preserved the faith. / Today as we celebrate your holy memory, / by your intercessions we receive remission of sins.",
-    "source": "OCA"
+    "text": "As we know you to be Christ’s relative* and a steadfast martyr,* O Jude, we praise you with sacred hymns.* You trampled on error and kept the faith.* And so on this day as we feast your memory* through your prayers, O apostle,* we receive release from our sins.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 2,
-    "text": "You were chosen as a disciple for your firmness of mind: / An unshakable pillar of the Church of Christ, / you proclaimed His word to the Gentiles, / telling them to believe in one Godhead. / You were glorified by Him, receiving the grace of healing, / healing the ills of all who came to you, / O most praised Apostle Jude!",
-    "source": "OCA"
+    "text": "O Jude, because of your solid mind* you were shown to be a chosen disciple and firm pillar of the Church of Christ.* You proclaimed to the nations His holy word* teaching them to believe in the one God* from Whom you received glory and the gift of healing* to cure the ills of those who flee to you,* O apostle, worthy of all praise.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Apostle Jude the Brother of the Lord",
   "oca_saints": [
@@ -113,18 +113,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 107,
-      "reference": "11, 25-36",
-      "display": "Romans 11, 25-36"
+      "display": "Jude 1:1-10",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 44,
-      "reference": "12, 1-8",
-      "display": "Matthew 12, 1-8"
+      "display": "John 14:21-24",
+      "source": "iPraises"
     }
   }
 }

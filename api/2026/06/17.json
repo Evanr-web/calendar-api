@@ -38,8 +38,8 @@
   },
   "kontakion_en": {
     "tone": 2,
-    "text": "(Podoben: “You sought the heights...”)\r\nWounded by faith in Christ, you drank faithfully from His cup,  / and overthrew the idolatry and audacity of the Persians. /  O blessèd Martyrs, equal in number to the Trinity,  / intercede for us all.",
-    "source": "OCA"
+    "text": "O blessed martyrs, because of your perfect faith in Christ,* you drank of the cup of sufferings with generous hearts.* You renounced the idols of Persia* and proclaimed your belief in the Holy Trinity.* O trinity of martyrs, intercede for us at all times.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyrs Manuel, Sabel, and Ismael, of Persia",
   "oca_saints": [
@@ -87,18 +87,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 105,
-      "reference": "11, 2-12",
-      "display": "Romans 11, 2-12"
+      "display": "Romans 11:2-12",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 42,
-      "reference": "11, 20-26",
-      "display": "Matthew 11, 20-26"
+      "display": "Matthew 11:20-26",
+      "source": "iPraises"
     }
   }
 }

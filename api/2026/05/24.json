@@ -43,13 +43,13 @@
   },
   "troparion_en": {
     "tone": 8,
-    "text": "You are most glorious, O Christ our God! / You have established the Holy Fathers as lights on the earth! / Through them you have guided us to the true faith! / O greatly Compassionate One, glory to You!",
-    "source": "OCA"
+    "text": "Blessed are You, O Christ our God who revealed the fishermen as most wise* by sending them the Holy Spirit;* through them You caught the entire world.* Loving Master, glory to You.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 8,
-    "text": "The Apostles’ preaching and the Fathers’ doctrines have established one faith for the Church. / Adorned with the robe of truth, woven from heavenly theology, / it defines and glorifies the great mystery of Orthodoxy!",
-    "source": "OCA"
+    "text": "When the Most High came down and confused the tongues,* He parted the nations.* When He divided the tongues of fire,* He called all to unity;* thus with one voice* we glorify the all-Holy Spirit.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Commemoration of the Holy Fathers of the First Ecumenical Council",
   "oca_saints": [
@@ -108,18 +108,29 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 3,
-      "reference": "2, 1-11",
-      "display": "Acts 2, 1-11"
+      "display": "Acts 2:1-11",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 27,
-      "reference": "7, 37-52; 8, 12",
-      "display": "John 7, 37-52; 8, 12"
+      "display": "John 7:37-52; 8:12",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 8,
+      "text": "Blessed are You, O Christ our God who revealed the fishermen as most wise* by sending them the Holy Spirit;* through them You caught the entire world.* Loving Master, glory to You.",
+      "source": "iPraises"
+    },
+    {
+      "tone": 8,
+      "text": "Blessed are You, O Christ our God who revealed the fishermen as most wise* by sending them the Holy Spirit;* through them You caught the entire world.* Loving Master, glory to You.",
+      "source": "iPraises"
+    },
+    {
+      "tone": 8,
+      "text": "Blessed are You, O Christ our God who revealed the fishermen as most wise* by sending them the Holy Spirit;* through them You caught the entire world.* Loving Master, glory to You.",
+      "source": "iPraises"
+    }
+  ]
 }

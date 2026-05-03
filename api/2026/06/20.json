@@ -32,13 +32,13 @@
   },
   "troparion_en": {
     "tone": 1,
-    "text": "Your blood cries out to God from the earth like that of Abel, / divinely-wise holy hierarch, Methodius. / You openly preached the Incarnation of God, / putting the heresy of Origen to shame. / You were translated to the heavenly bridal chamber: / Pray to Christ God that our souls may be saved.",
-    "source": "OCA"
+    "text": "Your blood cries out from the earth like that of Abel, O wise saint,* for you preached the incarnation with fearsome boldness.* You shamed the lies of Origen, O father Methodius,* and now you have been admitted to the court of heaven.* Beg Christ our God to save our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 4,
-    "text": "As a priest of the mysteries of the Holy Trinity, / and a preacher of the commandments of God that surpass understanding, / you were the confirmation of Orthodox Christians, O Methodius! / You denounced the errors of heretics; / for the sake of the True Faith you shed your blood as a hieromartyr. / Now as you stand before Christ with the angels, / pray that we may be saved.",
-    "source": "OCA"
+    "text": "You were a priest and a mystic of the Holy Trinity.* You preached divine decrees which surpass comprehension.* You are strength for the faithful, O Methodius.* You prevailed against evil plots, becoming a martyred priest in your blood for the faith.* As you stand before Christ, pray for our salvation.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Hieromartyr Methodius, Bishop of Patara",
   "oca_saints": [
@@ -134,18 +134,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 92,
-      "reference": "6, 11-17",
-      "display": "Romans 6, 11-17"
+      "display": "Romans 6:11-17",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 26,
-      "reference": "8, 14-23",
-      "display": "Matthew 8, 14-23"
+      "display": "Matthew 8:14-23",
+      "source": "iPraises"
     }
   }
 }

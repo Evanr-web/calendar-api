@@ -34,13 +34,13 @@
   },
   "troparion_en": {
     "tone": 1,
-    "text": "In the flesh you lived the life of the angels, / you were citizens of the desert and treasuries of grace, / O Onuphrius, adornment of Egypt, / and Peter the light of Athos. / Therefore we honor your struggles as we sing to you: / Glory to him who has strengthened you! / Glory to him who granted you a crown! / Glory to him who through you grants healing to all!",
-    "source": "OCA"
+    "text": "You entered the desert, being led by spiritual yearning;* and you fought in it for many years like an angel.* You are the equal of Elijah and the Baptist,* and you were delighted by the Sacred Mysteries ministered by angel hands.* Now that you have gone to them in the Trinity’s light,* pray for us who venerate your memory.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 8,
-    "text": "By your achievements in the wilderness you became like the Bodiless Powers, / godly Onuphrius, and righteous Peter adornment of Athos. / The heavenly-minded pair who sing in one voice: “Alleluia”!",
-    "source": "OCA"
+    "tone": 3,
+    "text": "Illumined by the light of the most Holy Spirit,* you turned your back on the distractions of this life.* Taking up your life in the desert, O venerable father,* you greatly pleased God our Creator.* For this reason, Christ exalts you, O blessed saint.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Venerable Onuphrius the Great",
   "oca_saints": [
@@ -142,18 +142,26 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Євр.",
-      "book_en": "Hebrews",
-      "pericope": 306,
-      "reference": "2:11-18",
-      "display": "Hebrews 2:11-18"
+      "display": "Romans 9:6-19",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Йо.",
-      "book_en": "Йо",
-      "pericope": 9,
-      "reference": "3:13-17",
-      "display": "Йо 3:13-17"
+      "display": "Matthew 10:32-36; 11:1",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 8,
+      "text": "The mountain of Athos rejoices, inviting all the monastic choirs to praise you.* We join with them in singing to you, O venerable Peter,* and we lay our petition before you:* Seek peace for the world and mercy for our souls.",
+      "source": "iPraises"
+    }
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 2,
+      "text": "Leaving the company of mortals,* you took up residence in caves and caverns,* inspired by your love of God and the ardent burning desire of your soul.* You received a crown from God for this.* Now pray unceasingly for all of us to be saved.",
+      "source": "iPraises"
+    }
+  ]
 }

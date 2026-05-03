@@ -32,14 +32,14 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 4,
-    "text": "First-enthroned of the apostles,  / teachers of the universe:  / Entreat the Master of all /  to grant peace to the world,  / and to our souls great mercy!*",
-    "source": "OCA"
+    "tone": 8,
+    "text": "O saints, your message has spread throughout the world* for receiving the Spirit in tongues of fire you torched the idols’ deceit.* With the net of your words you caught those who were lost and brought them to faith.* Therefore the heavens declare your glory* and the firmament which God created adds its voice* and we with them cry out feasting your memory.* Save us all, O God, by the prayer of your twelve apostles.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 2,
-    "text": "(Podoben: “Seeking the highest...”)\r\nToday Christ the Rock glorifies with highest honor / Peter, the rock of faith and leader of the apostles, / together with Paul and the company of the twelve, / whose memory we celebrate with eagerness of faith, / giving glory to the One Who gave glory to them.",
-    "source": "OCA"
+    "text": "Christ the Rock today valiantly glorifies the rock of faith,* the most splendid of the disciples, along with Paul and the council of the twelve.* As we celebrate their memory with faith we glorify the One who glorified them.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Synaxis of the Holy, Glorious and All-Praised Twelve Apostles",
   "oca_saints": [
@@ -76,18 +76,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "1 Кор.",
-      "book_en": "1 Corinthians",
-      "pericope": 122,
-      "reference": "1, 1-9",
-      "display": "1 Corinthians 1, 1-9"
+      "display": "1 Corinthians 4:9-16",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 52,
-      "reference": "13, 24-30",
-      "display": "Matthew 13, 24-30"
+      "display": "Mark 3:13-19",
+      "source": "iPraises"
     }
   }
 }

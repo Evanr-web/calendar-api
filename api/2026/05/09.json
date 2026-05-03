@@ -43,13 +43,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "(Podoben: “Go quickly before...”)\r\nAdorned with garments woven from the blood of your martyrdom,  / you stand before the Lord, the King of Heaven, O revered Christopher;  / therefore, with the choirs of Angels and Martyrs,  / you sing the Thrice-Holy Hymn with the sweetest melodies; /  by your intercessions, save your servants.",
-    "source": "OCA"
+    "text": "When the disciples of the Lord learned from the angel* the glorious news of the resurrection* and cast off the ancestral condemnation,* they proudly told the apostles:* “Death has been plundered!* Christ our God is risen,* granting to the world great mercy.”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 4,
-    "text": "You were terrifying both in might and countenance:  / and willingly suffered temptation from your persecutors; /  those men and women who sought to arouse the fire of lust in you,  / but they followed you to martyrdom.  / Therefore, you are our strong protector, O Great Martyr Christopher.",
-    "source": "OCA"
+    "tone": 3,
+    "text": "Like a star your relics have moved from east to west,* and the sea is hallowed by your passage;* holy bishop Nicholas, the city of Bari receives grace through you,* for you are revealed as one who works wonders:* illustrious, awesome, and merciful.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyr Christopher of Lycia, and, with him, the Martyrs Callinika and Aquilina",
   "oca_saints": [
@@ -105,18 +105,36 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 29,
-      "reference": "12, 1-11",
-      "display": "Acts 12, 1-11"
+      "display": "Acts 15:35-41; Hebrews 13:17-21",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 31,
-      "reference": "8, 31-42",
-      "display": "John 8, 31-42"
+      "display": "John 10:27-38; Luke 6:17-23",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 8,
+      "text": "At the mid-point of the Feast, O Saviour,* water my thirsty soul with streams of true godliness;* for You cried out to all: Let any who thirst, come to Me and drink.* O Source of Life, Christ our God, glory to You!",
+      "source": "iPraises"
+    },
+    {
+      "tone": 4,
+      "text": "The day of radiant feasting is here,* the city of Bari rejoices, and the world exults with hymns and spiritual songs.* For today is the sacred feast* of the transfer of the precious and healing relics of the bishop and wonder-worker Nicholas.* Like a never-setting sun* he shines with radiant beams of light* dispelling the gloom of temptations and grief* from those who cry with faith:* Save us, great Nicholas, for you intercede for us.",
+      "source": "iPraises"
+    }
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 8,
+      "text": "Drawn to the well by faith,* the Samaritan woman beheld You, the Water of Wisdom,* and drinking abundantly of You,* she inherited the heavenly Kingdom for ever,* becoming everlastingly glorious.",
+      "source": "iPraises"
+    },
+    {
+      "tone": 4,
+      "text": "At the mid-point of the Feast according to the Law,* Maker of all things and Master,* You said to those present, O Christ God:* Come, and draw the water of immortality.* And so we fall before You crying out with faith: Grant us Your mercies , for You are the source of our life.",
+      "source": "iPraises"
+    }
+  ]
 }

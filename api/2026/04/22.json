@@ -41,13 +41,13 @@
   },
   "troparion_en": {
     "tone": 2,
-    "text": "You were sanctified from your earliest childhood  /  and were shown to be filled with grace.  / You illumined the world with miracles  / and drove away a multitude of demons, O Holy Hierarch Theodore.  /  Therefore, entreat the Lord on our behalf.",
-    "source": "OCA"
+    "text": "When You went down to death, O Life Immortal,* You struck Hades dead with the blazing light of Your divinity.* When You raised the dead from the nether world,* all the powers of heaven cried out:* “O Giver of Life, Christ our God, glory be to You!”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 3,
-    "text": "(Podoben “Today the Virgin...”)\r\nAs upon a fiery chariot, you ascended on the virtues to the heavenly mansions, O God-bearer Theodore.  /  You were an Angel living on earth with men;  / and a man dancing with joy with the holy Angels. / Therefore,  O Theodore, /  you proved to be a divine vessel of miracles.",
-    "source": "OCA"
+    "tone": 2,
+    "text": "You commanded the myrrh-bearers to rejoice, O Christ God,* and ended the grief of our mother Eve by Your Resurrection.* You ordered the apostles to proclaim to all:* “The Saviour is risen from the tomb.”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Saint Theodore the Sykeote, Bishop of Anastasiopolis",
   "oca_saints": [
@@ -113,18 +113,26 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 19,
-      "reference": "8, 18-25",
-      "display": "Acts 8, 18-25"
+      "display": "Acts 8:18-25",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 21,
-      "reference": "6, 35-39",
-      "display": "John 6, 35-39"
+      "display": "John 6:35-39",
+      "source": "iPraises"
     }
-  }
+  },
+  "troparia_additional": [
+    {
+      "tone": 2,
+      "text": "The noble Joseph took down Your most pure body from the tree.* He wrapped it with a clean shroud and aromatic spices* and placed it in a new tomb.* But on the third day You arose, O Lord,* granting the world Your great mercy.",
+      "source": "iPraises"
+    }
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 8,
+      "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant Resurrection to the fallen.",
+      "source": "iPraises"
+    }
+  ]
 }

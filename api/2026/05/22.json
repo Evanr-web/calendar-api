@@ -42,13 +42,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Your holy martyr Basiliscus, O Lord, / through his suffering has received an incorruptible crown from You, our God. / For having Your strength, he laid low his adversaries, / and shattered the powerless boldness of demons. / Through his intercessions, save our souls!",
-    "source": "OCA"
+    "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 8,
-    "text": "You were shown to be strong and courageous in suffering; / you were revealed to be a wonder-worker in miracles! / You openly bore the name of Christ, putting the tyrant to shame! / Therefore we honor you, most honored Basiliscus, / ever crying: “Rejoice, splendid adornment of the martyrs!”",
-    "source": "OCA"
+    "tone": 6,
+    "text": "When you had fulfilled Your plan for us* and united things on earth with those in heaven,* You ascended in glory, O Christ our God,* in no way distant, but remaining inseparable,* You cried to those who love You:* I am with You and there is none against you.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Martyr Basiliscus, Bishop of Comana",
   "oca_saints": [
@@ -99,18 +99,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 50,
-      "reference": "27, 1-44",
-      "display": "Acts 27, 1-44"
+      "display": "Acts 27:1-44",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 57,
-      "reference": "17, 18-26",
-      "display": "John 17, 18-26"
+      "display": "John 17:18-26",
+      "source": "iPraises"
     }
   }
 }

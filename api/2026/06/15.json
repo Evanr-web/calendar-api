@@ -33,9 +33,9 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 8,
-    "text": "By a flood of tears you made the desert fertile, / and your longing for God brought forth fruits in abundance. / By the radiance of miracles you illumined the whole universe! / O our holy father Jerome, pray to Christ our God to save our souls!",
-    "source": "OCA"
+    "tone": 2,
+    "text": "As we celebrate the memory of Your prophet, Amos,* O Lord, we beseech You through him: “Save our souls!”",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Saint Jerome (Hieronymus) of Stridon",
   "oca_saints": [
@@ -175,18 +175,17 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 102,
-      "reference": "9, 18-33",
-      "display": "Romans 9, 18-33"
+      "display": "Romans 9:18-33",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 40,
-      "reference": "11, 2-15",
-      "display": "Matthew 11, 2-15"
+      "display": "Matthew 11:2-15",
+      "source": "iPraises"
     }
+  },
+  "kontakion_en": {
+    "tone": 4,
+    "text": "Enlightened by the spirit* your pure heart, having seen the distant in the present* became a vessel of brilliant prophecy;* and so we honour you, O blessed and glorious prophet, Amos.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   }
 }

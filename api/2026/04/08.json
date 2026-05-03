@@ -46,9 +46,9 @@
     "source": "OCA"
   },
   "kontakion_en": {
-    "tone": 4,
-    "text": "Though I have transgressed more than the harlot, O Good One,  / I have not offered You a flood of tears, but in silence I fall down before You.  / With love I embrace Your most Pure feet.  / As Master, grant me remission of sins, when I cry to You, O Savior:  / “Deliver me from the filth of my evil deeds.”",
-    "source": "OCA"
+    "tone": 8,
+    "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant resurrection to the fallen.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Great and Holy Wednesday",
   "oca_saints": [
@@ -120,18 +120,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 5,
-      "reference": "2, 22-36",
-      "display": "Acts 2, 22-36"
+      "display": "Acts 2:22-36",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 4,
-      "reference": "1, 35-51",
-      "display": "John 1, 35-51"
+      "display": "John 1:35-51",
+      "source": "iPraises"
     }
   }
 }

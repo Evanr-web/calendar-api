@@ -47,8 +47,8 @@
   },
   "kontakion_en": {
     "tone": 8,
-    "text": "Come, let us all sing the praises of Him who was crucified for us, / for Mary said when she beheld Him upon the tree: / Though You endure the cross, You are my Son and my God!",
-    "source": "OCA"
+    "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant resurrection to the fallen.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Great and Holy Friday",
   "oca_saints": [
@@ -104,18 +104,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 7,
-      "reference": "3, 1-8",
-      "display": "Acts 3, 1-8"
+      "display": "Acts 3:1-8",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 7,
-      "reference": "2, 12-22",
-      "display": "John 2, 12-22"
+      "display": "John 2:12-22",
+      "source": "iPraises"
     }
   }
 }

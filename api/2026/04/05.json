@@ -46,9 +46,9 @@
     "source": "OCA"
   },
   "kontakion_en": {
-    "tone": 6,
-    "text": "Sitting on Your throne in heaven, / carried on a foal on earth, O Christ God! / Accept the praise of angels and the songs of children who sing: / Blessed is He that comes to recall Adam!",
-    "source": "OCA"
+    "tone": 8,
+    "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant resurrection to the fallen.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Entry of Our Lord into Jerusalem (Palm Sunday)",
   "oca_saints": [
@@ -171,18 +171,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 1,
-      "reference": "1-8",
-      "display": "Acts 1-8"
+      "display": "Acts 1:1-8",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 115,
-      "reference": "28, 1-20",
-      "display": "Matthew 28, 1-20"
+      "display": "John 1:1-17",
+      "source": "iPraises"
     }
   }
 }

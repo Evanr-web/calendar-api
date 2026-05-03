@@ -41,13 +41,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "Your holy martyr Patrick and his companions,  O Lord, / through their sufferings have received incorruptible crowns from You, our God. / For having Your strength, they laid low their adversaries, / and shattered the powerless boldness of demons. / Through their intercessions, save our souls!",
-    "source": "OCA"
+    "text": "You ascended in glory, O Christ our God,* giving joy to Your disciples by the promise of the Holy Spirit,* and assuring them through your blessing* that You are the Son of God,* the Redeemer of the world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 4,
-    "text": "(Podoben: “Today You have shown forth...”)\r\nYou were arrayed in the beauty of the priesthood, O Patrick, / and adorned with the blood of martyrdom. / As you stand before Christ with those who suffered with you, / remember us, / for you are an honored passion-bearer.",
-    "source": "OCA"
+    "tone": 6,
+    "text": "When you had fulfilled Your plan for us* and united things on earth with those in heaven,* You ascended in glory, O Christ our God,* in no way distant, but remaining inseparable,* You cried to those who love You:* I am with You and there is none against you.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Hieromartyr Patrick, Bishop of Prusa, and his companions",
   "oca_saints": [
@@ -155,18 +155,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 46,
-      "reference": "21, 26-32",
-      "display": "Acts 21, 26-32"
+      "display": "Acts 21:26-32",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Йо",
-      "book_en": "Йо",
-      "pericope": 53,
-      "reference": "16, 2-13",
-      "display": "Йо 16, 2-13"
+      "display": "John 16:2-13",
+      "source": "iPraises"
     }
   }
 }

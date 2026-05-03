@@ -33,13 +33,13 @@
   },
   "troparion_en": {
     "tone": 4,
-    "text": "O foremost of the Apostles and teachers of the inhabited earth, /  intercede with the Master of all /  to grant peace to the world and great mercy to our souls.",
-    "source": "OCA"
+    "text": "As the leaders of the apostles* and teachers of the whole world,* intercede with the Master of all* to grant peace to the world* and to our souls great mercy.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
     "tone": 2,
-    "text": "Today Christ the Rock1 glorifies the rock of Faith  / and leader of the Apostles with highest honor.  / Together with Paul and the company of the Twelve,  / whose memory we celebrate with eagerness of faith, /  giving glory to Him Who glorified them.",
-    "source": "OCA"
+    "text": "You received Your inspired and steadfast preachers, Your chief disciples,* into the enjoyment of Your good things and into repose.* You, Who alone know the heart, accept their labours and death* more gladly than any holocaust.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "The Holy Glorious and All-Praised Leaders of the Apostles, Peter and Paul",
   "oca_saints": [
@@ -90,18 +90,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "2 Кор.",
-      "book_en": "2 Corinthians",
-      "pericope": 193,
-      "reference": "11, 21-12, 9",
-      "display": "2 Corinthians 11, 21-12, 9"
+      "display": "2 Corinthians 11:21-12:9",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 67,
-      "reference": "16, 13-19",
-      "display": "Matthew 16, 13-19"
+      "display": "Matthew 16:13-19",
+      "source": "iPraises"
     }
   }
 }

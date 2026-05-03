@@ -32,14 +32,14 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 8,
-    "text": "Blessed are You O Christ Our God / You have revealed the fishermen as most wise / by sending down upon them the Holy Spirit / through them You drew the world into Your net / O Lover of Man, Glory to You!",
-    "source": "OCA"
+    "tone": 1,
+    "text": "Be swayed by the pains that the saints have suffered for You, O Lord,* and heal all our pains,* O Lover of mankind, for this we pray.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 8,
-    "text": "When the most High came down and confused the tongues, / He divided the nations; / but when he distributed the tongues of fire / He called all to unity. / Therefore, with one voice, we glorify the All-holy Spirit!",
-    "source": "OCA"
+    "tone": 2,
+    "text": "Appearing as radiant lights, O godly martyrs,* you illumine all creation with the brilliance of your miracles,* healing infirmities, always dispelling deep darkness* and praying unceasingly to Christ our God for all of us.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Postfeast of Pentecost — Day of the Holy Spirit",
   "oca_saints": [
@@ -95,18 +95,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 83,
-      "reference": "2, 28-3, 18",
-      "display": "Romans 2, 28-3, 18"
+      "display": "Romans 2:28-3:18",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 19,
-      "reference": "6, 31-34; 7, 9-11",
-      "display": "Matthew 6, 31-34; 7, 9-11"
+      "display": "Matthew 6:31-34; 7:9-11",
+      "source": "iPraises"
     }
   }
 }

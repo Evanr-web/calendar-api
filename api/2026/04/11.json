@@ -46,9 +46,9 @@
     "source": "OCA"
   },
   "kontakion_en": {
-    "tone": 6,
-    "text": "He who shut in the depths is beheld dead, / wrapped in fine linen and spices. / The Immortal One is laid in a tomb as a mortal man. / The women have come to anoint Him with myrrh, / weeping bitterly and crying: / “This is the most blessed Sabbath / on which Christ has fallen asleep to rise on the third day!”",
-    "source": "OCA"
+    "tone": 8,
+    "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant resurrection to the fallen.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Great and Holy Saturday",
   "oca_saints": [
@@ -125,18 +125,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Ді.",
-      "book_en": "Acts",
-      "pericope": 8,
-      "reference": "3, 11-16",
-      "display": "Acts 3, 11-16"
+      "display": "Acts 3:11-16",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Ів.",
-      "book_en": "John",
-      "pericope": 11,
-      "reference": "3, 22-33",
-      "display": "John 3, 22-33"
+      "display": "John 3:22-33",
+      "source": "iPraises"
     }
   }
 }

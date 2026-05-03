@@ -32,14 +32,14 @@
     "compline": false
   },
   "troparion_en": {
-    "tone": 4,
-    "text": "Truly enlisted with the King of Heaven, / you became an outstanding general for Him, passion-bearer Theodore; / you armed yourself wisely with the weapons of faith / and  conquered hordes of demons, revealing yourself as a victorious athlete. / Therefore, in faith we always call you blessed.",
-    "source": "OCA"
+    "tone": 2,
+    "text": "Great are the achievements of faith!* In the fountain of flames, the holy martyr Theodore rejoiced as by the water of rest* for having been baked as a whole-burnt offering* he was brought to the Trinity as a sweet bread.* By his prayers, O Christ God, save our souls.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 2,
-    "text": "(Podoben: “Seeking the highest...”)\r\nWith the word of God as a spear in your hand, / in courage of soul and armed with faith, / you vanquished the enemy, O Theodore, glory of martyrs; / with them you unceasingly pray to Christ God for us all.",
-    "source": "OCA"
+    "tone": 8,
+    "text": "You accepted the faith of Christ in your heart as a breastplate* and trampled the enemy’s power, O long-suffering martyr Theodore.* You were crowned for all eternity with a wreath from heaven* as the invincible one.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Translation of the relics of the Greatmartyr Theodore Stratelates",
   "oca_saints": [
@@ -103,18 +103,12 @@
   ],
   "readings": {
     "epistle": {
-      "book_uk": "Рим.",
-      "book_en": "Romans",
-      "pericope": 94,
-      "reference": "7, 1-13",
-      "display": "Romans 7, 1-13"
+      "display": "Romans 7:1-13",
+      "source": "iPraises"
     },
     "gospel": {
-      "book_uk": "Мт.",
-      "book_en": "Matthew",
-      "pericope": 34,
-      "reference": "9, 36-10, 8",
-      "display": "Matthew 9, 36-10, 8"
+      "display": "Matthew 9:36-10:8",
+      "source": "iPraises"
     }
   }
 }

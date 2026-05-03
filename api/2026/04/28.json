@@ -43,13 +43,13 @@
   },
   "troparion_en": {
     "tone": 3,
-    "text": "O holy Apostles Jason and Sosipater, / pray to the merciful God, / that He may grant to our souls / remission of our transgressions.",
-    "source": "OCA"
+    "text": "Let the heavens be glad, let the earth rejoice,* for the Lord has done a mighty deed with His arm.* He trampled death by death. He became the first-born of the dead;* He saved us from the abyss of Hades* and granted great mercy to the world.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "kontakion_en": {
-    "tone": 2,
-    "text": "O Jason, source of healing, / and Sosipater, glory of the martyrs of Christ: / You were enlightened by the preaching of Paul, / both becoming a great consolation to the world through your miracles. / Thrice-holy and God-bearing Apostles and defenders of those who suffer, / intercede with Christ God that He may save our souls.",
-    "source": "OCA"
+    "tone": 3,
+    "text": "Lord, as of old You raised the Paralytic,* lift my soul by Your divine presence,* for by many sins and foolish actions,* I, too, am now afflicted and crippled.* Raise me, that being saved I may cry to You:* Glory to Your power, O merciful Christ.",
+    "source": "iPraises (1988 Synod / 2004 Sheptytsky Institute)"
   },
   "matched_oca_saint": "Apostles Jason and Sosipater of the Seventy, the Virgin Kerkyra, and those with them",
   "oca_saints": [
@@ -80,5 +80,22 @@
       },
       "kontakion": null
     }
-  ]
+  ],
+  "kontakia_additional": [
+    {
+      "tone": 8,
+      "text": "Though You descended into a tomb, O Immortal One,* yet You destroyed the power of Hades;* and You rose as victor, O Christ God,* calling to the myrrh-bearing women: Rejoice!* and giving peace to Your Apostles:* You, who grant Resurrection to the fallen.",
+      "source": "iPraises"
+    }
+  ],
+  "readings": {
+    "epistle": {
+      "display": "Acts 10:21-33",
+      "source": "iPraises"
+    },
+    "gospel": {
+      "display": "John 7:1-13",
+      "source": "iPraises"
+    }
+  }
 }
